@@ -1,6 +1,6 @@
 ## Summary
 
-Create famous chess players’ games in PGN format on Chessgames.com.
+Create famous chess players’ games in PGN format.
 
 ## Usage
 
