@@ -1,0 +1,17 @@
+[Event "Consultation simul, 13b"]
+[Site "Moscow RUE"]
+[Date "1899.02.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Blumenfeld / Boyarkow / Falk"]
+[Black "Emanuel Lasker"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4+ 5.Bd2 dxe3 6.Qa4+ Nc6
+7.Bxb4 Qh4 8.Ne2 Qxf2+ 9.Kd1 Bg4 10.Nbc3 O-O-O+ 11.Bd6 cxd6
+12.e6 fxe6 13.Kc1 Nf6 14.b4 d5 15.b5 Ne5 16.cxd5 Nxd5 17.Qc2
+Nb4 18.Nd1+ Nxc2 19.Nxf2 Rd2 0-1

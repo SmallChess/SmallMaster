@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2015.03.12"]
+[EventDate "2015.03.10"]
+[Round "4.59"]
+[Result "0-1"]
+[White "Flemming Borg"]
+[Black "Hans M Niemann"]
+[ECO "B22"]
+[WhiteElo "1828"]
+[BlackElo "2275"]
+[PlyCount "42"]
+
+1. e4 c5 2. c3 Nf6 3. d3 d6 4. g3 Nc6 5. f4 c4 6. Bg2 Bg4
+7. Qa4 cxd3 8. e5 Nd7 9. h3 Nc5 10. Qa3 Bf5 11. Be3 d2+
+12. Nxd2 Nd3+ 13. Kf1 dxe5 14. fxe5 Ndxe5 15. Ne2 Bd3 16. Kf2
+e6 17. Qa4 Bxe2 18. Kxe2 Qd3+ 19. Kf2 Bc5 20. Nc4 Qxc4
+21. Qxc4 Bxe3+ 0-1

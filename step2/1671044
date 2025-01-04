@@ -1,0 +1,20 @@
+[Event "Handicap match"]
+[Site "New York, NY USA"]
+[Date "1910.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "George J Beihoff"]
+[Black "Jose Raul Capablanca"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 c5 2. Qh5+ g6 3. Qxc5 Nc6 4. c3 Nf6 5. Qc4 d5 6. exd5
+Nxd5 7. d4 Bg7 8. Nf3 O-O 9. Be2 Be6 10. Ng5 Bf5 11. Bf3 e6
+12. g4 Nxd4 13. gxf5 Rxf5 14. cxd4 Rc8 15. Bxd5 exd5 16. Qxc8
+Qxc8 17. Be3 Bxd4 18. Nc3 Bxc3+ 19. bxc3 Qxc3+ 20. Ke2 d4
+21. Rhc1 Qb2+ 22. Bd2 Rxg5 23. Rab1 d3+ 24. Ke3 Re5+ 0-1

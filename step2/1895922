@@ -1,0 +1,18 @@
+[Event "TCh-ROU Superliga"]
+[Site "Baile Govora ROU"]
+[Date "2017.11.12"]
+[EventDate "2017.11.11"]
+[Round "2.5"]
+[Result "1-0"]
+[White "Wang Hao"]
+[Black "Pavel Vavric"]
+[ECO "B12"]
+[WhiteElo "2706"]
+[BlackElo "2364"]
+[PlyCount "43"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6
+7. Bg5 Qb6 8. Nd2 c5 9. c4 Qxb2 10. Rd1 Qxd4 11. Qb3 Qxe5+
+12. Ne2 Qc7 13. cxd5 exd5 14. Nf4 d4 15. O-O Be7 16. Nd5 Qd7
+17. Bf4 Na6 18. Nc4 Rh6 19. Ne5 Qe6 20. Qb5+ Kd8 21. Qxb7 Rc8
+22. Rfe1 1-0

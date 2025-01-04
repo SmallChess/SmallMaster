@@ -1,0 +1,21 @@
+[Event "Radom sim"]
+[Site "Radom"]
+[Date "2000.05.21"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Arkadiusz Paterek"]
+[ECO "A44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 c5 2.d5 e5 3.e4 d6 4.Nc3 g6 5.h4 h5 6.Nh3 Nh6 7.Ng5 a6
+8.a4 b6 9.Bc4 Bg7 10.Qe2 Nd7 11.Bd2 Qe7 12.f3 Nf6 13.Nd1 O-O
+14.Nf2 Nh7 15.g4 hxg4 16.fxg4 f5 17.Nxh7 Kxh7 18.g5 Nf7 19.h5
+Rh8 20.exf5 Bxf5 21.Ne4 gxh5 22.Rxh5+ Kg6 23.Ng3 e4 24.Nxf5
+Kxf5 25.g6+ Ng5 26.O-O-O Bf6 27.Rg1 Kxg6 28.Rhxg5+ Bxg5
+29.Bxg5 Qxg5+ 30.Rxg5+ Kxg5 31.Qxe4 Rae8 32.Qg2+ Kf4 33.Qf2+
+Kg4 34.Be2+ Kh3 35.Bxa6 Rhf8 36.Qg1 Re5 37.b3 Rfe8 38.Kb2 Kh4
+39.Qg6 1-0

@@ -1,0 +1,17 @@
+[Event "Atlantic Ocean cons"]
+[Site "Atlantic Ocean"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Efim Bogoljubov"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bc4 Nf6 5.d3 Bc5 6.Nc3 d6 7.Be3
+Be6 8.Bxe6 fxe6 9.Bxc5 dxc5 10.b3 O-O 11.Na4 Qd6 12.Nb2 b5
+13.a4 Nd4 14.axb5 axb5 15.Rxa8 Rxa8 16.O-O Ra2 17.Qb1 Nxf3+
+18.gxf3 Qa6 19.Na4 Ra3 20.Nxc5 Qc6 21.b4 Nh5 22.Qb2 1-0

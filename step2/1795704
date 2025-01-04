@@ -1,0 +1,19 @@
+[Event "Simul, 12b"]
+[Site "Stone Theatre, New York, NY USA"]
+[Date "1921.01.18"]
+[EventDate "1921.01.18"]
+[Round "?"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Alexander Simchow"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 d5 2.Nf3 e6 3.e3 Nf6 4.c4 c5 5.Nc3 Nc6 6.g3 Be7 7.cxd5
+exd5 8. Bg2 O-O 9.O-O Be6 10.b3 Qd7 11.Bb2 Rad8 12.Rc1 Bg4
+13.Qd3 Nb4 14.Qd2 Bxf3 15.Bxf3 Qf5 16.Be2 Qh3 17.f4 h5 18.Bf3
+cxd4 19.exd4 Rfe8 20.Nd1 Ne4 21.Bxe4 dxe4 22.Nf2 Qf5 23.Rfe1
+Nxa2 24.Rxe4 Nxc1 25.Qxc1 Bf6 26. Qe3 Rxe4 27.Nxe4 Kh8 28.Nxf6
+Qb1+ 29.Qc1 Qxc1+ 30.Bxc1 Rxd4 0-1

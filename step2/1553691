@@ -1,0 +1,19 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Peter J Hayes"]
+[ECO "A80"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 f5 2.Bg5 g6 3.Nd2 Bg7 4.e4 fxe4 5.Nxe4 Nf6 6.Nxf6+ exf6
+7.Be3 O-O 8.h4 h6 9.Qd2 Kh7 10.Bd3 f5 11.Nf3 Nc6 12.O-O-O d5
+13.c3 Be6 14.h5 g5 15.Rde1 Bg8 16.g4 Ne7 17.Nxg5+ hxg5 18.Bxg5
+Bf6 19.Bxf6 Rxf6 20.g5 Re6 21.Rxe6 Bxe6 22.g6+ Kg7 23.Re1 Qd6
+24.Qe3 Kf6 25.f4 Ng8 26.c4 c6 27.c5 Qd7 28.Qe5+ Ke7 29.Qg7+
+Kd8 30.Qf8+ Kc7 31.Qxa8 1-0

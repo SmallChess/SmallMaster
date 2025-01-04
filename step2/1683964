@@ -1,0 +1,17 @@
+[Event "Simul, 33b"]
+[Site "Brooklyn CC, New York, NY USA"]
+[Date "1924.03.07"]
+[EventDate "1924"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jose Raul Capablanca"]
+[Black "Meyer Schleifer"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 Nf6 5.Nf3 Qh5 6.e5 d5
+7.Bb5+ c6 8.exf6 cxb5 9.Qe2+ Kd8 10.Qxb5 b6 11.Kf2 Bc5+ 12.d4
+Ba6 13.Qa4 b5 14.Qb3 Bxd4+ 15.Nxd4 Qh4+ 16.Kf3 Qh5+ 17.g4 Qh3+
+18.Kf2 Qh4+ 1/2-1/2

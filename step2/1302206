@@ -1,0 +1,17 @@
+[Event "Frankfurt west sim"]
+[Site "Frankfurt"]
+[Date "1996.06.29"]
+[EventDate "1996.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Schiffler"]
+[Black "Vladimir Kramnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "2775"]
+[PlyCount "32"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 Nf6 5. Bc4 O-O 6. Bb3 Bg4
+7. Be3 Nc6 8. O-O e5 9. d5 Nd4 10. Bxd4 exd4 11. Qxd4 Bxf3
+12. gxf3 Nh5 13. Qb4 Qg5+ 14. Kh1 Qf4 15. Rad1 Qxf3+ 16. Kg1
+Nf4 0-1

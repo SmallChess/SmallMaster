@@ -1,0 +1,18 @@
+[Event "Glasgow Simul"]
+[Site "?"]
+[Date "1987.??.??"]
+[EventDate "1987.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Boris Spassky"]
+[Black "Paul Motwani"]
+[ECO "C31"]
+[WhiteElo "2548"]
+[BlackElo "2499"]
+[PlyCount "44"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Qe2 cxd5 5. fxe5 Nc6 6. Nf3
+Bc5 7. c3 d4 8. d3 Nge7 9. Nbd2 O-O 10. Nb3 Bb6 11. Bd2 Re8
+12. O-O-O dxc3 13. bxc3 a5 14. d4 a4 15. Na1 Be6 16. Bg5 h6
+17. Bxe7 Nxe7 18. Qb2 a3 19. Qc2 Nd5 20. Bb5 Nxc3 21. Bxe8 Rc8
+22. Kd2 Ba5 0-1

@@ -1,0 +1,41 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.12"]
+[EventDate "1895.08.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "David Janowski"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 {Notes by R. Teichmann} d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7
+5.Nf3 O-O 6.e3 b6 7.Rc1 Bb7 8.cxd5 exd5 9.Bd3 c5 10.O-O Nbd7
+11.dxc5 Nxc5 {Instead of this move, which leaves the d-pawn
+isolated, I prefer ...bxc5. The two pawns can in this
+variation be sufficiently supported, and will form the basis
+of a counter-attack on the Queen's side.} 12.Bb1 Rc8 13.Bf5
+Ne6 14.Bh4 Kh8 {This is certainly a weakening move, but the
+position is very delicate and Black is at a loss what to do.}
+15.Ne5 Qe8 16.Qf3 { Threatening Qh3 followed by Nxf7.} Ng8
+17.Bg3 Nh6 18.Bb1 f6 19.Nd3 Qd7 20.Qd1 Rfd8 21.Nf4 Nxf4 {This
+exchange is ill-judged and causes serious trouble. It would
+have been better to retire the knight to f8, where it would
+support h7, and then to try a counter-attack on the Queen's
+side, where his Rooks are in commanding positions.} 22.Bxf4 g5
+{And this premature advance compromises his King's side
+irretrievably. An attack on the King's side is, on the face of
+it, without prospect.} 23.Bg3 Bf8 24.Qd3 f5 {Creating another
+weakness. One of these two weak Pawns (d5 and f5) must fall in
+a few moves.} 25.Ne2 Bg7 26.Nd4 Rf8 27.Rxc8 Qxc8 28.Qd2 {Very
+subtle. The Queen is excellently posted here, and the Rook can
+now take possession of the important c-file.} Rf7 29.Rc1 Qe8
+30.h4 gxh4 31.Bxh4 Bc8 32.Bg3 Ng4 33.Nb5 {This powerful move
+leaves Black defenseless. The whole game was very well played
+by Mr. Lasker, and it is a good specimen of this variation of
+the Queen's Gambit, in which White maintains an advantage
+throughout by combining a direct attack on the King with a
+continuous pressure on the weak isolated d-pawn.} Rf8 34.Nd6
+Qe6 35.Rxc8 Rxc8 36.Bxf5 { and Black resigned.} 1-0

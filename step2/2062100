@@ -1,0 +1,24 @@
+[Event "B.C.A. Handicap t"]
+[Site "London ENG"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "3.1"]
+[Result "0-1"]
+[White "Valentine Green"]
+[Black "Adolf Anderssen"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'The Chess Congress of 1862', p.264"]
+[PlyCount "106"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 a6 7. Nd6+ Bxd6 8.
+Qxd6 Qa5 9. Bd3 Qh5 10. Be3 Ng4 11. Be2 Qg6 12. Bc5 Nge5 13. O-O-O b5 14. f4 Nf7
+15. Qd3 Qf6 16. Rhf1 Rb8 17. e5 Qh6 18. Kb1 d5 19. exd6 Bd7 20. Rf3 e5 21. f5
+O-O 22. Ne4 Ng5 23. Nxg5 Qxg5 24. Rdf1 Kh8 25. g3 e4 26. Qxe4 Rbe8 27. Qd3 Ne5
+28. Be3 Qd8 29. Qc3 Nxf3 30. Bxf3 b4 31. Qd4 Rxf5 32. b3 Qa5 33. Bf4 Rf6 34. a4
+bxa3 35. Ka2 Qf5 36. Qd3 Qxd3 37. cxd3 Bb5 38. h4 h6 39. Rd1 g5 40. hxg5 hxg5
+41. Bh5 gxf4 42. Bxe8 Bxe8 43. gxf4 Rxd6 44. d4 Kg7 45. Kxa3 Bf7 46. b4 Rb6 47.
+d5 Rd6 48. Ka4 Kf6 49. Ka5 Be8 50. Rd2 Bb5 51. Rd1 Kf5 52. Rc1 Kxf4 53. Re1 Rxd5 {(...)} 0-1

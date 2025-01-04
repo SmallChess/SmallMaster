@@ -1,0 +1,112 @@
+[Event "Montilla-Moriles"]
+[Site "Montilla-Moriles"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Anthony Miles"]
+[Black "Boris Spassky"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 {Notes by Raymond Keene, with excerpts from Jan Timman,
+and Tony Miles. *** It was Boris Spassky who was partly
+responsible for the generally awakened interest in chess after
+1972. This, of course, was a consequence of his sensational
+world title fight with Fischer. Six years later, the ex-world
+champion was to lose a brilliant game to one of the young men
+who had been inspired by the contest in Reykjavik. This great
+game was played at Montilla, the so-called 'Wine Tournament'
+(Torneo del Vino), August 15-24, 1978. In spite of his setback
+here, Spassky still won first prize with 6 1/2 out of 9, ahead
+of Miles, Gligoric and Hort on 6. At his best, Miles' style
+exhibited a broad penchant for attack. A tip-top Miles game
+always seemed to show him having unlimited reserves ready to
+throw into the offensive, however many exchanges had taken
+place beforehand. The following beautiful game against a
+former world champion is, in my opinion, his best. It
+demonstrates clearly not only Miles' quality of imagination
+but also the relentless formation of Tsunami, or attacking
+waves, which so magically appeared in his best games. } Nf6
+2.Nf3 b6 3.c4 e6 4.Bf4 {"My latest anti-Nimzo-Indian
+variation. It has the merit of being completely untried at
+master level (consequently unanalysed) and having played it
+all of three times, I am now undoubtedly the world's leading
+authority on it. Indeed, after one or two more it will
+probably be named after me!" -- Tony Miles. "Miles had a
+patent on this system against the Queen's Indian." -- Timman}
+Bb7 5.e3 Be7 {"According to Chess Encyclopaedia 5...Ne4 is
+good for Black. I, of course, disagree as, it seems, do my
+opponents." -- Miles. "Spassky goes for a passive set-up,
+allowing White to get a clear opening advantage." -- Timman }
+6.h3 {"6 Nc3 Nh5! gives Black less trouble, otherwise Black
+might get the bishop pair." -- Timman} O-O 7.Nc3 d5 8.cxd5
+exd5 {"8...Nxd5 9 Nxd5 Bxd5 10 Bd3 is slightly better for
+White, as in Browne-Miles, Amsterdam 1978. It was probably
+better to swap a couple of knights, but even then Black would
+feel the pressure." -- Timman.} 9.Bd3 c5 10.O-O Nc6 {The stage
+is set. White has prospects against Black's kingside, while
+Spassky has chances on the other side of the board.} 11.Ne5 c4
+{!? "11...cxd4 12 Nxc6 Bxc6 13 exd4+=" -- Miles} 12.Bc2 a6
+13.g4 {The signal for the attack. -- Timman} b5 14.g5 Ne8 {In
+the diagram, White has already burned his boats. Black has a
+dangerous queenside pawn majority and, by advancing his
+g-pawn, White has weakened his kingside. White has apparently
+staked all on attacking Black's king, rendered somewhat
+exposed by the forced retreat of the knight from f6 How should
+White pursue the attack? 15 Qh5 allows Black to play ...g6 (a
+move he intends to play anyway) with gain of tempo. The
+obvious attacking try is 15 Bxh7+ Kxh7 16 Qh5+ Kg8 17 g6 fxg6
+(17...Nf6 18 gxf7+) 18 Nxg6 but Black can then defend
+satisfactorily by 18...Rf6 when 19 Nxd5 loses to 19...Rxg6+;
+18...Nf6 19 Qh8+ Kf7 20 Nxf8 Qxf8 is also not bad for
+Black. So Miles played 15 Qg4, a multi-purpose move,
+transferring the queen to the kingside, defending the pawn on
+g5, vacating d1 for a rook and eyeing d7.} 15.Qg4 g6 16.Rad1
+{"White prepares his assault with natural developing
+moves. The black counter-offensive on the queenside makes
+little difference." -- Timman} Ng7 17.h4 Bb4 {? Up to this
+point, the game had been fairly balanced, with White's
+kingside attack countered by defence in depth plus a black
+queenside pawn majority. But now Spassky removes a key
+defensive piece, clearly miscalculating the tactics that
+follow. Probably best is 17...b4 18 Ne2 f6.} 18.Nd7 {!
+"Already the final blow. But it needed accurate
+calculation."--Timman} Bc8 {"Forced. 18...Bxc3 19 Nf6+ Kh8 20
+bxc3 followed by h5 is hopeless for Black. 18...f5 19 gxf6+/-"
+-- Miles} 19.Nxd5 {"19 Nf6+? Qxf6 20 Qxc8 Qe6!=+" -- Miles}
+Kh8 {"If 19...Bxd7 not 20 Nf6+, which is refuted by
+20...Qxf6!, when White's queen would be hanging. Stronger
+would be 20 Qxd7 Qxd7 21 Nf6+" -- Miles. This game is replete
+with such delicate tactics.} 20.N5f6 Ra7 {Best. If 20...Be7 21
+Be4 or 20...Ne8 21 Be5. Now White must lose the knight on d7,
+but his attack becomes decisive.} 21.d5 { Now the point of
+move 16 is revealed." -- Timman} Ne7 {If 21...Na5 22 h5! Rxd7
+23 Qh4 gxh5 24 Be5 Re7 [24...Qe7 25 Qe4] 25 Bd4!+ -- Miles}
+22.Be5 {! Now 22 h5 is not so clear, e.g. 22...Bxd7 23 Qh4
+gxh5 with ...Ng6 to follow. With the point that 22...Bxd7
+fails to 23 Qd4" -- Timman} Rxd7 {Not 22...Bxd7 23 Qd4!} 23.h5
+{! "23 Qd4? Nc6! or 23 Nxd7? Qxd7 and ...Qg4+. The attack is
+still rolling along but it still requires accurate
+calculation." -- Timman. Despite exchanges the attack steadily
+mounts. } Rxd5 {"23...Rb7 24 Qf4+" -- Miles} 24.Qf4 {! The
+best square for the queen.} Rxd1 25.Rxd1 Qa5 {Though a piece
+ahead, Black is lost. The more natural 25...Qb6 allows 26h6
+when the attacked knight cannot move because of Nd5+.} 26.Ne8
+{! The death blow.} f6 {Or if 26...Rxe8 27 Qf6 Rg8 (27...Nef5
+28 Bxf5 Rxe5 29 h6 Bf8 30 hxg7+ Bxg7 31 Rd8++) 28 h6 mates
+quickly: 28...Nef5 29 Bxf5 Bf8 30 Bxc8+.} 27.gxf6 Kg8 {If
+27...Nxe8 28 f7+ or 27...Rxe8 28 f7! Rf8 29 h6 Nef5 30 Qxf5
+Bxf5 31 hxg7#} 28.Nxg7 {If 28...Nc6 29 hxg6 soon forces
+mate. "And Black resigned, crushed. A magnificent attacking
+win, all the more considering that Spassky, together with
+Karpov, had won the first Bugojno tournament earlier that
+year"--Timman. Many players would find Miles' 18th or 19th
+moves more impressive than his fifteenth. But these moves were
+susceptible to precise calculation, whereas 15 Qg4 was not. 15
+Qg4 stands out as a star move, because White displayed good
+judgement in rejecting the tempting 15 Bxh7+ and correctly
+chose to pursue the attack by slower means. I think this is
+Miles' best game.} 1-0

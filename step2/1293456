@@ -1,0 +1,24 @@
+[Event "Korchnoi Vs. Vallejo"]
+[Site "Vera ESP"]
+[Date "2004.07.10"]
+[EventDate "2004.07.09"]
+[Round "4"]
+[Result "1-0"]
+[White "Viktor Korchnoi"]
+[Black "Francisco Vallejo Pons"]
+[ECO "A06"]
+[WhiteElo "2568"]
+[BlackElo "2679"]
+[PlyCount "79"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nd7 4. Bb2 Ngf6 5. h3 Bxf3 6. Qxf3
+c6 (6... e5 7. c4) 7. g4 $6 e5 8. g5 Ne4 9. h4 Bd6 10. Bh3 Qe7
+11. d3 Nec5 12. Nd2 a5 13. e4 d4 14. Nc4 Bc7 15. Ba3 Nf8
+(15... Rd8 $1 $15) 16. c3 $1 Rd8 17. b4 axb4 18. cxb4 b5
+19. Nxe5 Qxe5 20. bxc5 Ng6 21. Bf5 Nf4 22. Bc1 g6 23. Bg4 Ra8
+24. Bxf4 Qxf4 25. Qxf4 Bxf4 26. Bd1 h6 27. Rg1 hxg5 28. hxg5
+Ra3 29. Bb3 (29. Ke2 $1) 29... Rh5 (29... Bxg5 30. Ke2 Be7
+31. Rh1 Rxh1 32. Rxh1 Bxc5 33. Rc1) 30. Ke2 Bxg5 31. Rh1 Be7
+32. Rxh5 gxh5 33. Rg1 Kf8 34. Rg3 Ra7 35. Rf3 Bxc5 36. Rf5 Ba3
+37. Rxh5 c5 $4 (37... Kg7 $13) 38. Rh8+ Ke7 $6 (38... Kg7
+39. Rb8 $16) 39. Bxf7 c4 $4 40. Bxc4 1-0

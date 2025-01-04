@@ -1,0 +1,37 @@
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1858.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Samuel Standidge Boden"]
+[Black "Paul Morphy"]
+[ECO "C27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 {Notes by Eric Schiller.} e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3
+Nxc3 5.dxc3 c6 6.Nxe5 d5 7.O-O Bd6 8.Re1 Be6 9.Bd3 Nd7 10.f4
+Nxe5 11.fxe5 Bc5+ 12.Kh1 Qh4 {Black doesn't really have much
+of an attack going.} 13.Be3 Bxe3 14.Rxe3 O-O {White could get
+an attack going if the rook could get to the h-file, but there
+is no way to accomplish that. Black's bishop at e6 is a mighty
+defender!} 15.Qe1 Qh6 16.Qg3 Rae8 17.Rae1 { 17.Rf1 with the
+idea of Rf4-h4, would be a more ambitious plan. } c5 18.Be2
+Bd7 19.Bf3 Qe6 20.Rd3 Bc6 21.b4 b6 22.a4 {! ?} f6 23.b5 {!}
+Bb7 24.c4 {!? A pawn sacrifice to open up the
+d-file. 24.Rde3!?} dxc4 25.Rd6 Qe7 26.Bxb7 { 26.e6!? would
+have been stronger. Rd8 27.Rxd8 Rxd8 28.Bxb7 Qxb7 29.e7 Re8
+30.Qd6 was a reasonable plan. } Qxb7 27.e6 Qc7 28.Red1 Rd8 {!}
+29.Kg1 { 29.Rxd8 Rxd8 30.Qf3 [ 30.Qxc7?? Rxd1# ] Rxd1+ 31.Qxd1
+Kf8 and Black has better chances in the queen endgame. } Rxd6
+30.Qxd6 Qxd6 31.Rxd6 Re8 32.Kf2 Kf8 33.Kf3 Ke7 34.Rd7+ Kxe6
+35.Rxa7 Re7 36.Ra6 {! ?} Rb7 37.a5 Kd6 {Morphy has correctly
+evaluated the endgame, but he misplays it.} 38.axb6 Ke6 {
+38...Kd5 39.c3 Ke5 would have been wiser. } 39.Ke3 g5 40.g4
+Kd6 {? 40...Ke5 41.c3 Kd5 42.h3 Ke5 would have held the
+draw. } 41.Ke4 {!} Ke6 {Agreed drawn, but in fact, White
+should win! 42.c3 h6 43.h3 and the king must give way. Rb8
+44.b7+ Kd7 45.Rxf6 Rxb7 46.Rf7+ Kc8 47.Rxb7 Kxb7 48.Kd5 Kb6
+49.Kxc4 is an easy win. } 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Training Game"]
+[Site "?"]
+[Date "1970.03.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Mikhail Botvinnik"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7
+7. cxd5 O-O 8. Bg5 Nbd7 9. Nf3 Nb6 10. Bxf6 exf6 11. h3 a5
+12. Bb5 a4 13. Bxa4 Nxa4 14. Nxa4 Qe8+ 0-1

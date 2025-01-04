@@ -1,0 +1,23 @@
+[Event "Simul, 35b"]
+[Site "Aachen GER"]
+[Date "1925.02.05"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "W Lennartz"]
+[Black "Emanuel Lasker"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 Nc6 2.Nf3 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.b3 Bg4
+7.Be2 Bxf3 8.gxf3 Qc5 9.c3 e6 10.Bb2 Bd6 11.d4 Qh5 12.Qd3 Bf4
+13.Qb5 Qxb5 14.Bxb5 O-O-O 15.Bxc6 bxc6 16.Bc1 Bd6 17.Be3 h6
+18.h4 h5 19.Ke2 Be7 20.Rag1 g6 21.f4 Rd5 22.Rd1 Rhd8 23.b4 Kb7
+24.a3 Rf5 25.Kf3 Ka6 26.a4 Kb7 27.a5 Ka6 28.Rc1 Kb5 29.Ke4 Kc4
+30.Rc2 Re8 31.Rcc1 Bf6 32.Rc2 e5 33.Kf3 exf4 34.Bd2 Kd3 35.Rb2
+Re3+ 36.Bxe3 fxe3+ 37.Kg3 Kxc3 38.Re2 exf2 39.Rxf2 Rxf2
+40.Kxf2 Bxd4+ 41.Kf3 Kxb4 42.Ke4 c5 43.Kd5 Kxa5 44.Kc6 Kb4
+45.Kxc7 c4 46.Rb1+ Kc3 47.Rc1+ Kb3 48.Kc6 c3 49.Kd5 c2 50.Kxd4
+Kb2 51.Rg1 c1=Q 52.Rxc1 Kxc1 0-1

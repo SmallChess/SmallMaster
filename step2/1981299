@@ -1,0 +1,16 @@
+[Event "Simul"]
+[Site "Luton ENG"]
+[Date "1976.01.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viktor Korchnoi"]
+[Black "Peter Montgomery"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 cxd5
+7. c5 Be7 8. Bxf4 O-O 9. Nc3 Nc6 10. Bb5 Bg4 11. O-O Ne4
+12. h3 Bxf3 13. Rxf3 Nxd4 0-1

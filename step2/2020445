@@ -1,0 +1,20 @@
+[Event "Training Game"]
+[Site "New York, NY USA"]
+[Date "1957.09.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John W Collins"]
+[Black "Robert James Fischer"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'Bobby Fischer and His World', J.Donaldson, p.142"]
+[PlyCount "60"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 Nd4 7.Nf3 Bg4
+8.h3 Bxf3 9.Bxf3 Nxf3+ 10.Qxf3 e6 11.O-O Ne7 12.Be3 O-O 13.g4
+Qd7 14.Rf2 f5 15.Re1 b5 16.Rfe2 b4 17.Nd1 e5 18.gxf5 gxf5
+19.Rg2 fxe4 20.Qxe4 exf4 21.Bxf4 Ng6 22.Bh2 Qxh3 23.Qe6+ Qxe6
+24.Rxe6 Bd4+ 25.Kh1 Rf1+ 26.Bg1 Rxd1 27.Rxd6 Re8 28.c3 bxc3
+29.bxc3 Bxg1 30.Rxg1 Rxg1+ 0-1

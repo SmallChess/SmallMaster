@@ -1,0 +1,22 @@
+[Event "Knight Odds"]
+[Site "New Orleans USA"]
+[Date "1869.??.??"]
+[EventDate "1869.??.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. c3 d6
+7. Qb3 Qd7 8. d4 Nc6 9. Bd3 Nge7 10. Bd2 O-O 11. Rae1 Qd8
+12. h4 g4 13. Nh2 f3 14. gxf3 g3 15. Ng4 Bxg4 16. fxg4 Ng6
+17. h5 Qh4 18. Kg2 Qh2+ 19. Kf3 Qxd2 20. hxg6 Qxd3+ 21. Kg2
+Kh8 22. gxf7 Nxd4 23. cxd4 Qxb3 24. axb3 Bxd4 25. Rf5 Kg7
+26. g5 hxg5 27. Ref1 Bf2 28. Rxg5+ Kh6 29. Rg4 Kh5 30. Rg7 Kh6
+31. Rg4 Kh5 1/2-1/2

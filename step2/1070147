@@ -1,0 +1,27 @@
+[Event "Hamburg sim-32 (22)"]
+[Site "Hamburg FRG"]
+[Date "1985.06.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Constellation (Computer)"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 6.Qb3 Nd7
+7.Nf3 e5 8.O-O Be7 9.e3 O-O 10.Rd1 Ne6 11.Nd5 Kh8 12.Qc2 f5
+13.d3 Bd6 14.b3 b5 15.d4 e4 16.Ne5 Nxe5 17.dxe5 Bxe5 18.Bb2
+Bxb2 19.Qxb2 Bb7 20.Qe5 Qe8 21.Bf1 Bc6 22.Rac1 Rd8 23.Nc7 Nxc7
+24.Qxc7 Rxd1 25.Rxd1 c4 26.bxc4 bxc4 27.Bxc4 f4 28.Bf7 Rxf7
+29.Qxc6 Qg8 30.exf4 Re7 31.Qc5 Qe8 32.Rb1 h6 33.Rb3 Qd8 34.Kg2
+a6 35.Qc4 e3 36.Rxe3 Rxe3 37.fxe3 Qd2+ 38.Kf3 Qxh2 39.e4 Qh1+
+40.Kg4 Qd1+ 41.Kf5 Qf3 42.g4 g6 43.Ke5 Qxg4 44.Qf7 a5 45.Qf8+
+Kh7 46.Qe7+ Kh8 47.Qd8+ Kh7 48.Qc7+ Kg8 49.Kf6 Qh4+ 50.Kxg6
+Qg4+ 51.Kf6+ Qh4+ 52.Ke5 Qh5+ 53.Kd6 Qe8 54.Qc4+ Kf8 55.e5
+Qe7+ 56.Kd5 Qb7+ 57.Kd4 Kg7 58.f5 Kh7 59.f6 Qb6+ 60.Ke4 Qb1+
+61.Kd5 Qb7+ 62.Kd6 Qb6+ 63.Qc6 Qd4+ 64.Ke6 Qg4+ 65.Ke7 Qb4+
+66.Qd6 Qe4 67.f7 Qb7+ 68.Kf6 Qf3+ 69.Ke6 Kg7 70.f8=Q+ Qxf8
+71.Qxf8+ Kxf8 72.Kd7 h5 73.e6 1-0

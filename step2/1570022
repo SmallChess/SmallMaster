@@ -1,0 +1,29 @@
+[Event "3rd WCRCC"]
+[Site "chessclub.com"]
+[Date "2009.08.15"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Stockfish (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "D14"]
+[WhiteElo "2000"]
+[BlackElo "2813"]
+[PlyCount "156"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Bf4 Nc6 6. Nc3
+Bf5 7. e3 e6 8. Rc1 Rc8 9. Bd3 Bxd3 10. Qxd3 Nh5 11. Bg5 Qb6
+12. Qe2 h6 13. Bh4 g5 14. Bg3 Nxg3 15. hxg3 g4 16. Ng1 Na5
+17. Kf1 h5 18. Qc2 Nc4 19. b3 Nd6 20. Nge2 Be7 21. Kg1 Bg5
+22. Qb2 Qa5 23. b4 Qa6 24. Qc2 Kf8 25. a4 Kg7 26. Qd1 Rc4
+27. Rb1 Qb6 28. a5 Qd8 29. Na4 b6 30. axb6 axb6 31. Qd3 Qc7
+32. Nac3 b5 33. Rb3 Be7 34. Qd2 Qc6 35. Qd1 Nf5 36. Qb1 h4
+37. gxh4 Nxh4 38. Qb2 Rh6 39. Kf1 e5 40. Nd1 Rc2 41. Rc3 Nf3
+42. Rxh6 Qxh6 43. Ng3 Qh2 44. Rxc2 Qg1+ 45. Ke2 Qe1+ 46. Kd3
+e4+ 47. Nxe4 Qxd1+ 48. Nd2 Ne1+ 49. Kc3 Bxb4+ 50. Kxb4 Nxc2+
+51. Kb3 Nxe3+ 52. Kc3 Nc4 53. Nxc4 bxc4 54. Qc2 Qxc2+ 55. Kxc2
+g3 56. f3 Kf6 57. Kd2 Kg5 58. Ke3 f5 59. Ke2 c3 60. Kd3 Kf4
+61. Ke2 c2 62. Kd2 c1=Q+ 63. Kxc1 Ke3 64. Kc2 Kf2 65. Kd2 f4
+66. Kd3 Kxg2 67. Ke2 Kh2 68. Kd2 g2 69. Kc3 g1=Q 70. Kb4 Qg3
+71. Kc5 Qxf3 72. Kd6 Qe4 73. Kc5 f3 74. Kb5 Qe7 75. Ka4 Qb7
+76. Ka3 f2 77. Ka4 f1=R 78. Ka3 Ra1# 0-1

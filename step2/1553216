@@ -1,0 +1,19 @@
+[Event "Simul, 30b"]
+[Site "Corfu"]
+[Date "1996.09.05"]
+[EventDate "1996.09.05"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Panayotis Balaskas"]
+[ECO "E20"]
+[WhiteElo "2812"]
+[BlackElo "2129"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 Bxc3+ 6.bxc3 Qa5 7.Bd2
+d6 8.e4 Nbd7 9.Ne2 O-O 10.Ng3 Nb6 11.Bd3 Re8 12.O-O Qa6 13.Bg5
+Nfd7 14.f4 f6 15.e5 fxg5 16.Bxh7+ Kf8 17.Qh5 Qxc4 18.Bg6 Ke7
+19.Qxg5+ Nf6 20.Bxe8 Kxe8 21.exf6 gxf6 22.Qg8+ Ke7 23.Nf5+
+exf5 24.Rae1+ Qe4 25.Rxe4+ fxe4 26.Qg7+ Kd8 27.Qxf6+ Kc7 28.f5
+Bd7 29.Qg7 Nxd5 30.f6 e3 31.f7 e2 32.Re1 1-0

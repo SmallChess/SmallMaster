@@ -1,0 +1,20 @@
+[Event "Bled Olympiad"]
+[Site "Bled SLO"]
+[Date "2002.10.27"]
+[EventDate "2002.10.26"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alexei Fedorov"]
+[Black "Alexander Grischuk"]
+[ECO "A07"]
+[WhiteElo "2564"]
+[BlackElo "2702"]
+[Source "Olimpbase"]
+[PlyCount "57"]
+
+1.e4 c6 2.d3 e5 3.Nf3 Nf6 4.g3 d6 5.Bg2 g6 6.O-O Bg7 7.a4 O-O
+8.a5 Re8 9. Nbd2 Na6 10.b3 b5 11.axb6 axb6 12.Bb2 Bb7 13.d4
+exd4 14.Nxd4 Nc7 15.Rxa8 Bxa8 16.Qa1 c5 17.N4f3 Bxe4 18.Nxe4
+Rxe4 19.Rd1 Re2 20.Nd2 d5 21.Nc4 Rxc2 22.Ne3 Rxb2 23.Qxb2 Ne4
+24.Qc2 Nc3 25.Rd3 Qa8 26.Rxc3 Qa1+ 27.Qc1 Bxc3 28. Qxa1 Bxa1
+29.Nxd5 1/2-1/2

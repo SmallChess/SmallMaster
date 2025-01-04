@@ -1,0 +1,22 @@
+[Event "Simul, 35b"]
+[Site "Olomouc"]
+[Date "1943.02.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Slosar"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 d5 2.c4 e5 3.e3 exd4 4.exd4 Bb4+ 5.Nc3 Qe7+ 6.Be3 Be6
+7.Qb3 dxc4 8.Bxc4 Bxc4 9.Qxc4 Nf6 10.Nf3 Ng4 11.O-O Bxc3
+12.bxc3 Nxe3 13.fxe3 O-O 14.Rae1 c6 15.e4 Nd7 16.e5 Rae8 17.a4
+Nb6 18.Qb3 Qe6 19.Rb1 Qxb3 20.Rxb3 Nxa4 21.Rxb7 Nxc3 22.Rxa7
+Rd8 23.Re1 Nb5 24.Ra4 Rd5 25.Rc1 Nc7 26.Rxc6 Ne6 27.Kf2 Rfd8
+28.Ke3 Kf8 29.Rca6 Ke7 30.Ra7+ R8d7 31.Ke4 Rxa7 32.Rxa7+ Rd7
+33.Rxd7+ Kxd7 34.d5 Nd8 35.Nd4 g6 36.g4 h6 37.h4 Nb7 38.Nb3
+Ke7 39.h5 gxh5 40.gxh5 Kd7 41.Kf5 Ke7 42.d6+ Kf8 43.Kf6 Nd8
+44.Nd4 Nb7 45.d7 Nd8 46.e6 1-0

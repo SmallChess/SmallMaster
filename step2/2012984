@@ -1,0 +1,18 @@
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1863.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Thomas Gordon"]
+[Black "Wilhelm Steinitz"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Dundee Courier & Argus, 1863.06.01, p.3"]
+[PlyCount "38"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.exd5 Qh4+ 5.Kf1 Bd6 6.Nf3 Qh5
+7.Nc3 g5 8.Ne4 g4 9.Nxd6+ cxd6 10.Nd4 Ne7 11.Nb5 f3 12.gxf3
+gxf3 13.h4 Qg4 14.Kf2 Nf5 15. Nc7+ Kd8 16.Qxf3 Qxc4 17.Nxa8
+Rg8 18.c3 Rg3 19.Qe2 Rg2+ 0-1

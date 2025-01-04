@@ -1,0 +1,26 @@
+[Event "Dimock theme"]
+[Site "New York"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "Albert Pinkus"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+
+7.Nc3 Nxe4 8.O-O Nxc3 9.bxc3 d5 10.Bb5 Be7 11.Ne5 Bd7 12.Re1
+O-O 13.Nxd7 Qxd7 14.Rb1 a6 15.Bd3 b5 16.Bf4 Bf6 17.Re3 g6
+18.Qf3 Bg7 19.a3 Rae8 20.Rbe1 Rxe3 21.Rxe3 Nd8 22.h4 Ne6 23.h5
+Re8 24.hxg6 hxg6 25.Qg4 c5 26.dxc5 d4 27.cxd4 Bxd4 28.c6 Qxc6
+29.Bxg6 fxg6 30.Qxg6+ Bg7 31.Be5 Qd7 32.Rg3 Qf7 33.Qh6 a5
+34.Qd2 Rd8 35.Qc2 Qh5 36.f4 Qd1+ 37.Qxd1 Rxd1+ 38.Kf2 Kf7
+39.Bxg7 Nxg7 40.Rg5 Rd3 41.Rxb5 Rxa3 42.g4 Ne6 43.Rb7+ Kf6
+44.Rb6 Ke7 45.f5 Nf4 46.Ke1 Ra2 47.g5 Ng2+ 48.Kd1 Ne3+ 49.Kc1
+Nxf5 50.g6 Rg2 51.Kb1 Nd6 52.Ra6 Nc4 53.Rc6 Na3+ 54.Kc1 Nb5
+55.Ra6 Nd4 56.Kb1 Rg5 57.Kb2 Rc5 58.Ra7+ Kf8 59.Rf7+ Kg8
+60.Ka3 Rc4 61.Rb7 Nc2+ 62.Ka2 Ra4+ 63.Kb3 Rb4+ 64.Rxb4 Nxb4
+0-1

@@ -1,0 +1,17 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Bart Michiels"]
+[ECO "A40"]
+[WhiteElo "2812"]
+[BlackElo "2451"]
+[PlyCount "45"]
+
+1.d4 e6 2.g3 c5 3.Nf3 Nc6 4.Bg2 cxd4 5.Nxd4 a6 6.O-O Qc7 7.c4
+Nf6 8.Nc3 Nxd4 9.Qxd4 Bc5 10.Qd3 O-O 11.Bf4 d6 12.Rad1 Rd8
+13.a3 Nh5 14.Bg5 f6 15.Bc1 f5 16.b4 Ba7 17.Bg5 Nf6 18.e4 fxe4
+19.Nxe4 Nxe4 20.Bxe4 Rd7 21.Bxh7+ Kh8 22.Bg6 Qc6 23.Qe2 1-0

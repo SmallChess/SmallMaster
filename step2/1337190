@@ -1,0 +1,17 @@
+[Event "Simul, 4b"]
+[Site "The Hague NED"]
+[Date "1873.07.10"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J M IJzerman"]
+[Black "Wilhelm Steinitz"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 e5 2. Bc4 f5 3. exf5 Nf6 4. Nf3 e4 5. Ne5 d5 6. Bb3 Bxf5
+7. d3 Bd6 8. Bf4 Qe7 9. d4 c5 10. c3 O-O 11. O-O Nc6 12. Nxc6
+bxc6 13. Bxd6 Qxd6 14. h3 Rab8 15. dxc5 Qxc5 16. Nd2 a5 17. a4
+e3 18. fxe3 Qxe3+ 19. Rf2 Ne4 20. Nxe4 Bxe4 21. Qf1 Rxb3 0-1

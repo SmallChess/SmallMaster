@@ -1,0 +1,17 @@
+[Event "Simul, 41b"]
+[Site "Moscow RUE"]
+[Date "1914.03.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "J Zabludowski"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.Nxc6 bxc6
+7.e5 Qa5 8.f4 f6 9.Bd3 f5 10.O-O Nh6 11.Kh1 Ng4 12.h3 h5
+13.Bd2 Qb6 14.Qe2 Be7 15.Na4 Qd4 16.b3 Bb7 17.c3 Qa7 18.Rae1
+Bh4 19.Bc1 Nf2+ 20.Kh2 Ng4+ 21.hxg4 hxg4 0-1

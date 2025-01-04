@@ -1,0 +1,18 @@
+[Event "Match"]
+[Site "Hollywood, CA USA"]
+[Date "1984.06.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Larry Mark Christiansen"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "2575"]
+[PlyCount "44"]
+
+1.d4 e6 2.Nf3 c5 3.c4 cxd4 4.Nxd4 Nf6 5.Nc3 d5 6.Bg5 e5 7.Ndb5
+a6 8.Qa4 Bd7 9.Bxf6 gxf6 10.cxd5 Bxb5 11.Nxb5 axb5 12.Qxb5+
+Nd7 13.a3 Qa5+ 14.Qxa5 Rxa5 15.O-O-O f5 16.g3 Bh6+ 17.Kb1 Nf6
+18.Bh3 Ne4 19.Rc1 Bxc1 20.Rxc1 Rxd5 21.Rc7 Nd6 22.Bxf5 Nxf5
+0-1

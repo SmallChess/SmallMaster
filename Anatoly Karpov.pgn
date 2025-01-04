@@ -1,0 +1,2362 @@
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "2.2"]
+[White "Ana Karpov"]
+[Black "A Morozevich"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "D22"]
+[WhiteElo "2617"]
+[BlackElo "2659"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8. Rxa8 Bxa8 9. bxc4 bxc4 10. Bxc4 Nd7 11. O-O Ngf6 12. Be2 c5 13. Ba3 Bxf3 14. Bxf3 cxd4 15. Bxf8 Nxf8 16. Qa4+ N8d7 17. Qxd4 Qb6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "3.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1-0"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Nf3 Bg4 5. c4 Nbd7 6. cxd5 Qa5+ 7. Nbd2 Nxd5 8. Be2 Bxf3 9. Bxf3 Nc3 10. bxc3 Qxg5 11. Rb1 Rb8 12. Qa4 a6 13. O-O e6 14. Nc4 Qd8 15. Ne5 Nxe5 16. dxe5 Bc5 17. Bxc6+ Kf8 18. Rfd1 Qc7 19. Rd7 Qxe5 20. Bxb7 g6 21. Rbd1 Kg7 22. Qxa6 Qxc3 1-0
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "1.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c6 4. e3 Bf5 5. c4 Ne4 6. Nxe4 Bxe4 7. Ne2 dxc4 8. Nc3 Qa5 9. h4 h6 10. Bf4 Bd3 11. Bxd3 cxd3 12. Qxd3 e6 13. e4 Nd7 14. O-O-O Bb4 15. Rh3 Bxc3 16. Qxc3 Qxc3+ 17. Rxc3 Ke7 18. Kb1 a5 19. a4 Ra6 20. Rg3 g6 21. Rdd3 b5 22. axb5 cxb5 23. Rc3 b4 24. Rc7 h5 25. d5 Rha8 26. dxe6 Kxe6 27. Rd3 Nf6 28. f3 Ne8 29. Rc5 f6 30. g4 hxg4 31. fxg4 Nd6 32. Rd4 Nf7 33. h5 g5 34. Bg3 Nh6 35. e5 f5 36. Rd6+ Rxd6 37. exd6 Nxg4 38. d7 Rd8 39. Rc6+ Kxd7 40. Rg6 b3 41. Kc1 Ke7 42. Be1 Ne5 43. Rxg5 Nd3+ 44. Kd2 Nxb2+ 45. Kc3 Nd3 46. Bh4 Kf7 47. Rxf5+ Ke6 48. Bxd8 Kxf5 49. Kxd3 a4 50. Kc3 Ke6 51. Bg5 Kf5 52. Bc1 Kf6 53. Be3 Kf5 54. Kb2 Kf6 55. Ka3 Kf5 56. Bc1 Kf6 57. Kb2 Kf5 58. Kc3 Kf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "2.2"]
+[White "Ana Karpov"]
+[Black "A Morozevich"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "D22"]
+[WhiteElo "2617"]
+[BlackElo "2659"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8. Rxa8 Bxa8 9. bxc4 bxc4 10. Bxc4 Nd7 11. O-O Ngf6 12. Be2 c5 13. Ba3 Bxf3 14. Bxf3 cxd4 15. Bxf8 Nxf8 16. Qa4+ N8d7 17. Qxd4 Qb6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "3.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1-0"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Nf3 Bg4 5. c4 Nbd7 6. cxd5 Qa5+ 7. Nbd2 Nxd5 8. Be2 Bxf3 9. Bxf3 Nc3 10. bxc3 Qxg5 11. Rb1 Rb8 12. Qa4 a6 13. O-O e6 14. Nc4 Qd8 15. Ne5 Nxe5 16. dxe5 Bc5 17. Bxc6+ Kf8 18. Rfd1 Qc7 19. Rd7 Qxe5 20. Bxb7 g6 21. Rbd1 Kg7 22. Qxa6 Qxc3 1-0
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "1.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c6 4. e3 Bf5 5. c4 Ne4 6. Nxe4 Bxe4 7. Ne2 dxc4 8. Nc3 Qa5 9. h4 h6 10. Bf4 Bd3 11. Bxd3 cxd3 12. Qxd3 e6 13. e4 Nd7 14. O-O-O Bb4 15. Rh3 Bxc3 16. Qxc3 Qxc3+ 17. Rxc3 Ke7 18. Kb1 a5 19. a4 Ra6 20. Rg3 g6 21. Rdd3 b5 22. axb5 cxb5 23. Rc3 b4 24. Rc7 h5 25. d5 Rha8 26. dxe6 Kxe6 27. Rd3 Nf6 28. f3 Ne8 29. Rc5 f6 30. g4 hxg4 31. fxg4 Nd6 32. Rd4 Nf7 33. h5 g5 34. Bg3 Nh6 35. e5 f5 36. Rd6+ Rxd6 37. exd6 Nxg4 38. d7 Rd8 39. Rc6+ Kxd7 40. Rg6 b3 41. Kc1 Ke7 42. Be1 Ne5 43. Rxg5 Nd3+ 44. Kd2 Nxb2+ 45. Kc3 Nd3 46. Bh4 Kf7 47. Rxf5+ Ke6 48. Bxd8 Kxf5 49. Kxd3 a4 50. Kc3 Ke6 51. Bg5 Kf5 52. Bc1 Kf6 53. Be3 Kf5 54. Kb2 Kf6 55. Ka3 Kf5 56. Bc1 Kf6 57. Kb2 Kf5 58. Kc3 Kf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "2.2"]
+[White "Ana Karpov"]
+[Black "A Morozevich"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "D22"]
+[WhiteElo "2617"]
+[BlackElo "2659"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8. Rxa8 Bxa8 9. bxc4 bxc4 10. Bxc4 Nd7 11. O-O Ngf6 12. Be2 c5 13. Ba3 Bxf3 14. Bxf3 cxd4 15. Bxf8 Nxf8 16. Qa4+ N8d7 17. Qxd4 Qb6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "3.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1-0"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Nf3 Bg4 5. c4 Nbd7 6. cxd5 Qa5+ 7. Nbd2 Nxd5 8. Be2 Bxf3 9. Bxf3 Nc3 10. bxc3 Qxg5 11. Rb1 Rb8 12. Qa4 a6 13. O-O e6 14. Nc4 Qd8 15. Ne5 Nxe5 16. dxe5 Bc5 17. Bxc6+ Kf8 18. Rfd1 Qc7 19. Rd7 Qxe5 20. Bxb7 g6 21. Rbd1 Kg7 22. Qxa6 Qxc3 1-0
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "1.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c6 4. e3 Bf5 5. c4 Ne4 6. Nxe4 Bxe4 7. Ne2 dxc4 8. Nc3 Qa5 9. h4 h6 10. Bf4 Bd3 11. Bxd3 cxd3 12. Qxd3 e6 13. e4 Nd7 14. O-O-O Bb4 15. Rh3 Bxc3 16. Qxc3 Qxc3+ 17. Rxc3 Ke7 18. Kb1 a5 19. a4 Ra6 20. Rg3 g6 21. Rdd3 b5 22. axb5 cxb5 23. Rc3 b4 24. Rc7 h5 25. d5 Rha8 26. dxe6 Kxe6 27. Rd3 Nf6 28. f3 Ne8 29. Rc5 f6 30. g4 hxg4 31. fxg4 Nd6 32. Rd4 Nf7 33. h5 g5 34. Bg3 Nh6 35. e5 f5 36. Rd6+ Rxd6 37. exd6 Nxg4 38. d7 Rd8 39. Rc6+ Kxd7 40. Rg6 b3 41. Kc1 Ke7 42. Be1 Ne5 43. Rxg5 Nd3+ 44. Kd2 Nxb2+ 45. Kc3 Nd3 46. Bh4 Kf7 47. Rxf5+ Ke6 48. Bxd8 Kxf5 49. Kxd3 a4 50. Kc3 Ke6 51. Bg5 Kf5 52. Bc1 Kf6 53. Be3 Kf5 54. Kb2 Kf6 55. Ka3 Kf5 56. Bc1 Kf6 57. Kb2 Kf5 58. Kc3 Kf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "2.2"]
+[White "Ana Karpov"]
+[Black "A Morozevich"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "D22"]
+[WhiteElo "2617"]
+[BlackElo "2659"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8. Rxa8 Bxa8 9. bxc4 bxc4 10. Bxc4 Nd7 11. O-O Ngf6 12. Be2 c5 13. Ba3 Bxf3 14. Bxf3 cxd4 15. Bxf8 Nxf8 16. Qa4+ N8d7 17. Qxd4 Qb6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "3.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1-0"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Nf3 Bg4 5. c4 Nbd7 6. cxd5 Qa5+ 7. Nbd2 Nxd5 8. Be2 Bxf3 9. Bxf3 Nc3 10. bxc3 Qxg5 11. Rb1 Rb8 12. Qa4 a6 13. O-O e6 14. Nc4 Qd8 15. Ne5 Nxe5 16. dxe5 Bc5 17. Bxc6+ Kf8 18. Rfd1 Qc7 19. Rd7 Qxe5 20. Bxb7 g6 21. Rbd1 Kg7 22. Qxa6 Qxc3 1-0
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.20"]
+[Round "1.2"]
+[White "A Morozevich"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.20"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2617"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c6 4. e3 Bf5 5. c4 Ne4 6. Nxe4 Bxe4 7. Ne2 dxc4 8. Nc3 Qa5 9. h4 h6 10. Bf4 Bd3 11. Bxd3 cxd3 12. Qxd3 e6 13. e4 Nd7 14. O-O-O Bb4 15. Rh3 Bxc3 16. Qxc3 Qxc3+ 17. Rxc3 Ke7 18. Kb1 a5 19. a4 Ra6 20. Rg3 g6 21. Rdd3 b5 22. axb5 cxb5 23. Rc3 b4 24. Rc7 h5 25. d5 Rha8 26. dxe6 Kxe6 27. Rd3 Nf6 28. f3 Ne8 29. Rc5 f6 30. g4 hxg4 31. fxg4 Nd6 32. Rd4 Nf7 33. h5 g5 34. Bg3 Nh6 35. e5 f5 36. Rd6+ Rxd6 37. exd6 Nxg4 38. d7 Rd8 39. Rc6+ Kxd7 40. Rg6 b3 41. Kc1 Ke7 42. Be1 Ne5 43. Rxg5 Nd3+ 44. Kd2 Nxb2+ 45. Kc3 Nd3 46. Bh4 Kf7 47. Rxf5+ Ke6 48. Bxd8 Kxf5 49. Kxd3 a4 50. Kc3 Ke6 51. Bg5 Kf5 52. Bc1 Kf6 53. Be3 Kf5 54. Kb2 Kf6 55. Ka3 Kf5 56. Bc1 Kf6 57. Kb2 Kf5 58. Kc3 Kf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "6.2"]
+[White "Sergey Karjakin"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "B10"]
+[WhiteElo "2747"]
+[BlackElo "2617"]
+[PlyCount "32"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nd7 6. a4 e5 7. Nfd2 f6 8. f3 Nh6 9. Nb3 Nf7 10. Be3 Bd6 11. N1d2 Ke7 12. c3 Rd8 13. Kc2 a5 14. Nc4 Bc7 15. Nc5 Nf8 16. Nb3 Nd7 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "5.2"]
+[White "Ana Karpov"]
+[Black "Sergey Karjakin"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "D27"]
+[WhiteElo "2617"]
+[BlackElo "2747"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8. Qxd8+ Kxd8 9. b3 Nbd7 10. Bb2 b6 11. Rd1 Ke7 12. Be2 Bb7 13. Nbd2 Rhd8 14. Ne1 Kf8 15. Nd3 Be7 16. Rac1 Rac8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Nxc1 Nd5 20. Kf1 Bf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "6.2"]
+[White "Sergey Karjakin"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "B10"]
+[WhiteElo "2747"]
+[BlackElo "2617"]
+[PlyCount "32"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nd7 6. a4 e5 7. Nfd2 f6 8. f3 Nh6 9. Nb3 Nf7 10. Be3 Bd6 11. N1d2 Ke7 12. c3 Rd8 13. Kc2 a5 14. Nc4 Bc7 15. Nc5 Nf8 16. Nb3 Nd7 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "5.2"]
+[White "Ana Karpov"]
+[Black "Sergey Karjakin"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "D27"]
+[WhiteElo "2617"]
+[BlackElo "2747"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8. Qxd8+ Kxd8 9. b3 Nbd7 10. Bb2 b6 11. Rd1 Ke7 12. Be2 Bb7 13. Nbd2 Rhd8 14. Ne1 Kf8 15. Nd3 Be7 16. Rac1 Rac8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Nxc1 Nd5 20. Kf1 Bf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "5.2"]
+[White "Ana Karpov"]
+[Black "Sergey Karjakin"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "D27"]
+[WhiteElo "2617"]
+[BlackElo "2747"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8. Qxd8+ Kxd8 9. b3 Nbd7 10. Bb2 b6 11. Rd1 Ke7 12. Be2 Bb7 13. Nbd2 Rhd8 14. Ne1 Kf8 15. Nd3 Be7 16. Rac1 Rac8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Nxc1 Nd5 20. Kf1 Bf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "6.2"]
+[White "Sergey Karjakin"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "B10"]
+[WhiteElo "2747"]
+[BlackElo "2617"]
+[PlyCount "32"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nd7 6. a4 e5 7. Nfd2 f6 8. f3 Nh6 9. Nb3 Nf7 10. Be3 Bd6 11. N1d2 Ke7 12. c3 Rd8 13. Kc2 a5 14. Nc4 Bc7 15. Nc5 Nf8 16. Nb3 Nd7 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "5.2"]
+[White "Ana Karpov"]
+[Black "Sergey Karjakin"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "D27"]
+[WhiteElo "2617"]
+[BlackElo "2747"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8. Qxd8+ Kxd8 9. b3 Nbd7 10. Bb2 b6 11. Rd1 Ke7 12. Be2 Bb7 13. Nbd2 Rhd8 14. Ne1 Kf8 15. Nd3 Be7 16. Rac1 Rac8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Nxc1 Nd5 20. Kf1 Bf6 1/2-1/2
+
+[Event "Moscow Stars"]
+[Site "Moscow RUS"]
+[Date "2022.07.19"]
+[Round "6.2"]
+[White "Sergey Karjakin"]
+[Black "Ana Karpov"]
+[Result "1/2-1/2"]
+[EventDate "2022.07.17"]
+[ECO "B10"]
+[WhiteElo "2747"]
+[BlackElo "2617"]
+[PlyCount "32"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nd7 6. a4 e5 7. Nfd2 f6 8. f3 Nh6 9. Nb3 Nf7 10. Be3 Bd6 11. N1d2 Ke7 12. c3 Rd8 13. Kc2 a5 14. Nc4 Bc7 15. Nc5 Nf8 16. Nb3 Nd7 1/2-1/2
+
+[Event "7th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2003.10.12"]
+[Round "1"]
+[White "Judit Polgar"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "2003.10.12"]
+[ECO "C42"]
+[WhiteElo "2722"]
+[BlackElo "2693"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Qd6 14. Rb1 b6 15. Re1 Be6 16. Bd3 Rae8 17. Rb5 Na5 18. Rbe5 Nc6 19. R5e2 Bd7 20. d5 Na5 21. Ne5 Bf6 22. Bf4 Bxe5 23. Bxe5 Qxa3 24. Re3 Qc5 25. Bxh7+ Kxh7 26. Qh5+ 1-0
+
+[Event "7th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2003.10.12"]
+[Round "1"]
+[White "Judit Polgar"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "2003.10.12"]
+[ECO "C42"]
+[WhiteElo "2722"]
+[BlackElo "2693"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Qd6 14. Rb1 b6 15. Re1 Be6 16. Bd3 Rae8 17. Rb5 Na5 18. Rbe5 Nc6 19. R5e2 Bd7 20. d5 Na5 21. Ne5 Bf6 22. Bf4 Bxe5 23. Bxe5 Qxa3 24. Re3 Qc5 25. Bxh7+ Kxh7 26. Qh5+ 1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas, Canary Islands ESP"]
+[Date "1996.12.17"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "1996.12.09"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. Nf3 d5 2. d4 e6 3. c4 dxc4 4. e4 b5 5. a4 c6 6. axb5 cxb5 7. b3 Bb7 8. bxc4 Bxe4 9. cxb5 Nf6 10. Be2 Be7 11. O-O O-O 12. Nc3 Bb7 13. Ne5 a6 14. Bf3 Nd5 15. Nxd5 exd5 16. Rb1 Qb6 17. Be2 axb5 18. Rxb5 Qc7 19. Bf4 Bd6 20. Bd3 Ba6 21. Bxh7+ Kxh7 22. Qh5+ Kg8 23. Rb3 Bxe5 24. Rh3 f6 25. dxe5 Qe7 26. Qh7+ Kf7 27. Rg3 Ke8 28. Rxg7 Qe6 29. exf6 Nc6 30. Ra1 Kd8 31. h4 Bb7 32. Rc1 Ba6 33. Ra1 Bb7 34. Rd1 Ba6 35. Qb1 Rxf6 36. Bg5 { Black lost on time } 1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas, Canary Islands ESP"]
+[Date "1996.12.17"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "1996.12.09"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. Nf3 d5 2. d4 e6 3. c4 dxc4 4. e4 b5 5. a4 c6 6. axb5 cxb5 7. b3 Bb7 8. bxc4 Bxe4 9. cxb5 Nf6 10. Be2 Be7 11. O-O O-O 12. Nc3 Bb7 13. Ne5 a6 14. Bf3 Nd5 15. Nxd5 exd5 16. Rb1 Qb6 17. Be2 axb5 18. Rxb5 Qc7 19. Bf4 Bd6 20. Bd3 Ba6 21. Bxh7+ Kxh7 22. Qh5+ Kg8 23. Rb3 Bxe5 24. Rh3 f6 25. dxe5 Qe7 26. Qh7+ Kf7 27. Rg3 Ke8 28. Rxg7 Qe6 29. exf6 Nc6 30. Ra1 Kd8 31. h4 Bb7 32. Rc1 Ba6 33. Ra1 Bb7 34. Rd1 Ba6 35. Qb1 Rxf6 36. Bg5 { Black lost on time } 1-0
+
+[Event "Karpov - Kamsky FIDE World Championship Match"]
+[Site "Elista RUS"]
+[Date "1996.06.08"]
+[Round "2"]
+[White "Gata Kamsky"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8. Bd2 Nc6 9. Bd3 Be7 10. O-O O-O 11. Qe2 Nf6 12. Ne4 Bd7 13. Rad1 Rc8 14. Rfe1 Nd5 15. Nc3 Nf6 16. a3 Qc7 17. Bg5 Qa5 18. d5 exd5 19. Bxf6 Bxf6 20. Bxh7+ Kxh7 21. Rxd5 Bxc3 22. Rxa5 Bxa5 23. b4 Kg8 24. bxa5 Bg4 25. a6 bxa6 26. Qe4 Bxf3 27. Qxf3 Rfe8 28. Ra1 Re6 29. h3 Rd8 30. Qc3 Rdd6 31. Rb1 Rd7 32. Qc4 a5 33. Rb5 Rd1+ 34. Kh2 Rd2 35. Rf5 Rd4 36. Qc3 Rdd6 37. Rc5 Rf6 38. Rc4 Rfe6 39. Rc5 Rf6 40. Qe3 Rfe6 41. Qg3 Rg6 42. Qb3 Rgf6 43. Qb7 Rfe6 44. Qc7 Rf6 45. f4 g6 46. f5 gxf5 47. Rxf5 Rde6 48. Rh5 Rh6 49. Qg3+ Kf8 50. Rd5 Rhg6 51. Qf2 Rgf6 52. Qb2 Ke7 53. Rh5 Rh6 54. Rb5 Rhf6 55. Qc3 Kf8 56. Rh5 Rh6 57. Rf5 Rhg6 58. Qf3 Rg7 59. Qf4 Kg8 60. Qc7 Kf8 61. Qc8+ Ke7 62. Rd5 Kf6 63. Qh8 Re4 64. Rh5 Ne7 65. Rh7 1-0
+
+[Event "Karpov - Kamsky FIDE World Championship Match"]
+[Site "Elista RUS"]
+[Date "1996.06.08"]
+[Round "2"]
+[White "Gata Kamsky"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8. Bd2 Nc6 9. Bd3 Be7 10. O-O O-O 11. Qe2 Nf6 12. Ne4 Bd7 13. Rad1 Rc8 14. Rfe1 Nd5 15. Nc3 Nf6 16. a3 Qc7 17. Bg5 Qa5 18. d5 exd5 19. Bxf6 Bxf6 20. Bxh7+ Kxh7 21. Rxd5 Bxc3 22. Rxa5 Bxa5 23. b4 Kg8 24. bxa5 Bg4 25. a6 bxa6 26. Qe4 Bxf3 27. Qxf3 Rfe8 28. Ra1 Re6 29. h3 Rd8 30. Qc3 Rdd6 31. Rb1 Rd7 32. Qc4 a5 33. Rb5 Rd1+ 34. Kh2 Rd2 35. Rf5 Rd4 36. Qc3 Rdd6 37. Rc5 Rf6 38. Rc4 Rfe6 39. Rc5 Rf6 40. Qe3 Rfe6 41. Qg3 Rg6 42. Qb3 Rgf6 43. Qb7 Rfe6 44. Qc7 Rf6 45. f4 g6 46. f5 gxf5 47. Rxf5 Rde6 48. Rh5 Rh6 49. Qg3+ Kf8 50. Rd5 Rhg6 51. Qf2 Rgf6 52. Qb2 Ke7 53. Rh5 Rh6 54. Rb5 Rhf6 55. Qc3 Kf8 56. Rh5 Rh6 57. Rf5 Rhg6 58. Qf3 Rg7 59. Qf4 Kg8 60. Qc7 Kf8 61. Qc8+ Ke7 62. Rd5 Kf6 63. Qh8 Re4 64. Rh5 Ne7 65. Rh7 1-0
+
+[Event "Dortmund Sparkassen"]
+[Site "Dortmund GER"]
+[Date "1994.07.22"]
+[Round "7"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "0-1"]
+[EventDate "1994.07.15"]
+[ECO "E12"]
+[WhiteElo "2780"]
+[BlackElo "2615"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ c6 8. Bxf6 Bxf6 9. cxd5 exd5 10. g3 O-O 11. Bg2 Nd7 12. O-O Be7 13. Rfd1 f5 14. e3 Bd6 15. Ne2 Qe7 16. Nf4 a5 17. Nd3 b5 18. Qc2 a4 19. Re1 Kh8 20. Rac1 Nb6 21. Nfe5 Nc4 22. f4 g5 23. Qe2 Rg8 24. Kf2 Raf8 25. Nf3 h6 26. Nfe5 Kh7 27. Kg1 Qe8 28. Qc2 Kh8 29. Nf2 Rg7 30. Re2 Bc8 31. Rce1 Rfg8 32. Nxc4 bxc4 33. Qxa4 Rb7 34. Nd1 h5 35. Kf2 Bd7 36. Qc2 Qg6 37. Kf1 h4 38. Rf2 g4 39. Kg1 Rgb8 40. Qe2 h3 41. Bf1 Bc7 42. b4 cxb3 43. Nb2 Bd6 44. a4 Qe6 45. Rd1 Ra7 46. Rd3 Kh7 47. Qd1 c5 48. Rxb3 Rxb3 49. Qxb3 c4 50. Qb6 Ra8 51. e4 fxe4 52. f5 Qe7 53. Nd1 Rb8 54. Qa5 Bc6 55. f6 Qe6 56. Ne3 Rb3 57. Qa7+ Bb7 58. a5 Bf8 59. Rf4 Bh6 60. f7 Bxf4 61. f8=Q Bxe3+ 62. Kh1 Bh6 63. Qf2 Bg7 64. a6 Rf3 65. Qe1 Bxa6 66. Be2 Rf7 67. Qc5 c3 68. Qcxc3 Bxe2 69. Qxe2 Qf6 70. Qc1 Bh6 71. Qb1 Qf5 72. Kg1 Rc7 0-1
+
+[Event "Dortmund Sparkassen"]
+[Site "Dortmund GER"]
+[Date "1994.07.22"]
+[Round "7"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "0-1"]
+[EventDate "1994.07.15"]
+[ECO "E12"]
+[WhiteElo "2780"]
+[BlackElo "2615"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ c6 8. Bxf6 Bxf6 9. cxd5 exd5 10. g3 O-O 11. Bg2 Nd7 12. O-O Be7 13. Rfd1 f5 14. e3 Bd6 15. Ne2 Qe7 16. Nf4 a5 17. Nd3 b5 18. Qc2 a4 19. Re1 Kh8 20. Rac1 Nb6 21. Nfe5 Nc4 22. f4 g5 23. Qe2 Rg8 24. Kf2 Raf8 25. Nf3 h6 26. Nfe5 Kh7 27. Kg1 Qe8 28. Qc2 Kh8 29. Nf2 Rg7 30. Re2 Bc8 31. Rce1 Rfg8 32. Nxc4 bxc4 33. Qxa4 Rb7 34. Nd1 h5 35. Kf2 Bd7 36. Qc2 Qg6 37. Kf1 h4 38. Rf2 g4 39. Kg1 Rgb8 40. Qe2 h3 41. Bf1 Bc7 42. b4 cxb3 43. Nb2 Bd6 44. a4 Qe6 45. Rd1 Ra7 46. Rd3 Kh7 47. Qd1 c5 48. Rxb3 Rxb3 49. Qxb3 c4 50. Qb6 Ra8 51. e4 fxe4 52. f5 Qe7 53. Nd1 Rb8 54. Qa5 Bc6 55. f6 Qe6 56. Ne3 Rb3 57. Qa7+ Bb7 58. a5 Bf8 59. Rf4 Bh6 60. f7 Bxf4 61. f8=Q Bxe3+ 62. Kh1 Bh6 63. Qf2 Bg7 64. a6 Rf3 65. Qe1 Bxa6 66. Be2 Rf7 67. Qc5 c3 68. Qcxc3 Bxe2 69. Qxe2 Qf6 70. Qc1 Bh6 71. Qb1 Qf5 72. Kg1 Rc7 0-1
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1994.02.27"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[EventDate "1994.??.??"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 Nc6 6. Bg2 Bc5 7. Nb3 Be7 8. Nc3 O-O 9. O-O d6 10. Bf4 Nh5 11. e3 Nxf4 12. exf4 Bd7 13. Qd2 Qb8 14. Rfe1 g6 15. h4 a6 16. h5 b5 17. hxg6 hxg6 18. Nc5 dxc5 19. Qxd7 Rc8 20. Rxe6 Ra7 21. Rxg6+ fxg6 22. Qe6+ Kg7 23. Bxc6 Rd8 24. cxb5 Bf6 25. Ne4 Bd4 26. bxa6 Qb6 27. Rd1 Qxa6 28. Rxd4 Rxd4 29. Qf6+ Kg8 30. Qxg6+ Kf8 31. Qe8+ Kg7 32. Qe5+ Kg8 33. Nf6+ Kf7 34. Be8+ Kf8 35. Qxc5+ Qd6 36. Qxa7 Qxf6 37. Bh5 Rd2 38. b3 Rb2 39. Kg2 1-0
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1994.02.27"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[EventDate "1994.??.??"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 Nc6 6. Bg2 Bc5 7. Nb3 Be7 8. Nc3 O-O 9. O-O d6 10. Bf4 Nh5 11. e3 Nxf4 12. exf4 Bd7 13. Qd2 Qb8 14. Rfe1 g6 15. h4 a6 16. h5 b5 17. hxg6 hxg6 18. Nc5 dxc5 19. Qxd7 Rc8 20. Rxe6 Ra7 21. Rxg6+ fxg6 22. Qe6+ Kg7 23. Bxc6 Rd8 24. cxb5 Bf6 25. Ne4 Bd4 26. bxa6 Qb6 27. Rd1 Qxa6 28. Rxd4 Rxd4 29. Qf6+ Kg8 30. Qxg6+ Kf8 31. Qe8+ Kg7 32. Qe5+ Kg8 33. Nf6+ Kf7 34. Be8+ Kf8 35. Qxc5+ Qd6 36. Qxa7 Qxf6 37. Bh5 Rd2 38. b3 Rb2 39. Kg2 1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1994.04.??"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A43"]
+[WhiteElo "2740"]
+[BlackElo "2640"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. Nc3 Nxd5 5. Nxd5 exd5 6. Qxd5 Be7 7. e4 O-O 8. Be2 d6 9. O-O Nc6 10. c3 Be6 11. Qh5 h6 12. Rd1 Re8 13. Bf4 Bf8 14. Nd2 g6 15. Qf3 d5 16. Qg3 Qe7 17. exd5 Bxd5 18. Bf1 Qf6 19. Nb3 Rad8 20. Rd2 Be6 21. Bc7 Rxd2 22. Nxd2 Bf5 23. Nc4 Re4 24. Ne3 Bc8 25. Rd1 Re8 26. h3 Qg5 27. Qf3 Kg7 28. Bf4 Qe7 29. Nd5 Qe4 30. Nf6 Kxf6 31. Be5+ Kxe5 32. Qxe4+ Kxe4 33. Re1+ Kf5 34. Rxe8 Be6 35. Rxf8 Bxa2 36. Rc8 1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1994.04.??"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A43"]
+[WhiteElo "2740"]
+[BlackElo "2640"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. Nc3 Nxd5 5. Nxd5 exd5 6. Qxd5 Be7 7. e4 O-O 8. Be2 d6 9. O-O Nc6 10. c3 Be6 11. Qh5 h6 12. Rd1 Re8 13. Bf4 Bf8 14. Nd2 g6 15. Qf3 d5 16. Qg3 Qe7 17. exd5 Bxd5 18. Bf1 Qf6 19. Nb3 Rad8 20. Rd2 Be6 21. Bc7 Rxd2 22. Nxd2 Bf5 23. Nc4 Re4 24. Ne3 Bc8 25. Rd1 Re8 26. h3 Qg5 27. Qf3 Kg7 28. Bf4 Qe7 29. Nd5 Qe4 30. Nf6 Kxf6 31. Be5+ Kxe5 32. Qxe4+ Kxe4 33. Re1+ Kf5 34. Rxe8 Be6 35. Rxf8 Bxa2 36. Rc8 1-0
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1993.03.09"]
+[Round "10"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[EventDate "1993.02.23"]
+[ECO "E86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2 Nbd7 9. Rd1 a6 10. dxe5 Nxe5 11. b3 b5 12. cxb5 axb5 13. Qxd6 Nfd7 14. f4 b4 15. Nb1 Ng4 16. Bd4 Bxd4 17. Qxd4 Rxa2 18. h3 c5 19. Qg1 Ngf6 20. e5 Ne4 21. h4 c4 22. Nc1 c3 23. Nxa2 c2 24. Qd4 cxd1=Q+ 25. Kxd1 Ndc5 26. Qxd8 Rxd8+ 27. Kc2 Nf2 0-1
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1993.03.09"]
+[Round "10"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[EventDate "1993.02.23"]
+[ECO "E86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2 Nbd7 9. Rd1 a6 10. dxe5 Nxe5 11. b3 b5 12. cxb5 axb5 13. Qxd6 Nfd7 14. f4 b4 15. Nb1 Ng4 16. Bd4 Bxd4 17. Qxd4 Rxa2 18. h3 c5 19. Qg1 Ngf6 20. e5 Ne4 21. h4 c4 22. Nc1 c3 23. Nxa2 c2 24. Qd4 cxd1=Q+ 25. Kxd1 Ndc5 26. Qxd8 Rxd8+ 27. Kc2 Nf2 0-1
+
+[Event "Kasparov - Karpov World Championship Match"]
+[Site "Lyon FRA"]
+[Date "1990.12.15"]
+[Round "20"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 f5 18. Rae3 Nf6 19. Nh2 Kh8 20. b3 bxa4 21. bxa4 c4 22. Bb2 fxe4 23. Nxe4 Nfxd5 24. Rg3 Re6 25. Ng4 Qe8 26. Nxh6 c3 27. Nf5 cxb2 28. Qg4 Bc8 29. Qh4+ Rh6 30. Nxh6 gxh6 31. Kh2 Qe5 32. Ng5 Qf6 33. Re8 Bf5 34. Qxh6+ Qxh6 35. Nf7+ Kh7 36. Bxf5+ Qg6 37. Bxg6+ Kg7 38. Rxa8 Be7 39. Rb8 a5 40. Be4+ Kxf7 41. Bxd5+ 1-0
+
+[Event "Kasparov - Karpov World Championship Match"]
+[Site "Lyon FRA"]
+[Date "1990.12.15"]
+[Round "20"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 f5 18. Rae3 Nf6 19. Nh2 Kh8 20. b3 bxa4 21. bxa4 c4 22. Bb2 fxe4 23. Nxe4 Nfxd5 24. Rg3 Re6 25. Ng4 Qe8 26. Nxh6 c3 27. Nf5 cxb2 28. Qg4 Bc8 29. Qh4+ Rh6 30. Nxh6 gxh6 31. Kh2 Qe5 32. Ng5 Qf6 33. Re8 Bf5 34. Qxh6+ Qxh6 35. Nf7+ Kh7 36. Bxf5+ Qg6 37. Bxg6+ Kg7 38. Rxa8 Be7 39. Rb8 a5 40. Be4+ Kxf7 41. Bxd5+ 1-0
+
+[Event "Kasparov - Karpov World Championship Match"]
+[Site "Seville ESP"]
+[Date "1987.12.18"]
+[Round "24"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. c4 { I can look back at my chess career and pick out more
+than a few crisis points, but only one Mount Everest. I would
+like to share the tale to investigate the means I used in
+winning the most important game of my life. ... After a tough,
+prolonged defense I suffered one of the worst hallucinations
+of my career and blundered to a loss in game 23. Suddenly,
+Karpov was up by a point and was only a draw away from taking
+back the crown he had lost to me two years earlier. The very
+next day after this catastrophe, I had to take the white
+pieces into a must-win game 24. Caissa, the goddess of chess,
+had punished me for my conservative play, for betraying my
+nature. I would not be allowed to hold on to my title without
+winning a game in the second half of the match. Only once
+before in chess history had the champion won a final game to
+retain his title. With his back against the wall, Emanuel
+Lasker beat Carl Schlechter in the last game of their match in
+1910. The win allowed Lasker to draw the match and keep his
+title for a further eleven years. The Austrian Schlechter had,
+like Karpov, a reputation as a defensive wizard. In fact, his
+uncharacteristically aggressive play in the final game against
+Lasker has led some historians to believe that the rules of
+that particular match required him to win by two points. When
+preparing for my turn on the other side of this situation, I
+recalled that critical encounter. What strategy should I
+employ with the white pieces in this must-win final game?
+There was more to think about than game 23 and game 24, of
+course. These were also games 119 and 120 between us, an
+extraordinary number of top-level encounters between the same
+two players, all played in a span of thirty-nine months. It
+felt like one long match, with this final game in December,
+1987, the climax of what we had started in September 1984. My
+plan for the final game had to consider not only what I would
+like best but what my opponent would like least. And what
+could be more annoying for Karpov than my turning the tables
+and playing like Karpov?" -- Garry Kasparov, excerpt from "How
+Life Imitates Chess", 2007, Bloomsbury Publishing USA, ISBN:
+1596913878. } 1... e6 2. Nf3 Nf6 3. g3 d5 4. b3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8. e3 Nbd7 9. Nc3 Ne4 10. Ne2 a5 11. d3 Bf6 12. Qc2 Bxb2 13. Qxb2 Nd6 14. cxd5 Bxd5 15. d4 c5 16. Rfd1 Rc8 17. Nf4 Bxf3 18. Bxf3 Qe7 19. Rac1 Rfd8 20. dxc5 Nxc5 21. b4 axb4 22. Qxb4 Qa7 23. a3 Nf5 24. Rb1 Rxd1+ 25. Rxd1 Qc7 26. Nd3 h6 27. Rc1 Ne7 28. Qb5 Nf5 29. a4 Nd6 30. Qb1 Qa7 31. Ne5 { Seeing a chance to play for
+an attack, I moved my knight to the central e5 square,
+offering a pawn. Karpov took the bait and grabbed the pawn, a
+temptation that could have led to disaster. And he had to play
+quickly now, as it was still a long way to move 40, when, by
+the rules then in force, the game would be adjourned and more
+time added before continuation the next day. -- Kasparov, "How
+Life Imitates Chess" } 31... Nxa4 32. Rxc8+ { I exchanged rooks,
+leaving me with queen, knight, and bishop against his queen
+and two knights. He had an extra pawn, but I had seen a
+tactical possibility that would give me a powerful attack. His
+pieces were dangerously uncoordinated, and his king was
+vulnerable. If I could penetrate into his position with my
+queen, I could exploit both of these factors at the same
+time. The question was where to move my queen on move
+33. Karpov could only wait, knowing he would have to reply
+almost immediately or he wouldn't have enough time to make the
+next eight moves without losing on time. -- Kasparov, "How
+Life Imitates Chess" } 32... Nxc8 33. Qd1 { Lost in thought, I was
+startled by a tap on my shoulder. The Dutch arbiter leaned
+over and said, "Mr. Kasparov, you have to write the moves." I
+had become so wrapped up in the game that I had forgotten to
+make note of the last two moves on my score sheet as required
+by the rules. The arbiter was of course correct to remind me
+of the regulations, but what a moment to be strict!
+Distracted, I played my queen to the wrong square. I missed a
+subtlety and failed to see why a different move with the same
+idea would have been stronger. My move gave Karpov a clever
+defense, and suddenly he was one move from reclaiming his
+title. But under pressure from the clock, he missed the best
+move (though our exchange of errors would not be discovered
+until well after the game), and the momentum was still with
+me. -- Kasparov, "How Life Imitates Chess" } 33... Ne7 34. Qd8+ Kh7 35. Nxf7 Ng6 36. Qe8 Qe7 37. Qxa4 Qxf7 38. Be4 Kg8 39. Qb5 Nf8 40. Qxb6 { Karpov's best opportunity to defend had passed, and
+my forces surrounded the black king. I regained my sacrificed
+pawn with interest, and by the time we reached move 40, ending
+the time scramble, my position was clearly superior. The game
+was adjourned until the next day with the title still up in
+the air. It was going to be a long night. Getting a good
+night's sleep before the game had been wise, but now there was
+work to do. Thirteen pieces were still on the board, including
+queens, too much material for definitive endgame analysis. I
+had an extra pawn, but with such limited material, Karpov had
+definite chances of a draw. A lot of chess was still ahead. --
+Kasparov, "How Life Imitates Chess" } 40... Qf6 41. Qb5 Qe7 42. Kg2 { The best news was that I could play this position forever,
+maneuvering around to provoke a mistake by my opponent. Black
+would be tied down on defense the entire time, and Karpov knew
+it. The prospect of such prolonged torture took its toll; I
+could see it in his eyes when he walked on the stage a few
+minutes after I did. His fatalistic expression told me that he
+had already lost the game psychologically, which boosted my
+confidence. -- Kasparov, "How Life Imitates Chess" } 42... g6 { The
+maneuvering began. I remember being surprised when early on
+Karpov made a pawn push that my team and I had established as
+bad for black's defensive chances. Apparently Karpov and his
+team disagreed with our analysis, or perhaps it was a
+psychological error. Sometimes the hardest thing to do in a
+pressure situation is to allow the tension to persist. The
+temptation is to make a decision, any decision, even if it is
+an inferior choice. And Karpov's move made the position more
+concrete, reducing the level of uncertainty. But in my favor,
+his structure was now fixed, presenting me with clearer
+targets. Convinced of the quality of our analysis, I took
+Karpov's significant deviation from it as a mistake, not a
+potential improvement, further increasing my confidence. --
+Kasparov, "How Life Imitates Chess" } 43. Qa5 Qg7 44. Qc5 Qf7 45. h4 h5 46. Qc6 Qe7 47. Bd3 Qf7 48. Qd6 Kg7 49. e4 Kg8 50. Bc4 Kg7 51. Qe5+ Kg8 52. Qd6 Kg7 53. Bb5 Kg8 54. Bc6 Qa7 55. Qb4 Qc7 56. Qb7 Qd8 57. e5 Qa5 58. Be8 Qc5 59. Qf7+ Kh8 60. Ba4 Qd5+ 61. Kh2 Qc5 62. Bb3 Qc8 63. Bd1 Qc5 64. Kg2 { After another ten moves of
+steady squeezing, I began to feel the win was in the
+bag. Karpov's pieces were pinned up against the wall, and a
+little more maneuvering would lead to decisive material
+gain. Later I heard that FIDE President Florencio Campomanes
+was busy calling a special meeting in another room to decide
+how to handle the closing ceremony, which was scheduled to be
+held on the same day. But it still looked as if this game
+could last forever; what was to be done? Two crises were
+averted at once when someone ran into the meeting room to
+announce, "Karpov resigned!" It was without question the
+loudest and longest standing ovation I had ever received
+outside my native country. The theater thundered as Spanish
+television cut from futbol to broadcast the conclusion of the
+match. I had done what Karpov had failed to do in 1985: won
+the final game and drawn the match to retain my title. This
+time I would have a good, long time to enjoy it. -- Garry
+Kasparov, excerpt from "How Life Imitates Chess", 2007,
+Bloomsbury Publishing USA, ISBN: 1596913878. } 1-0
+
+[Event "Kasparov - Karpov World Championship Match"]
+[Site "Seville ESP"]
+[Date "1987.12.18"]
+[Round "24"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. c4 { I can look back at my chess career and pick out more
+than a few crisis points, but only one Mount Everest. I would
+like to share the tale to investigate the means I used in
+winning the most important game of my life. ... After a tough,
+prolonged defense I suffered one of the worst hallucinations
+of my career and blundered to a loss in game 23. Suddenly,
+Karpov was up by a point and was only a draw away from taking
+back the crown he had lost to me two years earlier. The very
+next day after this catastrophe, I had to take the white
+pieces into a must-win game 24. Caissa, the goddess of chess,
+had punished me for my conservative play, for betraying my
+nature. I would not be allowed to hold on to my title without
+winning a game in the second half of the match. Only once
+before in chess history had the champion won a final game to
+retain his title. With his back against the wall, Emanuel
+Lasker beat Carl Schlechter in the last game of their match in
+1910. The win allowed Lasker to draw the match and keep his
+title for a further eleven years. The Austrian Schlechter had,
+like Karpov, a reputation as a defensive wizard. In fact, his
+uncharacteristically aggressive play in the final game against
+Lasker has led some historians to believe that the rules of
+that particular match required him to win by two points. When
+preparing for my turn on the other side of this situation, I
+recalled that critical encounter. What strategy should I
+employ with the white pieces in this must-win final game?
+There was more to think about than game 23 and game 24, of
+course. These were also games 119 and 120 between us, an
+extraordinary number of top-level encounters between the same
+two players, all played in a span of thirty-nine months. It
+felt like one long match, with this final game in December,
+1987, the climax of what we had started in September 1984. My
+plan for the final game had to consider not only what I would
+like best but what my opponent would like least. And what
+could be more annoying for Karpov than my turning the tables
+and playing like Karpov?" -- Garry Kasparov, excerpt from "How
+Life Imitates Chess", 2007, Bloomsbury Publishing USA, ISBN:
+1596913878. } 1... e6 2. Nf3 Nf6 3. g3 d5 4. b3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8. e3 Nbd7 9. Nc3 Ne4 10. Ne2 a5 11. d3 Bf6 12. Qc2 Bxb2 13. Qxb2 Nd6 14. cxd5 Bxd5 15. d4 c5 16. Rfd1 Rc8 17. Nf4 Bxf3 18. Bxf3 Qe7 19. Rac1 Rfd8 20. dxc5 Nxc5 21. b4 axb4 22. Qxb4 Qa7 23. a3 Nf5 24. Rb1 Rxd1+ 25. Rxd1 Qc7 26. Nd3 h6 27. Rc1 Ne7 28. Qb5 Nf5 29. a4 Nd6 30. Qb1 Qa7 31. Ne5 { Seeing a chance to play for
+an attack, I moved my knight to the central e5 square,
+offering a pawn. Karpov took the bait and grabbed the pawn, a
+temptation that could have led to disaster. And he had to play
+quickly now, as it was still a long way to move 40, when, by
+the rules then in force, the game would be adjourned and more
+time added before continuation the next day. -- Kasparov, "How
+Life Imitates Chess" } 31... Nxa4 32. Rxc8+ { I exchanged rooks,
+leaving me with queen, knight, and bishop against his queen
+and two knights. He had an extra pawn, but I had seen a
+tactical possibility that would give me a powerful attack. His
+pieces were dangerously uncoordinated, and his king was
+vulnerable. If I could penetrate into his position with my
+queen, I could exploit both of these factors at the same
+time. The question was where to move my queen on move
+33. Karpov could only wait, knowing he would have to reply
+almost immediately or he wouldn't have enough time to make the
+next eight moves without losing on time. -- Kasparov, "How
+Life Imitates Chess" } 32... Nxc8 33. Qd1 { Lost in thought, I was
+startled by a tap on my shoulder. The Dutch arbiter leaned
+over and said, "Mr. Kasparov, you have to write the moves." I
+had become so wrapped up in the game that I had forgotten to
+make note of the last two moves on my score sheet as required
+by the rules. The arbiter was of course correct to remind me
+of the regulations, but what a moment to be strict!
+Distracted, I played my queen to the wrong square. I missed a
+subtlety and failed to see why a different move with the same
+idea would have been stronger. My move gave Karpov a clever
+defense, and suddenly he was one move from reclaiming his
+title. But under pressure from the clock, he missed the best
+move (though our exchange of errors would not be discovered
+until well after the game), and the momentum was still with
+me. -- Kasparov, "How Life Imitates Chess" } 33... Ne7 34. Qd8+ Kh7 35. Nxf7 Ng6 36. Qe8 Qe7 37. Qxa4 Qxf7 38. Be4 Kg8 39. Qb5 Nf8 40. Qxb6 { Karpov's best opportunity to defend had passed, and
+my forces surrounded the black king. I regained my sacrificed
+pawn with interest, and by the time we reached move 40, ending
+the time scramble, my position was clearly superior. The game
+was adjourned until the next day with the title still up in
+the air. It was going to be a long night. Getting a good
+night's sleep before the game had been wise, but now there was
+work to do. Thirteen pieces were still on the board, including
+queens, too much material for definitive endgame analysis. I
+had an extra pawn, but with such limited material, Karpov had
+definite chances of a draw. A lot of chess was still ahead. --
+Kasparov, "How Life Imitates Chess" } 40... Qf6 41. Qb5 Qe7 42. Kg2 { The best news was that I could play this position forever,
+maneuvering around to provoke a mistake by my opponent. Black
+would be tied down on defense the entire time, and Karpov knew
+it. The prospect of such prolonged torture took its toll; I
+could see it in his eyes when he walked on the stage a few
+minutes after I did. His fatalistic expression told me that he
+had already lost the game psychologically, which boosted my
+confidence. -- Kasparov, "How Life Imitates Chess" } 42... g6 { The
+maneuvering began. I remember being surprised when early on
+Karpov made a pawn push that my team and I had established as
+bad for black's defensive chances. Apparently Karpov and his
+team disagreed with our analysis, or perhaps it was a
+psychological error. Sometimes the hardest thing to do in a
+pressure situation is to allow the tension to persist. The
+temptation is to make a decision, any decision, even if it is
+an inferior choice. And Karpov's move made the position more
+concrete, reducing the level of uncertainty. But in my favor,
+his structure was now fixed, presenting me with clearer
+targets. Convinced of the quality of our analysis, I took
+Karpov's significant deviation from it as a mistake, not a
+potential improvement, further increasing my confidence. --
+Kasparov, "How Life Imitates Chess" } 43. Qa5 Qg7 44. Qc5 Qf7 45. h4 h5 46. Qc6 Qe7 47. Bd3 Qf7 48. Qd6 Kg7 49. e4 Kg8 50. Bc4 Kg7 51. Qe5+ Kg8 52. Qd6 Kg7 53. Bb5 Kg8 54. Bc6 Qa7 55. Qb4 Qc7 56. Qb7 Qd8 57. e5 Qa5 58. Be8 Qc5 59. Qf7+ Kh8 60. Ba4 Qd5+ 61. Kh2 Qc5 62. Bb3 Qc8 63. Bd1 Qc5 64. Kg2 { After another ten moves of
+steady squeezing, I began to feel the win was in the
+bag. Karpov's pieces were pinned up against the wall, and a
+little more maneuvering would lead to decisive material
+gain. Later I heard that FIDE President Florencio Campomanes
+was busy calling a special meeting in another room to decide
+how to handle the closing ceremony, which was scheduled to be
+held on the same day. But it still looked as if this game
+could last forever; what was to be done? Two crises were
+averted at once when someone ran into the meeting room to
+announce, "Karpov resigned!" It was without question the
+loudest and longest standing ovation I had ever received
+outside my native country. The theater thundered as Spanish
+television cut from futbol to broadcast the conclusion of the
+match. I had done what Karpov had failed to do in 1985: won
+the final game and drawn the match to retain my title. This
+time I would have a good, long time to enjoy it. -- Garry
+Kasparov, excerpt from "How Life Imitates Chess", 2007,
+Bloomsbury Publishing USA, ISBN: 1596913878. } 1-0
+
+[Event "Kasparov - Karpov World Championship Rematch"]
+[Site "London ENG / Leningrad URS"]
+[Date "1986.09.15"]
+[Round "16"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 c4 18. Nd4 Qf6 19. N2f3 Nc5 20. axb5 axb5 21. Nxb5 Rxa3 22. Nxa3 Ba6 23. Re3 Rb8 24. e5 dxe5 25. Nxe5 Nbd3 26. Ng4 Qb6 27. Rg3 g6 28. Bxh6 Qxb2 29. Qf3 Nd7 30. Bxf8 Kxf8 31. Kh2 Rb3 32. Bxd3 cxd3 33. Qf4 Qxa3 34. Nh6 Qe7 35. Rxg6 Qe5 36. Rg8+ Ke7 37. d6+ Ke6 38. Re8+ Kd5 39. Rxe5+ Nxe5 40. d7 Rb8 41. Nxf7 1-0
+
+[Event "Kasparov - Karpov World Championship Rematch"]
+[Site "London ENG / Leningrad URS"]
+[Date "1986.09.15"]
+[Round "16"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 c4 18. Nd4 Qf6 19. N2f3 Nc5 20. axb5 axb5 21. Nxb5 Rxa3 22. Nxa3 Ba6 23. Re3 Rb8 24. e5 dxe5 25. Nxe5 Nbd3 26. Ng4 Qb6 27. Rg3 g6 28. Bxh6 Qxb2 29. Qf3 Nd7 30. Bxf8 Kxf8 31. Kh2 Rb3 32. Bxd3 cxd3 33. Qf4 Qxa3 34. Nh6 Qe7 35. Rxg6 Qe5 36. Rg8+ Ke7 37. d6+ Ke6 38. Re8+ Kd5 39. Rxe5+ Nxe5 40. d7 Rb8 41. Nxf7 1-0
+
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.10.15"]
+[Round "16"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 d5 9. cxd5 exd5 10. exd5 Nb4 11. Be2 Bc5 12. O-O O-O 13. Bf3 Bf5 14. Bg5 Re8 15. Qd2 b5 16. Rad1 Nd3 17. Nab1 h6 18. Bh4 b4 19. Na4 Bd6 20. Bg3 Rc8 21. b3 g5 22. Bxd6 Qxd6 23. g3 Nd7 24. Bg2 Qf6 25. a3 a5 26. axb4 axb4 27. Qa2 Bg6 28. d6 g4 29. Qd2 Kg7 30. f3 Qxd6 31. fxg4 Qd4+ 32. Kh1 Nf6 33. Rf4 Ne4 34. Qxd3 Nf2+ 35. Rxf2 Bxd3 36. Rfd2 Qe3 37. Rxd3 Rc1 38. Nb2 Qf2 39. Nd2 Rxd1+ 40. Nxd1 Re1+ 0-1
+
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.10.15"]
+[Round "16"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 d5 9. cxd5 exd5 10. exd5 Nb4 11. Be2 Bc5 12. O-O O-O 13. Bf3 Bf5 14. Bg5 Re8 15. Qd2 b5 16. Rad1 Nd3 17. Nab1 h6 18. Bh4 b4 19. Na4 Bd6 20. Bg3 Rc8 21. b3 g5 22. Bxd6 Qxd6 23. g3 Nd7 24. Bg2 Qf6 25. a3 a5 26. axb4 axb4 27. Qa2 Bg6 28. d6 g4 29. Qd2 Kg7 30. f3 Qxd6 31. fxg4 Qd4+ 32. Kh1 Nf6 33. Rf4 Ne4 34. Qxd3 Nf2+ 35. Rxf2 Bxd3 36. Rfd2 Qe3 37. Rxd3 Rc1 38. Nb2 Qf2 39. Nd2 Rxd1+ 40. Nxd1 Re1+ 0-1
+
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.09.12"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qc2 Na6 9. Rd1 c5 10. dxc5 Qa5 11. cxd5 Nxc5 12. Qd2 Rd8 13. Nd4 exd5 14. Be2 Qb6 15. O-O Ne4 16. Qc2 Nxc3 17. Qxc3 Be6 18. Qc2 Rac8 19. Qb1 Rc7 20. Rd2 Rdc8 21. Nxe6 fxe6 22. Bg4 Rc4 23. h3 Qc6 24. Qd3 Kh8 25. Rfd1 a5 26. b3 Rc3 27. Qe2 Rf8 28. Bh5 b5 29. Bg6 Bd8 30. Bd3 b4 31. Qg4 Qe8 32. e4 Bg5 33. Rc2 Rxc2 34. Bxc2 Qc6 35. Qe2 Qc5 36. Rf1 Qc3 37. exd5 exd5 38. Bb1 Qd2 39. Qe5 Rd8 40. Qf5 Kg8 41. Qe6+ Kh8 42. Qg6 Kg8 43. Qe6+ Kh8 44. Bf5 Qc3 45. Qg6 Kg8 46. Be6+ Kh8 47. Bf5 Kg8 48. g3 Kf8 49. Kg2 Qf6 50. Qh7 Qf7 51. h4 Bd2 52. Rd1 Bc3 53. Rd3 Rd6 54. Rf3 Ke7 55. Qh8 d4 56. Qc8 Rf6 57. Qc5+ Ke8 58. Rf4 Qb7+ 59. Re4+ Kf7 60. Qc4+ Kf8 61. Bh7 Rf7 62. Qe6 Qd7 63. Qe5 1-0
+
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.09.12"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qc2 Na6 9. Rd1 c5 10. dxc5 Qa5 11. cxd5 Nxc5 12. Qd2 Rd8 13. Nd4 exd5 14. Be2 Qb6 15. O-O Ne4 16. Qc2 Nxc3 17. Qxc3 Be6 18. Qc2 Rac8 19. Qb1 Rc7 20. Rd2 Rdc8 21. Nxe6 fxe6 22. Bg4 Rc4 23. h3 Qc6 24. Qd3 Kh8 25. Rfd1 a5 26. b3 Rc3 27. Qe2 Rf8 28. Bh5 b5 29. Bg6 Bd8 30. Bd3 b4 31. Qg4 Qe8 32. e4 Bg5 33. Rc2 Rxc2 34. Bxc2 Qc6 35. Qe2 Qc5 36. Rf1 Qc3 37. exd5 exd5 38. Bb1 Qd2 39. Qe5 Rd8 40. Qf5 Kg8 41. Qe6+ Kh8 42. Qg6 Kg8 43. Qe6+ Kh8 44. Bf5 Qc3 45. Qg6 Kg8 46. Be6+ Kh8 47. Bf5 Kg8 48. g3 Kf8 49. Kg2 Qf6 50. Qh7 Qf7 51. h4 Bd2 52. Rd1 Bc3 53. Rd3 Rd6 54. Rf3 Ke7 55. Qh8 d4 56. Qc8 Rf6 57. Qc5+ Ke8 58. Rf4 Qb7+ 59. Re4+ Kf7 60. Qc4+ Kf8 61. Bh7 Rf7 62. Qe6 Qd7 63. Qe5 1-0
+
+[Event "Karpov - Kasparov World Championship Match 1984/85"]
+[Site "Moscow URS"]
+[Date "1984.10.05"]
+[Round "9"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4 14. Nf5 Rc8 15. Bd4 Bc5 16. Bxc5 Rxc5 17. Ne3 Be6 18. Rad1 Qc8 19. Qa4 Rd8 20. Rd3 a6 21. Rfd1 Nc4 22. Nxc4 Rxc4 23. Qa5 Rc5 24. Qb6 Rd7 25. Rd4 Qc7 26. Qxc7 Rdxc7 27. h3 h5 28. a3 g6 29. e3 Kg7 30. Kh2 Rc4 31. Bf3 b5 32. Kg2 R7c5 33. Rxc4 Rxc4 34. Rd4 Kf8 35. Be2 Rxd4 36. exd4 Ke7 37. Na2 Bc8 38. Nb4 Kd6 39. f3 Ng8 40. h4 Nh6 41. Kf2 Nf5 42. Nc2 f6 43. Bd3 g5 44. Bxf5 Bxf5 45. Ne3 Bb1 46. b4 gxh4 47. Ng2 hxg3+ 48. Kxg3 Ke6 49. Nf4+ Kf5 50. Nxh5 Ke6 51. Nf4+ Kd6 52. Kg4 Bc2 53. Kh5 Bd1 54. Kg6 Ke7 55. Nxd5+ Ke6 56. Nc7+ Kd7 57. Nxa6 Bxf3 58. Kxf6 Kd6 59. Kf5 Kd5 60. Kf4 Bh1 61. Ke3 Kc4 62. Nc5 Bc6 63. Nd3 Bg2 64. Ne5+ Kc3 65. Ng6 Kc4 66. Ne7 Bb7 67. Nf5 Bg2 68. Nd6+ Kb3 69. Nxb5 Ka4 70. Nd6 1-0
+
+[Event "Karpov - Kasparov World Championship Match 1984/85"]
+[Site "Moscow URS"]
+[Date "1984.10.05"]
+[Round "9"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4 14. Nf5 Rc8 15. Bd4 Bc5 16. Bxc5 Rxc5 17. Ne3 Be6 18. Rad1 Qc8 19. Qa4 Rd8 20. Rd3 a6 21. Rfd1 Nc4 22. Nxc4 Rxc4 23. Qa5 Rc5 24. Qb6 Rd7 25. Rd4 Qc7 26. Qxc7 Rdxc7 27. h3 h5 28. a3 g6 29. e3 Kg7 30. Kh2 Rc4 31. Bf3 b5 32. Kg2 R7c5 33. Rxc4 Rxc4 34. Rd4 Kf8 35. Be2 Rxd4 36. exd4 Ke7 37. Na2 Bc8 38. Nb4 Kd6 39. f3 Ng8 40. h4 Nh6 41. Kf2 Nf5 42. Nc2 f6 43. Bd3 g5 44. Bxf5 Bxf5 45. Ne3 Bb1 46. b4 gxh4 47. Ng2 hxg3+ 48. Kxg3 Ke6 49. Nf4+ Kf5 50. Nxh5 Ke6 51. Nf4+ Kd6 52. Kg4 Bc2 53. Kh5 Bd1 54. Kg6 Ke7 55. Nxd5+ Ke6 56. Nc7+ Kd7 57. Nxa6 Bxf3 58. Kxf6 Kd6 59. Kf5 Kd5 60. Kf4 Bh1 61. Ke3 Kc4 62. Nc5 Bc6 63. Nd3 Bg2 64. Ne5+ Kc3 65. Ng6 Kc4 66. Ne7 Bb7 67. Nf5 Bg2 68. Nd6+ Kb3 69. Nxb5 Ka4 70. Nd6 1-0
+
+[Event "Karpov - Kasparov World Championship Match 1984/85"]
+[Site "Moscow URS"]
+[Date "1984.09.26"]
+[Round "6"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O d5 9. Ne5 c6 10. Bc3 Nfd7 11. Nxd7 Nxd7 12. Nd2 Rc8 13. e4 b5 14. Re1 dxc4 15. bxc4 Nb6 16. cxb5 cxb5 17. Rc1 Ba3 18. Rc2 Na4 19. Ba1 Rxc2 20. Qxc2 Qa5 21. Qd1 Rc8 22. Nb3 Qb4 23. d5 exd5 24. exd5 Nc3 25. Qd4 Qxd4 26. Nxd4 Nxa2 27. Nc6 Bc5 28. Bh3 Ra8 29. Bd4 Bxd4 30. Nxd4 Kf8 31. d6 Nc3 32. Nc6 Bb7 33. Bg2 Re8 34. Ne5 f6 35. d7 Rd8 36. Bxb7 fxe5 37. Bc6 Ke7 38. Bxb5 Nxb5 39. Rxe5+ Kxd7 40. Rxb5 Kc6 41. Rh5 h6 42. Re5 Ra8 43. Ra5 Kb6 44. Ra2 a5 45. Kf1 a4 46. Ke2 Kc5 47. Kd2 a3 48. Kc1 Kd4 49. f4 Ke4 50. Kb1 Rb8+ 51. Ka1 Rb2 52. Rxa3 Rxh2 53. Kb1 Rd2 54. Ra6 Kf5 55. Ra7 g5 56. Ra6 g4 57. Rxh6 Rg2 58. Rh5+ Ke4 59. f5 Rf2 60. Kc1 Kf3 61. Kd1 Kxg3 62. Ke1 Kg2 63. Rg5 g3 64. Rh5 Rf4 65. Ke2 Re4+ 66. Kd3 Kf3 67. Rh1 g2 68. Rh3+ Kg4 69. Rh8 Rf4 70. Ke2 Rxf5 0-1
+
+[Event "Karpov - Kasparov World Championship Match 1984/85"]
+[Site "Moscow URS"]
+[Date "1984.09.26"]
+[Round "6"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O d5 9. Ne5 c6 10. Bc3 Nfd7 11. Nxd7 Nxd7 12. Nd2 Rc8 13. e4 b5 14. Re1 dxc4 15. bxc4 Nb6 16. cxb5 cxb5 17. Rc1 Ba3 18. Rc2 Na4 19. Ba1 Rxc2 20. Qxc2 Qa5 21. Qd1 Rc8 22. Nb3 Qb4 23. d5 exd5 24. exd5 Nc3 25. Qd4 Qxd4 26. Nxd4 Nxa2 27. Nc6 Bc5 28. Bh3 Ra8 29. Bd4 Bxd4 30. Nxd4 Kf8 31. d6 Nc3 32. Nc6 Bb7 33. Bg2 Re8 34. Ne5 f6 35. d7 Rd8 36. Bxb7 fxe5 37. Bc6 Ke7 38. Bxb5 Nxb5 39. Rxe5+ Kxd7 40. Rxb5 Kc6 41. Rh5 h6 42. Re5 Ra8 43. Ra5 Kb6 44. Ra2 a5 45. Kf1 a4 46. Ke2 Kc5 47. Kd2 a3 48. Kc1 Kd4 49. f4 Ke4 50. Kb1 Rb8+ 51. Ka1 Rb2 52. Rxa3 Rxh2 53. Kb1 Rd2 54. Ra6 Kf5 55. Ra7 g5 56. Ra6 g4 57. Rxh6 Rg2 58. Rh5+ Ke4 59. f5 Rf2 60. Kc1 Kf3 61. Kd1 Kxg3 62. Ke1 Kg2 63. Rg5 g3 64. Rh5 Rf4 65. Ke2 Re4+ 66. Kd3 Kf3 67. Rh1 g2 68. Rh3+ Kg4 69. Rh8 Rf4 70. Ke2 Rxf5 0-1
+
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.20"]
+[Round "1"]
+[White "Anatoly Karpov"]
+[Black "Anthony Miles"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 { Notes by Tony Miles, edited by Ray Keene. } 1... a6 { !
+After a few moments hesitation. I watched Karpov's face as he
+returned to the board - there was no reaction at all. The
+audience, though, was another matter. Conditions for
+spectators were not wonderful so at first only a few noticed,
+but after some nudging and pointing a general hushed
+sniggering broke out. Mutters of "I thought the Skara Schools
+Championship was not until next week..." I tried to look
+serious. Miles is the only grandmaster to have espoused this
+weird defence in a serious game. This extraordinary move is
+hardly ever played since it does little to challenge White's
+domination of the centre. Miles chose it primarily to sidestep
+the then world champion's superior knowledge of opening
+theory. } 2. d4 { If White is prepared to admit taking this
+opening seriously than 2 c4 comes into consideration. } 2... b5 { Several atrocities have also been committed at this
+point. Whilst they may find their way into the general heading
+of 1...a6 they certainly do not qualify as the "Birmingham
+Defence". However, since this is supposed to be a theoretical
+magazine, a brief survey: (a) For historical interest 2...d5?
+3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3 c6 (it would seem more
+consistent to allow the queen to retreat via b6 to a7) 7 O-O
++/- Rubinstein-Gunsberg, St. Petersburg 1914. (b) 2...g6 3 g3
+d5!? 4 Nc3 dxe4 5 Nxe4 Bg7 6 Be3 Nc6 7 c3 e5 8 d5 Nce7 with an
+excellent position for Black (a distinct improvement on
+Gunsberg's play). Patterson + Williams - Keene + Eales,
+consultation game 1969, continued 9 d6 Nf5 10 Bc5 cxd6 11
+Nxd6+ Nxd6 12 Bxd6 Ne7 13 Qa4+? Bd7 14 Qa3 Bc6 15 f3 Nf5 16
+O-O-0 Bh6+ 17 Kb1 Bf8 18 c4 Nxd6 19 c5 Ne4! 20 Rxd8+ Rxd8 21
+Nh3 Bxc5 22 b4 Be7 23 Bg2 Rd4 0-1. (c) Several games have
+continued with 2...d6 or 2...g6 leading to a Modern Defence,
+where 1...a6 has little more than psychological value. One of
+slight independent value: 2...d6 3 f4 g6 4 Nf3 Bg7 5 c3 d5 6
+e5 h5 7 Qb3 Nh6 8 c4?! dxc4 9 Bxc4 b5 10 Bd5 c6 11 Be4 Be6 12
+Qc2 Nf5 with a good position, Bellin-Keene, Norwich
+1969. Oddly enough, when I consulted the relevant reference
+works after the game to discover the official refutation, I
+could discover no lines that conferred a tangible White
+advantage. The game Rubinstein-Gunsberg, St. Petersburg 1914,
+continued instead 2...d5 3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3
+c6 7 O-O with evidently better chances for White. The Miles
+strategem of expanding on the queenside is considerably more
+rational. } 3. Nf3 { As far as I know, the only person to play
+1...a6 (or 1 d4 b5 2 e4 a6) with the same idea as myself is
+Michael Basman (not completely surprising as we both
+'invented' the idea as an improvement on 1...b6). However, I
+only have the score of one game, Chandler-Basman, London 1979,
+which went 3 a4(?!) Bb7 4 axb5 axb5!? (simple and good is
+4...Bxe4 5 bxa6 Bb7 or even 5...Nxa6) 5 Rxa8 Bxa8 6 Nd2 e6!? 7
+Bxb5 f5 8 Qe2 (8 Qh5+ g6 9 Qe2 seems preferable) 8...Nf6 9 Bd3
+c5 10 Ngf3 c4! 11 Bxc4 fxe4 12 Ne5 Bd6 with good compensation
+for the pawn. Black soon had an excellent position but later
+went astray. White could try 3 f3 when ...Bb7 would reach a
+position which has seen before via the move order 1 d4 b5 2 e4
+Bb7 3 f3 a6, e.g. 4 Be3 e6 (or 4...Nf6 5 Nh3 e6 6 Nd2 d5 7 e5
+Nfd7 8 Bd3 c5 9 c3 Nc6 with a decent position,
+Tatai-Ljubojevic, Palma de Mallorca 1971) 5 Nd2 d5 6 Bd3 Nf6 7
+e5 Nfd7 8 f4 += Portisch-Ljubojevic, Vrsac 1971. These games
+illustrate the possibility of transposing to a French type
+set-up, but if Black wishes, he might well defer ...d5. } 3... Bb7 4. Bd3 { Murray Chandler has suggested the odd-looking
+4 e5!? (gaining space and preventing ...Nf6) 4...e6 5 c4 bxc4
+(Basman would doubtless gambit this pawn) 6 Bxc4 Bb4+ 7 Nc3
+striving for control of d5, though after 7...Ne7 Black's
+position looks OK. } 4... Nf6 { Attacking e4 before White has the
+chance to defend with Re1. ECO mentions (by transposition)
+4...e6 5 Nbd2 c5 6 dxc5 Bxc5 7 Nb3 Bb6 8 a4 +=
+Spielmann-Hartingsvelt, 1914. Remarkably similar to the
+present game! } 5. Qe2 e6 6. a4 { !? Premature perhaps? Of
+course normal moves - O-O, Bg5, Nbd2 - are playable. } 6... c5 { !? A sharp reaction, but the natural 6...b4 is quite a
+reasonable alternative. Note that White was threatening to win
+a pawn by 7 e5. The text still offers the pawn, but only in
+return for the bishop pair and an initiative. While playing
+...c5 I felt sure Karpov would avoid such tactical lines. } 7. dxc5 { After 5 minutes thought. If 7 axb5 axb5 8 Rxa8 Bxa8 9
+e5 c4 and now: (a) 10 exf6 cxd3 11 fxg7 Bxg7 12 Qxd3 when with
+such an open position the bishop pair, particularly the one
+lurking on a8, give excellent value for the pawn. Black might
+continue quietly with 12...Qb6, or maybe 12...Qa5+!?, for
+example 13 Bd2 Qa1 14 Qxb5!? Qxb1+ 15 Ke2 Bxf3+ 16 gxf3 Nc6!
+17 Qxc6 Qxh1! and the black king runs to safety. (b) 10 Bxc4
+bxc4 11 exf6 gxf6(!) and if 12 Qxc4 Rg8 with a fierce
+initiative. 7 c3 looks more vigorous. } 7... Bxc5 { 7...b4!?. } 8. Nbd2 { Again choosing the quietest path. 8 e5 was certainly
+worth considering. If 8...Nd5 just 9 axb5 and 8...Ng4 9 O-O
+leaves Black a bit out on a limb, e.g. 9...b4 10 h3 h5!? 11
+Nbd2 followed by Ne4 or Be4. White reinforces his pawn on e4
+which would be undefended after a series of captures on b5. } 8... b4 9. e5 { Less critical now as the knight can safely go to
+d5. } 9... Nd5 10. Ne4 Be7 11. O-O { After this, yet another
+peaceful move, Black's position is very comfortable. The last
+chance to try for an advantage was 11 Bg5. Then 11...f6?! 12
+exf6 gxf6?? would lose disastrously to 13 Ne5! and 12...Nxf6
+is also uncomfortable. I intended 11...O-O and if 12 Nd6 Bc6
+when 13 Qe4 is met by ...f5 and White must look after the
+N(d6). Probably White is a little better, but Black has
+chances for counterplay based on the a8-h1 diagonal, the f4
+square and the break ...f6. More active is 11 Bg5. } 11... Nc6 { ! Much more accurate than 11...O-O. Now if 12 Bg5 f6! 13 exf6
+gxf6! followed by ...Qc7 and ...O-O-0 with a tremendously
+active position and automatic kingside attack. } 12. Bd2 Qc7 13. c4 { As expected, still playing quiet moves. The only
+alternative to defend the d-pawn was 13 Ng3 when Black could
+either challenge in the centre with ...d6 (simplest) or ...f6
+(sharper), or as his king is still uncommitted, even consider
+...h5!?. } 13... bxc3 14. Nxc3 Nxc3 15. Bxc3 Nb4 { ! Opening the
+long diagonal and putting the knight on its best
+circuit. Black has comfortably equalised. } 16. Bxb4 { Understandably, White did not want to part with his
+light-squared bishop, and since 16 Bb1 is scarcely palatable,
+this was the only move. Karpov later regrets his decision to
+part with the bishop pair, but after 16 Be4 White would have
+no means of challenging the future impregnable establishment
+of a black knight on d5. } 16... Bxb4 17. Rac1 Qb6 18. Be4 { To
+counteract Black's powerful queen's bishop. } 18... O-O { ! } 19. Ng5 { !? After half an hour's thought. 19 Bxh7+ was
+interesting - though again I was sure that Karpov wouldn't
+play it! On 19...Kxh7 20 Ng5+ of course not 20...Kg8?? because
+of 21 Qh5, but 20...Kh6 also fails to 21 Rc4! threatening Rh4+
+and if 21...g6 22 Qg4 and Black loses the B(b4). Correct is
+20...Kg6 and if 21 Qg4 either 21...f5 22 Qg3 (22 exf6 Kxf6)
+22...Qd4!? to block on g4 (23 h3? Kh5! winning) or even
+21...f6!?. Afterwards it was established that 19 Bxh7+ is
+quite dangerous but Miles was confident that Karpov would
+regard it as speculative and avoid it. The commencement of an
+artificial manoeuvre which ultimately loses the game for
+White. The simple 19 Bxb7 Qxb7 20 Rfd1 is perfectly adequate
+for equality, whilst a further superior alternative to the
+text is the complicated attacking variation 19 Bxh7+ Kxh7 20
+Ng5+ Kg6 21 Qg4 f5 22 Qg3 when Black's king is in considerable
+danger. NOTE: checking with the computer - 19. Bxh7+ Kxh7
+20. Ng5+ Kg6 21. Qg4 f5 (21...f6 looks inferior, and 21. Qd3+
+f5 22. Qg3 avoids it anyway) 22. Qg3 and now: (a) 22...Kh5 is
+Fritz's first choice (intending 23 Rc4 f4!), but give it White
+and it soon comes up with 23 Nh3! which looks to win,
+e.g. 23...Bd2 (only move) 24 Rc4 g5 25 Qd3 g4 26 Qxd2 gxh3 27
+Qxd7 Kg6 28 Rc3, while 25...Bxg2!? (Fritz) 26 Kxg2 Qb7+ 27 Kg1
+g4 28 Qxd2 gxh3 fails to 29 Rh4+!. (b) Fritz's second choice
+is 22...Rg8, but it then finds the very attractive 23 Rc7! Bc6
+24 Nxe6+ Kf7 25 Qb3! and if 25...Ke7 26 Ng5 Qxc7 27 Qf7+ wins
+- capture Rg8 and Pg7, play Qf6+ ...Ke8, Rd1 with the decisive
+threat Qf7+ ...Kd8, Nf7+. (c) Miles' 22...Qd4 (Fritz's fifth
+choice) probably deserves "!". White seems to have nothing
+better than 23 Nxe6+ (23 h3 f4! 24 Qg4 Kh6 25 Qh4+ Kg6 is a
+draw) 23...Qg4 24 Qxg4+ fxg4 25 Nxf8+ Bxf8 and Black is fine,
+e.g. 26 Rfd1 Bc6 27 e6 Ra7! 28 Re1 Kf6 29 Rc4 g5/Bd6. } 19... h6 20. Bh7+ { ?! Distinctly artificial. I expected 20 Bxb7 Qxb7 21
+Qe4 though Black is certainly not worse in the resulting
+ending. I suspect the text was rather due to the psychological
+effect of 1...a6. Karpov, having got nowhere from the opening,
+felt he should be doing something forceful. This is too
+optimistic and White should prefer the simple 20 Bxb7. } 20... Kh8 21. Bb1 Be7 { Of course not 21...hxg5? 22 Qh5+. } 22. Ne4 { Or 22 Qd3 g6 =+. } 22... Rac8 23. Qd3 { ?? A ridiculous
+oversight, though Karpov played it very quickly. However,
+Black's bishops already give him the edge. The battery looks
+dangerous, but it never gets the chance to operate. This looks
+dangerous since White is lining up his queen and bishop as a
+battery against the black king. However, Miles was never one
+to be scared of phantoms and he demonstrates that White's
+threats are in fact hollow. } 23... Rxc1 24. Rxc1 Qxb2 { Gullibly
+taking the pawn(s). White's back rank weaknesses prevents any
+serious counterplay. } 25. Re1 { ? This doesn't help. On 25 Rc7
+Black has a pleasant choice between ...Rc8, ...g6 and ...Bc6,
+and on 25 Rd1 g6 26 Qxd7 is impossible because of 26...Rd8. } 25... Qxe5 { Pinning the knight against the rook. White has
+nothing to do but take back one pawn, but the game is over. } 26. Qxd7 Bb4 27. Re3 Qd5 { Simplest. It is obvious after this
+move that any vestiges of a white attack have totally
+evaporated and that the world champion faces a hopeless
+ending, where he is material down and his pieces lack
+coordination. } 28. Qxd5 Bxd5 29. Nc3 Rc8 { The liquidation has
+left the world champion with a hopeless position. He is a pawn
+down, his a-pawn remains weak, his opponent possesses the
+bishop pair in an open situation and, to cap it all, White has
+problems with his own back rank. The remainder of the game is
+a mere technical exercise for one of Miles' strength. } 30. Ne2 g5 31. h4 Kg7 32. hxg5 hxg5 33. Bd3 a5 34. Rg3 Kf6 35. Rg4 Bd6 36. Kf1 Be5 37. Ke1 Rh8 38. f4 gxf4 39. Nxf4 Bc6 40. Ne2 Rh1+ 41. Kd2 Rh2 42. g3 Bf3 43. Rg8 Rg2 44. Ke1 Bxe2 45. Bxe2 Rxg3 46. Ra8 { I now sealed ...Bc7 } 46... Bc7 { but Karpov resigned
+without resumption. } 0-1
+
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.20"]
+[Round "1"]
+[White "Anatoly Karpov"]
+[Black "Anthony Miles"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 { Notes by Tony Miles, edited by Ray Keene. } 1... a6 { !
+After a few moments hesitation. I watched Karpov's face as he
+returned to the board - there was no reaction at all. The
+audience, though, was another matter. Conditions for
+spectators were not wonderful so at first only a few noticed,
+but after some nudging and pointing a general hushed
+sniggering broke out. Mutters of "I thought the Skara Schools
+Championship was not until next week..." I tried to look
+serious. Miles is the only grandmaster to have espoused this
+weird defence in a serious game. This extraordinary move is
+hardly ever played since it does little to challenge White's
+domination of the centre. Miles chose it primarily to sidestep
+the then world champion's superior knowledge of opening
+theory. } 2. d4 { If White is prepared to admit taking this
+opening seriously than 2 c4 comes into consideration. } 2... b5 { Several atrocities have also been committed at this
+point. Whilst they may find their way into the general heading
+of 1...a6 they certainly do not qualify as the "Birmingham
+Defence". However, since this is supposed to be a theoretical
+magazine, a brief survey: (a) For historical interest 2...d5?
+3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3 c6 (it would seem more
+consistent to allow the queen to retreat via b6 to a7) 7 O-O
++/- Rubinstein-Gunsberg, St. Petersburg 1914. (b) 2...g6 3 g3
+d5!? 4 Nc3 dxe4 5 Nxe4 Bg7 6 Be3 Nc6 7 c3 e5 8 d5 Nce7 with an
+excellent position for Black (a distinct improvement on
+Gunsberg's play). Patterson + Williams - Keene + Eales,
+consultation game 1969, continued 9 d6 Nf5 10 Bc5 cxd6 11
+Nxd6+ Nxd6 12 Bxd6 Ne7 13 Qa4+? Bd7 14 Qa3 Bc6 15 f3 Nf5 16
+O-O-0 Bh6+ 17 Kb1 Bf8 18 c4 Nxd6 19 c5 Ne4! 20 Rxd8+ Rxd8 21
+Nh3 Bxc5 22 b4 Be7 23 Bg2 Rd4 0-1. (c) Several games have
+continued with 2...d6 or 2...g6 leading to a Modern Defence,
+where 1...a6 has little more than psychological value. One of
+slight independent value: 2...d6 3 f4 g6 4 Nf3 Bg7 5 c3 d5 6
+e5 h5 7 Qb3 Nh6 8 c4?! dxc4 9 Bxc4 b5 10 Bd5 c6 11 Be4 Be6 12
+Qc2 Nf5 with a good position, Bellin-Keene, Norwich
+1969. Oddly enough, when I consulted the relevant reference
+works after the game to discover the official refutation, I
+could discover no lines that conferred a tangible White
+advantage. The game Rubinstein-Gunsberg, St. Petersburg 1914,
+continued instead 2...d5 3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3
+c6 7 O-O with evidently better chances for White. The Miles
+strategem of expanding on the queenside is considerably more
+rational. } 3. Nf3 { As far as I know, the only person to play
+1...a6 (or 1 d4 b5 2 e4 a6) with the same idea as myself is
+Michael Basman (not completely surprising as we both
+'invented' the idea as an improvement on 1...b6). However, I
+only have the score of one game, Chandler-Basman, London 1979,
+which went 3 a4(?!) Bb7 4 axb5 axb5!? (simple and good is
+4...Bxe4 5 bxa6 Bb7 or even 5...Nxa6) 5 Rxa8 Bxa8 6 Nd2 e6!? 7
+Bxb5 f5 8 Qe2 (8 Qh5+ g6 9 Qe2 seems preferable) 8...Nf6 9 Bd3
+c5 10 Ngf3 c4! 11 Bxc4 fxe4 12 Ne5 Bd6 with good compensation
+for the pawn. Black soon had an excellent position but later
+went astray. White could try 3 f3 when ...Bb7 would reach a
+position which has seen before via the move order 1 d4 b5 2 e4
+Bb7 3 f3 a6, e.g. 4 Be3 e6 (or 4...Nf6 5 Nh3 e6 6 Nd2 d5 7 e5
+Nfd7 8 Bd3 c5 9 c3 Nc6 with a decent position,
+Tatai-Ljubojevic, Palma de Mallorca 1971) 5 Nd2 d5 6 Bd3 Nf6 7
+e5 Nfd7 8 f4 += Portisch-Ljubojevic, Vrsac 1971. These games
+illustrate the possibility of transposing to a French type
+set-up, but if Black wishes, he might well defer ...d5. } 3... Bb7 4. Bd3 { Murray Chandler has suggested the odd-looking
+4 e5!? (gaining space and preventing ...Nf6) 4...e6 5 c4 bxc4
+(Basman would doubtless gambit this pawn) 6 Bxc4 Bb4+ 7 Nc3
+striving for control of d5, though after 7...Ne7 Black's
+position looks OK. } 4... Nf6 { Attacking e4 before White has the
+chance to defend with Re1. ECO mentions (by transposition)
+4...e6 5 Nbd2 c5 6 dxc5 Bxc5 7 Nb3 Bb6 8 a4 +=
+Spielmann-Hartingsvelt, 1914. Remarkably similar to the
+present game! } 5. Qe2 e6 6. a4 { !? Premature perhaps? Of
+course normal moves - O-O, Bg5, Nbd2 - are playable. } 6... c5 { !? A sharp reaction, but the natural 6...b4 is quite a
+reasonable alternative. Note that White was threatening to win
+a pawn by 7 e5. The text still offers the pawn, but only in
+return for the bishop pair and an initiative. While playing
+...c5 I felt sure Karpov would avoid such tactical lines. } 7. dxc5 { After 5 minutes thought. If 7 axb5 axb5 8 Rxa8 Bxa8 9
+e5 c4 and now: (a) 10 exf6 cxd3 11 fxg7 Bxg7 12 Qxd3 when with
+such an open position the bishop pair, particularly the one
+lurking on a8, give excellent value for the pawn. Black might
+continue quietly with 12...Qb6, or maybe 12...Qa5+!?, for
+example 13 Bd2 Qa1 14 Qxb5!? Qxb1+ 15 Ke2 Bxf3+ 16 gxf3 Nc6!
+17 Qxc6 Qxh1! and the black king runs to safety. (b) 10 Bxc4
+bxc4 11 exf6 gxf6(!) and if 12 Qxc4 Rg8 with a fierce
+initiative. 7 c3 looks more vigorous. } 7... Bxc5 { 7...b4!?. } 8. Nbd2 { Again choosing the quietest path. 8 e5 was certainly
+worth considering. If 8...Nd5 just 9 axb5 and 8...Ng4 9 O-O
+leaves Black a bit out on a limb, e.g. 9...b4 10 h3 h5!? 11
+Nbd2 followed by Ne4 or Be4. White reinforces his pawn on e4
+which would be undefended after a series of captures on b5. } 8... b4 9. e5 { Less critical now as the knight can safely go to
+d5. } 9... Nd5 10. Ne4 Be7 11. O-O { After this, yet another
+peaceful move, Black's position is very comfortable. The last
+chance to try for an advantage was 11 Bg5. Then 11...f6?! 12
+exf6 gxf6?? would lose disastrously to 13 Ne5! and 12...Nxf6
+is also uncomfortable. I intended 11...O-O and if 12 Nd6 Bc6
+when 13 Qe4 is met by ...f5 and White must look after the
+N(d6). Probably White is a little better, but Black has
+chances for counterplay based on the a8-h1 diagonal, the f4
+square and the break ...f6. More active is 11 Bg5. } 11... Nc6 { ! Much more accurate than 11...O-O. Now if 12 Bg5 f6! 13 exf6
+gxf6! followed by ...Qc7 and ...O-O-0 with a tremendously
+active position and automatic kingside attack. } 12. Bd2 Qc7 13. c4 { As expected, still playing quiet moves. The only
+alternative to defend the d-pawn was 13 Ng3 when Black could
+either challenge in the centre with ...d6 (simplest) or ...f6
+(sharper), or as his king is still uncommitted, even consider
+...h5!?. } 13... bxc3 14. Nxc3 Nxc3 15. Bxc3 Nb4 { ! Opening the
+long diagonal and putting the knight on its best
+circuit. Black has comfortably equalised. } 16. Bxb4 { Understandably, White did not want to part with his
+light-squared bishop, and since 16 Bb1 is scarcely palatable,
+this was the only move. Karpov later regrets his decision to
+part with the bishop pair, but after 16 Be4 White would have
+no means of challenging the future impregnable establishment
+of a black knight on d5. } 16... Bxb4 17. Rac1 Qb6 18. Be4 { To
+counteract Black's powerful queen's bishop. } 18... O-O { ! } 19. Ng5 { !? After half an hour's thought. 19 Bxh7+ was
+interesting - though again I was sure that Karpov wouldn't
+play it! On 19...Kxh7 20 Ng5+ of course not 20...Kg8?? because
+of 21 Qh5, but 20...Kh6 also fails to 21 Rc4! threatening Rh4+
+and if 21...g6 22 Qg4 and Black loses the B(b4). Correct is
+20...Kg6 and if 21 Qg4 either 21...f5 22 Qg3 (22 exf6 Kxf6)
+22...Qd4!? to block on g4 (23 h3? Kh5! winning) or even
+21...f6!?. Afterwards it was established that 19 Bxh7+ is
+quite dangerous but Miles was confident that Karpov would
+regard it as speculative and avoid it. The commencement of an
+artificial manoeuvre which ultimately loses the game for
+White. The simple 19 Bxb7 Qxb7 20 Rfd1 is perfectly adequate
+for equality, whilst a further superior alternative to the
+text is the complicated attacking variation 19 Bxh7+ Kxh7 20
+Ng5+ Kg6 21 Qg4 f5 22 Qg3 when Black's king is in considerable
+danger. NOTE: checking with the computer - 19. Bxh7+ Kxh7
+20. Ng5+ Kg6 21. Qg4 f5 (21...f6 looks inferior, and 21. Qd3+
+f5 22. Qg3 avoids it anyway) 22. Qg3 and now: (a) 22...Kh5 is
+Fritz's first choice (intending 23 Rc4 f4!), but give it White
+and it soon comes up with 23 Nh3! which looks to win,
+e.g. 23...Bd2 (only move) 24 Rc4 g5 25 Qd3 g4 26 Qxd2 gxh3 27
+Qxd7 Kg6 28 Rc3, while 25...Bxg2!? (Fritz) 26 Kxg2 Qb7+ 27 Kg1
+g4 28 Qxd2 gxh3 fails to 29 Rh4+!. (b) Fritz's second choice
+is 22...Rg8, but it then finds the very attractive 23 Rc7! Bc6
+24 Nxe6+ Kf7 25 Qb3! and if 25...Ke7 26 Ng5 Qxc7 27 Qf7+ wins
+- capture Rg8 and Pg7, play Qf6+ ...Ke8, Rd1 with the decisive
+threat Qf7+ ...Kd8, Nf7+. (c) Miles' 22...Qd4 (Fritz's fifth
+choice) probably deserves "!". White seems to have nothing
+better than 23 Nxe6+ (23 h3 f4! 24 Qg4 Kh6 25 Qh4+ Kg6 is a
+draw) 23...Qg4 24 Qxg4+ fxg4 25 Nxf8+ Bxf8 and Black is fine,
+e.g. 26 Rfd1 Bc6 27 e6 Ra7! 28 Re1 Kf6 29 Rc4 g5/Bd6. } 19... h6 20. Bh7+ { ?! Distinctly artificial. I expected 20 Bxb7 Qxb7 21
+Qe4 though Black is certainly not worse in the resulting
+ending. I suspect the text was rather due to the psychological
+effect of 1...a6. Karpov, having got nowhere from the opening,
+felt he should be doing something forceful. This is too
+optimistic and White should prefer the simple 20 Bxb7. } 20... Kh8 21. Bb1 Be7 { Of course not 21...hxg5? 22 Qh5+. } 22. Ne4 { Or 22 Qd3 g6 =+. } 22... Rac8 23. Qd3 { ?? A ridiculous
+oversight, though Karpov played it very quickly. However,
+Black's bishops already give him the edge. The battery looks
+dangerous, but it never gets the chance to operate. This looks
+dangerous since White is lining up his queen and bishop as a
+battery against the black king. However, Miles was never one
+to be scared of phantoms and he demonstrates that White's
+threats are in fact hollow. } 23... Rxc1 24. Rxc1 Qxb2 { Gullibly
+taking the pawn(s). White's back rank weaknesses prevents any
+serious counterplay. } 25. Re1 { ? This doesn't help. On 25 Rc7
+Black has a pleasant choice between ...Rc8, ...g6 and ...Bc6,
+and on 25 Rd1 g6 26 Qxd7 is impossible because of 26...Rd8. } 25... Qxe5 { Pinning the knight against the rook. White has
+nothing to do but take back one pawn, but the game is over. } 26. Qxd7 Bb4 27. Re3 Qd5 { Simplest. It is obvious after this
+move that any vestiges of a white attack have totally
+evaporated and that the world champion faces a hopeless
+ending, where he is material down and his pieces lack
+coordination. } 28. Qxd5 Bxd5 29. Nc3 Rc8 { The liquidation has
+left the world champion with a hopeless position. He is a pawn
+down, his a-pawn remains weak, his opponent possesses the
+bishop pair in an open situation and, to cap it all, White has
+problems with his own back rank. The remainder of the game is
+a mere technical exercise for one of Miles' strength. } 30. Ne2 g5 31. h4 Kg7 32. hxg5 hxg5 33. Bd3 a5 34. Rg3 Kf6 35. Rg4 Bd6 36. Kf1 Be5 37. Ke1 Rh8 38. f4 gxf4 39. Nxf4 Bc6 40. Ne2 Rh1+ 41. Kd2 Rh2 42. g3 Bf3 43. Rg8 Rg2 44. Ke1 Bxe2 45. Bxe2 Rxg3 46. Ra8 { I now sealed ...Bc7 } 46... Bc7 { but Karpov resigned
+without resumption. } 0-1
+
+[Event "Montreal"]
+[Site "Montreal CAN"]
+[Date "1979.04.25"]
+[Round "11"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "1979.04.11"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Nxc6 bxc6 8. Be2 d5 9. O-O Bd6 10. b3 Qe7 11. Bb2 dxc4 12. bxc4 Rb8 13. Qc1 Ng4 14. g3 Re8 15. Nd1 Nxh2 16. c5 Nxf1 17. cxd6 Nxg3 18. fxg3 Qxd6 19. Kf2 Qh6 20. Bd4 Qh2+ 21. Ke1 Qxg3+ 22. Kd2 Qg2 23. Nb2 Ba6 24. Nd3 Bxd3 25. Kxd3 Rbd8 26. Bf1 Qe4+ 27. Kc3 c5 28. Bxc5 Qc6 29. Kb3 Rb8+ 30. Ka3 Re5 31. Bb4 Qb6 0-1
+
+[Event "Montreal"]
+[Site "Montreal CAN"]
+[Date "1979.04.25"]
+[Round "11"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "1979.04.11"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Nxc6 bxc6 8. Be2 d5 9. O-O Bd6 10. b3 Qe7 11. Bb2 dxc4 12. bxc4 Rb8 13. Qc1 Ng4 14. g3 Re8 15. Nd1 Nxh2 16. c5 Nxf1 17. cxd6 Nxg3 18. fxg3 Qxd6 19. Kf2 Qh6 20. Bd4 Qh2+ 21. Ke1 Qxg3+ 22. Kd2 Qg2 23. Nb2 Ba6 24. Nd3 Bxd3 25. Kxd3 Rbd8 26. Bf1 Qe4+ 27. Kc3 c5 28. Bxc5 Qc6 29. Kb3 Rb8+ 30. Ka3 Re5 31. Bb4 Qb6 0-1
+
+[Event "Karpov - Korchnoi World Championship Match"]
+[Site "City of Baguio PHI"]
+[Date "1978.10.12"]
+[Round "31"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Nf3 Re8 9. Qc2 c6 10. O-O Nf8 11. Bxf6 Bxf6 12. b4 Bg4 13. Nd2 Rc8 14. Bf5 Bxf5 15. Qxf5 Qd7 16. Qxd7 Nxd7 17. a4 Be7 18. Rfb1 Nf6 19. a5 a6 20. Na4 Bf8 21. Nc5 Re7 22. Kf1 Ne8 23. Ke2 Nd6 24. Kd3 Rce8 25. Re1 g6 26. Re2 f6 27. Rae1 Bh6 28. Ndb3 Bf8 29. Nd2 Bh6 30. h3 Kf7 31. g4 Bf8 32. f3 Rd8 33. Ndb3 Nb5 34. Rf1 Bh6 35. f4 Bf8 36. Nd2 Nd6 37. Rfe1 h6 38. Rf1 Rb8 39. Ra1 Rbe8 40. Rae1 Rb8 41. e4 dxe4+ 42. Ndxe4 Nb5 43. Nc3 Rxe2 44. Rxe2 Bxc5 45. bxc5 Rd8 46. Nxb5 axb5 47. f5 gxf5 48. gxf5 Rg8 49. Kc3 Re8 50. Rd2 Re4 51. Kb4 Ke8 52. a6 bxa6 53. Ka5 Kd7 54. Kb6 b4 55. d5 cxd5 56. Rxd5+ Kc8 57. Rd3 a5 58. Rg3 b3 59. Kc6 Kb8 60. Rxb3+ Ka7 61. Rb7+ Ka6 62. Rb6+ Ka7 63. Kb5 a4 64. Rxf6 Rf4 65. Rxh6 a3 66. Ra6+ Kb8 67. Rxa3 Rxf5 68. Rg3 Rf6 69. Rg8+ Kc7 70. Rg7+ Kc8 71. Rh7 1-0
+
+[Event "Karpov - Korchnoi World Championship Match"]
+[Site "City of Baguio PHI"]
+[Date "1978.10.12"]
+[Round "31"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Nf3 Re8 9. Qc2 c6 10. O-O Nf8 11. Bxf6 Bxf6 12. b4 Bg4 13. Nd2 Rc8 14. Bf5 Bxf5 15. Qxf5 Qd7 16. Qxd7 Nxd7 17. a4 Be7 18. Rfb1 Nf6 19. a5 a6 20. Na4 Bf8 21. Nc5 Re7 22. Kf1 Ne8 23. Ke2 Nd6 24. Kd3 Rce8 25. Re1 g6 26. Re2 f6 27. Rae1 Bh6 28. Ndb3 Bf8 29. Nd2 Bh6 30. h3 Kf7 31. g4 Bf8 32. f3 Rd8 33. Ndb3 Nb5 34. Rf1 Bh6 35. f4 Bf8 36. Nd2 Nd6 37. Rfe1 h6 38. Rf1 Rb8 39. Ra1 Rbe8 40. Rae1 Rb8 41. e4 dxe4+ 42. Ndxe4 Nb5 43. Nc3 Rxe2 44. Rxe2 Bxc5 45. bxc5 Rd8 46. Nxb5 axb5 47. f5 gxf5 48. gxf5 Rg8 49. Kc3 Re8 50. Rd2 Re4 51. Kb4 Ke8 52. a6 bxa6 53. Ka5 Kd7 54. Kb6 b4 55. d5 cxd5 56. Rxd5+ Kc8 57. Rd3 a5 58. Rg3 b3 59. Kc6 Kb8 60. Rxb3+ Ka7 61. Rb7+ Ka6 62. Rb6+ Ka7 63. Kb5 a4 64. Rxf6 Rf4 65. Rxh6 a3 66. Ra6+ Kb8 67. Rxa3 Rxf5 68. Rg3 Rf6 69. Rg8+ Kc7 70. Rg7+ Kc8 71. Rh7 1-0
+
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5 Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5 14. Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 18. Rd2 Qb6 19. Be3 Qc7 20. Be4 Rfe8 21. Bg1 g6 22. a3 a5 23. axb4 axb4 24. Rxa8 Rxa8 25. b3 Ba6 26. Nc6 Nxc6 27. dxc6 Re8 28. Bd5 Bc3 29. Rf2 Re1 30. Qf3 Bd4 31. Bxf7+ Kg7 32. Bc4 Rxg1+ 33. Kxg1 Bxf2+ 34. Kxf2 Bxc4 35. bxc4 Qa7+ 36. Ke2 Qd4 37. Qd5 Qf6 38. Qe4 b3 39. cxb3 Qb2+ 40. Kf1 Qc1+ 41. Qe1 Qf4+ 42. Kg1 Qd4+ 43. Kh1 Qb6 44. Qe7+ Kh6 45. Qf8+ 1-0
+
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5 Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5 14. Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 18. Rd2 Qb6 19. Be3 Qc7 20. Be4 Rfe8 21. Bg1 g6 22. a3 a5 23. axb4 axb4 24. Rxa8 Rxa8 25. b3 Ba6 26. Nc6 Nxc6 27. dxc6 Re8 28. Bd5 Bc3 29. Rf2 Re1 30. Qf3 Bd4 31. Bxf7+ Kg7 32. Bc4 Rxg1+ 33. Kxg1 Bxf2+ 34. Kxf2 Bxc4 35. bxc4 Qa7+ 36. Ke2 Qd4 37. Qd5 Qf6 38. Qe4 b3 39. cxb3 Qb2+ 40. Kf1 Qc1+ 41. Qe1 Qf4+ 42. Kg1 Qd4+ 43. Kh1 Qb6 44. Qe7+ Kh6 45. Qf8+ 1-0
+
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5 Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5 14. Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 18. Rd2 Qb6 19. Be3 Qc7 20. Be4 Rfe8 21. Bg1 g6 22. a3 a5 23. axb4 axb4 24. Rxa8 Rxa8 25. b3 Ba6 26. Nc6 Nxc6 27. dxc6 Re8 28. Bd5 Bc3 29. Rf2 Re1 30. Qf3 Bd4 31. Bxf7+ Kg7 32. Bc4 Rxg1+ 33. Kxg1 Bxf2+ 34. Kxf2 Bxc4 35. bxc4 Qa7+ 36. Ke2 Qd4 37. Qd5 Qf6 38. Qe4 b3 39. cxb3 Qb2+ 40. Kf1 Qc1+ 41. Qe1 Qf4+ 42. Kg1 Qd4+ 43. Kh1 Qb6 44. Qe7+ Kh6 45. Qf8+ 1-0
+
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5 Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5 14. Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 18. Rd2 Qb6 19. Be3 Qc7 20. Be4 Rfe8 21. Bg1 g6 22. a3 a5 23. axb4 axb4 24. Rxa8 Rxa8 25. b3 Ba6 26. Nc6 Nxc6 27. dxc6 Re8 28. Bd5 Bc3 29. Rf2 Re1 30. Qf3 Bd4 31. Bxf7+ Kg7 32. Bc4 Rxg1+ 33. Kxg1 Bxf2+ 34. Kxf2 Bxc4 35. bxc4 Qa7+ 36. Ke2 Qd4 37. Qd5 Qf6 38. Qe4 b3 39. cxb3 Qb2+ 40. Kf1 Qc1+ 41. Qe1 Qf4+ 42. Kg1 Qd4+ 43. Kh1 Qb6 44. Qe7+ Kh6 45. Qf8+ 1-0
+
+[Event "Karpov - Korchnoi Candidates Final"]
+[Site "Moscow URS"]
+[Date "1974.11.11"]
+[Round "21"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "1974.09.16"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. c4 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5 exd5 9. Ng5 Nc6 10. Nxd5 g6 11. Qd2 Nxd5 12. Bxd5 Rb8 13. Nxh7 Re8 14. Qh6 Ne5 15. Ng5 Bxg5 16. Bxg5 Qxg5 17. Qxg5 Bxd5 18. O-O Bxc4 19. f4 1-0
+
+[Event "Karpov - Korchnoi Candidates Final"]
+[Site "Moscow URS"]
+[Date "1974.11.11"]
+[Round "21"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "1974.09.16"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. c4 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5 exd5 9. Ng5 Nc6 10. Nxd5 g6 11. Qd2 Nxd5 12. Bxd5 Rb8 13. Nxh7 Re8 14. Qh6 Ne5 15. Ng5 Bxg5 16. Bxg5 Qxg5 17. Qxg5 Bxd5 18. O-O Bxc4 19. f4 1-0
+
+[Event "Karpov - Korchnoi Candidates Final"]
+[Site "Moscow URS"]
+[Date "1974.09.18"]
+[Round "2"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "1-0"]
+[EventDate "1974.09.16"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. h5 Nxh5 15. g4 Nf6 16. Nde2 Qa5 17. Bh6 Bxh6 18. Qxh6 Rfc8 19. Rd3 R4c5 20. g5 Rxg5 21. Rd5 Rxd5 22. Nxd5 Re8 23. Nef4 Bc6 24. e5 Bxd5 25. exf6 exf6 26. Qxh7+ Kf8 27. Qh8+ 1-0
+
+[Event "Karpov - Korchnoi Candidates Final"]
+[Site "Moscow URS"]
+[Date "1974.09.18"]
+[Round "2"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "1-0"]
+[EventDate "1974.09.16"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. h5 Nxh5 15. g4 Nf6 16. Nde2 Qa5 17. Bh6 Bxh6 18. Qxh6 Rfc8 19. Rd3 R4c5 20. g5 Rxg5 21. Rd5 Rxd5 22. Nxd5 Re8 23. Nef4 Bc6 24. e5 Bxd5 25. exf6 exf6 26. Qxh7+ Kf8 27. Qh8+ 1-0
+
+[Event "Olympiad Final-A"]
+[Site "Nice FRA"]
+[Date "1974.06.18"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Unzicker"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. a4 Rb8 15. axb5 axb5 16. b4 Nb7 17. Nf1 Bd7 18. Be3 Ra8 19. Qd2 Rfc8 20. Bd3 g6 21. Ng3 Bf8 22. Ra2 c4 23. Bb1 Qd8 24. Ba7 Ne8 25. Bc2 Nc7 26. Rea1 Qe7 27. Bb1 Be8 28. Ne2 Nd8 29. Nh2 Bg7 30. f4 f6 31. f5 g5 32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 h6 35. Bh5 Qe8 36. Qd1 Nd8 37. Ra3 Kf8 38. R1a2 Kg8 39. Ng4 Kf8 40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43. Qg6 Kf8 44. Nh5 1-0
+
+[Event "Olympiad Final-A"]
+[Site "Nice FRA"]
+[Date "1974.06.18"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Unzicker"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. a4 Rb8 15. axb5 axb5 16. b4 Nb7 17. Nf1 Bd7 18. Be3 Ra8 19. Qd2 Rfc8 20. Bd3 g6 21. Ng3 Bf8 22. Ra2 c4 23. Bb1 Qd8 24. Ba7 Ne8 25. Bc2 Nc7 26. Rea1 Qe7 27. Bb1 Be8 28. Ne2 Nd8 29. Nh2 Bg7 30. f4 f6 31. f5 g5 32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 h6 35. Bh5 Qe8 36. Qd1 Nd8 37. Ra3 Kf8 38. R1a2 Kg8 39. Ng4 Kf8 40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43. Qg6 Kf8 44. Nh5 1-0
+
+[Event "Karpov - Spassky Candidates Semifinal"]
+[Site "Leningrad URS"]
+[Date "1974.05.03"]
+[Round "9"]
+[White "Anatoly Karpov"]
+[Black "Boris Spassky"]
+[Result "1-0"]
+[EventDate "1974.04.12"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4 Nc6 9. Be3 Bd7 10. Nb3 a5 11. a4 Nb4 12. Bf3 Bc6 13. Nd4 g6 14. Rf2 e5 15. Nxc6 bxc6 16. fxe5 dxe5 17. Qf1 Qc8 18. h3 Nd7 19. Bg4 h5 20. Bxd7 Qxd7 21. Qc4 Bh4 22. Rd2 Qe7 23. Rf1 Rfd8 24. Nb1 Qb7 25. Kh2 Kg7 26. c3 Na6 27. Re2 Rf8 28. Nd2 Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8 35. Rxd8 1-0
+
+[Event "Karpov - Spassky Candidates Semifinal"]
+[Site "Leningrad URS"]
+[Date "1974.05.03"]
+[Round "9"]
+[White "Anatoly Karpov"]
+[Black "Boris Spassky"]
+[Result "1-0"]
+[EventDate "1974.04.12"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4 Nc6 9. Be3 Bd7 10. Nb3 a5 11. a4 Nb4 12. Bf3 Bc6 13. Nd4 g6 14. Rf2 e5 15. Nxc6 bxc6 16. fxe5 dxe5 17. Qf1 Qc8 18. h3 Nd7 19. Bg4 h5 20. Bxd7 Qxd7 21. Qc4 Bh4 22. Rd2 Qe7 23. Rf1 Rfd8 24. Nb1 Qb7 25. Kh2 Kg7 26. c3 Na6 27. Re2 Rf8 28. Nd2 Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8 35. Rxd8 1-0
+
+[Event "Madrid"]
+[Site "Madrid ESP"]
+[Date "1973.12.11"]
+[Round "12"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Uhlmann"]
+[Result "1-0"]
+[EventDate "1973.11.26"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Bh4 Bg4 12. Be2 Bh5 13. Re1 Qb6 14. Nfd4 Bg6 15. c3 Rfe8 16. Bf1 Be4 17. Bg3 Bxg3 18. hxg3 a5 19. a4 Nxd4 20. Nxd4 Nc6 21. Bb5 Red8 22. g4 Nxd4 23. Qxd4 Qxd4 24. cxd4 Rac8 25. f3 Bg6 26. Re7 b6 27. Rae1 h6 28. Rb7 Rd6 29. Ree7 h5 30. gxh5 Bxh5 31. g4 Bg6 32. f4 Rc1+ 33. Kf2 Rc2+ 34. Ke3 Be4 35. Rxf7 Rg6 36. g5 Kh7 37. Rfe7 Rxb2 38. Be8 Rb3+ 39. Ke2 Rb2+ 40. Ke1 Rd6 41. Rxg7+ Kh8 42. Rge7 1-0
+
+[Event "Madrid"]
+[Site "Madrid ESP"]
+[Date "1973.12.11"]
+[Round "12"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Uhlmann"]
+[Result "1-0"]
+[EventDate "1973.11.26"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Bh4 Bg4 12. Be2 Bh5 13. Re1 Qb6 14. Nfd4 Bg6 15. c3 Rfe8 16. Bf1 Be4 17. Bg3 Bxg3 18. hxg3 a5 19. a4 Nxd4 20. Nxd4 Nc6 21. Bb5 Red8 22. g4 Nxd4 23. Qxd4 Qxd4 24. cxd4 Rac8 25. f3 Bg6 26. Re7 b6 27. Rae1 h6 28. Rb7 Rd6 29. Ree7 h5 30. gxh5 Bxh5 31. g4 Bg6 32. f4 Rc1+ 33. Kf2 Rc2+ 34. Ke3 Be4 35. Rxf7 Rg6 36. g5 Kh7 37. Rfe7 Rxb2 38. Be8 Rb3+ 39. Ke2 Rb2+ 40. Ke1 Rd6 41. Rxg7+ Kh8 42. Rge7 1-0
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Aranov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Ne2 Be7 7. O-O Nxe4 8. Bxe4 Nf6 9. Bf3 O-O 10. c4 c6 11. Bf4 Bd6 12. Bg5 h6 13. Bxf6 Qxf6 14. Nc3 Bc7 15. Ne4 Qe7 16. Qb3 Rb8 17. Rac1 Rd8 18. Rfd1 e5 19. d5 cxd5 20. cxd5 Bf5 21. Ng3 Bg6 22. Qc3 Bd6 23. Be4 Bxe4 24. Nxe4 Rd7 25. Qa5 Ra8 26. Rc4 f5 27. Nc3 Rad8 28. h3 e4 29. Nb5 Bc5 30. Nc3 b6 31. Qa4 e3 32. fxe3 Qxe3+ 33. Kh1 Re7 34. Qc2 Qg3 35. Ne2 Qf2 36. Ng1 Red7 37. Qb3 Rxd5 38. Rc2 Qe3 39. Qxe3 Bxe3 40. Rxd5 Rxd5 41. Re2 f4 42. Nf3 g5 43. g3 Kf7 44. Kg2 Kf6 45. Rc2 Rc5 46. Rxc5 bxc5 47. gxf4 Bxf4 48. b3 Kf5 49. Kf2 Ke4 50. Ke2 h5 51. Ne1 Kd4 52. Nd3 Bd6 53. Nf2 Bg3 54. Nd3 g4 55. hxg4 hxg4 56. Nb2 Bf4 57. Nd3 Bd6 58. Kd2 g3 59. a4 g2 60. Ne1 g1=N 61. Nc2+ Kd5 62. Kd3 Nf3 63. Ne3+ Kc6 64. Kc4 a5 65. Nf5 Ne5+ 66. Kc3 Kd5 67. Ne3+ Ke4 68. Nc4 Nxc4 69. Kxc4 Bf4 70. Kxc5 Bd2 71. b4 0-1
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Karin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 g6 2. d4 Bg7 3. c4 c5 4. d5 d6 5. Nc3 Na6 6. Be3 Nc7 7. Qd2 a6 8. Bd3 Bd7 9. Nge2 b5 10. O-O Rb8 11. Rab1 Nf6 12. Bh6 O-O 13. Bxg7 Kxg7 14. f4 Nfe8 15. Ng3 e6 16. b3 exd5 17. Nxd5 Nxd5 18. cxd5 Rc8 19. Bc2 Kg8 20. e5 Ng7 21. Rbe1 Re8 22. Ne4 dxe5 23. fxe5 Nf5 24. Nf6+ Kg7 25. Bxf5 Bxf5 26. Rxf5 Rh8 27. Rf3 c4 28. bxc4 bxc4 29. Qd4 Qa5 30. Ref1 Qc5 31. Qxc5 Rxc5 32. Ng4 Rf8 33. Nf6 Rfc8 34. Rc3 Ra5 35. a3 Rac5 36. Kf2 a5 37. Rb1 R5c7 38. Ke3 Re7 39. Kd4 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Viacheslav Kalashnikov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Rfc8 14. d5 Bf8 15. g4 Nc4 16. b3 Nb6 17. Be3 a5 18. a3 a4 19. b4 cxb4 20. cxb4 Qxc2 21. Qxc2 Rxc2 22. Bxb6 Rb8 23. Ba5 Rbc8 24. Ng3 R8c3 25. Kg2 h6 26. Bb6 Be7 27. Re3 Rxe3 28. Bxe3 Ne8 29. Rc1 Rxc1 30. Bxc1 Bd8 31. Be3 Kh7 32. g5 hxg5 33. Nxg5+ Bxg5 34. Bxg5 Kg6 35. Bd8 f5 36. f3 f4 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kolishkin"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. a4 Bg4 9. c3 Bxf3 10. Qxf3 O-O 11. Rd1 Na5 12. Bc2 c5 13. d4 Qc7 14. d5 c4 15. Nd2 Rfb8 16. axb5 axb5 17. Nf1 Nd7 18. Ne3 Nc5 19. Nf5 Bf8 20. Qg3 Kh8 21. f4 f6 22. fxe5 fxe5 23. Rf1 Nab3 24. Rxa8 Rxa8 25. Bxb3 Nxb3 26. Be3 Ra1 27. Rxa1 Nxa1 28. Qf2 Qf7 29. g4 Nb3 30. h4 g6 31. Ng3 Qxf2+ 32. Kxf2 Be7 33. h5 Kg7 34. hxg6 hxg6 35. Nf1 Bh4+ 36. Ke2 Kf6 37. Nh2 Bg5 38. Nf3 Nc1+ 39. Kd2 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Tarinin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. O-O Bg4 8. dxe5 fxe5 9. Qd3 Be7 10. c4 Nf6 11. h3 Bxf3 12. Qxf3 O-O 13. Nc3 Nd7 14. Qg4 Bf6 15. Be3 Qe8 16. Rad1 Rb8 17. b3 Rf7 18. Rd3 Nf8 19. Ne2 Qd7 20. Qxd7 Rxd7 21. Rfd1 Rbd8 22. Nc3 Kf7 23. g3 Ke6 24. Kg2 Kf7 25. f4 exf4 26. gxf4 Bxc3 27. Rxc3 c5 28. Kf3 g6 29. Bf2 Ne6 30. Rcd3 c6 31. Bh4 Nd4+ 32. Rxd4 cxd4 33. Bxd8 Rxd8 34. Rxd4 Ke7 35. c5 d5 36. exd5 cxd5 37. Ra4 Ra8 38. Ke3 Kd7 39. Kd4 Kc6 40. Rb4 a5 41. Rb6+ Kc7 42. Kxd5 Rd8+ 43. Rd6 Rf8 44. Ra6 Rf5+ 45. Kc4 Rxf4+ 46. Kb5 a4 47. Ra7+ Kb8 48. Rxh7 axb3 49. axb3 Rf6 50. c6 Rf3 51. b4 Rf4 52. Ka5 Rc4 53. b5 1-0
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Aranov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Ne2 Be7 7. O-O Nxe4 8. Bxe4 Nf6 9. Bf3 O-O 10. c4 c6 11. Bf4 Bd6 12. Bg5 h6 13. Bxf6 Qxf6 14. Nc3 Bc7 15. Ne4 Qe7 16. Qb3 Rb8 17. Rac1 Rd8 18. Rfd1 e5 19. d5 cxd5 20. cxd5 Bf5 21. Ng3 Bg6 22. Qc3 Bd6 23. Be4 Bxe4 24. Nxe4 Rd7 25. Qa5 Ra8 26. Rc4 f5 27. Nc3 Rad8 28. h3 e4 29. Nb5 Bc5 30. Nc3 b6 31. Qa4 e3 32. fxe3 Qxe3+ 33. Kh1 Re7 34. Qc2 Qg3 35. Ne2 Qf2 36. Ng1 Red7 37. Qb3 Rxd5 38. Rc2 Qe3 39. Qxe3 Bxe3 40. Rxd5 Rxd5 41. Re2 f4 42. Nf3 g5 43. g3 Kf7 44. Kg2 Kf6 45. Rc2 Rc5 46. Rxc5 bxc5 47. gxf4 Bxf4 48. b3 Kf5 49. Kf2 Ke4 50. Ke2 h5 51. Ne1 Kd4 52. Nd3 Bd6 53. Nf2 Bg3 54. Nd3 g4 55. hxg4 hxg4 56. Nb2 Bf4 57. Nd3 Bd6 58. Kd2 g3 59. a4 g2 60. Ne1 g1=N 61. Nc2+ Kd5 62. Kd3 Nf3 63. Ne3+ Kc6 64. Kc4 a5 65. Nf5 Ne5+ 66. Kc3 Kd5 67. Ne3+ Ke4 68. Nc4 Nxc4 69. Kxc4 Bf4 70. Kxc5 Bd2 71. b4 0-1
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Karin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 g6 2. d4 Bg7 3. c4 c5 4. d5 d6 5. Nc3 Na6 6. Be3 Nc7 7. Qd2 a6 8. Bd3 Bd7 9. Nge2 b5 10. O-O Rb8 11. Rab1 Nf6 12. Bh6 O-O 13. Bxg7 Kxg7 14. f4 Nfe8 15. Ng3 e6 16. b3 exd5 17. Nxd5 Nxd5 18. cxd5 Rc8 19. Bc2 Kg8 20. e5 Ng7 21. Rbe1 Re8 22. Ne4 dxe5 23. fxe5 Nf5 24. Nf6+ Kg7 25. Bxf5 Bxf5 26. Rxf5 Rh8 27. Rf3 c4 28. bxc4 bxc4 29. Qd4 Qa5 30. Ref1 Qc5 31. Qxc5 Rxc5 32. Ng4 Rf8 33. Nf6 Rfc8 34. Rc3 Ra5 35. a3 Rac5 36. Kf2 a5 37. Rb1 R5c7 38. Ke3 Re7 39. Kd4 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Viacheslav Kalashnikov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Rfc8 14. d5 Bf8 15. g4 Nc4 16. b3 Nb6 17. Be3 a5 18. a3 a4 19. b4 cxb4 20. cxb4 Qxc2 21. Qxc2 Rxc2 22. Bxb6 Rb8 23. Ba5 Rbc8 24. Ng3 R8c3 25. Kg2 h6 26. Bb6 Be7 27. Re3 Rxe3 28. Bxe3 Ne8 29. Rc1 Rxc1 30. Bxc1 Bd8 31. Be3 Kh7 32. g5 hxg5 33. Nxg5+ Bxg5 34. Bxg5 Kg6 35. Bd8 f5 36. f3 f4 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kolishkin"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. a4 Bg4 9. c3 Bxf3 10. Qxf3 O-O 11. Rd1 Na5 12. Bc2 c5 13. d4 Qc7 14. d5 c4 15. Nd2 Rfb8 16. axb5 axb5 17. Nf1 Nd7 18. Ne3 Nc5 19. Nf5 Bf8 20. Qg3 Kh8 21. f4 f6 22. fxe5 fxe5 23. Rf1 Nab3 24. Rxa8 Rxa8 25. Bxb3 Nxb3 26. Be3 Ra1 27. Rxa1 Nxa1 28. Qf2 Qf7 29. g4 Nb3 30. h4 g6 31. Ng3 Qxf2+ 32. Kxf2 Be7 33. h5 Kg7 34. hxg6 hxg6 35. Nf1 Bh4+ 36. Ke2 Kf6 37. Nh2 Bg5 38. Nf3 Nc1+ 39. Kd2 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Tarinin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. O-O Bg4 8. dxe5 fxe5 9. Qd3 Be7 10. c4 Nf6 11. h3 Bxf3 12. Qxf3 O-O 13. Nc3 Nd7 14. Qg4 Bf6 15. Be3 Qe8 16. Rad1 Rb8 17. b3 Rf7 18. Rd3 Nf8 19. Ne2 Qd7 20. Qxd7 Rxd7 21. Rfd1 Rbd8 22. Nc3 Kf7 23. g3 Ke6 24. Kg2 Kf7 25. f4 exf4 26. gxf4 Bxc3 27. Rxc3 c5 28. Kf3 g6 29. Bf2 Ne6 30. Rcd3 c6 31. Bh4 Nd4+ 32. Rxd4 cxd4 33. Bxd8 Rxd8 34. Rxd4 Ke7 35. c5 d5 36. exd5 cxd5 37. Ra4 Ra8 38. Ke3 Kd7 39. Kd4 Kc6 40. Rb4 a5 41. Rb6+ Kc7 42. Kxd5 Rd8+ 43. Rd6 Rf8 44. Ra6 Rf5+ 45. Kc4 Rxf4+ 46. Kb5 a4 47. Ra7+ Kb8 48. Rxh7 axb3 49. axb3 Rf6 50. c6 Rf3 51. b4 Rf4 52. Ka5 Rc4 53. b5 1-0
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Efim M Lazarev"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 Nbd7 8. c5 b6 9. b4 c6 10. Bd3 Bb7 11. O-O a5 12. a3 Ba6 13. Qe2 Bxd3 14. Qxd3 b5 15. Nd2 Nh7 16. Bxe7 Qxe7 17. Nb3 a4 18. Na5 Rac8 19. Nb7 e5 20. f3 Rc7 21. Nd6 Ng5 22. Rae1 Ne6 23. Ne2 Ng5 24. Ng3 Ne6 25. Ngf5 Qf6 26. Kh1 Kh7 27. Ng3+ g6 28. Rd1 Qe7 29. Qc3 f6 30. Qd3 Ra7 31. h4 f5 32. h5 Qh4+ 33. Kg1 Qxg3 34. hxg6+ Qxg6 35. Kf2 exd4 36. exd4 Nf4 37. Qd2 Qxg2+ 38. Ke1 Qxd2+ 39. Rxd2 Rf6 40. Rh1 Nf8 41. Rdh2 N8e6 42. Rd2 Ng5 43. Kf2 Re6 44. Nxf5 Rf7 45. Nh4 Ng6 46. Nxg6 Rxf3+ 47. Kg1 Kxg6 48. Kg2 Rxa3 49. Rb1 Ne4 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Viacheslav Kalashnikov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Nxd4 c5 7. Ne2 Bb7 8. Nbc3 Nf6 9. f3 c6 10. e5 Nd5 11. Ne4 f5 12. exf6 Nxf6 13. Nd6+ Bxd6 14. Qxd6 Qe7 15. Qxe7+ Kxe7 16. Bg5 Rae8 17. O-O-O d5 18. Ng3 Bc8 19. Rhe1+ Kf7 20. Kd2 h6 21. Bxf6 Kxf6 22. Rxe8 Rxe8 23. Re1 Rxe1 24. Kxe1 Ke5 25. Kd2 d4 26. Ne4 c4 27. c3 Bf5 28. cxd4+ Kxd4 29. Nc3 Bd3 30. g3 g5 31. a3 h5 32. Nd1 Bf1 33. Ne3 Bd3 34. Nd1 Bg6 35. Ne3 Bd3 36. Nd1 Bh7 37. Nc3 Bg8 38. Ne2+ Ke5 39. Ke3 Kd5 40. Nc3+ Ke5 41. Ne4 Kf5 42. Nc5 Ke5 43. Nxa6 Kd5 44. Nb4+ Kc5 45. Na2 c3 46. Nxc3 Kc4 47. a4 Kb3 48. a5 Bc4 49. f4 gxf4+ 50. gxf4 Kb4 51. f5 Kxa5 52. Kd4 Kb4 53. Ne4 Ba2 54. f6 Bf7 55. Nc5 Bd5 56. h4 Bf7 57. Nd3+ Kb3 58. Ne5 Be6 59. Nxc6 Kxb2 60. Nd8 1-0
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "A Shneider"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d5 6. c4 Bg4 7. Be2 Be7 8. O-O O-O 9. cxd5 Qxd5 10. Nc3 Qd8 11. Ne4 Nd7 12. Nf2 Bf5 13. Ne1 g6 14. Bxh5 gxh5 15. Qxh5 Bg6 16. Qe2 Nb6 17. Nf3 Nd5 18. Ne4 Qd7 19. a3 Qc6 20. Nf2 Bf5 21. Nd3 Bxd3 22. Qxd3 Kh8 23. Qf5 Qg6 24. Qxg6 hxg6 25. h4 Kg7 26. Kf2 Rh8 27. Rh1 c5 28. dxc5 Bxc5+ 29. Ke2 Rae8 30. b4 Be3 31. Bb2 Nb6 32. Rad1 Re7 33. Ng5 Nc4 34. Ba1 Nxa3 35. Nxf7 Kxf7 36. e6+ Rxe6 37. Bxh8 Bd4+ 38. Kf3 Bxh8 39. Kxf4 Rb6 40. Rhe1 Rxb4+ 41. Kg3 Rd4 42. Rf1+ Ke6 43. Rde1+ Be5+ 44. Kh3 Rd3+ 45. Rf3 Rxf3+ 46. gxf3 Kf5 47. Rd1 a5 48. Rd5 b5 49. Kg2 Ke6 50. Rd1 b4 51. Re1 Kf5 0-1
+
+[Event "RUS-ch Juniors"]
+[Site "Borovichi URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Nedelin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. h3 O-O 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. d5 Nb7 14. Nf1 c4 15. g4 Nc5 16. Ng3 g6 17. Kg2 Ne8 18. g5 a5 19. Be3 b4 20. Qe2 Ba6 21. Bxc5 Qxc5 22. Qd2 Rdb8 23. Reb1 Bc8 24. Ne2 Ng7 25. b3 Ba6 26. cxb4 axb4 27. bxc4 Bxc4 28. Bd3 Bxd3 29. Qxd3 Ra3 30. Qxa3 bxa3 31. Rxb8+ Bf8 32. Rc1 Qa7 33. Rcc8 Qe7 34. Rxf8+ Qxf8 35. Rxf8+ Kxf8 36. Nd2 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Budakov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Nbd2 Nd7 14. Nf1 Nc4 15. Ng3 g6 16. b3 Ncb6 17. Be3 Bf6 18. Rc1 Qd8 19. Bd3 Bb7 20. Re2 d5 21. dxe5 Nxe5 22. Nxe5 Bxe5 23. exd5 Qxd5 24. Be4 Qxd1+ 25. Rxd1 Bxe4 26. Nxe4 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Zadneprovsky"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "E27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 h6 7. Bh4 d5 8. e3 b6 9. Nf3 Nbd7 10. Qc2 Ba6 11. Ne5 g5 12. Bg3 Nxe5 13. Bxe5 Bxc4 14. f3 Bxf1 15. Rxf1 Nd7 16. Bg3 Kg7 17. f4 f6 18. h4 g4 19. f5 e5 20. h5 Qe8 21. Rh1 exd4 22. Bf4 dxe3 23. Qe2 Rg8 24. O-O-O Qe4 25. Rd4 Qxf5 26. Qxe3 Rh8 27. Qe7+ Kg8 28. Bd2 Rh7 29. Qe2 Kf7 30. Rxg4 Re8 31. Qd1 Ne5 32. Be1 Nxg4 33. Kb2 Nf2 34. Bxf2 Qxf2+ 35. Kb3 Qxg2 36. Rh4 Rg7 37. Rd4 Ke6 38. Rd2 Qg4 39. Qh1 Rg5 40. Rd4 Qf5 41. a4 Rxh5 42. Qg1 c5 43. Rd2 Rg5 44. Qh2 h5 45. Qc7 Qe5 46. Qxa7 Qd6 47. Qh7 Re7 48. Qh8 Kd7 49. Rf2 f5 50. Rd2 f4 51. Qa8 Rf5 52. Qb7+ Ke6 53. Qc8+ Qd7 54. Qg8+ Kd6 55. Qb8+ Qc7 56. Qg8 Ref7 57. Re2 f3 58. Re3 f2 59. Qe8 Qd7 60. Qb8+ Kc6 61. Qa8+ Qb7 62. Qe8+ Kc7 63. Re7+ Rxe7 64. Qxe7+ Kb8 65. Qd6+ Ka7 0-1
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Shusharin"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Bb4 7. O-O O-O 8. d3 d6 9. Nd5 Nxd5 10. Bxd5 Qe8 11. c3 Ba5 12. a4 Bb7 13. b4 Bb6 14. a5 Ba7 15. Re1 Rb8 16. Bg5 Ne7 17. Bxe7 Qxe7 18. Qb3 c6 19. d4 cxd5 20. exd5 f6 21. dxe5 fxe5 22. Re2 Kh8 23. Nd4 Bxd4 24. cxd4 Qf7 25. dxe5 Bxd5 26. Qg3 dxe5 27. Rxe5 Rbe8 28. Rae1 Re6 29. f3 Rg6 30. Qf2 Bxf3 31. g3 Rf6 32. Re7 Qg6 33. Qd4 Qc2 34. Qf2 Qxf2+ 35. Kxf2 Bg4+ 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Tarinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Tarinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Magnitogorsk"]
+[Site "Magnitogorsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Maksimov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "E81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Nf6 5. f3 O-O 6. Be3 Nbd7 7. Bd3 e5 8. d5 Nc5 9. Nge2 a5 10. Qd2 Nxd3+ 11. Qxd3 Nd7 12. O-O-O f5 13. Rdf1 f4 14. Bf2 Nc5 15. Bxc5 dxc5 16. Kb1 a4 17. Rd1 Bd7 18. Ka1 a3 19. b3 Rf6 20. Nc1 b5 21. Nxb5 Bxb5 22. cxb5 Rb6 23. Ne2 Qb8 24. Nc3 Qa7 25. Qc4 Rd6 26. Rc1 Rb8 27. Na4 Qa5 28. Rhd1 Rxb5 29. Nxc5 Rb4 30. Qc3 Qb6 31. Na4 Qb5 32. Qxc7 Bf8 33. Qc5 Qb7 34. Qc3 Rxa4 35. bxa4 Rd8 36. Qb3 Qa6 37. d6+ Kh8 38. d7 Qe2 39. Rc8 Be7 40. Kb1 Kg7 41. Rxd8 Bxd8 42. a5 Kh6 43. g4 Kg7 44. h4 h6 45. Kc1 g5 46. hxg5 hxg5 47. Qxa3 Qc4+ 48. Kb1 Qb5+ 49. Qb3 Qxa5 50. a4 Kf8 51. Ka2 Qa7 52. Qb4+ Kg7 53. Rd5 Qf2+ 54. Qb2 Qxf3 55. Rxe5 Kg6 56. Re8 Qxg4 57. Rxd8 Qe6+ 58. Qb3 Qxe4 59. Rg8+ Kf5 60. d8=Q 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Viacheslav Kalashnikov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. O-O Be7 7. Nc3 cxd4 8. Nxd4 Bxg2 9. Kxg2 d5 10. Qa4+ Qd7 11. Qxd7+ Nbxd7 12. cxd5 Nxd5 13. Nxd5 exd5 14. Nf5 g6 15. Nxe7 Kxe7 16. Rd1 Ke6 17. Bd2 Rac8 18. Bc3 Rhd8 19. Rd4 Nc5 20. f3 Rd6 21. Rad1 Rcd8 22. g4 f6 23. h4 h6 24. Rf4 Nd7 25. e4 Ne5 26. exd5+ Rxd5 27. Re1 a5 28. g5 hxg5 29. hxg5 f5 30. Rh4 Kd6 31. Bxe5+ Rxe5 32. Rd4+ Kc7 33. Rc4+ Rc5 34. Rxc5+ bxc5 35. Kg3 Rd2 36. Re6 Rd6 37. Re7+ Rd7 38. Re5 Kd6 39. Re8 Kc6 40. Kf4 Rd2 41. Re6+ Kd7 42. Rxg6 Rxb2 43. Kxf5 c4 44. Ke4 Rd2 45. Ra6 Rxa2 46. Kd4 c3 47. Kxc3 Ra3+ 48. Kd4 Rxf3 49. Rxa5 Ke7 50. Ke5 Kf7 51. Ra6 Kg7 52. Rh6 Rf2 53. Rd6 Rf1 54. Ke4 Rf2 55. Rh6 Rf1 56. Ke5 Rf2 57. Ke6 Rf3 58. Rf6 Re3+ 59. Kf5 Rf3+ 60. Ke6 Re3+ 61. Kf5 Rf3+ 62. Ke5 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Andrey Alekseev"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 d5 6. exd5 Nxd5 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. O-O Bc5 10. Kh1 O-O 11. Nb3 Be3 12. Qe2 Bxc1 13. Rxc1 Qg5 14. N1d2 Nf4 15. Qf2 Nf6 16. g3 Ng6 17. Nc5 Qd5 18. Nce4 Nh5 19. Rd1 Qc6 20. Nb3 b6 21. Rd6 Qc7 22. Rad1 Rad8 23. Rxd8 Rxd8 24. Rxd8+ Qxd8 25. Qd2 Qe7 26. Qc3 Qd7 27. Qd4 Qe7 28. Qd6 h6 29. Qxe7 Nxe7 30. Nd6 Nc6 31. c3 Kf8 32. Kg2 Ke7 33. Nb5 e5 34. Nd2 Kd7 35. Nc4 f5 36. Nbd6 Ke6 37. b3 Nf6 38. Nb5 Nd5 39. a4 a6 40. Nba3 Na7 41. Nb1 b5 42. Nb2 e4 43. Kf2 Ke5 44. c4 Nb4 45. Ke3 Nc2+ 46. Kd2 Nd4 47. f4+ Ke6 48. Kc3 Nac6 49. axb5 axb5 50. b4 g5 51. cxb5 Nxb5+ 52. Kc4 Ncd4 53. Nc3 Nxc3 54. Kxd4 Ne2+ 55. Ke3 Nc3 56. Kd4 Ne2+ 57. Ke3 Nc3 58. Kd4 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Boris Kalinkin"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. Nf1 cxd4 14. cxd4 d5 15. exd5 exd4 16. Bg5 Nxd5 17. Rc1 Qd6 18. Be4 Bxg5 19. Nxg5 g6 20. Qf3 Be6 21. Bxg6 hxg6 22. Rxe6 Qd7 23. Rd6 Qf5 24. Qxf5 gxf5 25. Rxd8+ Rxd8 26. Ng3 Nf4 27. Kf1 d3 28. Rd1 Rd5 29. b3 Nc4 30. Nf3 Nb2 31. Rd2 Nc4 32. Rd1 Nb2 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Gaimaletdinov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bg4 5. d5 a6 6. Bxc6+ bxc6 7. dxc6 h6 8. O-O Nf6 9. Qd3 Be7 10. Nc3 O-O 11. Nd2 Qe8 12. Qc4 Rb8 13. Nb3 Rb6 14. Na5 Kh7 15. b3 Be6 16. Qd3 Nh5 17. Rd1 f5 18. f3 f4 19. Nd5 Bxd5 20. exd5+ Kh8 21. Nb7 Bf6 22. Rb1 Qf7 23. a4 Bg5 24. a5 Rb4 25. c3 Rb5 26. c4 Rxb7 27. cxb7 Rb8 28. b4 Rxb7 29. b5 axb5 30. cxb5 Qe8 31. Qc4 Qa8 32. Qc6 Qa7+ 33. b6 cxb6 34. axb6 Qa6 35. Bd2 Nf6 36. Qxd6 e4 37. Bxf4 Bxf4 38. Qxf4 exf3 39. Qxf3 Rxb6 40. Rxb6 Qxb6+ 41. Kh1 Qd6 42. h3 Kh7 43. Qe2 Ng8 44. Qe6 Qxe6 45. dxe6 Nf6 46. e7 Kg8 47. Re1 Kf7 48. Kh2 Ke8 49. Re5 Ng8 50. Kg3 Nxe7 51. Kg4 Kf7 52. h4 Ng8 53. Kf4 Kf6 54. g4 Ne7 55. h5 g5+ 56. Ke4 Kf7 57. Ra5 Ng8 58. Ke5 Kg7 59. Ra7+ Kh8 60. Ke6 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Mukhudulin"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 e5 7. Nb3 Be7 8. f3 O-O 9. Bc4 a6 10. Qd2 Qc7 11. Bd5 Nb4 12. Rc1 Nfxd5 13. Nxd5 Nxd5 14. Qxd5 Be6 15. Qd2 f5 16. exf5 Rxf5 17. O-O Raf8 18. c4 Qd8 19. Na5 Bg5 20. Bxg5 Rxg5 21. Kh1 Rh5 22. g3 Qc7 23. Rfd1 Bh3 24. Qd5+ Rf7 25. b4 Qb6 26. c5 Qb5 27. Qc4 Qxc4 28. Rxc4 dxc5 29. Rd8+ Rf8 30. Rxf8+ Kxf8 31. bxc5 Be6 32. Rb4 Bxa2 33. Rxb7 Bd5 34. c6 Bxf3+ 35. Kg1 Bg4 36. c7 e4 37. Nb3 Rb5 38. Rb8+ Ke7 39. Nd4 Rc5 40. Rb6 Bc8 41. Kf2 Rxc7 42. Ke3 Bb7 43. Nf5+ Kf8 44. Nd6 Rc3+ 45. Ke2 Bc6 46. Rxa6 Ke7 47. Nf5+ Kf7 48. Nd6+ Ke7 49. Nf5+ Ke6 50. Nd4+ Kd5 51. Nxc6 Rxc6 52. Ra7 Kd4 53. Rd7+ Ke5 54. Rxg7 Rc2+ 55. Ke3 Rxh2 56. Re7+ Kf5 57. Rxe4 Rh3 58. Rf4+ Kg5 59. Kf3 Rh6 60. Rg4+ Kf5 61. Rg7 Kf6 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Shefler"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Be2 Bd6 6. O-O h6 7. Re1 Be6 8. Nbd2 Nbd7 9. Nf1 c6 10. Bd3 Qc7 11. Qe2 O-O-O 12. Be3 Rde8 13. Ng3 g6 14. c4 Bg4 15. c5 Bf4 16. Qd2 Bxe3 17. Rxe3 Be6 18. b4 Ng4 19. Ree1 f5 20. a4 Ngf6 21. Nf1 Ne4 22. Qb2 g5 23. Reb1 g4 24. N3d2 Qf4 25. Bxe4 fxe4 26. b5 Qc7 27. b6 axb6 28. cxb6 Qd6 29. a5 Nb8 30. Nb3 Kd8 31. Nc5 Bc8 32. a6 bxa6 33. b7 Bd7 34. Qb6+ Qc7 35. Qa7 Ke7 36. Ne3 Rhf8 37. Nxa6 Nxa6 38. Rxa6 Qf4 39. Qc5+ Qd6 40. Qc2 Rb8 41. Rbb6 h5 42. Ra5 Qc7 43. Nxd5+ 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Larinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Borovichi"]
+[Site "Borovichi"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Sergey Belousov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C07"]
+[WhiteElo "2651"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. dxc5 Bxc5 5. exd5 exd5 6. Ngf3 Nf6 7. Bd3 O-O 8. O-O Nc6 9. c3 Re8 10. Nb3 Bb6 11. Qc2 Bg4 12. Nbd4 Nxd4 13. Nxd4 Bxd4 14. cxd4 Rc8 15. Qb3 b6 16. Be3 Qd6 17. h3 Bh5 18. Rac1 Bg6 19. Ba6 Rxc1 20. Rxc1 Be4 21. Bb5 Rf8 22. Rc6 Qb8 23. Qc3 Nh5 24. Qc1 f5 25. Be2 Qe8 26. Bxh5 Qxh5 27. Bg5 Re8 28. Rc3 h6 29. Bf4 g5 30. Be5 f4 31. Rc7 Qg6 32. Rg7+ Qxg7 33. Bxg7 Kxg7 34. Qc7+ Kf6 35. Qxa7 Re6 36. Qd7 h5 37. f3 Bd3 38. Qxd5 g4 39. hxg4 hxg4 40. fxg4 Re1+ 1-0
+
+[Event "RUS-ch Juniors"]
+[Site "Borovichi URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gennadi Timoshchenko"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Be7 8. Bd3 a6 9. O-O O-O 10. Ne5 Nd5 11. c4 Nxe3 12. fxe3 Bf6 13. Rf3 Bxe5 14. dxe5 Qg5 15. Qc2 h6 16. Qc3 Bd7 17. Rg3 Qe7 18. Rf1 Be8 19. Bb1 g6 20. Rf6 Kh7 21. h4 h5 22. Rg5 Kg7 23. Qc2 Rh8 24. Qe2 Qc5 25. b3 Rd8 26. Qf3 Qe7 27. g4 Qd7 28. Qxb7 hxg4 29. Rf1 Rxh4 30. Qe4 Qd2 31. Qf4 Kg8 32. Qg3 Rh3 33. Qf4 Qxe3+ 34. Qxe3 Rxe3 35. Rxg4 Rxe5 36. Rg2 Kg7 37. Rb2 Rd4 38. a3 Rg4+ 39. Kf2 Rf4+ 40. Kg1 Rg4+ 41. Kf2 Bc6 42. Rg1 Rxg1 43. Kxg1 Re3 44. a4 a5 45. Kf2 Rh3 46. Ke1 Rh1+ 47. Kd2 Rh2+ 48. Kc3 Rxb2 49. Kxb2 g5 50. Kc3 g4 51. Bd3 g3 52. Bf1 g2 53. Bxg2 Bxg2 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Ziuliarkin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 e6 6. d3 Nge7 7. Be3 Nd4 8. O-O O-O 9. f4 Rb8 10. Kh1 b5 11. a3 d6 12. Qd2 d5 13. Rab1 a5 14. b4 Nxe2 15. Nxe2 d4 16. Bf2 cxb4 17. axb4 a4 18. e5 Nf5 19. g4 Nh4 20. Be4 f5 21. exf6 Bxf6 22. g5 Bxg5 23. fxg5 Nf5 24. Bg3 Rb7 25. Be5 Rbf7 26. c3 dxc3 27. Bxc3 h6 28. Bf6 Qb6 29. Nf4 hxg5 30. Bxg5 Rh7 31. Qg2 Kf7 32. Qg1 Qd6 33. Rbc1 Rfh8 34. Rf2 Bd7 35. Nxg6 1-0
+
+[Event "Simul"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. O-O Be7 8. Re1 O-O 9. Bf1 Re8 10. h3 Nxd4 11. Qxd4 Bc6 12. Be3 Qd7 13. Rad1 Bf8 14. Bg5 Be7 15. Bc1 a6 16. g4 h6 17. f4 Rad8 18. Bg2 Qc8 19. Qd3 b5 20. a3 Qb7 21. Qf3 Bf8 22. h4 a5 23. g5 hxg5 24. hxg5 Nh7 25. Bh3 d5 26. exd5 Rxe1+ 27. Rxe1 Bxd5 28. Nxd5 Qxd5 29. Qxd5 Rxd5 30. g6 Bc5+ 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Efim M Lazarev"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 Nbd7 8. c5 b6 9. b4 c6 10. Bd3 Bb7 11. O-O a5 12. a3 Ba6 13. Qe2 Bxd3 14. Qxd3 b5 15. Nd2 Nh7 16. Bxe7 Qxe7 17. Nb3 a4 18. Na5 Rac8 19. Nb7 e5 20. f3 Rc7 21. Nd6 Ng5 22. Rae1 Ne6 23. Ne2 Ng5 24. Ng3 Ne6 25. Ngf5 Qf6 26. Kh1 Kh7 27. Ng3+ g6 28. Rd1 Qe7 29. Qc3 f6 30. Qd3 Ra7 31. h4 f5 32. h5 Qh4+ 33. Kg1 Qxg3 34. hxg6+ Qxg6 35. Kf2 exd4 36. exd4 Nf4 37. Qd2 Qxg2+ 38. Ke1 Qxd2+ 39. Rxd2 Rf6 40. Rh1 Nf8 41. Rdh2 N8e6 42. Rd2 Ng5 43. Kf2 Re6 44. Nxf5 Rf7 45. Nh4 Ng6 46. Nxg6 Rxf3+ 47. Kg1 Kxg6 48. Kg2 Rxa3 49. Rb1 Ne4 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Viacheslav Kalashnikov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Nxd4 c5 7. Ne2 Bb7 8. Nbc3 Nf6 9. f3 c6 10. e5 Nd5 11. Ne4 f5 12. exf6 Nxf6 13. Nd6+ Bxd6 14. Qxd6 Qe7 15. Qxe7+ Kxe7 16. Bg5 Rae8 17. O-O-O d5 18. Ng3 Bc8 19. Rhe1+ Kf7 20. Kd2 h6 21. Bxf6 Kxf6 22. Rxe8 Rxe8 23. Re1 Rxe1 24. Kxe1 Ke5 25. Kd2 d4 26. Ne4 c4 27. c3 Bf5 28. cxd4+ Kxd4 29. Nc3 Bd3 30. g3 g5 31. a3 h5 32. Nd1 Bf1 33. Ne3 Bd3 34. Nd1 Bg6 35. Ne3 Bd3 36. Nd1 Bh7 37. Nc3 Bg8 38. Ne2+ Ke5 39. Ke3 Kd5 40. Nc3+ Ke5 41. Ne4 Kf5 42. Nc5 Ke5 43. Nxa6 Kd5 44. Nb4+ Kc5 45. Na2 c3 46. Nxc3 Kc4 47. a4 Kb3 48. a5 Bc4 49. f4 gxf4+ 50. gxf4 Kb4 51. f5 Kxa5 52. Kd4 Kb4 53. Ne4 Ba2 54. f6 Bf7 55. Nc5 Bd5 56. h4 Bf7 57. Nd3+ Kb3 58. Ne5 Be6 59. Nxc6 Kxb2 60. Nd8 1-0
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "A Shneider"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d5 6. c4 Bg4 7. Be2 Be7 8. O-O O-O 9. cxd5 Qxd5 10. Nc3 Qd8 11. Ne4 Nd7 12. Nf2 Bf5 13. Ne1 g6 14. Bxh5 gxh5 15. Qxh5 Bg6 16. Qe2 Nb6 17. Nf3 Nd5 18. Ne4 Qd7 19. a3 Qc6 20. Nf2 Bf5 21. Nd3 Bxd3 22. Qxd3 Kh8 23. Qf5 Qg6 24. Qxg6 hxg6 25. h4 Kg7 26. Kf2 Rh8 27. Rh1 c5 28. dxc5 Bxc5+ 29. Ke2 Rae8 30. b4 Be3 31. Bb2 Nb6 32. Rad1 Re7 33. Ng5 Nc4 34. Ba1 Nxa3 35. Nxf7 Kxf7 36. e6+ Rxe6 37. Bxh8 Bd4+ 38. Kf3 Bxh8 39. Kxf4 Rb6 40. Rhe1 Rxb4+ 41. Kg3 Rd4 42. Rf1+ Ke6 43. Rde1+ Be5+ 44. Kh3 Rd3+ 45. Rf3 Rxf3+ 46. gxf3 Kf5 47. Rd1 a5 48. Rd5 b5 49. Kg2 Ke6 50. Rd1 b4 51. Re1 Kf5 0-1
+
+[Event "RUS-ch Juniors"]
+[Site "Borovichi URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Nedelin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. h3 O-O 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. d5 Nb7 14. Nf1 c4 15. g4 Nc5 16. Ng3 g6 17. Kg2 Ne8 18. g5 a5 19. Be3 b4 20. Qe2 Ba6 21. Bxc5 Qxc5 22. Qd2 Rdb8 23. Reb1 Bc8 24. Ne2 Ng7 25. b3 Ba6 26. cxb4 axb4 27. bxc4 Bxc4 28. Bd3 Bxd3 29. Qxd3 Ra3 30. Qxa3 bxa3 31. Rxb8+ Bf8 32. Rc1 Qa7 33. Rcc8 Qe7 34. Rxf8+ Qxf8 35. Rxf8+ Kxf8 36. Nd2 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Budakov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Nbd2 Nd7 14. Nf1 Nc4 15. Ng3 g6 16. b3 Ncb6 17. Be3 Bf6 18. Rc1 Qd8 19. Bd3 Bb7 20. Re2 d5 21. dxe5 Nxe5 22. Nxe5 Bxe5 23. exd5 Qxd5 24. Be4 Qxd1+ 25. Rxd1 Bxe4 26. Nxe4 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Zadneprovsky"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "E27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 h6 7. Bh4 d5 8. e3 b6 9. Nf3 Nbd7 10. Qc2 Ba6 11. Ne5 g5 12. Bg3 Nxe5 13. Bxe5 Bxc4 14. f3 Bxf1 15. Rxf1 Nd7 16. Bg3 Kg7 17. f4 f6 18. h4 g4 19. f5 e5 20. h5 Qe8 21. Rh1 exd4 22. Bf4 dxe3 23. Qe2 Rg8 24. O-O-O Qe4 25. Rd4 Qxf5 26. Qxe3 Rh8 27. Qe7+ Kg8 28. Bd2 Rh7 29. Qe2 Kf7 30. Rxg4 Re8 31. Qd1 Ne5 32. Be1 Nxg4 33. Kb2 Nf2 34. Bxf2 Qxf2+ 35. Kb3 Qxg2 36. Rh4 Rg7 37. Rd4 Ke6 38. Rd2 Qg4 39. Qh1 Rg5 40. Rd4 Qf5 41. a4 Rxh5 42. Qg1 c5 43. Rd2 Rg5 44. Qh2 h5 45. Qc7 Qe5 46. Qxa7 Qd6 47. Qh7 Re7 48. Qh8 Kd7 49. Rf2 f5 50. Rd2 f4 51. Qa8 Rf5 52. Qb7+ Ke6 53. Qc8+ Qd7 54. Qg8+ Kd6 55. Qb8+ Qc7 56. Qg8 Ref7 57. Re2 f3 58. Re3 f2 59. Qe8 Qd7 60. Qb8+ Kc6 61. Qa8+ Qb7 62. Qe8+ Kc7 63. Re7+ Rxe7 64. Qxe7+ Kb8 65. Qd6+ Ka7 0-1
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Shusharin"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Bb4 7. O-O O-O 8. d3 d6 9. Nd5 Nxd5 10. Bxd5 Qe8 11. c3 Ba5 12. a4 Bb7 13. b4 Bb6 14. a5 Ba7 15. Re1 Rb8 16. Bg5 Ne7 17. Bxe7 Qxe7 18. Qb3 c6 19. d4 cxd5 20. exd5 f6 21. dxe5 fxe5 22. Re2 Kh8 23. Nd4 Bxd4 24. cxd4 Qf7 25. dxe5 Bxd5 26. Qg3 dxe5 27. Rxe5 Rbe8 28. Rae1 Re6 29. f3 Rg6 30. Qf2 Bxf3 31. g3 Rf6 32. Re7 Qg6 33. Qd4 Qc2 34. Qf2 Qxf2+ 35. Kxf2 Bg4+ 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Tarinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Tarinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Magnitogorsk"]
+[Site "Magnitogorsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Maksimov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "E81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Nf6 5. f3 O-O 6. Be3 Nbd7 7. Bd3 e5 8. d5 Nc5 9. Nge2 a5 10. Qd2 Nxd3+ 11. Qxd3 Nd7 12. O-O-O f5 13. Rdf1 f4 14. Bf2 Nc5 15. Bxc5 dxc5 16. Kb1 a4 17. Rd1 Bd7 18. Ka1 a3 19. b3 Rf6 20. Nc1 b5 21. Nxb5 Bxb5 22. cxb5 Rb6 23. Ne2 Qb8 24. Nc3 Qa7 25. Qc4 Rd6 26. Rc1 Rb8 27. Na4 Qa5 28. Rhd1 Rxb5 29. Nxc5 Rb4 30. Qc3 Qb6 31. Na4 Qb5 32. Qxc7 Bf8 33. Qc5 Qb7 34. Qc3 Rxa4 35. bxa4 Rd8 36. Qb3 Qa6 37. d6+ Kh8 38. d7 Qe2 39. Rc8 Be7 40. Kb1 Kg7 41. Rxd8 Bxd8 42. a5 Kh6 43. g4 Kg7 44. h4 h6 45. Kc1 g5 46. hxg5 hxg5 47. Qxa3 Qc4+ 48. Kb1 Qb5+ 49. Qb3 Qxa5 50. a4 Kf8 51. Ka2 Qa7 52. Qb4+ Kg7 53. Rd5 Qf2+ 54. Qb2 Qxf3 55. Rxe5 Kg6 56. Re8 Qxg4 57. Rxd8 Qe6+ 58. Qb3 Qxe4 59. Rg8+ Kf5 60. d8=Q 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Viacheslav Kalashnikov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. O-O Be7 7. Nc3 cxd4 8. Nxd4 Bxg2 9. Kxg2 d5 10. Qa4+ Qd7 11. Qxd7+ Nbxd7 12. cxd5 Nxd5 13. Nxd5 exd5 14. Nf5 g6 15. Nxe7 Kxe7 16. Rd1 Ke6 17. Bd2 Rac8 18. Bc3 Rhd8 19. Rd4 Nc5 20. f3 Rd6 21. Rad1 Rcd8 22. g4 f6 23. h4 h6 24. Rf4 Nd7 25. e4 Ne5 26. exd5+ Rxd5 27. Re1 a5 28. g5 hxg5 29. hxg5 f5 30. Rh4 Kd6 31. Bxe5+ Rxe5 32. Rd4+ Kc7 33. Rc4+ Rc5 34. Rxc5+ bxc5 35. Kg3 Rd2 36. Re6 Rd6 37. Re7+ Rd7 38. Re5 Kd6 39. Re8 Kc6 40. Kf4 Rd2 41. Re6+ Kd7 42. Rxg6 Rxb2 43. Kxf5 c4 44. Ke4 Rd2 45. Ra6 Rxa2 46. Kd4 c3 47. Kxc3 Ra3+ 48. Kd4 Rxf3 49. Rxa5 Ke7 50. Ke5 Kf7 51. Ra6 Kg7 52. Rh6 Rf2 53. Rd6 Rf1 54. Ke4 Rf2 55. Rh6 Rf1 56. Ke5 Rf2 57. Ke6 Rf3 58. Rf6 Re3+ 59. Kf5 Rf3+ 60. Ke6 Re3+ 61. Kf5 Rf3+ 62. Ke5 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Andrey Alekseev"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 d5 6. exd5 Nxd5 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. O-O Bc5 10. Kh1 O-O 11. Nb3 Be3 12. Qe2 Bxc1 13. Rxc1 Qg5 14. N1d2 Nf4 15. Qf2 Nf6 16. g3 Ng6 17. Nc5 Qd5 18. Nce4 Nh5 19. Rd1 Qc6 20. Nb3 b6 21. Rd6 Qc7 22. Rad1 Rad8 23. Rxd8 Rxd8 24. Rxd8+ Qxd8 25. Qd2 Qe7 26. Qc3 Qd7 27. Qd4 Qe7 28. Qd6 h6 29. Qxe7 Nxe7 30. Nd6 Nc6 31. c3 Kf8 32. Kg2 Ke7 33. Nb5 e5 34. Nd2 Kd7 35. Nc4 f5 36. Nbd6 Ke6 37. b3 Nf6 38. Nb5 Nd5 39. a4 a6 40. Nba3 Na7 41. Nb1 b5 42. Nb2 e4 43. Kf2 Ke5 44. c4 Nb4 45. Ke3 Nc2+ 46. Kd2 Nd4 47. f4+ Ke6 48. Kc3 Nac6 49. axb5 axb5 50. b4 g5 51. cxb5 Nxb5+ 52. Kc4 Ncd4 53. Nc3 Nxc3 54. Kxd4 Ne2+ 55. Ke3 Nc3 56. Kd4 Ne2+ 57. Ke3 Nc3 58. Kd4 1/2-1/2
+
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Boris Kalinkin"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. Nf1 cxd4 14. cxd4 d5 15. exd5 exd4 16. Bg5 Nxd5 17. Rc1 Qd6 18. Be4 Bxg5 19. Nxg5 g6 20. Qf3 Be6 21. Bxg6 hxg6 22. Rxe6 Qd7 23. Rd6 Qf5 24. Qxf5 gxf5 25. Rxd8+ Rxd8 26. Ng3 Nf4 27. Kf1 d3 28. Rd1 Rd5 29. b3 Nc4 30. Nf3 Nb2 31. Rd2 Nc4 32. Rd1 Nb2 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Gaimaletdinov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bg4 5. d5 a6 6. Bxc6+ bxc6 7. dxc6 h6 8. O-O Nf6 9. Qd3 Be7 10. Nc3 O-O 11. Nd2 Qe8 12. Qc4 Rb8 13. Nb3 Rb6 14. Na5 Kh7 15. b3 Be6 16. Qd3 Nh5 17. Rd1 f5 18. f3 f4 19. Nd5 Bxd5 20. exd5+ Kh8 21. Nb7 Bf6 22. Rb1 Qf7 23. a4 Bg5 24. a5 Rb4 25. c3 Rb5 26. c4 Rxb7 27. cxb7 Rb8 28. b4 Rxb7 29. b5 axb5 30. cxb5 Qe8 31. Qc4 Qa8 32. Qc6 Qa7+ 33. b6 cxb6 34. axb6 Qa6 35. Bd2 Nf6 36. Qxd6 e4 37. Bxf4 Bxf4 38. Qxf4 exf3 39. Qxf3 Rxb6 40. Rxb6 Qxb6+ 41. Kh1 Qd6 42. h3 Kh7 43. Qe2 Ng8 44. Qe6 Qxe6 45. dxe6 Nf6 46. e7 Kg8 47. Re1 Kf7 48. Kh2 Ke8 49. Re5 Ng8 50. Kg3 Nxe7 51. Kg4 Kf7 52. h4 Ng8 53. Kf4 Kf6 54. g4 Ne7 55. h5 g5+ 56. Ke4 Kf7 57. Ra5 Ng8 58. Ke5 Kg7 59. Ra7+ Kh8 60. Ke6 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Mukhudulin"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 e5 7. Nb3 Be7 8. f3 O-O 9. Bc4 a6 10. Qd2 Qc7 11. Bd5 Nb4 12. Rc1 Nfxd5 13. Nxd5 Nxd5 14. Qxd5 Be6 15. Qd2 f5 16. exf5 Rxf5 17. O-O Raf8 18. c4 Qd8 19. Na5 Bg5 20. Bxg5 Rxg5 21. Kh1 Rh5 22. g3 Qc7 23. Rfd1 Bh3 24. Qd5+ Rf7 25. b4 Qb6 26. c5 Qb5 27. Qc4 Qxc4 28. Rxc4 dxc5 29. Rd8+ Rf8 30. Rxf8+ Kxf8 31. bxc5 Be6 32. Rb4 Bxa2 33. Rxb7 Bd5 34. c6 Bxf3+ 35. Kg1 Bg4 36. c7 e4 37. Nb3 Rb5 38. Rb8+ Ke7 39. Nd4 Rc5 40. Rb6 Bc8 41. Kf2 Rxc7 42. Ke3 Bb7 43. Nf5+ Kf8 44. Nd6 Rc3+ 45. Ke2 Bc6 46. Rxa6 Ke7 47. Nf5+ Kf7 48. Nd6+ Ke7 49. Nf5+ Ke6 50. Nd4+ Kd5 51. Nxc6 Rxc6 52. Ra7 Kd4 53. Rd7+ Ke5 54. Rxg7 Rc2+ 55. Ke3 Rxh2 56. Re7+ Kf5 57. Rxe4 Rh3 58. Rf4+ Kg5 59. Kf3 Rh6 60. Rg4+ Kf5 61. Rg7 Kf6 1/2-1/2
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Shefler"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Be2 Bd6 6. O-O h6 7. Re1 Be6 8. Nbd2 Nbd7 9. Nf1 c6 10. Bd3 Qc7 11. Qe2 O-O-O 12. Be3 Rde8 13. Ng3 g6 14. c4 Bg4 15. c5 Bf4 16. Qd2 Bxe3 17. Rxe3 Be6 18. b4 Ng4 19. Ree1 f5 20. a4 Ngf6 21. Nf1 Ne4 22. Qb2 g5 23. Reb1 g4 24. N3d2 Qf4 25. Bxe4 fxe4 26. b5 Qc7 27. b6 axb6 28. cxb6 Qd6 29. a5 Nb8 30. Nb3 Kd8 31. Nc5 Bc8 32. a6 bxa6 33. b7 Bd7 34. Qb6+ Qc7 35. Qa7 Ke7 36. Ne3 Rhf8 37. Nxa6 Nxa6 38. Rxa6 Qf4 39. Qc5+ Qd6 40. Qc2 Rb8 41. Rbb6 h5 42. Ra5 Qc7 43. Nxd5+ 1-0
+
+[Event "Zlatoust"]
+[Site "Zlatoust URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Larinin"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Nc6 14. Ne3 Rfe8 15. b3 Bf8 16. dxc5 dxc5 17. Nd5 Nxd5 18. exd5 Na5 19. Ng5 h6 20. d6 Bxd6 21. Bh7+ Kf8 22. Nxf7 Kxf7 23. Qh5+ Ke7 24. Qh4+ Ke6 25. Qg4+ Kf6 26. Qh4+ Kf7 27. Qh5+ Kf8 28. Bxh6 Re7 29. Qf3+ Rf7 30. Qxa8+ Bc8 31. Bg5 Nc6 32. Be4 Ne7 33. Rad1 Nf5 34. Bxf5 Rxf5 35. Rxd6 1-0
+
+[Event "Borovichi"]
+[Site "Borovichi"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Sergey Belousov"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C07"]
+[WhiteElo "2651"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. dxc5 Bxc5 5. exd5 exd5 6. Ngf3 Nf6 7. Bd3 O-O 8. O-O Nc6 9. c3 Re8 10. Nb3 Bb6 11. Qc2 Bg4 12. Nbd4 Nxd4 13. Nxd4 Bxd4 14. cxd4 Rc8 15. Qb3 b6 16. Be3 Qd6 17. h3 Bh5 18. Rac1 Bg6 19. Ba6 Rxc1 20. Rxc1 Be4 21. Bb5 Rf8 22. Rc6 Qb8 23. Qc3 Nh5 24. Qc1 f5 25. Be2 Qe8 26. Bxh5 Qxh5 27. Bg5 Re8 28. Rc3 h6 29. Bf4 g5 30. Be5 f4 31. Rc7 Qg6 32. Rg7+ Qxg7 33. Bxg7 Kxg7 34. Qc7+ Kf6 35. Qxa7 Re6 36. Qd7 h5 37. f3 Bd3 38. Qxd5 g4 39. hxg4 hxg4 40. fxg4 Re1+ 1-0
+
+[Event "RUS-ch Juniors"]
+[Site "Borovichi URS"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gennadi Timoshchenko"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Be7 8. Bd3 a6 9. O-O O-O 10. Ne5 Nd5 11. c4 Nxe3 12. fxe3 Bf6 13. Rf3 Bxe5 14. dxe5 Qg5 15. Qc2 h6 16. Qc3 Bd7 17. Rg3 Qe7 18. Rf1 Be8 19. Bb1 g6 20. Rf6 Kh7 21. h4 h5 22. Rg5 Kg7 23. Qc2 Rh8 24. Qe2 Qc5 25. b3 Rd8 26. Qf3 Qe7 27. g4 Qd7 28. Qxb7 hxg4 29. Rf1 Rxh4 30. Qe4 Qd2 31. Qf4 Kg8 32. Qg3 Rh3 33. Qf4 Qxe3+ 34. Qxe3 Rxe3 35. Rxg4 Rxe5 36. Rg2 Kg7 37. Rb2 Rd4 38. a3 Rg4+ 39. Kf2 Rf4+ 40. Kg1 Rg4+ 41. Kf2 Bc6 42. Rg1 Rxg1 43. Kxg1 Re3 44. a4 a5 45. Kf2 Rh3 46. Ke1 Rh1+ 47. Kd2 Rh2+ 48. Kc3 Rxb2 49. Kxb2 g5 50. Kc3 g4 51. Bd3 g3 52. Bf1 g2 53. Bxg2 Bxg2 0-1
+
+[Event "Zlatoust"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Ziuliarkin"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 e6 6. d3 Nge7 7. Be3 Nd4 8. O-O O-O 9. f4 Rb8 10. Kh1 b5 11. a3 d6 12. Qd2 d5 13. Rab1 a5 14. b4 Nxe2 15. Nxe2 d4 16. Bf2 cxb4 17. axb4 a4 18. e5 Nf5 19. g4 Nh4 20. Be4 f5 21. exf6 Bxf6 22. g5 Bxg5 23. fxg5 Nf5 24. Bg3 Rb7 25. Be5 Rbf7 26. c3 dxc3 27. Bxc3 h6 28. Bf6 Qb6 29. Nf4 hxg5 30. Bxg5 Rh7 31. Qg2 Kf7 32. Qg1 Qd6 33. Rbc1 Rfh8 34. Rf2 Bd7 35. Nxg6 1-0
+
+[Event "Simul"]
+[Site "Zlatoust"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. O-O Be7 8. Re1 O-O 9. Bf1 Re8 10. h3 Nxd4 11. Qxd4 Bc6 12. Be3 Qd7 13. Rad1 Bf8 14. Bg5 Be7 15. Bc1 a6 16. g4 h6 17. f4 Rad8 18. Bg2 Qc8 19. Qd3 b5 20. a3 Qb7 21. Qf3 Bf8 22. h4 a5 23. g5 hxg5 24. hxg5 Nh7 25. Bh3 d5 26. exd5 Rxe1+ 27. Rxe1 Bxd5 28. Nxd5 Qxd5 29. Qxd5 Rxd5 30. g6 Bc5+ 1/2-1/2
+

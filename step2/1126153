@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1967.04.04"]
+[EventDate "1967.03.24"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vasily Smyslov"]
+[Black "Svetozar Gligoric"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. e3 d5 6. Nbd2 c5
+7. c3 cxd4 8. cxd4 Nc6 9. Be2 Qb6 10. Qb3 1/2-1/2

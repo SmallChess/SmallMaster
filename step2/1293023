@@ -1,0 +1,21 @@
+[Event "sim"]
+[Site "Barcelona ESP"]
+[Date "1984.??.??"]
+[EventDate "1984.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Miguel Illescas Cordoba"]
+[ECO "A57"]
+[WhiteElo "2710"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.b6 d6 6.Nc3 Nbd7 7.a4
+Nxb6 8.a5 Nbd7 9.e4 g6 10.f4 Bg7 11.Bc4 O-O 12.Nf3 Ne8 13.O-O
+Nc7 14.Ra2 Nb5 15.Ne2 Nf6 16.Qd3 e6 17.Ng3 exd5 18.exd5 Ng4
+19.b3 Nd4 20.h3 Nxf3+ 21.Qxf3 Bd4+ 22. Kh1 Qh4 23.Ne4 Re8
+24.Nxd6 Re3 25.Bxe3 Nxe3 26.Nxc8 Nxf1 27.Qxf1 Rxc8 28. Bxa6
+Re8 29.Re2 Rxe2 30.Bxe2 Qd8 31.a6 Qxd5 32.Bf3 Qd7 33.Qc4 Qe7
+34.Qe2 Qc7 35.g3 Qa5 36.Kg2 Qa1 37.h4 Qg1+ 38.Kh3 c4 39.bxc4
+Kg7 40.Bd5 h6 41.c5 Bxc5 42.Qe5+ Kh7 43.Qc7 h5 44.a7 1-0

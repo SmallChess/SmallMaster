@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.09"]
+[EventDate "2016.09.02"]
+[Round "7.1"]
+[Result "1-0"]
+[White "Samuel Shankland"]
+[Black "Sethuraman P Sethuraman"]
+[ECO "D12"]
+[WhiteElo "2679"]
+[BlackElo "2640"]
+[PlyCount "150"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. cxd5 cxd5 6. Nc3 e6
+7. Qa4+ Nbd7 8. Ne5 a6 9. f3 Bf5 10. g4 Bg6 11. h4 b5 12. Qd1
+b4 13. h5 Bxh5 14. Nxd7 Nxd7 15. Rxh5 bxc3 16. bxc3 Qc7
+17. Bd2 Bd6 18. Bd3 Nb6 19. Ke2 h6 20. g5 Kd7 21. gxh6 gxh6
+22. Rb1 Rag8 23. Bxa6 Rg2+ 24. Kd3 Ra8 25. Bb5+ Kd8 26. Rxh6
+Rxa2 27. Rh8+ Ke7 28. Re8+ Kf6 29. Be1 Kg7 30. f4 f5 31. Qb3
+Qf7 32. Qd1 Nc4 33. Rd8 Be7 34. Rd7 Rab2 35. Bxc4 dxc4+
+36. Kxc4 Qe8 37. Rxb2 Rxb2 38. Qa1 Rb8 39. Qa7 Kf8 40. Kd3 Ra8
+41. Qb7 Rb8 42. Qh1 Qxd7 43. Qh8+ Kf7 44. Qxb8 Qc6 45. Qb2
+Qe4+ 46. Kd2 Qg2+ 47. Kc1 Qf1 48. Kd1 Qd3+ 49. Qd2 Qc4 50. Qe2
+Qa4+ 51. Qc2 Qc4 52. Kd2 Qf1 53. Qd3 Qh1 54. Qe2 Qe4 55. Qh2
+Qb7 56. Ke2 Qb2+ 57. Bd2 Qb5+ 58. Kf2 Kg6 59. Qg2+ Kf7 60. Qf3
+Bh4+ 61. Kg2 Qd3 62. Qh5+ Kf8 63. Qd1 Kg7 64. Qg1 Qxd2+
+65. Kh3+ Kf8 66. Kxh4 Qxc3 67. Kh5 Qc6 68. Kh6 Qf3 69. Qg7+
+Ke8 70. Qe5 Kd7 71. Kg7 Qg4+ 72. Kf8 Qh4 73. Qg7+ Kd6 74. Ke8
+Qh5+ 75. Qf7 Kd5 1-0

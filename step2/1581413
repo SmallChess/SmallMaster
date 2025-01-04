@@ -1,0 +1,20 @@
+[Event "Rook Odds"]
+[Site "New York USA"]
+[Date "1859.??.??"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6
+7. d4 exd4 8. cxd4 Bb6 9. Nc3 Bg4 10. Bb5 Bd7 11. Nd5 f6
+12. Nf4 Qe7 13. d5 Ne5 14. Bxd7+ Qxd7 15. Ne6 h5 16. Nh4 Qf7
+17. Qa4+ Qd7 18. Qb3 Nh6 19. Bxh6 Rxh6 20. Nf5 Rg6 21. Qh3 Qf7
+22. a4 a5 23. Rb1 Ra7 24. Rxb6 cxb6 25. Nxd6+ 1-0

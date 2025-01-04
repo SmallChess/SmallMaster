@@ -1,0 +1,30 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1925.11.21"]
+[EventDate "1925.11.10"]
+[Round "9"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Fedor Parfenovich Bohatirchuk"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 {Notes by Bogoljubov} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Be7 6. Re1 d6 7. c3 Nd7 {The so-called Tchigorin
+defence but 7...Bd7 was simpler.} 8. d4 Bf6 9. Nbd2 b5 10. Bb3
+Na5 {If ...exd4 White counters with 11 cxd4 and the d-pawn
+then is of course taboo.} 11. Bc2 c5 {Not so good in this
+position, as convincingly demonstrated by Lasker. The proper
+move was 11...O-O.} 12. Nf1 O-O 13. a4 Bb7 14. Ne3 Nb6
+15. axb5 axb5 16. Ng4 Nc6 {? Black was alread in considerable
+difficulties, and his only chance was to take on d4 the text
+move gives White an opportunity for a winning combination.}
+17. Rxa8 Nxa8 18. Nxf6+ Qxf6 {Forced because 18...gxf6 19 Bh6
+Re8 would lead to a win for White.} 19. d5 Na7 20. Bg5 Qg6
+21.Be7 f6 {21...Re8 would be countered by 22 Nh4 Qh6 23 Nf5
+Qg6 24 Bxd6, etc.} 22. Bxd6 {!} Rd8 {...Rc8 would be countered
+by 23 Qa1.} 23. Bxc5 Nc8 24. Qe2 Qe8 25. Nd2 Nd6 26. Bd3 Nc7
+27. Ra1 Qd7 28. Nb3 Kh8 29. Bb6 Ra8 30. Rxa8+ Bxa8 31. Nc5 Qc8
+32. b4 1-0

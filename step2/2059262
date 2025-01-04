@@ -1,0 +1,21 @@
+[Event "B.C.A. Handicap t"]
+[Site "London ENG"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Adolf Anderssen"]
+[Black "F E Lamb"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'The Chess Congress of 1862', p.229"]
+[PlyCount "60"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 d5 2. e5 e6 3. f4 c5 4. Nf3 Qb6 5. d3 Nh6 6. Be2 Nc6 7. c3 Bd7 8. O-O Be7
+9. Kh1 d4 10. Nd2 f5 11. h3 O-O 12. Qe1 Kh8 13. Nf3 Rg8 14. Kg1 Be8 15. g4 Bg6
+16. g5 Nf7 17. Nh4 Rgf8 18. Nxg6+ hxg6 19. h4 Kh7 20. h5 Rh8 21. Kg2 Qd8 22. Rh1
+b5 23. Bf3 Rc8 24. Bd2 c4 25. hxg6+ Kxg6 26. Qe2 Nh6 27. Bh5+ Kh7 28. Bf7 Qd5+
+29. Kf2 Rhf8 30. Qh5 1-0

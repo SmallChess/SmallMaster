@@ -1,0 +1,21 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.07.12"]
+[EventDate "1906.06.05"]
+[Round "31"]
+[Result "1-0"]
+[White "David Janowski"]
+[Black "Amos Burn"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Ostend 1906 / Gillam, Game 326"]
+[PlyCount "69"]
+
+1.e4 e6 2.d4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.c3 Be7 6.Qc2 Nbd7
+7.Nxe4 Nxe4 8.Qxe4 Nf6 9.Qc2 Bd7 10.Nf3 Bc6 11.Bd3 Qd5 12.O-O
+Qh5 13.Ne5 Ng4 14.Nxg4 Qxg4 15.f3 Qh5 16.Be4 O-O 17.Bxc6 bxc6
+18.b4 a5 19.a3 Ra6 20.Rae1 Rfa8 21.Re2 Bd6 22.g4 Qh3 23.Bc1
+Qh4 24.Qe4 Qf6 25.f4 Qh4 26.f5 exf5 27.Qxf5 f6 28.g5 axb4
+29.gxf6 gxf6 30.Rg2+ Kh8 31.Bg5 fxg5 32.Qf6+ Kg8 33.Rxg5+
+Qxg5+ 34.Qxg5+ Kh8 35.Qf6+ 1-0

@@ -1,0 +1,17 @@
+[Event "Simul, 23b"]
+[Site "Hilversum NED"]
+[Date "1896.05.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "J H de Ruwe"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 c6 4. f4 d5 5. exd5 e4 6. dxc6 Nxc6
+7. c3 Bf5 8. d4 Be7 9. h3 O-O 10. g4 Be6 11. Nd2 Bxc4 12. Qxc4
+e3 13. Ndf3 Nd5 14. Ne2 Bh4+ 15. Kf1 Bf2 16. Kg2 Rc8 17. Qd3
+Qd6 18. Rf1 Rfe8 19. Bd2 exd2 20. Rxf2 Rxe2 0-1

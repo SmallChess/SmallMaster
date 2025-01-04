@@ -1,0 +1,43 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "268"]
+
+1. e4 { book } g6 { book } 2. d4 { book } Bg7 { book } 3. Nc3
+{ book } d6 { book } 4. Be3 { book } a6 { book } 5. Qd2 { book
+} b5 { book } 6. f3 { book } Nd7 { book } 7. h4 h5 8. Nh3 Bb7
+9. Ng5 c5 10. dxc5 Nxc5 11. a4 Qa5 12. Bd4 Bf6 13. Be2 Bc6
+14. O-O Nxa4 15. f4 Rd8 16. Bxf6 exf6 17. Qd4 Rb8 18. Nxa4
+bxa4 19. Bc4 Qc5 20. Qxc5 dxc5 21. Nxf7 Rh7 22. Nd6+ Kd7
+23. e5 Kc7 24. Rfe1 Nh6 25. Ne4 Rxb2 26. Nxf6 Rxc2 27. Bd5
+Bxd5 28. Nxd5+ Kc6 29. Rad1 Nf5 30. e6 Ne7 31. Ne3 Rc3 32. Rd7
+a3 33. Nd5 Nxd5 34. Rxh7 Re3 35. Ra1 c4 36. f5 gxf5 37. Rxh5
+c3 38. Rxf5 c2 39. Rc1 Nb4 40. Rf3 Re4 41. Rxa3 Kd6 42. h5
+Kxe6 43. h6 Rh4 44. Rh3 Rxh3 45. gxh3 Kf7 46. h7 Kg7 47. Kf1
+Kxh7 48. Ke2 Kg6 49. Kd2 Kh5 50. Re1 a5 51. Re2 Kg5 52. Kc1
+Kh5 53. Kb2 Kh4 54. Re3 Nd5 55. Rf3 Nb4 56. Kc1 Nc6 57. Re3
+Nb4 58. Kb2 Nd5 59. Rf3 Nc7 60. Kxc2 Ne6 61. Rf6 Ng5 62. Rh6+
+Kg3 63. h4 Nh3 64. h5 Kg4 65. Rh8 Ng5 66. Kb2 a4 67. Ka3 Nf7
+68. Rh7 Ng5 69. Rh8 Nf7 70. Rh7 Ng5 71. Rh6 Kh4 72. Kb4 a3
+73. Kxa3 Nh3 74. Rh8 Kg5 75. h6 Kg6 76. Rg8+ Kh7 77. Rg2 Nf4
+78. Rh2 Nd3 79. Rh5 Nf2 80. Rh4 Nd3 81. Rh1 Nf2 82. Rh4 Nd3
+83. Kb3 Ne5 84. Rh1 Ng4 85. Kc4 Nxh6 86. Rg1 Nf5 87. Kd5 Kh6
+88. Ke5 Nh4 89. Kf6 Kh5 90. Rg5+ Kh6 91. Ra5 Nf3 92. Rd5 Nh4
+93. Rg5 Nf3 94. Ra5 Nh4 95. Rc5 Ng6 96. Rc8 Kh5 97. Rc5+ Kh6
+98. Ra5 Nh4 99. Rb5 Ng2 100. Kf5 Nh4+ 101. Kf6 Ng2 102. Rf5
+Nh4 103. Re5 Ng6 104. Re8 Kh5 105. Rg8 Nh4 106. Rg7 Kh6
+107. Rg5 Nf3 108. Rb5 Nh4 109. Ra5 Nf3 110. Kf5 Ng5 111. Ra6+
+Kh5 112. Ra2 Nh3 113. Ra4 Ng1 114. Rc4 Nh3 115. Rg4 Nf2
+116. Rg5+ Kh4 117. Rg1 Nh3 118. Rg8 Nf2 119. Rg5 Nh3 120. Rg7
+Nf2 121. Rg5 Nh3 122. Rg8 Nf2 123. Rg2 Nh3 124. Rg4+ Kh5
+125. Rc4 Nf2 126. Rf4 Nh3 127. Rb4 Nf2 128. Rd4 Nh3 129. Rg4
+Nf2 130. Ra4 Nh3 131. Re4 Ng1 132. Ra4 Nh3 133. Ra3 Kh4
+134. Rg3 Kxg3 1/2-1/2

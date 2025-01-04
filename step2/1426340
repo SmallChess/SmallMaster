@@ -1,0 +1,24 @@
+[Event "Steinitz - Zukertort"]
+[Site "London ENG"]
+[Date "1872.08.06"]
+[EventDate "1872.08.06"]
+[Round "1"]
+[Result "0-1"]
+[White "Johannes Zukertort"]
+[Black "Wilhelm Steinitz"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb6
+7.O-O Nxe4 8.Re1 O-O 9.Rxe4 d5 10.Bxd5 Qxd5 11.Nc3 Qd8 12.d5
+Ne7 13.Bg5 f6 14.Qb3 Rf7 15.Rae1 Kf8 16.d6 cxd6 17.Nd5 Nxd5
+18.Qxd5 Bd7 19.Qxd6+ Kg8 20.Ne5 Bxf2+ 21.Kh1 Bxe1 22.Nxf7 Kxf7
+23.Qd5+ Kg6 24.Rxe1 Bc6 25.Qxd8 Rxd8 26.Be3 Kf7 27.Kg1 g5
+28.Re2 a6 29.Rd2 Re8 30.Kf2 Bxg2 31.Bxg5 fxg5 32.Kxg2 Kf6
+33.Kf3 h5 34.h4 gxh4 35.Rd4 Kg5 36.Rd5+ Kg6 37.Rd6+ Kf5 38.Rd4
+h3 39.Rh4 Kg5 40.Rxh3 h4 41.Kf2 Rc8 42.Rb3 Rc2+ 43.Kg1 b5
+44.a4 bxa4 45.Rb4 Rc1+ 46.Kh2 Rb1 47.Rxa4 Rxb2+ 48.Kh3 Rb3+
+49.Kh2 Rb6 50.Kh3 Kf5 51.Kxh4 Rg6 52.Kh5 Re6 53.Ra5+ Ke4
+54.Kg5 Re5+ 0-1

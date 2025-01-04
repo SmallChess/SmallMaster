@@ -1,0 +1,16 @@
+[Event "Warsaw Olympiad"]
+[Site "Warsaw POL"]
+[Date "1935.08.21"]
+[EventDate "?"]
+[Round "7.2"]
+[Result "0-1"]
+[White "Louis Betbeder Matibet"]
+[Black "Frank James Marshall"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Bd3 Nc6 5.c3 d5 6.Nbd2 Bd6 7.O-O
+O-O 8.dxc5 Bxc5 9.e4 dxe4 10.Nxe4 Be7 11.Qe2 e5 12.Nxf6+ Bxf6
+13.Qe4 g6 14.Bh6 Bf5 0-1

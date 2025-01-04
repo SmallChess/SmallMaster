@@ -1,0 +1,23 @@
+[Event "Match"]
+[Site "Amsterdam NED"]
+[Date "1920.03.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Max Marchand"]
+[Black "Max Euwe"]
+[ECO "A44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 c5 2.d5 e5 3.dxe6 fxe6 4.e4 d5 5.e5 Nc6 6.Nf3 Nge7 7.Bf4
+g6 8.Na3 Bg7 9.c3 O-O 10.Qd2 a6 11.Bd3 Qc7 12.Qe3 d4 13.Qe4
+Nd5 14.Bg3 dxc3 15.b3 b5 16.h4 Rf5 17.h5 Nxe5 18.Bxe5 Bxe5
+19.hxg6 hxg6 20.Qg4 Qg7 21.Bxf5 exf5 22.Qg5 Bf6 23.Qh6 Qxh6
+24.Rxh6 Kg7 25.Rh1 c2 26.Nxc2 Bc3+ 27.Kd1 Bxa1 28.Nxa1 Nc3+
+29.Kd2 Ne4+ 30.Ke3 Bb7 31.Rd1 Re8 32.Rd7+ Kf6 33.Ne1 c4 34.Kd4
+Bc8 35.Rc7 Nxf2 36.Nac2 Rd8+ 37.Ke3 Ng4+ 38.Ke2 Ne5 39.Ne3 f4
+40.Nd5+ Rxd5 41.Rxc8 Kf5 42.bxc4 Nxc4 43.Nf3 g5 44.Rf8+ Kg6
+45.Ra8 a5 46.Rg8+ Kf6 47.Rf8+ Kg7 48.Rc8 g4 49.a4 gxf3+
+50.Kxf3 Nd6 0-1

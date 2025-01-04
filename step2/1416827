@@ -1,0 +1,24 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1915.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Siegbert Tarrasch"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 {Notes by Irving Chernev.} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4
+Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Be7 10.Re1 O-O
+11.Nd4 Nxe5 {Tarrasch would hardly fall into his own trap by
+11...Qd7 12.Nxe6 Q(or P)xe6 13.Rxe4 etc.} 12.f3 Bd6 13.fxe4
+Bg4 14.Qc2 Qh4 15.Rf1 c5 {Attacking the Knight and threatening
+16...c4} 16.Bxd5 cxd4 17.Bxa8 Rxa8 18.cxd4 Rc8 19.Nc3 {If
+19.Qf2 Qxf2+, or if 19.Qb3 Nf3+ wins} Nc6 20.e5 Nxd4 21.Qe4
+Rxc3 22.Rf4 {If 22.bxc3 Ne2+ costs the Queen, as does 22.Qxd4
+Bc5} Ne2+ 23.Qxe2 {If 23.Kf1 Ng3+ 24.hxg3 Qh1+ and wins} Bc5+
+24.Kh1 {On 24.Be3 Rxe3 25.Qf2 Rxe5 26.Rd4 Bxd4 wins} Rh3
+25.gxh3 Bxe2 26.Rxh4 Bf3# 0-1

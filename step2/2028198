@@ -1,0 +1,18 @@
+[Event "Consultation simul, 3b"]
+[Site "Dublin IRL"]
+[Date "1881.01.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J D Roberts / C Tuthill"]
+[Black "Wilhelm Steinitz"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player's Chronicle, 1881.01.25, p.38"]
+[PlyCount "37"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4 5.Bxf7+ Ke7 6.d3 Nf6
+7.Bb3 d5 8.f4 Bg4 9.Qd2 h6 10.fxe5 hxg5 11.Qxg5 Nxe5 12.Qxe5+
+Kd7 13.Nc3 Bd6 14.Qg5 Qe7+ 15.Qe3 Qf8 16.Bd2 Re8 17.Ne4 Nxe4
+18.dxe4 Rxe4 19.Bxd5 {Black mates in 2} 0-1

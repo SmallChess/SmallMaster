@@ -1,0 +1,19 @@
+[Event "Exhibition odds game"]
+[Site "Havana CUB"]
+[Date "1941.03.31"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Ricardo Romero"]
+[Black "Jose Raul Capablanca"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Bc4 cxd4 5.Nxd4 Qc7 6.Qd3 Nc6
+7.Nxc6 bxc6 8. O-O Nf6 9.h3 e6 10.Nc3 O-O 11.Be3 d5 12.Bb3 Kh8
+13.Rfe1 Nh5 14.Bc5 Rd8 15. e5 Bf8 16.Na4 Bxc5 17.Nxc5 Qa5
+18.Qd4 Rb8 19.c3 Rb5 20.Bd1 Ng7 1/2-1/2

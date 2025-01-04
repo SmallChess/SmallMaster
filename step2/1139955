@@ -1,0 +1,17 @@
+[Event "GEO-ch"]
+[Site "Poti URS"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "Dmitry Gedevanishvili"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 e6 4.d4 Nxc3 5.bxc3 d6 6.f4 c5 7.Nf3
+cxd4 8.cxd4 dxe5 9.fxe5 Bb4+ 10.Bd2 Qa5 11.Bd3 Nc6 12.O-O Bxd2
+13.Nxd2 Qc3 14.Rf4 O-O 15.Kh1 Ne7 16.Ne4 Qb2 17.Rb1 Qxa2
+18.Nf6+ gxf6 19.Bxh7+ Kh8 20.Rh4 Kg7 21.Qc1 Ng8 22.Bxg8 1-0

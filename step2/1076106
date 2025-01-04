@@ -1,0 +1,17 @@
+[Event "Simul, 23b"]
+[Site "Totnes ENG"]
+[Date "1908.03.05"]
+[EventDate "1908.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "James Eccles Dimond Moysey"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. c4 c6 5. d4 Nf6 6. dxc6 Nxc6
+7. d5 Bc5 8. Nc3 Qb6 9. Nh3 Bxh3 10. gxh3 Bf2+ 11. Ke2 e3
+12. dxc6 Qc5 13. Bg2 Rd8 14. Qa4 O-O 15. Qb5 Qd4 16. Rd1 Qxf4
+17. cxb7 Qxh2 18. Qc6 Nh5 19. Bxe3 Bxe3 20. Rxd8 Rxd8 21. Kxe3 0-1

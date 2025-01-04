@@ -1,0 +1,20 @@
+[Event "Chess.com Semifinal Blitz"]
+[Site "chess.com INT"]
+[Date "2016.08.23"]
+[EventDate "2016.08.23"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Grischuk"]
+[Black "Magnus Carlsen"]
+[ECO "000"]
+[WhiteElo "2754"]
+[BlackElo "2857"]
+[PlyCount "43"]
+[SetUp "1"]
+[FEN "qnnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/QNNBBRKR w HFhf - 0 1"]
+
+1. e4 e5 2. b3 Nc6 3. d3 N8e7 4. f4 exf4 5. Bc3 f6 6. Ne2 d5
+7. Nxf4 Bf7 8. Nd2 Qc8 9. Nh5 Bxh5 10. Bxh5 Qd7 11. Rf2 d4
+12. Bb2 Ng6 13. a3 a5 14. O-O Nge5 15. b4 g6 16. Bd1 axb4
+17. axb4 Nxb4 18. Bxd4 Be7 19. Bxe5 fxe5 20. Qxe5 Nc6
+21. Rxf8+ Bxf8 22. Rxf8+ 1-0

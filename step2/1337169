@@ -1,0 +1,17 @@
+[Event "Simpson's Divan"]
+[Site "London"]
+[Date "1872.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Johannes Zukertort"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. Nxg4 d5
+7. Nf2 dxe4 8. Nxe4 Qe7 9. Qe2 Nc6 10. c3 Nh6 11. d4 Bg4
+12. Qd3 f5 13. Bxf4 fxe4 14. Qb5 O-O-O 15. Nd2 Nf5 16. d5 e3
+17. Nc4 Ncd4 18. cxd4 Nxd4 19. Qa4 Qb4+ 20. Qxb4 Nc2# 0-1

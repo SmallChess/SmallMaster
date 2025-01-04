@@ -1,0 +1,21 @@
+[Event "VAS simul"]
+[Site "Amsterdam NED"]
+[Date "1922.12.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Max Euwe"]
+[Black "Theodoor van Hoorn"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. d5 bxa4 8. dxc6 d6 9. c4 Be7 10. Qxa4 O-O 11. Nbd2 Nc5
+12. Qc2 f5 13. b4 Ne6 14. Bb2 Qe8 15. b5 Nf4 16. Kh1 Qg6
+17. Rg1 e4 18. Nd4 Nd3 19. Nf1 Bh4 20. g3 Bf6 21. Bc3 Qh5
+22. Ne3 Bxd4 23. Bxd4 Qf3+ 24. Ng2 f4 25. Qd1 Qxf2 26. Qxd3
+Qxg1+ 27. Rxg1 exd3 28. Nxf4 axb5 29. cxb5 Rxa2 30. Rd1 Bf5
+31. b6 Be4+ 32. Kg1 Bxc6 33. bxc7 Rc2 34. Rxd3 Re8 35. Rd1 Bf3
+36. Rf1 Bb7 37. Bb6 g5 0-1

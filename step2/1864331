@@ -1,0 +1,15 @@
+[Event "Simul, 24b"]
+[Site "London ENG"]
+[Date "1932.01.29"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "NN"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Bb4 5. Bc4 d5 6. exd5
+Nf6 7. Qa4+ b5 8. Qxb5+ 1-0

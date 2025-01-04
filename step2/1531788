@@ -1,0 +1,18 @@
+[Event "NED-ch sf"]
+[Site "Eindhoven NED"]
+[Date "1989.11.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Loek van Wely"]
+[Black "Richard Duijn"]
+[ECO "A67"]
+[WhiteElo "2320"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7
+8.Bb5+ Nbd7 9.e5 dxe5 10.fxe5 Nh5 11.e6 Qh4+ 12.Kd2 fxe6
+13.dxe6 Bxc3+ 14.bxc3 Qf4+ 15.Kc2 Qe4+ 16.Qd3 Qxe6 17.Nf3 c4
+18.Bxc4 Qg4 19.Re1+ Kd8 20.Ne5 Qxg2+ 21.Re2 Qg1 22.Nf7+ Kc7
+23.Qd6# 1-0

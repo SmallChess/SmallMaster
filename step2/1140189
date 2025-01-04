@@ -1,0 +1,17 @@
+[Event "Simul, 27b"]
+[Site "Knotty Ash, Liverpool ENG"]
+[Date "1974.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "W R Chandler"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Nf6 5.Bc4 e6 6.Nf3 Bb4
+7.O-O Nbd7 8.Qe2 Bxc3 9.bxc3 O-O 10.Bg5 Re8 11.Ne5 Nf8 12.f4
+c5 13.Rad1 Qd6 14.f5 Nd5 15.Nxf7 Kxf7 16.fxe6 Kg8 17.e7 Ne6
+18.dxc5 Qxc5+ 19.Kh1 Nxc3 20.Rd8 Bd7 21.Qe5 Qxe5 22.Rf8+ 1-0

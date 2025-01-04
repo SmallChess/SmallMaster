@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1892.??.??"]
+[EventDate "1892.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Christian Kelz"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7
+7. d4 d5 8. Bxf4 dxe4 9. Bc4+ Kg6 10. O-O Nf6 11. Be5 Bf5
+12. Rxf5 Kxf5 13. Bf7 e3 14. Qf1+ Ke4 15. Qf4# 1-0

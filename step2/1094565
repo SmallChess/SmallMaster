@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1903.05.04"]
+[EventDate "1903.05.02"]
+[Round "2"]
+[Result "1-0"]
+[White "Frank James Marshall"]
+[Black "Geza Maroczy"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3 gxf3 6.Qxf3 d5
+7.Nxd5 c6 8.Nxf4 Qf6 9.c3 Bh6 10.d4 Ne7 11.O-O O-O 12.Nd5 Nxd5
+13.Qxf6 Nxf6 14.Bxh6 Nbd7 15.Bxf8 Kxf8 16.e5 Nd5 17.Bxd5 cxd5
+18.e6 Nb6 19.Rxf7+ Kg8 20.Rf6 Kg7 21.Raf1 1-0

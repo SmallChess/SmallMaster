@@ -1,0 +1,26 @@
+[Event "World Cadets U12"]
+[Site "Batumi GEO"]
+[Date "2016.10.24"]
+[EventDate "2016.??.??"]
+[Round "6.3"]
+[Result "1-0"]
+[White "Vincent Keymer"]
+[Black "Momchil Petkov"]
+[ECO "A59"]
+[WhiteElo "2402"]
+[BlackElo "2040"]
+[PlyCount "125"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6
+7. Nf3 g6 8. e4 Bxf1 9. Kxf1 Bg7 10. g3 O-O 11. Kg2 Nbd7
+12. a4 Qb6 13. Qe2 Rfb8 14. Nb5 Ne8 15. Bg5 Kf8 16. Nd2 Qb7
+17. Nc4 Nb6 18. Nxb6 Qxb6 19. Qg4 h6 20. Bd2 Nc7 21. Qd7 Na6
+22. Bc3 Rb7 23. Qh3 Nc7 24. Nxc7 Qxc7 25. Ra3 Rab8 26. a5 Bxc3
+27. bxc3 Kg7 28. Rha1 Ra7 29. Qg4 Rba8 30. a6 Qb6 31. Qe2 f6
+32. h4 Qc7 33. h5 g5 34. Qg4 Qc8 35. Qxc8 Rxc8 36. Rb1 Rca8
+37. Rb6 Kf7 38. Kf3 Ke8 39. Kg4 Kf7 40. Kf5 Rg8 41. Rb7 Rga8
+42. Rxa7 Rxa7 43. f3 Kg7 44. Ke6 Kf8 45. g4 Kg7 46. Rb3 Kf8
+47. Rb8+ Kg7 48. Rb7 Rxa6 49. Kxe7 Ra3 50. Kxd6+ Kf8 51. Ke6
+Rxc3 52. d6 Ra3 53. Rb8+ Kg7 54. d7 Rd3 55. d8=Q Rxd8 56. Rxd8
+c4 57. Rd7+ Kf8 58. Kxf6 Ke8 59. Rc7 Kd8 60. Rxc4 Kd7 61. e5
+Kd8 62. e6 Ke8 63. Rc8# 1-0

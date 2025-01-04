@@ -1,0 +1,17 @@
+[Event "Simul, 21b"]
+[Site "Magdeburg GER"]
+[Date "1896.04.26"]
+[EventDate "1896.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "August Loebbecke"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nge7 5. Ng5 d5 6. exd5
+Nxd5 7. Nxf7 Bxf2+ 8. Kxf2 Qh4+ 9. g3 Qxc4 10. Nxh8 Bg4
+11. Qf1 Qe4 12. d3 Qf3+ 13. Kg1 O-O-O 14. Nd2 Qxf1+ 15. Kxf1
+Rf8+ 16. Kg1 Bh3 17. a4 Ndb4 18. b3 Nxd3 19. Ba3 Rf2 0-1

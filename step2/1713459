@@ -1,0 +1,25 @@
+[Event "nTCEC - Stage 2a"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.03.08"]
+[EventDate "2013.02.22"]
+[Round "14.3"]
+[Result "1/2-1/2"]
+[White "Critter (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 f5 5. d5 Nf6 6. g3 Na6
+7. Bg2 Nc5 8. Nf3 Nce4 9. dxe6 Nxc3 10. exd7+ Qxd7 11. Qxd7+
+Kxd7 12. bxc3 Re8 13. a4 Bc5 14. a5 Ne4 15. O-O Nxc3 16. e3
+Ne2+ 17. Kh1 Nxc1 18. Rfxc1 Be4 19. Rd1+ Kc6 20. axb6 axb6
+21. h4 g6 22. Ng5 Bxg2+ 23. Kxg2 Be7 24. Nf7 Rhg8 25. Ra2 Bf6
+26. c5 Ra8 27. Rxa8 Rxa8 28. cxb6 Kxb6 29. Kf3 Ra2 30. Rb1+
+Rb2 31. Rxb2+ Bxb2 32. e4 fxe4+ 33. Kxe4 Kb5 34. f4 h5 35. Kd5
+c6+ 36. Ke6 c5 37. Nd6+ Kc6 38. Nc4 Bd4 39. Ne5+ Kb5 40. Kd5
+Bf2 41. Nxg6 c4 42. Ke4 Bxg3 43. f5 Ka4 44. Kd4 Kb4 45. f6 c3
+46. f7 Bd6 47. Nf4 c2 48. Nd3+ Kb3 49. Nc1+ Kb2 50. Ne2 c1=Q
+51. Nxc1 Kxc1 52. Kc3 Bf8 53. Kc4 Kd2 54. Kd5 Kc3 55. Ke5 Kc4
+56. Ke6 Kd4 1/2-1/2

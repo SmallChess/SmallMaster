@@ -1,0 +1,16 @@
+[Event "Lugano Open"]
+[Site "Lugano SUI"]
+[Date "1988.03.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Michele Godena"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "2558"]
+[PlyCount "32"]
+
+1.d4 d5 2.c4 Nc6 3.e3 e5 4.cxd5 Qxd5 5.Nc3 Bb4 6.Bd2 Bxc3
+7.bxc3 exd4 8.cxd4 Nf6 9.Nf3 Ne4 10.Be2 Bg4 11.O-O O-O-O
+12.Be1 Rhe8 13.Nd2 Bxe2 14.Qxe2 Re6 15.f3 Nxd4 16.Qc4 Nxd2 0-1

@@ -1,0 +1,17 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1883.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bernhard Richter"]
+[Black "Siegbert Tarrasch"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5
+Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bg5 O-O 11. Bxf6
+Qxf6 12. Qxd5 Re8+ 13. Be2 Bg4 14. f3 Rad8 15. Qc5 Nd4
+16. O-O-O Bf5 17. Rd2 Qh6 18. Kd1 Nb3 0-1

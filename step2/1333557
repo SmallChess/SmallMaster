@@ -1,0 +1,51 @@
+[Event "Simul, Manhattan Chess Club"]
+[Site "New York, NY USA"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Eric Schiller"]
+[ECO "D25"]
+[WhiteElo "2430"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 {Notes by Eric Schiller.} d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 g6
+{ This is not the most common continuation. Usually Black
+plays an early ...e6, locking in the light-squared
+bishop. This can lead to great difficulties later on, and
+while the system is suitable for masters, it is not easy to
+play for beginners. On the other hand, this fianchetto play is
+easy to play, even if not as objectively sound.} 5.Bxc4 Bg7
+6.O-O O-O 7.Nc3 Nfd7 { Smyslov's system. The idea is to bring
+the knight to b6, driving back the enemy bishop, and then
+striking at the center with ...c5 or ...e5.} 8.Qe2 { 8.e4 Nb6
+9.Be2 Bg4 10.Be3 Nc6 was played in Evans - Smyslov, Helsinki
+Olympiad 1952, which was a game I had studied in preparation
+for this contest. Black has a lot of pressure on the
+center. Play continued 11.d5 Bxf3 12.Bxf3 Ne5 13.Be2 Nec4 with
+pressure on the long diagonal. After 14.Bc1 c6! Black had a
+strong game. } Nb6 9.Bb3 Nc6 {!? An attempt to improve on
+Golombek - Smyslov, Budapest 1952, which saw 9...a5.} 10.Rd1
+Bg4 11.h3 Bxf3 12.Qxf3 Qe8 {This move has the goal of blasting
+open the center. After the king moves to the h-file Black can
+advance both e- and f-pawns. 12...e5 13.dxe5 } 13.Nb5 {?!
+Gligoric improved against me a week or two later with
+13. Ne4!, with the threat of Nc5. Serves me right for getting
+the game published in the New York Times!} Rc8 14.Bd2 a6
+15.Na3 Kh8 16.Rac1 e5 {!} 17.d5 e4 18.Qf4 { Now it is clear
+that the Nc6 is headed for e5, with the possibility of jumping
+into f3. If only the g-file were open and a rook stood on
+g8...} g5 {!} 19.Qxg5 Ne5 20.Bc3 {The pin looks strong - but
+checks have been known to break pins! 20.g3 Nf3+ } Nf3+ {!!
+20...Nd3 21.Qxg7# } 21.gxf3 Bxc3 22.Kh1 { 22.bxc3 Rg8 22.Rxc3
+Rg8 } Rg8 23.Qf4 Qd7 24.Qh4 { 24.Rxc3 Qxh3+ 25.Qh2 Qxf3+
+26.Qg2 Qxg2# } Qf5 {! Black continues to make threats while
+improving the position of his queen, before capturing the pawn
+at b2.} 25.f4 Bxb2 26.Rg1 Bxc1 27.Rxc1 Qg6 {White's position
+is hopeless.} 28.Qg4 Qxg4 29.hxg4 Rxg4 {White could have
+resigned here.} 30.Rg1 Rxg1+ 31.Kxg1 Rd8 32.d6 Rxd6 33.Bxf7
+Rd3 34.Nc2 c5 35.Be6 Rc3 36.Ne1 Rc1 37.Kf1 Nc4 38.Ke2 b5
+39.Bd5 Ra1 40.Bxe4 Rxa2+ 41.Kd1 Rxf2 42.Nd3 Rd2+ {White
+resigned.} 0-1

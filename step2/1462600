@@ -1,0 +1,17 @@
+[Event "Amsterdam IBM"]
+[Site "Amsterdam NED"]
+[Date "1977.06.28"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Lubomir Kavalek"]
+[Black "Samuel Reshevsky"]
+[ECO "C67"]
+[WhiteElo "2600"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6
+7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Ke8 10.h3 Ne7 11.Nd4 Nf5 12.Nf3
+Ne7 13.Bf4 Nd5 14.Nxd5 cxd5 15.Rad1 c6 16.Nd4 h5 17.Be3 Bc5
+18.c4 Bxd4 19.Rxd4 Be6 20.c5 b6 21.Rc1 b5 1/2-1/2

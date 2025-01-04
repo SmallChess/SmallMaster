@@ -1,0 +1,22 @@
+[Event "Knight Odds"]
+[Site "New York USA"]
+[Date "1859.??.??"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Frederick Perrin"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Nc6 5. Nxf7 Kxf7
+6. Bc4+ d5 7. Bxd5+ Be6 8. Qh5+ g6 9. Qf3+ Nf6 10. Bxe6+ Kxe6
+11. Qb3+ Kd7 12. Bg5 Be7 13. O-O-O+ Bd6 14. Qxb7 Qe7 15. f4 h6
+16. e5 hxg5 17. Rhe1 Rhb8 18. Qa6 Rb6 19. Qc4 Rb4 20. Qa6 Rd4
+21. exd6 Qxd6 22. Qb5 Qxf4+ 23. Kb1 Re8 24. Rf1 Nd5 25. a3
+Nc3+ 26. bxc3 Rb8 27. Rxd4+ Qxd4 28. Qxb8 Qxc3 29. Rd1+ Nd4
+30. Qb2 1-0

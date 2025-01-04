@@ -1,0 +1,17 @@
+[Event "Amber-blind 8th"]
+[Site "Monte Carlo MNC"]
+[Date "1999.03.27"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Joel Lautier"]
+[Black "Loek van Wely"]
+[ECO "B90"]
+[WhiteElo "2596"]
+[BlackElo "2632"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Be7 8. g4 d5 9. exd5 Nxd5 10. Nxd5 exd5 11. Nf5 Bxf5
+12. gxf5 d4 13. Rg1 O-O 14. Qg4 Bf6 15. Bh6 Qa5+ 16. Kd1 d3
+17. Bxg7 dxc2+ 18. Kc1 h5 19. Bxf6+ 1-0

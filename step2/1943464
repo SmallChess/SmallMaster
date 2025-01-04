@@ -1,0 +1,44 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "260"]
+
+1. d4 { book } Nf6 { book } 2. c4 { book } c5 { book } 3. d5 {
+book } b5 { book } 4. cxb5 { book } a6 { book } 5. bxa6 { book
+} g6 { book } 6. Nc3 { book } Bxa6 { book } 7. e4 { book }
+Bxf1 { book } 8. Kxf1 { book } d6 { book } 9. g3 { book } Bg7
+{ book } 10. Kg2 { book } O-O { book } 11. Nf3 { book } Nbd7 {
+book } 12. h3 { book } Qb6 13. Qc2 Rfb8 14. Rb1 Ne8 15. Bf4
+Qa6 16. Rhe1 Nc7 17. e5 Nb5 18. Nxb5 Rxb5 19. exd6 exd6 20. b3
+Nf6 21. Rbd1 Rb4 22. Qd3 h6 23. Re2 g5 24. Qxa6 Rxa6 25. Bc1
+Kh7 26. Rc2 Kg6 27. Rd3 Nd7 28. a4 Bf6 29. Bd2 Rb8 30. Bc1 Rb4
+31. Ba3 Rb8 32. Nd2 Ne5 33. Rdc3 Nd7 34. Rd3 Ne5 35. Re3 Nd7
+36. Nc4 Nb6 37. Rf3 Nxc4 38. Rxc4 Bd4 39. Bc1 h5 40. Bd2 Ra7
+41. Rd3 Kf5 42. Rf3+ Kg6 43. Kf1 g4 44. hxg4 hxg4 45. Rd3 Kf5
+46. Bf4 Rb6 47. Ke2 Re7+ 48. Kf1 Ra7 49. Be3 Bxe3 50. Rxe3
+Rab7 51. Rf4+ Kg5 52. Re8 Rb8 53. Re7 R6b7 54. Rxb7 Rxb7
+55. Ke2 Rxb3 56. Rxf7 Rb4 57. a5 Ra4 58. Kd3 Rxa5 59. Kc4 Ra1
+60. Kb5 c4 61. Kxc4 Rb1 62. Rd7 Rc1+ 63. Kd3 Rd1+ 64. Ke4 Re1+
+65. Kd3 Rd1+ 66. Kc4 Rc1+ 67. Kb4 Rb1+ 68. Kc3 Rf1 69. Rg7+
+Kf5 70. Rf7+ Kg5 71. Kd2 Ra1 72. Rd7 Ra6 73. Kd3 Kf5 74. Kc4
+Kf6 75. Rd8 Kg5 76. Rg8+ Kh5 77. Rh8+ Kg5 78. Rg8+ Kh5
+79. Rh8+ Kg5 80. Kb5 Ra2 81. Rh2 Kf5 82. Kc6 Ra6+ 83. Kb5 Ra2
+84. Kc6 Ra6+ 85. Kd7 Ke4 86. Rh4 Kxd5 87. Rxg4 Ra7+ 88. Ke8
+Ke5 89. f4+ Kd4 90. Rg5 d5 91. Rh5 Rg7 92. Rg5 Ra7 93. g4 Ke4
+94. f5 d4 95. f6 d3 96. Rb5 d2 97. Rb1 Ke5 98. g5 Ke6 99. Rb6+
+Kd5 100. Rb5+ Kd6 101. Rb6+ Ke5 102. Rb5+ Ke6 103. Rb6+ Kd5
+104. Rb1 Ke6 105. Kf8 Kf5 106. Rb5+ Ke4 107. Rb4+ Ke5
+108. Rb5+ Ke6 109. Rb6+ Kd5 110. Rb1 Ke6 111. Rb6+ Kd5
+112. Rb1 Ke6 113. Rd1 Rd7 114. Ke8 Rh7 115. Kf8 Rd7 116. Kg8
+Rd5 117. g6 Kxf6 118. g7 Rd3 119. Rf1+ Ke5 120. Rd1 Rd8+
+121. Kf7 Rd7+ 122. Kg6 Rd8 123. Kf7 Rd7+ 124. Kg6 Rd8 125. Kh7
+Ke4 126. g8=R Rxg8 127. Kxg8 Kd3 128. Kf7 Kc2 129. Rh1 d1=Q
+130. Rxd1 Kxd1 1/2-1/2

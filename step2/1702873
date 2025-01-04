@@ -1,0 +1,18 @@
+[Event "Clock simul, 10b"]
+[Site "Barcelona ESP"]
+[Date "1935.12.14"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jaime Llado Lumbera"]
+[Black "Jose Raul Capablanca"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 c5 6. Be2 d6
+7. O-O Bg4 8. Be3 Nc6 9. h3 Bxf3 10. Bxf3 Nd7 11. d5 Nd4
+12. Be2 e5 13. Bd3 f5 14. f4 fxe4 15. Bxe4 Bh6 16. Bxd4 cxd4
+17. Nb5 Nc5 18. Bc2 exf4 19. Kh1 f3 20. Rxf3 Rxf3 21. Qxf3 Qh4
+22. Rf1 Rf8 23. Qe2 Rxf1+ 24. Qxf1 d3 25. Bxd3 Bf4 0-1

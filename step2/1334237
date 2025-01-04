@@ -1,0 +1,19 @@
+[Event "Radom sim"]
+[Site "Radom"]
+[Date "2000.05.21"]
+[EventDate "?"]
+[Round "23"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Lars Torpe Christoffersen"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 b6 6.Bd3 Be7 7.O-O O-O
+8.e4 dxe4 9.Nxe4 Nxe4 10.Bxe4 Bb7 11.Ne5 f5 12.Bf3 Bf6 13.Re1
+Qe8 14.Qe2 Bxe5 15.Qxe5 Bc8 16.Bf4 Na6 17.a3 Bd7 18.b4 Rc8
+19.h4 c5 20.dxc5 bxc5 21.b5 Nb8 22.a4 h6 23.Rad1 Qe7 24.a5 Qf6
+25.Qe3 Qd8 26.Bd6 Rf7 27.Bxc5 f4 28.Qd4 Qc7 29.Bd6 Qxc4
+30.Qxc4 1-0

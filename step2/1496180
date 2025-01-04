@@ -1,0 +1,45 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1878.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 {Notes by Prof. Nagesh Havanur based on the original
+notes by Wilhelm Steinitz *** Such informal games are often
+ignored by chess enthusiasts and anthologists alike. However,
+some of them are masterpieces in their own right.} e5 2.Bc4
+Bc5 3.b4 {A favorite opening with Steinitz when giving the
+odds of the Queen's Knight.} Bxb4 4.f4 d6 {In his notes
+Steiniz points out that 4...d5 would be still more dangerous
+to the odds giver.} 5.Nf3 Nf6 6.fxe5 Ng4 {?! Black, an
+experienced recipient of Knight-odds, has given up a pawn to
+threaten 7...Ne3. For example, 7.c3 Ne3 8.dxe3 (8.Qa4+? Bd7
+9.Qxb4?? Nc2+) Bxc3+, emerging with the exchange & a pawn
+ahead, and an excellent game.} 7.O-O {The position is full of
+pitfalls for both sides. If 7...Nxe5? 8.Nxe5 dxe5 9.Bxf7+. But
+7...dxe5 is tricky. Now 8.Bxf7+? Kxf7 9.Nxe5+ Ke8 10.Nxg4 is
+refuted by 10...Qd4+. So White should opt for 8.c3 Bc5+
+9.d4.exd4 10.cxd4 Be7 (A necessity, for otherwise White would
+obtain a strong attack, either by 11.Ba3 or 11.Bxf7+.) } Bc5+
+8.Kh1 {! A novel trap, offering Black a strong temptation to
+emerge a rook up.} Nf2+ 9.Rxf2 Bxf2 10.Qf1 {! The point. The
+opening of the f- file should help White.} Bb6 {? 10...O-O is
+necessary. Black should give up the temptation to retain the
+bishop.} 11.Bxf7+ Ke7 {11...Kxf7? 12.Ng5+ Kg6 13.Qf7+ Kxg5 (
+13...Kh6? 14.d4 threatening 15.Ne6++- ) 14.d4+ Kh4 (14...Kg4
+15.Qxg7+ Kh4 16.Qh6+ Kg4 17.Qh3#) 15.g3+ Kg4 16.Kg2 and mates
+next move with 17.Qf3 or 17.h3.} 12.d4 h6 13.Nh4 Kd7 {Other
+alternatives also fail. 13...dxe5? 14.Ng6+ Kd7 15.Qf5+ Kc6
+16.Bd5+ +-, or Or 13...Bxd4? 14.Ng6+ Kd7 15.Be6+ Kc6
+(15...Kxe6 ?? 16.Qf5#) 16.Bd5+ +- } 14.e6+ Kc6 15.Rb1 {! If
+15...d5 16.Qb5+ Kd6 17.Qxd5+ Ke7 18.Ng6+ Kf6 19.Qe5# or 19.Qf5
+#.} 1-0

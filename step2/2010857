@@ -1,0 +1,61 @@
+[Event "Michael Adams Simul"]
+[Site "Downers Grove, IL USA"]
+[Date "2012.05.23"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Tony Palmer"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 {Annotation by T. Palmer, as appeared in Quarterly
+Newsletter of the West Michigan Chess Association. Vol V, Iss
+3, Summer 2012} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4
+{The Ruy Lopez Open, which has always enjoyed a slightly dodgy
+reputation for Black.} 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2
+{9. c3 Bc5 is another Main Line.} Nc5 10. c3 g6!? {The
+chessgames database has 461 games here, with 10...Be7 most
+common, then 10...d4 and 10...Bg4. I chose this sideline
+trying to follow a recent Black win by GM Nigel Short.}
+11. Bc2 {Karpov-Korchnoi (World Championship, Baguio City
+1978) continued 11. Qe2 Bg7 12. Nd4 Nxe5 13. f4 Nc4 14. f5
+gxf5 15. Nxf5 Rg8 16. Nxc4 dxc4 17. Bc2 and White won (1-0,
+28). Nijboer-Sokolov (Hilversum, 2006) went 11. Nd4 Nxe5
+12. Bc2 Bg7 13. f4 Nc4 14. Nxc4 dxc4 15. f5 gxf5 16. Nxe6 Nxe6
+17. Qh5 and White won (1-0, 21) after a Black
+blunder. Kashdan-Ulvestad (US Championship, New York 1946) saw
+11. Qe2 Bg7 12. Bc2 O-O 13. Nb3 Nxb3 14. Bxb3 Re8 15. Bf4 Na5
+16. Nd4 Qd7 and drawn (53).} Bg7 12. Re1 O-O {Rogovoi-Petrov
+(Tallinn, 2001) continued 12...Nd7 13. Nf1 Ncxe5 14. Nxe5 Nxe5
+15. f4 Nc4 16. f5 gxf5 17. Qh5 Qf6 18. Bxf5 Kd7 and Black won
+(0-1, 48). Fritz 7 Deep Position Analysis suggests 12...Nd7
+13. Nd4 Nxd4 14. cxd4 O-O 15. Nf3 with equality [0.22/16].}
+13. Nb3 Nd7 {Gilg-Schmitzer (Bad Aibling, 1962) saw Black play
+13...Nxb3 14. Bxb3 Na5 15. Bc2 c5 16. Bg5 Qc7 17. Bf4 Rad8
+18. a4 and White won (1-0, 35).} 14. Bf4 {Efimenko-Short
+(Mukachevo, 2009) went 14. Bg5 Qc8 15. Bf4 Ne7 16. Qd2 c5
+17. Bh6 Qc6 18. Qg5 Rfe8 and Black won (0-1, 52).} Ne7
+15. Nbd4 c5 16. Nxe6 fxe6 {Usually this N for B trade works
+out pretty well for Black, with the Pd5 now protected and the
+f file half open for attack, but White generates strong
+Kingside play.} 17. Ng5 Qb6 {17...Rxf4?! 18. Nxe6 wins the
+exchange and a Pawn since Qf8 is out.} 18. Qg4 Nf5 19. h4
+h5!? {A definite positional concession, trying to hold my
+Kingside together at all costs.} 20. Qh3 Rae8 {Well, at least
+I made it to twenty moves! =)} 21. g4 hxg4 22. Qxg4 Nh6
+23. Qg3 Nf5 24. Qh3 {White plays for a win, instead of any
+potential repetition with 23. Qg4 Nh6 etc.} Re7 25. h5 Nd4 {
+Drat: my saving idea turns out to be a lemon. Fritz 7
+recommends Black try a Pawn sacrifice with 25...Bh6 26. hxg6
+Rg7 +/=. Otherwise the engine had no improvements before
+now.} 26. cxd4 Rxf4 27. h6! {I missed this possibility.} Bf8
+28. Bxg6 Rxd4? {Another error per Fritz 7, but the suggestion
+28...cxd4 29. Rad1 d3 is +-.} 29. Re3 c4 {By now, both players
+know that White will win. GM Adams patiently builds up his
+attack toward the big finish.} 30. Rae1 Rd2 {Fritz sayeth 30...Kh8 31. Rf3 Qa5 +- which might have held out longer.} 31. Rf3
+Rxb2 32. Nf7 Rxf7 {Desperation, but 32...Nxe5? 33. h7+ Kg7
+34. Qh6# is no better.} 33. Bxf7+ Kh8 34. Qg3 {A deadly quiet
+move, as White mates quickly.} 1-0

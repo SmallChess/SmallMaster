@@ -1,0 +1,23 @@
+[Event "China Chess Queens"]
+[Site "Taizhou CHN"]
+[Date "2015.11.30"]
+[EventDate "2015.11.24"]
+[Round "3.4"]
+[Result "1-0"]
+[White "Ju Wenjun"]
+[Black "Tan Zhongyi"]
+[ECO "E32"]
+[WhiteElo "2547"]
+[BlackElo "2492"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4
+7. Bd3 c5 8. Nf3 f5 9. exf6 Qxf6 10. Bxe4 dxe4 11. Qxe4 cxd4
+12. Qxd4 Bxc3+ 13. bxc3 Nc6 14. Qxf6 gxf6 15. O-O b6 16. c5
+Rd8 17. Be3 Ba6 18. Rfe1 bxc5 19. Bxc5 e5 20. Rab1 Rd5 21. Be3
+Rad8 22. h3 Ra5 23. Rb2 Bc4 24. Nd2 Bf7 25. c4 Ra3 26. Bh6 f5
+27. Nf3 Rd6 28. Be3 Rd7 29. Bc5 Ra5 30. Nxe5 Nxe5 31. Rxe5
+Bxc4 32. Rb8+ Kf7 33. Rxf5+ Kg6 34. g4 Bxa2 35. h4 h6 36. h5+
+Kh7 37. Bd4 Rxd4 38. Rxa5 Rxg4+ 39. Kh2 Bf7 40. Rb7 Kg8
+41. Raxa7 Rf4 42. Kg3 Rf6 43. Rxf7 Rxf7 44. Rxf7 Kxf7 45. Kf4
+Kf6 46. f3 Ke6 47. Ke4 Kf6 48. f4 Ke6 1-0

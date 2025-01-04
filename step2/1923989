@@ -1,0 +1,19 @@
+[Event "Simul, 20b"]
+[Site "New Orleans, LA USA"]
+[Date "1883.01.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "J G Blanchard"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Times-Democrat, 1883.01.21, p.15"]
+[PlyCount "42"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. c3 d5 5. exd5 Qxd5 6. Bb5+
+Bd7 7. Bxd7+ Qxd7 8. O-O Nc6 9. Re1+ Be7 10. cxd4 O-O-O
+11. Qb3 Qf5 12. Nc3 Nh6 13. Bxh6 gxh6 14. dxc5 Bxc5 15. Ne4
+Nd4 16. Qc3 Nxf3+ 17. gxf3 Rhg8+ 18. Kh1 Rd5 19. b4 Qf4
+20. bxc5 Qxh2+ 21. Kxh2 Rh5# 0-1

@@ -1,0 +1,18 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.17"]
+[EventDate "2022.09.14"]
+[Round "8.3"]
+[Result "1-0"]
+[White "Dominguez Perez, Leinier"]
+[Black "Garry Kasparov"]
+[ECO "?"]
+[WhiteElo "2745"]
+[BlackElo "2812"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "bnrbkrqn/pppppppp/8/8/8/8/PPPPPPPP/BNRBKRQN w FCfc - 0 1"]
+
+1. f4 b6 2. g4 e6 3. Ng3 Ng6 4. b3 f6 5. e3 Nh4 6. e4 c5 7. d3 Nc6 8. Nd2
+Bc7 9. Nh5 O-O-O 10. Qf2 Ng6 11. Be2 Nge7 12. O-O-O d5 13. h4 d4 14. f5 Be5
+15. Nf4 Bxf4 16. Qxf4 e5 17. Qg3 Qf7 18. g5 Rg8 19. Rg1 b5 20. Bb2 Kb8 1-0

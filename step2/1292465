@@ -1,0 +1,16 @@
+[Event "Ebbw Vale sim"]
+[Site "Ebbw Vale"]
+[Date "1998.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jason Evans"]
+[Black "Michael Adams"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.d3
+d6 8.a4 Rb8 9.Bg5 h6 10.Bh4 g5 11.Nxg5 hxg5 12.Bxg5 Rg8 13.h4
+Bg4 14.Qd2 Nd4 15.Nc3 Qd7 16.Bxf6 Bf3 17.Bxf7+ Kxf7 0-1

@@ -1,0 +1,23 @@
+[Event "Simul, 25b"]
+[Site "Baltimore, MD USA"]
+[Date "1901.05.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "A W Schofield"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4
+7.cxd4 Bb6 8.O-O d6 9.Bg5 f6 10.Bf4 Na5 11.Nc3 Nxc4 12.Qa4+
+Bd7 13.Qxc4 Ne7 14.a4 a5 15.Rab1 Ng6 16.Bg3 Bg4 17.Nd2 Qd7
+18.f4 Qf7 19.Qxf7+ Kxf7 20.Rxb6 cxb6 21.f5 Ne7 22.h3 Rhc8
+23.Nb5 Rc2 24.Nxd6+ Kg8 25.Bf4 Be2 26.Re1 Ba6 27.Nf3 Nc6 28.g4
+Nb4 29.Rc1 Rxc1+ 30.Bxc1 Rd8 31.Bf4 Nd3 32.Bg3 Nb2 33.e5 Nc4
+34.Ne4 fxe5 35.dxe5 b5 36.e6 bxa4 37.f6 gxf6 38.Nxf6+ Kg7
+39.e7 Rd1+ 40.Kg2 Bb5 41.e8=Q Bxe8 42.Nxe8+ Kf7 43.Nc7 a3
+44.Ne5+ Nxe5 45.Bxe5 a2 46.Kf3 a1=Q 47.Bxa1 Rxa1 48.Ke4 Rc1
+49.Nb5 Rc6 50.g5 a4 51.h4 Kg6 0-1

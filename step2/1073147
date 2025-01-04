@@ -1,0 +1,18 @@
+[Event "FIN-EST"]
+[Site "Helsinki FIN"]
+[Date "1966.05.28"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "Kaarle-Sakari Ojanen"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Bc4 e6
+7.Nf3 Be7 8.d4 Nc6 9.O-O O-O 10.Re1 Nf6 11.a3 b6 12.Qd3 Bb7
+13.Bf4 Nh5 14.Bd2 Qc7 15.d5 Rad8 16.Qe2 exd5 17.Nxd5 Qc8
+18.Ng5 Bxg5 19.Bxg5 Nd4 20.Ne7+ Kh8 21.Nxc8 Nxe2+ 22.Bxe2 Rxc8
+23.Bxh5 1-0

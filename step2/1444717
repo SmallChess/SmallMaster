@@ -1,0 +1,22 @@
+[Event "FiNet Open Mainz"]
+[Site "Germany"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Zoltan Varga"]
+[Black "Alexander Morozevich"]
+[ECO "000"]
+[WhiteElo "2554"]
+[BlackElo "2734"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rnkrbnqb/pppppppp/8/8/8/8/PPPPPPPP/RNKRBNQB w KQkq - 0 1"]
+
+1.e4 g5 2.d4 Ne6 3.c3 Nf4 4.Rd2 g4 5.Ne3 h5 6.h3 d5 7.Qh2 e5
+8.dxe5 Bxe5 9.g3 Nxh3 10.Nxd5 Bd6 11.f4 Nd7 12.e5 Bf8 13.Na3
+c6 14.Ne3 f6 15.Nac4 fxe5 16.fxe5 Bf7 17.Na5 Qg5 18.Qe2 Ng1
+19.Qf2 Bc5 20.Qxf7 Bxe3 21.e6 Bxd2+ 22.Bxd2 Qxd2+ 23.Kxd2 Ne5+
+24.Kc2 Nxf7 25.Rxg1 Nd6 26.Re1 Kc7 27.Re5 Rh8 28.c4 Rae8 29.c5
+Nf7 30.Re3 Ng5 31.e7 h4 32.Rb3 b6 33.cxb6+ axb6 34.Nxc6 hxg3
+35.Bd5 Rh2+ 0-1

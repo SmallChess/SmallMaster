@@ -1,0 +1,17 @@
+[Event "NED-ch"]
+[Site "NED"]
+[Date "1933.07.15"]
+[EventDate "1933.07.15"]
+[Round "1"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "E A J M Mulder"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nd7 5.e4 dxe4 6.Nxe4 Ngf6 7.Bd3
+Qc7 8.O-O b6 9.Re1 Bb7 10.Bg5 h6 11.Bh4 Nxe4 12.Bxe4 g5 13.Bg3
+Bd6 14.d5 Bxg3 15. dxe6 fxe6 16.Bg6+ Ke7 17.hxg3 c5 18.Qc2
+Raf8 19.Bf5 Rf6 20.Bxe6 1-0

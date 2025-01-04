@@ -1,0 +1,18 @@
+[Event "Simul, 20b"]
+[Site "City Club of Cleveland, Cleveland, OH USA"]
+[Date "1921.01.27"]
+[EventDate "1921.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "E N Moore"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 exd4 6.Re1 d5
+7.Nxd4 Bd6 8.Qf3 Bd7 9.Bxc6 bxc6 10.Nd2 f5 11.Nf1 O-O 12.Bf4
+Qf6 13.c3 Rf7 14.Ng3 Re8 15.Bxd6 cxd6 16.Re2 Rfe7 17.Rae1 g6
+18.Nb3 Bc8 19.Qd3 Nc5 20.Nxc5 dxc5 21.Rxe7 Rxe7 22.Rxe7 Qxe7
+23.Qe2 Qxe2 24.Nxe2 Ba6 25.Nf4 d4 26.g3 0-1

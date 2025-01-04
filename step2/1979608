@@ -1,0 +1,20 @@
+[Event "Simul"]
+[Site "British Embassy, Lisbon POR"]
+[Date "1946.03.09"]
+[EventDate "1946.03.09"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerald Frank Anderson"]
+[Black "Alexander Alekhine"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "BCM 1946, p. 221"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 h6 6. Bxf6 Qxf6
+7. Bd3 Nd7 8. Nf3 Bb4 9. O-O O-O 10. a3 Ba5 11. e4 dxc4 12. e5
+Qe7 13. Bxc4 Re8 14. Qc2 Nb6 15. Ba2 Nd5 16. Ne2 Bd7 17. Rad1
+Rac8 18. b4 Bc7 19. Bb1 f5 20. g4 Rf8 21. gxf5 exf5 22. Kh1 g5
+23. Rg1 Kh8 24. Qd2 f4 25. Nh4 gxh4 26. Rg6 Qh7 27. e6 Be8
+28. Rg4 Qe7 29. Qd3 h5 30. Rg5 Nf6 31. d5 cxd5 32. Nd4 Ne4 0-1

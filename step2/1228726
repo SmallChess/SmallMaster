@@ -1,0 +1,22 @@
+[Event "Rotterdam"]
+[Site "Rotterdam NED"]
+[Date "1940.04.27"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "H Blok"]
+[Black "Max Euwe"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 6.d4 O-O 7.Bd3
+f5 8.exf6 Bxf6 9.O-O Bf5 10.Qe2 Nxc3 11.bxc3 Bxd3 12.cxd3 Nc6
+13.Bf4 Re8 14.Qf2 Qd7 15.Qg3 Qf5 16.Rad1 Re2 17.Rd2 Qe6 18.Rb1
+Rxd2 19.Nxd2 Re8 20.Nf3 Qf5 21.Re1 Rxe1+ 22.Qxe1 Ne7 23.Be5
+Kf7 24.Qb1 c6 25.a4 b6 26.h3 Ng6 27.Qf1 Nh4 28.Bxf6 Nxf3+
+29.gxf3 gxf6 30.f4 a5 31.Kg2 b5 32.axb5 cxb5 33.Qb1 Qd7 34.Kg3
+Qb7 35.Qa2 b4 36.cxb4 axb4 37.Qb3 Ke6 38.Kf2 h5 39.Ke3 Kf5
+40.Kf3 h4 41.Ke3 Qe7+ 42.Kf3 Qd6 43.Ke2 Kxf4 44.Kf2 Qe6
+45.Qxb4 Qe3+ 46.Kf1 Qxh3+ 47.Kg1 Qe3+ 0-1

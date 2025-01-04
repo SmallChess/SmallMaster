@@ -1,0 +1,17 @@
+[Event "Eskilstuna simul"]
+[Site "Eskilstuna SWE"]
+[Date "1913.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Erik Sjostedt"]
+[Black "Siegbert Tarrasch"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 a5 5.d4 exd4 6.cxd4 Bb4+
+7.Nc3 Bxc3+ 8.bxc3 Nge7 9.Ng5 d5 10.exd5 Nxd5 11.Qf3 Be6
+12.Ba3 Qxg5 13.O-O Nce7 14.Rfe1 c6 15.Rab1 O-O 16.Rxb7 Rae8
+17.g3 1/2-1/2

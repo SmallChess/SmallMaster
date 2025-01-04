@@ -1,0 +1,74 @@
+[Event "Bath TV-1pl"]
+[Site "Bath ENG"]
+[Date "1983.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anatoly Karpov"]
+[Black "Anthony Miles"]
+[ECO "B16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. e4 {Notes by Ray Keene.} c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4
+Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bf4 {!? This was a new move at
+the time, but the idea was old. It was just a matter of 6 Bc4
+usually being played first. 7 Be2 Qc7 8 O-O e6 9 c4 Nd7 10 d5
+O-O-O is Spassky-Larsen, Buenos Aires 1979.} Nd7 {On 7...Qb6
+White might try 8 Bd3, which is a promising gambit. 7...Na6,
+intending to transfer the knight to c7, comes into
+consideration. 7...Qb6 8 Bd3 Bxd3 9 Qxd3 Qxb2 10 O-O with
+compensation; 7...Na6.} 8. c3 {8 Bd3 Bg6} Qb6 9. b4 {!? On 9
+Qb3 Black could either castle long or just play 9...e6. In the
+later game Karpov-Miles, Oslo 1984, the World Champion essayed
+the promising gambit 9 Bd3!?} e5 {As usual, a reckless advance
+on the flank is met by a counter-operation in the centre.}
+10. Bg3 {10 dxe5 fxe5 (10...O-O-O!? with compensation) 11 Nxe5
+Bg7 =+} O-O-O 11. Be2 h5 {! This is a fully justified kingside
+operation, since the Bg3 is vulnerable.} 12. O-O Be4 {Perhaps
+this was not the best move, but Miles did not want to face
+12...Bg4 13 Bh4 Bxf3 14 Bxf3 exd4 when the pawn-grabbing could
+prove expensive.} 13. Nd2 {On 13 Bh4 Black could have played
+13...Rg8! intending to infiltrate on g4.} Bd5 {Miles was
+eating up the clock here. There seems to be a difference of
+opinion on the line 13...Bxg2!? 14 Kxg2 h4 15 Bf4! exf4. Miles
+thought it was about equal, but Karpov claimed an advantage
+for White. On 13...Bg6 the players could head for a draw with
+14 Nf3 Be4, though that result was unlikely, since this was a
+sudden death game.} 14. Bxh5 exd4 15. c4 Be6 16. a3 {White has
+a generally more compact pawn structure, but Black has
+counterplay in the centre with his passed d-pawn.} Ne5
+{Freeing d4 for the queen.} 17. Re1 d3 18. c5 Qb5 19. Rb1
+{Karpov later pointed out 19 Bxe5 fxe5 20 Rxe5 Bg7 21 Bxf7!
+Bxe5 22 Bxe6+ Kb8 23 Bc4 Bxh2+ 24 Kf1 Be5 25 Kg1 Bh2+ with a
+draw. Miles provided 20 Bg4! Rh6 21 Rxe5! Bg7 22 Bxe6+ fxe6 23
+Re4! Bxa1 24 a4! Qa6 25 Qxa1 with an excellent position for
+the exchange.} Bh6 20. a4 Qa6 {Unclear.} 21. f4 {!?} Nc4
+22. b5 cxb5 23. Rxb5 {This move took Miles by surprise. He had
+been expecting 23 axb5 Qa2 unclear.} Na3 {! 23...Nxd2 24 Qxd2
+Qxa4 25 Reb1 Qc2? [25...Bd5] 26 Qa5 d2 [26...Bd5 27 R5b2 +-]
+27 Bd1! +-} 24. Rb2 {There are a lot of tempting sacrificial
+lines, but none of them works.} Nc2 {Perhaps 24...Bf8
+(intending 25...Bxc5+ 26 Kh1 Nc2) would have been better, but
+Miles was influenced by the fact that Karpov was
+uncharacteristically short of time, having about two minutes
+left for 16 moves.} 25. Bf3 Bd5 26. Re7 Bf8 27. Bxd5 Rxd5 {Now
+logical was 28 Rexb7 Bxc5+ 29 Bf2! and Black could have tried
+to hold a draw with 29...Qxb7 or head for muddy waters with
+29...Bb6!? 30 R7xb6 or Rxf7. For example, 28 Rexb7 Bxc5+ 29
+Bf2! (29 Kh1 Bb6 30 Rxf7 Ne3 with initiative) 29...Bxf2+
+(29...Bb6!? 30 R7xb6/Rxf7; 29...Qxb7) 30 Kxf2 Qxa4 (30...Qxb7
+=) 31 Qg4+! f5 32 Qg5! (intending Rb8+) 32...Qd4+ 33 Kg3 Qe3+
+34 Nf3 +-.} 28. Rbxb7 {? A blunder. He must take with the
+other rook.} Bxe7 29. Rxe7 Qc6 {!} 30. Rxf7 Rxc5 {30...f5!
+would have stopped any counterplay.} 31. Qg4+ f5 {only move;
+31...Kb8? 32 f5+ Ka8 33 Qg7 +-} 32. Qg7 {? 32 Rxf5 was obvious
+and good. Karpov must have been in a state of panic.} Re8
+33. h4 {33 h3 would have held out longer, but White would lose
+in the end: h3 Ne3 34 Bf2 Rc1+ 35 Kh2 Qxg2+ 36 Qxg2 Nxg2 37
+Kxg2 Rc2 -+} Ne3 34. Bf2 Rc1+ 35. Kh2 Ng4+ 36. Kg3 Nxf2
+37. Nf3 {If 37 Kxf2 Re2+ and ...Qxg2 mate.} Ne4+ 38. Kh2 d2
+39. Nxd2 Nxd2 {Here Karpov's flag fell and Karpov shook
+hands. Was it a resignation or loss on time? Miles didn't
+care; he had collected the point. A most unclear game.} 0-1

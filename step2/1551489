@@ -1,0 +1,18 @@
+[Event "Manhattan corr"]
+[Site "USA"]
+[Date "1883.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Johannes Zukertort"]
+[Black "Gustave Simonson"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 f5 2.e3 e6 3.Nf3 Nf6 4.Be2 d5 5.O-O Bd6 6.c4 c6 7.b3 Nbd7
+8.Bb2 Ng4 9.Nbd2 h5 10.Re1 g5 11.Nf1 Qf6 12.N3d2 Nf8 13.f3 Qh6
+14.Bd3 Ng6 15.cxd5 exd5 16.e4 fxe4 17.fxe4 O-O 18.e5 N6xe5
+19.Rxe5 Bxe5 20.dxe5 c5 21.Nf3 c4 22.bxc4 Rxf3 23.Bh7+ Qxh7
+24.gxf3 Nh6 25.Qxd5+ Kf8 26.Qd8+ Kf7 27.e6+ 1-0

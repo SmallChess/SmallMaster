@@ -1,0 +1,20 @@
+[Event "Blindfold simul, 10b"]
+[Site "Montreal CAN"]
+[Date "1894.05.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Harry Nelson Pillsbury"]
+[Black "Frank James Marshall"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Qxd5 4.Nc3 Qd8 5.e4 e5 6.d5 Bd6 7.f4
+exf4 8.Nf3 Bg4 9.Bd3 Nh5 10.O-O Bc5+ 11.Kh1 Qf6 12.Ne2 g5
+13.Qc2 Bb6 14.Bd2 Rg8 15.e5 Qh6 16.a4 Ng3+ 17.Nxg3 fxg3 18.Bc3
+Bxf3 19.gxf3 g4 20.f4 Bf2 21.Rxf2 gxf2 22.Qxf2 g3 23.Qd2 Nd7
+24.e6 fxe6 25.dxe6 Nc5 26.Bc4 Rd8 27.Qg2 Ne4 28.Rf1 Rd1 29.Be1
+Rxe1 30.Rxe1 Nf2+ 31.Kg1 gxh2+ 32.Kxf2 Rxg2+ 33.Kxg2 Qxf4
+34.Be2 Qd2 0-1

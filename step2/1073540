@@ -1,0 +1,20 @@
+[Event "IFSB EU-olm prel-A bd1 corr"]
+[Site "corr"]
+[Date "1935.01.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sven Carlsson"]
+[Black "Paul Keres"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.O-O b5 7.Bb3
+d6 8.a4 b4 9.Nd5 Na5 10.Nxe7 Qxe7 11.d4 Nxb3 12.cxb3 h6 13.Re1
+O-O 14.h3 c5 15.d5 Nh7 16.g4 h5 17.Nh2 Qh4 18.Kg2 hxg4 19.hxg4
+g6 20.Re3 Ng5 21.Qe2 Kg7 22.Bd2 Rh8 23.Rh1 f5 24.gxf5 gxf5
+25.exf5 Kf7 26.Qg4 Qxg4+ 27.Nxg4 Rxh1 28.Kxh1 Bxf5 29.Nh6+ Kf6
+30.Nxf5 Kxf5 31.f3 Nh3 32.Re2 Rg8 33.Rg2 Rxg2 34.Kxg2 Nf4+
+35.Kf2 Nxd5 36.Bh6 Ne7 37.Ke2 Nc6 38.Kd3 Nd4 0-1

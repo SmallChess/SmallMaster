@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1867.06.17"]
+[EventDate "1867.06.04"]
+[Round "?"]
+[Result "0-1"]
+[White "Eugene Rousseau"]
+[Black "Wilhelm Steinitz"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. h3 d6 6. d3 Be6
+7. Bb3 O-O 8. Bg5 Ne7 9. Qd2 Kh8 10. g4 c6 11. Nh4 d5 12. a3
+Nd7 13. exd5 cxd5 14. Ng2 f6 15. Bh4 Rc8 16. f4 Bg8 17. Ne2
+exf4 18. d4 f3 19. Ne3 fxe2 20. dxc5 Nxc5 21. Qxe2 Nxb3
+22. cxb3 d4 23. Rd1 Ng6 24. Bf2 Re8 25. O-O Qb6 26. Nc4 Bxc4
+27. Qxe8+ Rxe8 28. bxc4 Nf4 29. Rfe1 Rxe1+ 30. Bxe1 Qc6
+31. Rd2 Qe4 32. Bg3 Qe3+ 33. Rf2 Qxg3+ 34. Kf1 Qxh3+ 35. Ke1
+Qe3+ 36. Kf1 Qc1# {Congres international des echecs, 1869} 0-1

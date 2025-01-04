@@ -1,0 +1,17 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1905.09.22"]
+[EventDate "1905.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "V Zhukovsky"]
+[Black "Alexander Alekhine"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 h6
+7. Nxf7 Kxf7 8. d4 Nf6 9. Bxf4 d5 10. e5 Nh5 11. Be2 Kg7
+12. Qd2 Be7 13. O-O Bxh4 14. Bxh6+ Rxh6 15. Rf7+ Kxf7 16. Qxh6
+Ng7 17. Rf1+ Bf5 18. Qh7 Qg5 19. Nb5 Qe3+ 20. Kh1 Bf2 0-1

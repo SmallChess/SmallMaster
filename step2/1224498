@@ -1,0 +1,27 @@
+[Event "Hastings 1968/69"]
+[Site "Hastings ENG"]
+[Date "1968.12.28"]
+[EventDate "1968.12.28"]
+[Round "1"]
+[Result "0-1"]
+[White "Raymond Keene"]
+[Black "Vasily Smyslov"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. b3 Bg7
+7. Bb2 O-O 8. Nc3 ( 8. e3 $5) 8... e6 9. Rb1 Qe7 10. e3 Rd8
+11. d4 d5 12. cxd5 exd5 (12... Nxd5 $142) 13. Ne5 Nbd7
+14. Nxd7 Rxd7 15. Ba3 Ne4 16. Nxe4 dxe4 17. Qc2 17... Qd8 $1
+18. Bxe4 (18. dxc5 18... Rd2 $1 19. Qc4 19... a5 { Ba6})
+18... Bxe4 19. Qxe4 cxd4 20. exd4 Rxd4 21. Qb7 Rd2 22. Be7 Qc8
+23. Qxc8+ $2 (23. Qf3 $1 23... Rxa2 $6 24. Rbd1 $40)
+23... Rxc8 24. a4 24... Bd4 $6 (24... a5) 25. Bb4 Rdc2
+26. Rbd1 Bc3 27. Ba3 Bd2 28. Kg2 f5 29. Rb1 Kf7 30. Rb2 Rxb2
+31. Bxb2 Rc2 32. Bd4 Ke6 33. Rd1 $1 33... g5 34. Kf3 Bc1
+(34... g4+ 35. Ke2 $1) 35. g4 fxg4+ 36. Kxg4 Bd2 37. a5 bxa5
+38. Bxa7 38... h5+ $1 39. Kxh5 Kf5 40. Kh6 $2 (40. Bd4 $3
+40... Rc7 41. Kh6 Bc1 42. Be3 $10) 40... g4+ 41. Be3 (41. Be3
+Bxe3+ 42. fxe3 Rxh2+ 43. Kg7 43... Ke4 $19) 0-1

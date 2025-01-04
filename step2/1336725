@@ -1,0 +1,19 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1863.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Holstein"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 exd4 5. O-O Bc5 6. c3 d3
+7. b4 Bb6 8. b5 Na5 9. Bxf7+ Kxf7 10. Ne5+ Kf6 11. Qf3+ Kxe5
+12. Qf5+ Kd6 13. e5+ Ke7 14. Ba3+ d6 15. exd6+ Ke8 16. d7+
+Qxd7 17. Qf8# 1-0

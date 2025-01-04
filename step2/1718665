@@ -1,0 +1,19 @@
+[Event "Moscow sim2"]
+[Site "Moscow RUE"]
+[Date "1896.??.??"]
+[EventDate "1896.02.21"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Stefan Levitsky"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 d5 2. Bf4 Nf6 3. e4 c5 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. Bxb8
+Rxb8 7. Bb5+ Kd8 8. Nf3 e6 9. Ne5 Qc7 10. f4 Bd6 11. Nf3 Bxf4
+12. O-O Qb6+ 13. Nd4 Bc7 14. Qd2 Ke7 15. Kh1 Qd6 16. g3 Bd7
+17. Bd3 a6 18. Rf3 h5 19. Raf1 Qe5 20. Nde2 h4 21. Nf4 g5
+22. Nfe2 hxg3 23. Nxg3 Rh6 24. Qf2 Rbh8 25. Nce2 Ng4 26. Rxf7+
+Kd6 27. Rxd7+ Kxd7 28. Qf7+ Kd6 0-1

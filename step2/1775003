@@ -1,0 +1,24 @@
+[Event "Simul, 30b"]
+[Site "Amsterdam NED"]
+[Date "1912.01.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jacques Davidson"]
+[Black "Max Euwe"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nf3 Be7 6. O-O
+O-O 7. Nc3 Bg4 8. Be3 Nc6 9. Ne2 Bxf3 10. gxf3 Nh5 11. Ng3 Bg5
+12. Nxh5 Bxe3 13. fxe3 Qg5+ 14. Ng3 Qxe3+ 15. Kg2 Nxd4 16. Re1
+Qg5 17. Bxh7+ Kxh7 18. Qxd4 Rac8 19. Re5 Qg6 20. Rh5+ Kg8
+21. Qh4 Qxc2+ 22. Kh1 f6 23. Rh8+ Kf7 24. Qh5+ Qg6 25. Rxf8+
+Rxf8 26. Qxg6+ Kxg6 27. Rd1 c6 28. Re1 Kf7 29. Nf5 Rb8
+30. Nd6+ Kf8 31. Kg2 Rd8 32. Nf5 Rd7 33. Kf2 Kf7 34. Ke3 Kg6
+35. Ng3 Re7+ 36. Kf2 Rxe1 37. Kxe1 d4 38. Kd2 c5 39. Kd3 b6
+40. a4 Kg5 41. Ne2 Kh4 42. Ng1 Kg5 43. Ke4 f5+ 44. Ke5 g6
+45. b3 Kh4 46. Kf4 g5+ 47. Kxf5 d3 48. f4 g4 49. h3 d2
+50. hxg4 d1=Q 0-1

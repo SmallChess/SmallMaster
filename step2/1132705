@@ -1,0 +1,42 @@
+[Event "St. Petersburg 1895/96"]
+[Site "St. Petersburg RUE"]
+[Date "1895.12.19"]
+[EventDate "1895.12.13"]
+[Round "4"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Emanuel Lasker"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. d4 {Notes by Fred Reinfeld} d5 2. c4 e6 3. Nc3 Nf6 4. Bf4
+Be7 5. e3 O-O 6. Rc1 c5 7. dxc5 Bxc5 8. cxd5 exd5 {Not
+...Nxd5?, or account of 9 Nxd5, with an attack on the
+Bishop. After the text-move, though, 9 Nxd5 would be
+ineffective.} 9. Nf3 Nc6 10. Bd3 d4 11. exd4 Nxd4 12. O-O {It
+would be safer to exchange on d4, prior to castling.} Bg4
+13. Nb5 {? This 'attack' is uncalled for; after 13 Be2 White
+would have had a tenable game.} Bxf3 14. gxf3 Ne6 {!} 15. Be5
+Nh5 16. Kh1 Qg5 17. Bg3 Rad8 {! Typical for Lasker: a
+positional manoeuvre combined with a tactical threat.} 18. Qc2
+Qh6 {The point of Lasker's trap is this that the natural move
+19 Rfd1 would now be faulty, in as much as ...Rc8 would give
+Black a win in every variation.} 19. Rcd1 Rc8 {! Having
+interfered with the opponent's natural development Lasker now
+regroups his forces. For much the same manoeuvre see his games
+against Janowski (Petersburg 1914) and Rubinstein (Moscow
+1925).} 20. Qb3 a6 21. Nc3 Nd4 {! A P-sacrifice which should
+secure at least a draw.} 22. Qxb7 Nxg3+ 23. fxg3 Rb8 24. Qxa6
+Rb6 25. Qc4 Rxb2 26. h4 {? By 26 Ne2 White could have forced a
+draw, but Steinitz evidently means to play for a win. Indeed,
+his position looks fairly secure.} Ba7 27. Be4 Qd6 {! Stopping
+Ne2 for good and all and all practically forcing the next
+move.} 28. f4 Qd7 29. Bg2 Qg4 {! Very pretty since 30 Rxd4 can
+now be countered by ...Qxg3.} 30. Qd3 Nf5 31. Ne4 Be3 {Much
+better than ...Nxh4 and putting paid to Steinitz's excellent
+defence.} 32. Rf3 Rxg2 {!} 33. Kxg2 Nxh4+ 34. Kh2 Nxf3+
+35. Kg2 Nh4+ 36. Kh2 Nf5 37. Rb1 h5 38. Rb5 Ra8 39. a3 Rxa3
+{If 40 Qxa3 Black mates in 4; nor could White save himself by
+Qd8+.} 0-1

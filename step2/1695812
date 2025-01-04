@@ -1,0 +1,17 @@
+[Event "Simul, 28b"]
+[Site "Leiden NED"]
+[Date "1896.05.11"]
+[EventDate "1896.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Bartholomeus Joannes Mattheus Markx"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4
+Bb4+ 7. Nc3 Nxe4 8. O-O Bxc3 9. bxc3 d5 10. Ba3 Be6 11. Bb5
+Nxc3 12. Bxc6+ bxc6 13. Qc2 Ne4 14. Qxc6+ Bd7 15. Qxd5 Nf6
+16. Rfe1+ Be6 17. Rxe6+ 1-0

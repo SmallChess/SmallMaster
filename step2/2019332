@@ -1,0 +1,19 @@
+[Event "Kasparov sim"]
+[Site "London ENG"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Dalyell"]
+[Black "Garry Kasparov"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "2775"]
+[PlyCount "56"]
+
+1.d3 e5 2.Nf3 Nc6 3.g3 d5 4.Bg2 Nf6 5.Bg5 Be7 6.c3 O-O 7.O-O
+Be6 8.Bxf6 Bxf6 9.Nbd2 a5 10.e4 a4 11.c4 dxc4 12.dxc4 a3 13.b3
+Be7 14.h3 Bc5 15.g4 Qd6 16.Rc1 Nb4 17.Ra1 Rad8 18.Qe2 Nd3
+19.Rab1 Nf4 20.Qd1 Bb4 21.Bh1 Nxh3+ 22.Kh2 Bxg4 23.Bg2 Nf4
+24.Kg1 Qh6 25.Re1 Rxd2 26.Qc1 Bxf3 27.Bxf3 Nh3+ 28.Kf1 Rxf2#
+0-1

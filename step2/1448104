@@ -1,0 +1,22 @@
+[Event "sim"]
+[Site "Prague"]
+[Date "2001.02.02"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anatoly Karpov"]
+[Black "David Navara"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4
+Qxd2+ 12. Kxd2 O-O 13. d5 Rd8 14. Ke1 Nb4 15. a3 Na2 16. Rc7
+Nc3 17. Bd3 f5 18. exf5 Nxd5 19. Bc4 Bxf5 20. Ke2 Kf8 21. Bxd5
+Rxd5 22. Rd1 Rxd1 23. Kxd1 b6 24. Bg5 Rd8+ 25. Ke2 Rd7
+26. Rc8+ Kf7 27. Bf4 Rd2+ 28. Kxd2 Bxc8 29. Bb8 a6 30. Ba7 b5
+31. Bd4 Bxd4 32. Nxd4 Kf6 33. h4 Bb7 34. g3 Ke5 35. Kd3 Kd5
+36. f4 Bc8 37. Nb3 Bf5+ 38. Kc3 Ke4 39. Nc5+ Kf3 40. Nxa6 Kxg3
+41. Nc7 Kxh4 42. Nxb5 Kg3 43. a4 h5 44. a5 h4 0-1

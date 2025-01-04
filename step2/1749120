@@ -1,0 +1,24 @@
+[Event "Consultation Odds Game"]
+[Site "New Orleans, LA USA"]
+[Date "1882.12.29"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "M J Fass / James Wibray"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Bc4 f5 3. d3 Nf6 4. Nf3 c6 5. O-O fxe4 6. dxe4 d5
+7. exd5 e4 8. Ne5 cxd5 9. Bb5+ Bd7 10. Nxd7 Nbxd7 11. Bg5 Kf7
+12. Kh1 Be7 13. f3 Ne5 14. fxe4 dxe4 15. Qh5+ g6 16. Qh4 Qd6
+17. Bxf6 Bxf6 18. Rxf6+ Qxf6 19. Rf1 Qxf1+ 20. Bxf1 Rae8
+21. Qxe4 Re7 22. Qd5+ Kg7 23. Qc5 Nc6 24. h3 Rc8 25. Qc3+ Kf7
+26. b4 Rcc7 27. Qh8 Ke6 28. Bc4+ Kd7 29. Bb3 a6 30. a4 Nd8
+31. b5 axb5 32. axb5 Re1+ 33. Kh2 Kc8 34. b6 Rce7 35. Qc3+ Nc6
+36. Bd5 Kb8 37. Qh8+ Re8 38. Qxh7 Ne7 39. Bf3 Nc6 40. Qc7+ Ka8
+41. Bxc6 1-0

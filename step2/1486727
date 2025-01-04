@@ -1,0 +1,23 @@
+[Event "Paris-ch"]
+[Site "Paris"]
+[Date "2006.07.08"]
+[EventDate "2006.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Anthony Bellaiche"]
+[ECO "B46"]
+[WhiteElo "2637"]
+[BlackElo "2482"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6
+7. Bg2 Bd7 8. O-O Nf6 9. Nxc6 Bxc6 10. g4 Nd7 11. Re1 g5
+12. Ne2 Ne5 13. Ng3 Be7 14. a4 Qc7 15. Qe2 b5 16. a5 b4 17. b3
+Bb5 18. Qd1 Rc8 19. Ra2 Bd7 20. Be3 Rb8 21. h3 O-O 22. Qd2 Qd8
+23. Rea1 Rb5 24. Bb6 Qc8 25. Ra4 Rxb6 26. axb6 Bxa4 27. Rxa4
+a5 28. h4 gxh4 29. Nh5 Kh8 30. Qd4 f6 31. f3 h3 32. Bh1 Qc6
+33. Qd2 Qxb6+ 34. Kh2 Rg8 35. Kxh3 f5 36. exf5 exf5 37. gxf5
+Qg1 38. Bg2 Bg5 39. Qe2 Qd4 40. Qe1 Bd8 41. c3 Qd3 42. Qe4 Qd2
+43. f4 Qf2 44. fxe5 Rxg2 45. Qf4 Qe2 46. exd6 Bb6 47. Ra2 Qxa2
+48. Qe5+ Kg8 49. Qe8# 1-0

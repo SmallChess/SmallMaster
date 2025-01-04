@@ -1,0 +1,22 @@
+[Event "Season 7 - Superfinal"]
+[Site "TCEC"]
+[Date "2014.12.25"]
+[EventDate "2014.12.16"]
+[Round "52"]
+[Result "1/2-1/2"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.c4 Nf6 2.d4 c6 3.Bf4 d5 4.e3 e6 5.Nc3 Be7 6.Nf3 Nbd7 7.c5
+Nh5 8.Bd3 O-O 9.b4 Nxf4 10.exf4 Qc7 11.g3 b6 12.a3 a5 13.O-O
+Ba6 14.Kg2 Rfb8 15.Bxa6 Rxa6 16.Qd3 Raa8 17.Rfb1 Ra7 18.h4 Bf6
+19.Na4 h6 20.Ne5 Bxe5 21.fxe5 axb4 22.axb4 Rba8 23.Qd1 b5
+24.Nc3 Ra3 25.Rxa3 Rxa3 26.Qc2 Qa7 27.Rb2 Nb8 28. Ra2 Rxa2
+29.Qxa2 Qxa2 30.Nxa2 Na6 31.Kf3 Kh7 32.g4 Kg8 33.Kf4 Kh7
+34.Kg3 Kg6 35.h5+ Kh7 36.Kh4 Kg8 37.f4 Kf8 38.f5 exf5 39.gxf5
+Ke7 40.Kg4 Ke8 41. f6 gxf6 42.exf6 Kd7 43.Kf5 Ke8 44.Kf4 Kd7
+45.Ke5 Kc7 46.Kf4 Kd7 47.Ke5 1/2-1/2

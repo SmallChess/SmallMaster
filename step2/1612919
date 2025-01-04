@@ -1,0 +1,17 @@
+[Event "Ch St. Petersburg B16"]
+[Site "St. Petersburg"]
+[Date "2007.11.07"]
+[EventDate "?"]
+[Round "3.1"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Ilya Chernenko"]
+[ECO "C05"]
+[WhiteElo "2341"]
+[BlackElo "1937"]
+[PlyCount "39"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ndf3
+Qb6 8.Ne2 cd4 9.cd4 f6 10.ef6 Nf6 11.O-O Bd6 12.Qb3 Qc7 13.Bg5
+O-O 14.Bh4 Bd7 15.Bg3 e5 16.Nc3 Nb4 17.de5 Nd3 18.Nd5 Nd5
+19.Qd5+ Kh8 20.Qd3 1-0

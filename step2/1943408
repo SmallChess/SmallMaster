@@ -1,0 +1,47 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "AlphaZero (Computer)"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "294"]
+
+1. d4 { book } Nf6 { book } 2. c4 { book } e6 { book } 3. Nc3
+{ book } Bb4 { book } 4. Bg5 { book } h6 { book } 5. Bh4 {
+book } c5 { book } 6. d5 { book } Bxc3+ { book } 7. bxc3 {
+book } d6 { book } 8. e3 { book } e5 { book } 9. Qc2 { book }
+Qe7 { book } 10. Nf3 { book } Nbd7 { book } 11. Nd2 { book }
+Kd8 12. h3 g5 13. Bg3 Rg8 14. Bd3 Nb6 15. a4 a5 16. O-O Kc7
+17. Rfb1 h5 18. Bh2 Nbd7 19. Bf5 b6 20. Rb2 g4 21. h4 Ne8
+22. Bg3 Rb8 23. Nb3 Ng7 24. Bd3 Rb7 25. Nd2 Kb8 26. Ra3 Nf8
+27. Ne4 f5 28. Ng5 Ng6 29. Rab3 Ka7 30. Qb1 Qc7 31. Kh1 Ne7
+32. Ra3 Bd7 33. Qe1 Qd8 34. Qb1 Qb8 35. Rab3 Qc7 36. Ra3 Rf8
+37. Bh2 Ng8 38. Qe1 Qd8 39. f4 gxf3 40. gxf3 Nh6 41. Rg2 Ne8
+42. Raa2 Nf6 43. Bc2 Rg8 44. Ra1 Bc8 45. Qd2 Qe8 46. Rag1 Rbg7
+47. Bb3 Ka8 48. Qb2 Kb8 49. Bd1 Ka7 50. Bc2 Ba6 51. Rb1 Nd7
+52. Bb3 Nf8 53. Rbg1 Bc8 54. Bc2 Ng6 55. Bg3 Qe7 56. Rb1 Qd8
+57. Bf2 Bd7 58. Be1 Nf8 59. Bg3 Bc8 60. Bf2 Nh7 61. Rgg1 Nf6
+62. Rg2 Qc7 63. Rbg1 Qd7 64. Ra1 Nh7 65. Rb1 Qb7 66. Rbg1 Nf6
+67. Qb5 Qe7 68. Rb1 Qd8 69. Qb2 Nh7 70. Rgg1 Nf8 71. Rg2 Ng6
+72. Rbg1 Qe7 73. Rb1 Qc7 74. Rbg1 Qd8 75. Rb1 Nf8 76. Rbg1 Qe7
+77. Rb1 Nd7 78. e4 f4 79. Bd3 Ba6 80. Rgg1 Nf7 81. Nxf7 Qxf7
+82. Rxg7 Rxg7 83. Bf1 Qe8 84. Bh3 Qd8 85. Qb3 Nf6 86. Be6 Ng4
+87. fxg4 hxg4 88. Kg2 g3 89. Bg1 Rb7 90. h5 Qh4 91. Qd1 Rh7
+92. Bg4 Bxc4 93. Bf3 Rh8 94. Rb2 Rb8 95. Qb1 Rb7 96. Qd1 Qd8
+97. Rb1 Rh7 98. Rb2 Qe7 99. Qc2 Qd8 100. Qd1 Rg7 101. Kh3 Rf7
+102. Kg2 Rh7 103. Kh3 Rg7 104. Bg4 Ba6 105. Kg2 Qh4 106. Qb3
+b5 107. Bf3 Bc8 108. Kf1 Rb7 109. axb5 Kb6 110. Qd1 Rg7
+111. c4 Bg4 112. h6 Rg5 113. Bxg4 Rxg4 114. Qf3 Rg8 115. Ra2
+Qxh6 116. Qa3 Ra8 117. Qf3 Rh8 118. Ke2 Ra8 119. Ra1 Qh7
+120. Kd3 Rg8 121. Qe2 Qh3 122. Kc2 Qg4 123. Kd3 Qh3 124. Qf3
+Rg7 125. Ke2 Rh7 126. Kd2 Rd7 127. Qe2 Rh7 128. Kc3 Rh8
+129. Ra2 Rf8 130. Qf3 Rh8 131. Kd3 Rh6 132. Qe2 Rh8 133. Qd1
+Rg8 134. Ra1 Rg7 135. Ra4 Qg2 136. Rxa5 Kxa5 137. Qa1+ Kb4
+138. Qc3+ Ka4 139. Qa1+ Kb3 140. Qc3+ Ka2 141. Qa5+ Kb2
+142. Qc3+ Kb1 143. Qe1+ Ka2 144. Qa5+ Kb3 145. Qc3+ Ka4
+146. Qa1+ Kb4 147. Qc3+ Ka4 1/2-1/2

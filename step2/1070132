@@ -1,0 +1,18 @@
+[Event "Hamburg sim-31"]
+[Site "Hamburg FRG"]
+[Date "1985.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Garry Kasparov"]
+[Black "Wolfram Runkel"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.b6 Qxb6 6.Nc3 d6 7.a4 g6
+8.a5 Qc7 9.e4 Bg7 10.Bc4 O-O 11.Nge2 Nbd7 12.f4 Re8 13.O-O Nf8
+14.h3 Rb8 15.Qd3 e6 16.Bxa6 exd5 17.exd5 c4 18.Bxc4 Bf5 19.Qd1
+Qxc4 20.Ra4 Qc5+ 21.Kh1 Ne4 22.Nxe4 Bxe4 23.Nc3 Bxc3 24.bxc3
+Qxc3 25.Ra3 Qc4 0-1

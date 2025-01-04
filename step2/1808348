@@ -1,0 +1,17 @@
+[Event "Simul, 40b"]
+[Site "Boston, MA USA"]
+[Date "1923.12.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "C M Bliss"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 Qf6 5. Nd5 Qxf2+ 6. Kd1
+d6 7. Qxg7 Nce7 8. Nxc7+ Kd8 9. Nxa8 Ng6 10. c3 Qxg2 11. Qxf7
+Bg4+ 12. Kc2 Qxe4+ 13. d3 Qg2+ 14. Bd2 Be3 15. Nf3 Bxf3
+16. Qc7+ Ke8 {.../45} 1-0

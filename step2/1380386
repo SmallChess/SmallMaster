@@ -1,0 +1,17 @@
+[Event "Simul, 15b"]
+[Site "Hartford, CT USA"]
+[Date "1907.05.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "William L Washburn"]
+[Black "Emanuel Lasker"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.h3 h6 7.a3 g5
+8.b4 Bb6 9.c3 g4 10.Nh2 g3 11.Nf3 Rg8 12.d4 Bxh3 13.Ne1 exd4
+14.Ra2 dxc3 15.Be3 Ne5 16.Qb3 c6 17.a4 Nxe4 18.Nxc3 gxf2+
+19.Bxf2 Nxf2 20.a5 Rxg2+ 21.Nxg2 Nf3# 0-1

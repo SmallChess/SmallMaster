@@ -1,0 +1,22 @@
+[Event "Odds match"]
+[Site "London ENG"]
+[Date "1874.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Bode"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "City of London Chess Magazine, vol.i, November 1874, p.261"]
+[PlyCount "72"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. e3 c5 3. Nf3 Nc6 4. b3 Nf6 5. Bb2 e6 6. Qe2 a5 7. a4 b6 8. O-O-O Ba6
+9. d3 Bd6 10. Kb1 d4 11. exd4 cxd4 12. f5 e5 13. Nxd4 Nxd4 14. Bxd4 O-O 15. Bb2
+Re8 16. Qf3 Qc7 17. Be2 Rac8 18. c4 Bb7 19. Qh3 Bc5 20. Rhe1 Rcd8 21. g4 Bd4 22.
+g5 Nd7 23. Bc1 Nc5 24. Ka2 Qc6 25. f6 Nxa4 26. Bd2 Nc5 27. Bg4 Qg2 28. Qh5 Nxd3
+29. Bf5 Nb4+ 30. Kb1 h6 31. fxg7 Bf3 32. Bh7+ Kxg7 33. Qxh6+ Kh8 34. Bg6+ Kg8
+35. Qh7+ Kf8 36. Qxf7# 1-0

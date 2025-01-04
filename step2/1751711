@@ -1,0 +1,17 @@
+[Event "Janowski Exhibition Series at Manhattan Chess Club"]
+[Site "New York, NY USA"]
+[Date "1899.01.25"]
+[EventDate "1899.01.23"]
+[Round "3"]
+[Result "1-0"]
+[White "David Janowski"]
+[Black "Charles B Isaacson"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 dxc6 8.dxe5 Nf5 9.Rd1 Bd7 10.e6 fxe6 11.Ne5 Bd6 12.Qh5+
+g6 13.Nxg6 hxg6 14.Qxh8+ Kf7 15.Qh7+ Ng7 16.Rd3 e5 17.Rf3+ Bf5
+18.g4 e4 19.gxf5 exf3 20.Qxg6+ Kg8 21.f6 Be5 22.Qxg7# 1-0

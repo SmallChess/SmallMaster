@@ -1,0 +1,21 @@
+[Event "Hamburg sim-32 (1)"]
+[Site "Hamburg FRG"]
+[Date "1985.06.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Mephisto (Computer)"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.c4 e6 2.Nc3 d5 3.d4 c5 4.e3 cxd4 5.exd4 Nf6 6.Nf3 Be7 7.cxd5
+exd5 8.Bb5+ Bd7 9.Bxd7+ Nbxd7 10.O-O O-O 11.Qb3 Nb6 12.Ne5 Rc8
+13.Re1 Re8 14.Bg5 Nh5 15.Be3 Bd6 16.h3 Bxe5 17.dxe5 Rxe5
+18.Bxb6 Rxe1+ 19.Rxe1 Qxb6 20.Qxb6 axb6 21.Nxd5 Kf8 22.Nxb6
+Rc7 23.a4 Nf4 24.Rd1 g5 25.b4 h5 26.a5 Ke8 27.b5 Rc5 28.Rb1
+Ne6 29.Na4 Re5 30.a6 bxa6 31.b6 Nd8 32.b7 Nxb7 33.Rxb7 Ra5
+34.Nc3 f5 35.Rh7 Rc5 36.Ne2 h4 37.Rg7 f4 38.Nd4 Rd5 39.Nf3 a5
+40.Rxg5 Rxg5 41.Nxg5 a4 42.Ne4 a3 43.Nc3 1-0

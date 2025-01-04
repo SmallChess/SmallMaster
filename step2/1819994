@@ -1,0 +1,23 @@
+[Event "US Chess Championship"]
+[Site "St Louis, MO USA"]
+[Date "2016.04.24"]
+[EventDate "2016.04.14"]
+[Round "10.5"]
+[Result "1/2-1/2"]
+[White "Samuel Shankland"]
+[Black "Aleksandr Lenderman"]
+[ECO "E20"]
+[WhiteElo "2656"]
+[BlackElo "2618"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6
+7. Ne2 a6 8. Ng3 Ba5 9. Be2 exd5 10. cxd5 b5 11. a4 b4 12. Nb1
+Nbd7 13. O-O Re8 14. Nd2 Ne5 15. f4 Ng6 16. b3 Bb6 17. Kh1 c4
+18. bxc4 Be3 19. f5 Ne5 20. Nb3 Bxc1 21. Qxc1 Ned7 22. Bf3 Qc7
+23. a5 Nc5 24. Qe3 Rb8 25. Nd2 Bd7 26. Bd1 Qd8 27. Qd4 h6
+28. Re1 b3 29. e5 b2 30. Rb1 Qxa5 31. e6 fxe6 32. fxe6 Bxe6
+33. dxe6 Nxe6 34. Qf2 Nc5 35. Bc2 Qc3 36. Nde4 Ncxe4 37. Nxe4
+Nxe4 38. Bxe4 Re5 39. Bd5+ Kh8 40. Rf1 a5 41. h3 Qb4 42. Qd4
+Rxd5 43. Qxd5 a4 44. Rbe1 a3 45. Qf7 Qxe1 46. Rxe1 b1=Q
+47. Rxb1 Rxb1+ 48. Kh2 a2 49. Qe8+ Kh7 50. Qe4+ g6 1/2-1/2

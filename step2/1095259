@@ -1,0 +1,19 @@
+[Event "Correspondence game"]
+[Site "USA"]
+[Date "1944.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ed Robson"]
+[Black "Frank James Marshall"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Review, December 1944, p.28)
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Be7
+7.Re1 O-O 8.Nxe5 Nxe5 9.Rxe5 Nb6 10.Qe2 Bf6 11.Re4 Bf5 12.Rf4
+Bg5 13.Rxf5 Bxc1 14.a4 Bxb2 15.Ra2 Nxc4 16.dxc4 Re8 17.Qf1 Re6
+18.Rd5 Qf6 19.Nd2 Rae8 20.Nf3 Bc3 21.Rd1 g5 22.Kh1 g4 23.Ng1 
+g3 24.f4 Re1 25.Rxe1 Rxe1 26.Qd3 Rxg1+ {Mate in 4} 0-1

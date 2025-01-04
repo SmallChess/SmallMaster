@@ -1,0 +1,27 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Johannes Westermann"]
+[ECO "C84"]
+[WhiteElo "2644"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 Bb7 9.d3 d6 10.c3 Nb8 11.Nbd2 Nbd7 12.Nf1 Re8 13.Ng3
+g6 14.Ng5 d5 15.d4 h6 16.dxe5 hxg5 17.exf6 Nxf6 18.e5 Ne4
+19.Nxe4 dxe4 20.Qg4 Kg7 21.Be3 Qc8 22.Qg3 c5 23.Rad1 Qf5 24.e6
+fxe6 25.Rd7 Bc6 26.Rc7 Rac8 27.Ra7 Bd5 28.Bxg5 Kf8 29.Bh6+ Kg8
+30.Rxa6 Kf7 31.Be3 Rh8 32.Ra7 Kf8 33.Bd1 Rh7 34.Bg4 Qf6 35.Bf4
+Qh4 36.Bd6 Re8 37.Qxh4 Rxh4 38.Rxe7 Rxe7 39.Bxc5 Bxa2 40.Be2
+Bc4 41.Bxc4 bxc4 42.g3 Rh5 43.Bxe7+ Kxe7 44.Rxe4 Rb5 45.Re2
+Rd5 46.Kg2 Rd3 47.h4 Kf6 48.f4 Kf5 49.Kh3 Kf6 50.Kg4 Rd5
+51.Re4 Rd2 52.Rxc4 Rxb2 53.h5 gxh5+ 54.Kxh5 Rc2 55.Kg4 Rd2
+56.Re4 Rd3 57.c4 Rc3 58.Kh3 Rc2 59.g4 Rc1 60.Kh4 Rc3 61.g5+
+Kf5 62.Re5+ Kxf4 63.Rxe6 Rxc4 64.Kh5 Rc8 65.Rf6+ Ke5 66.Kg6
+Rg8+ 67.Kh6 Rh8+ 68.Kg7 Rh5 69.g6 Rh2 70.Rf1 Ke6 71.Re1+ Kd7
+72.Kf7 Rf2+ 73.Kg8 Rg2 74.g7 Rg3 75.Rh1 1-0

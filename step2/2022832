@@ -1,0 +1,18 @@
+[Event "Besancon sim"]
+[Site "Besancon FRA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Figovitoura"]
+[ECO "E85"]
+[WhiteElo "2710"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.f3 O-O 6.Be3 e5 7.Nge2
+Nc6 8.d5 Ne7 9.Qd2 c6 10.g4 cxd5 11.cxd5 Bd7 12.Ng3 a6 13.h4
+Qa5 14.h5 Rfc8 15.Be2 b5 16.a3 Qd8 17.hxg6 Nxg6 18.Nf5 Bxf5
+19.gxf5 Nf4 20.Kf2 N6h5 21.Rh2 Qg5 22.Rah1 h6 23.Rxh5 Qg2+
+24.Ke1 Nxh5 25.Rxh5 1-0

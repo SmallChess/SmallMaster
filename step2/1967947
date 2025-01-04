@@ -1,0 +1,22 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "2019.07.27"]
+[EventDate "2019.07.27"]
+[Round "10.1"]
+[Result "1-0"]
+[White "Samuel Shankland"]
+[Black "Jorge Cori"]
+[ECO "C11"]
+[WhiteElo "2713"]
+[BlackElo "2686"]
+[PlyCount "81"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 Be7 8. Qd2 O-O 9. dxc5 Nxc5 10. O-O-O a6 11. h4 Qc7
+12. Bd3 Nb4 13. Kb1 Nbxd3 14. cxd3 Bd7 15. Rc1 Qb6 16. f5 Rfc8
+17. Bg5 Qd8 18. f6 gxf6 19. exf6 Bd6 20. Bf4 Bf8 21. Be5 Bb5
+22. Nxb5 axb5 23. Rh3 h6 24. Rg3+ Kh8 25. Bf4 Qa5 26. Qxa5
+Rxa5 27. d4 Ra4 28. b3 Rxa2 29. Kxa2 Ra8+ 30. Kb1 Nd3 31. Ne5
+Nxc1 32. Bxc1 Kh7 33. Rc3 Bd6 34. Nxf7 Bb4 35. Rg3 Bf8 36. Ne5
+Rc8 37. f7 Bd6 38. Rg8 Rxg8 39. fxg8=Q+ Kxg8 40. Bxh6 Kh7
+41. Bg5 1-0

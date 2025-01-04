@@ -1,0 +1,16 @@
+[Event "Eskilstuna simul"]
+[Site "Eskilstuna SWE"]
+[Date "1913.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Carl Nilsson"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.dxe5 Qxe5+ 6.Qe2 Qxe2+
+7.Bxe2 Bb4 8.Bf4 Ba5 9.O-O-O c6 10.Ne4 Bb4 11.Bd6 a5 12.Be5 f6
+13.Nd6+ Kf8 14.Bg3 Ne7 15.Nc4 1-0

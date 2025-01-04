@@ -1,0 +1,24 @@
+[Event "Rook Odds"]
+[Site "Springhill"]
+[Date "1855.??.??"]
+[EventDate "1855.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. c3 d6
+7. Qb3 Qe7 8. d4 c6 9. a4 Be6 10. Bxe6 fxe6 11. e5 d5 12. g3
+Na6 13. gxf4 gxf4 14. Bxf4 O-O-O 15. Qc2 Qe8 16. b4 Ne7
+17. Qe2 Nb8 18. b5 Rg8 19. Kh1 Qg6 20. Nbd2 Rdf8 21. Bg3 Nf5
+22. bxc6 Nxg3+ 23. hxg3 Nxc6 24. Rg1 b6 25. Qb5 Kb7 26. c4
+Rxf3 27. Nxf3 Qe4 28. Rf1 Nxd4 29. Qd7+ Kb8 30. cxd5 Bxe5
+31. Qf7 Rg7 32. Qe8+ Kb7 33. a5 Qxd5 34. a6+ Kxa6 35. Qc8+ Ka5
+36. Qc3+ Ka6 37. Qc8+ Rb7 38. Qc3 Rc7 39. Qa3+ Kb7 40. Kh2
+Nxf3+ 41. Rxf3 Rc2+ 42. Kh3 Bd6 0-1

@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1859.05.11"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Frederick Perrin"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. b4 Bb6
+7. b5 Ne5 8. Nxe5 dxe5 9. f4 d3+ 10. Kh1 Qd4 11. Bxf7+ Kxf7
+12. fxe5+ Ke8 13. Qf3 Ne7 14. Qf7+ Kd8 15. Bg5 Qxe5 16. Rad1
+Qxg5 17. Rxd3+ Bd7 18. Qf8+ Rxf8 19. Rxf8# 1-0

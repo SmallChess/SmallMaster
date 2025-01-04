@@ -1,0 +1,21 @@
+[Event "New York? ?"]
+[Site "New York? 1857?"]
+[Date "1857.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Alphonse Perrin"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nh6 5.f5 Nc6 6.b4 Nxb4 7.c3 b5
+8.Bxb5+ c6 9.cxb4 Bf2+ 10.Kxf2 Qb6+ 11.d4 cxb5 12.Bxh6 gxh6
+13.Nc3 Bb7 14.Qd3 a6 15.Rd1 O-O 16.Kf1 f6 17.Qd2 Kg7 18.d5
+Rac8 19.Ne2 Rc4 20.Ng3 Rfc8 21.Nh5+ Kh8 22.Qxh6 Qc7 23.Qxf6+
+Kg8 24.Ng5 Bxd5 25.exd5 Rf4+ 26.Nxf4 exf4 27.Qe6+ Kf8 28.Nxh7+
+Kg7 29.Qg6+ Kh8 30.Nf6 Qc4+ 31.Kg1 Qc7 1-0

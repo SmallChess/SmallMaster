@@ -1,0 +1,17 @@
+[Event "white blindfolded"]
+[Site "Breslau"]
+[Date "1880.??.??"]
+[EventDate "1880.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Landau"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d5 6. exd5
+Nxd5 7. Nxd4 Nxd4 8. Qxd4 Be6 9. Re1 c6 10. Nc3 Nxc3 11. Qxc3
+Qd7 12. Bg5 Be7 13. Rad1 Qc8 14. Qxg7 Bxg5 15. Qxh8+ Ke7
+16. Qg7 Qg8 17. Rxe6# 1-0

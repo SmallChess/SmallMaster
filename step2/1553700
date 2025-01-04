@@ -1,0 +1,18 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Santiago Tomasso"]
+[ECO "B01"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Ne5 Bf5 7.g4
+Be4 8.f3 Bd5 9.a3 Nbd7 10.Be3 Nxe5 11.dxe5 Nxg4 12.Bd4 e6
+13.b4 Qd8 14.Nxd5 Qxd5 15.c4 Ne3 16.cxd5 Nxd1 17.dxc6 bxc6
+18.Rxd1 Be7 19.Ba6 O-O 20.Ke2 Rab8 21.Rc1 Rfd8 22.Rhd1 c5
+23.Bxc5 Rxd1 24.Rxd1 Bxc5 25.bxc5 g6 26.c6 Rb2+ 27.Rd2 1-0

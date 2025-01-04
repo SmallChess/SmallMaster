@@ -1,0 +1,31 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1896.07.20"]
+[EventDate "1896.07.20"]
+[Round "1"]
+[Result "0-1"]
+[White "Moritz Porges"]
+[Black "Emanuel Lasker"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 {Notes by Dr. Tarrasch} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7 9.b3 O-O 10.Bb2 d5
+11.exd6 {This gives away White's opening advantage by
+consolidating the opponent's game. 11 Nbd2 was indicated.}
+cxd6 12.Nbd2 Re8 {! The R here threatens the White Q, and it
+is interesting to see how quickly that indirect menace gives
+Black some decisive advantage.} 13.Rfe1 Bd7 14.Ne4 {This turns
+out to be ineffective. It would have been relatively best to
+retreat the Q to f1, the only if modest place where she could
+enjoy a little peace.} d5 15.Ned2 {The Kt mustn't go to g3,
+since Bb4 would cost the exchange.} Ba3 16.Be5 f6 17.Qa6
+{White just manages to avoid the loss of a piece.} fxe5
+18.Qxa3 e4 19.Nd4 Qf6 20.c3 Rf8 21.f3 Qg5 {One blow after
+another Lasker plays with great strength.} 22.Qc1 Nc5 23.Nf1
+Qg6 24.Re3 Nd3 25.Qd1 Nf4 26.Ng3 h5 27.Nde2 Nxg2 {! Forcing
+the issue with an elegant combination.} 28.Kxg2 exf3+ 29.Rxf3
+Bh3+ 30.Kxh3 Qg4+ 31.Kg2 Qxf3+ 32.Kg1 h4 33.Nh1 Qe3+ {Resigns,
+since Kg2 is punished by the pretty mate ...h3.} 0-1

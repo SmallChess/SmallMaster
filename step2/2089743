@@ -1,0 +1,21 @@
+[Event "City of London CC - Bermondsey CC m"]
+[Site "London ENG"]
+[Date "1874.10.23"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Huttley"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1874.10.31, p.459"]
+[PlyCount "66"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 d5 2. f3 e5 3. Ne2 Nf6 4. c3 Nc6 5. Ng3 Bc5 6. a4 a5 7. Bb5 Bd7 8. Qe2 Qe7
+9. d3 h6 10. Bd2 Qd6 11. d4 exd4 12. Bxc6 bxc6 13. e5 d3 14. Qxd3 Qxe5+ 15. Kd1
+O-O 16. Kc2 Bb6 17. Rae1 Qd6 18. Ne2 Rfe8 19. g4 c5 20. Kc1 c4 21. Qc2 Be3 22.
+h4 Bxd2+ 23. Qxd2 Nxg4 24. fxg4 Bxg4 25. Nf4 c6 26. Reg1 Bf5 27. Nh5 Bg6 28.
+Nxg7 Kxg7 29. h5 Re6 30. hxg6 Rxg6 31. Qxh6+ Kf6 32. Rxg6+ fxg6 33. Rf1+ 1-0

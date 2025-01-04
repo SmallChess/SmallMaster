@@ -1,0 +1,22 @@
+[Event "Clock simul, 3b"]
+[Site "Havana CUB"]
+[Date "1913.09.07"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Rene Portela"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.f4 d5 2.e3 c5 3.Nf3 Nc6 4.b3 Bg4 5.Bb2 e6 6.Bd3 Nf6 7.h3
+Bxf3 8.Qxf3 Nb4 9.Nc3 Nxd3+ 10.cxd3 Qd7 11.O-O Be7 12.Rac1 Rc8
+13.g4 d4 14.Ne4 Nxe4 15.dxe4 O-O 16.exd4 cxd4 17.Qd3 Bc5
+18.Rc2 Bb6 19.Rfc1 f6 20.Kf2 e5 21.Rxc8 Rxc8 22.Rxc8+ Qxc8
+23.f5 Qc5 24.Kf3 g5 25.fxg6 hxg6 26.h4 Kg7 27.Qc4 Qxc4 28.bxc4
+Bc5 29.Ke2 f5 30.gxf5 gxf5 31.exf5 Kf6 32.Kf3 Kxf5 33.d3 Be7
+34.h5 Bg5 35.Ba3 Bh6 36.Bb4 Bg7 37.Bd2 Bf6 38.h6 a6 39.Bb4 Kg6
+40.Bf8 Kf7 41.Bd6 Kg6 42.Ke4 Kxh6 43.Bxe5 Be7 44.Kxd4 Kg6
+45.Kd5 Kf7 46.Bd6 Bd8 47.c5 1-0

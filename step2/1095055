@@ -1,0 +1,25 @@
+[Event "New York Metropolitan tt"]
+[Site "New York, NY USA"]
+[Date "1923.03.31"]
+[EventDate "?"]
+[Round "9.3"]
+[Result "0-1"]
+[White "Morris A Schapiro"]
+[Black "Frank James Marshall"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 c6 4.d4 Bb4 5.dxe5 Nxe4 6.Bxf7+ Kxf7
+7.Qf3+ Nf6 8.exf6 Qxf6 9.Qxf6+ gxf6 10.Bd2 Rg8 11.g3 Re8+
+12.Nge2 d5 13.O-O-O Bg4 14.Rde1 Bc5 15.Nf4 Rxe1+ 16.Bxe1 Nd7
+17.Nd3 Bd4 18.Bd2 Ne5 19.Nxe5+ fxe5 20.Be3 Bxe3+ 21.fxe3 Bh3
+22.Nd1 Ke6 23.Nf2 Bg2 24.Rg1 Bf3 25.Nd3 b6 26.Rf1 Be4 27.Kd2
+c5 28.c3 c4 29.Ne1 b5 30.Nf3 Rg8 31.Ng1 a5 32.Ne2 b4 33.Nc1 h5
+34.Rf2 Rb8 35.Rf1 Rg8 36.Rf2 Bb1 37.Rf1 h4 38.Rg1 Rf8 39.Rg2
+Be4 40.Re2 hxg3 41.hxg3 Rg8 42.Rh2 Rxg3 43.Ne2 Rf3 44.Rh8 Bd3
+45.Rh6+ Ke7 46.Rh2 Rf1 47.Nc1 Be4 48.Re2 Bf3 49.Rh2 Ke6 50.Kc2
+Kf5 51.Kd2 Kg4 52.cxb4 axb4 53.a4 Rd1+ 54.Kc2 b3+ 55.Nxb3
+cxb3+ 56.Kxb3 Rd3+ 57.Kb4 Rxe3 58.a5 Re2 59.Rxe2 Bxe2 60.Kc5
+d4 61.b4 d3 0-1

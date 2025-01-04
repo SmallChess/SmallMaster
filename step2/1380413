@@ -1,0 +1,18 @@
+[Event "Simul, 26b"]
+[Site "Krefeld GER"]
+[Date "1913.10.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hecker"]
+[Black "Emanuel Lasker"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Bg5 h6 6.Bh4 d6 7.h3
+Be6 8.Bxe6 fxe6 9.O-O Qe7 10.c4 O-O-O 11.a3 g5 12.Bg3 h5
+13.Nxg5 Rdg8 14.Nf3 Qg7 15.Ne1 Rh6 16.Qf3 Nd4 17.Qd1 Rg6
+18.Nd2 h4 19.Bh2 Rxg2+ 20.Kh1 Nc2 21.Qxc2 Bxf2 22.Ndf3 Rxh2+
+0-1

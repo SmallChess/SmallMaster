@@ -1,0 +1,16 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Anatoly Karpov"]
+[Black "Lars Stark"]
+[ECO "A70"]
+[WhiteElo "2644"]
+[BlackElo "2432"]
+[PlyCount "30"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 a6
+8.a4 Bg4 9.Qb3 Bxf3 10.gxf3 Bg7 11.Qxb7 Nbd7 12.a5 O-O 13.Be2
+Qe7 14.Qb3 Nh5 15.Ra4 Be5 1/2-1/2

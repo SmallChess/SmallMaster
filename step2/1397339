@@ -1,0 +1,16 @@
+[Event "Ubeda op 3rd"]
+[Site "Ubeda"]
+[Date "1998.01.20"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Esben Christensen"]
+[Black "Levon Aronian"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3
+O-O 8.O-O Nc6 9.f4 Qb6 10.Qd3 Qxb2 11.Bf3 Qa3 12.Rab1 Qa5
+13.Nxc6 bxc6 14.h3 Ba6 0-1

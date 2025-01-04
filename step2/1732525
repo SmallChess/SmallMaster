@@ -1,0 +1,24 @@
+[Event "nTCEC - Superfinal - Season"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.04.27"]
+[EventDate "?"]
+[Round "5.1"]
+[Result "1-0"]
+[White "Houdini (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "D98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4
+O-O 7. e4 Bg4 8. Be3 Nfd7 9. Nd2 c6 10. h3 Nb6 11. Qc5 Be6
+12. Be2 f5 13. Nf3 N8d7 14. Qa3 Kh8 15. Bg5 fxe4 16. Nxe4 Qe8
+17. O-O Bd5 18. Ned2 e5 19. dxe5 Nxe5 20. Rae1 Qe6 21. Be3
+Rfe8 22. Bd4 Nxf3+ 23. Bxf3 Qxe1 24. Bxg7+ Kxg7 25. Rxe1 Rxe1+
+26. Kh2 Kf7 27. Be4 Kg8 28. f3 Rd1 29. Bxd5+ Nxd5 30. Ne4 Rc1
+31. h4 Re1 32. h5 Kg7 33. Qc5 Re8 34. Qd4+ Kg8 35. h6 Re7
+36. Qxa7 Kf7 37. Nd6+ Kf6 38. Qb8 b5 39. Qd8 Re6 40. Nc8 Ke5
+41. Qh8+ Kf5 42. Nxe7+ Rxe7 43. Qc8+ Ke5 44. Qxc6 b4 45. a4
+bxa3 46. bxa3 Rc7 47. Qa6 Ne7 48. Qb6 Nd5 49. Qb2+ Kd6 50. a4
+Kc6 51. Qb5+ Kd6 52. a5 Ne7 53. Qb4+ 1-0

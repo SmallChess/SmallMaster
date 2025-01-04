@@ -1,0 +1,19 @@
+[Event "Simul"]
+[Site "Toronto, Ont."]
+[Date "2011.03.19"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Razvan Preotu"]
+[Black "Wesley So"]
+[ECO "B80"]
+[WhiteElo "1877"]
+[BlackElo "2667"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. f3 b5 8. Qd2 Bb7 9. O-O-O Nbd7 10. g4 Nb6 11. g5 Nfd7
+12. Qf2 Rc8 13. h4 Rxc3 14. bxc3 Qc7 15. Qd2 Ne5 16. Bxb5+
+axb5 17. Nxb5 Qd7 18. Nxd6+ Qxd6 19. Qxd6 Bxd6 20. Bxb6 Ba3+
+21. Kb1 Ke7 22. Ba5 Nxf3 23. Bb4+ Bxb4 24. cxb4 Bxe4 25. Kb2
+Rc8 26. c3 Ne5 27. Rhg1 Nd3+ 28. Kb3 Bd5+ 29. Ka4 Nb2+ 0-1

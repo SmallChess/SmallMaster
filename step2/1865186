@@ -1,0 +1,22 @@
+[Event "Winter Classic"]
+[Site "Saint Louis"]
+[Date "2017.03.16"]
+[EventDate "2017.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Samuel Sevian"]
+[Black "Samuel Shankland"]
+[ECO "C67"]
+[WhiteElo "2587"]
+[BlackElo "2666"]
+[PlyCount "84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Kc8 11. a4 a5
+12. g4 Ne7 13. Ra3 Nd5 14. Rad3 Be7 15. c4 Nb6 16. Bg5 f6
+17. exf6 gxf6 18. Bh6 Rg8 19. Nc3 Bf5 20. Re3 Bc5 21. Re2 Nxc4
+22. Nd4 Bg6 23. Ne6 Bd6 24. f4 f5 25. Kf2 Ra6 26. b3 Nb6
+27. Bg5 Nd7 28. Nd4 fxg4 29. hxg4 Rb6 30. Ne4 Bxe4 31. Rxe4 h6
+32. Rde1 Kb8 33. Re8+ Rxe8 34. Rxe8+ Ka7 35. Be7 Bxf4 36. Rd8
+Ne5 37. Ne6 Rxb3 38. Kg2 Rb2+ 39. Kf1 Be3 40. Nxc7 Nf3
+41. Ra8+ Kb6 42. Ne6 Rf2# 0-1

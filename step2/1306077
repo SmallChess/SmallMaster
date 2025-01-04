@@ -1,0 +1,42 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1909.02.22"]
+[EventDate "1909.02.15"]
+[Round "6"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Georg Salwe"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.e4 {Notes by Emanuel Lasker} e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7
+5.Nc3 Nf6 6.O-O Be7 7.Bg5 {This seems stronger than the
+customary 7 Re1.} exd4 8.Nxd4 O-O 9.Bxc6 bxc6 10.Qd3 Re8
+11.Rae1 c5 12.Nb3 Ng4 {12...Rb8 (with the intention of
+embarrasing the Knight by the attack on the b-pawn) could be
+countered by 13 Bc1, and White will still be able to fortify
+his center by f4.} 13.Bxe7 Rxe7 14.f4 Rb8 15.h3 Nh6 16.f5
+{White could have achieved more by 16 g4 which would have
+avoided yielding e5 and g5 to Black. The text move seemed to
+have the advantage of getting the King's Rook into play via f4
+and of keeping the g-file open for the Queen.} f6 17.Nd5 Re8
+18.c4 Nf7 19.Qc3 Re5 20.Nd2 c6 21.Nf4 Qb6 22.b3 Rbe8 23.Qg3
+Kh8 24.Nh5 Rg8 25.Rf4 Qd8 26.Nf3 Re7 27.Rh4 {27 Rg4 could have
+been adequately countered by ...Qf8.} Qe8 28.Qf2 {Even though
+Black suffers from a cramped position there is no immediate
+winning combination available for White. Hence, the Black
+pieces must be disorganised by tactical manoeuvres before the
+attack can be resumed.} Rf8 29.Qd2 Qb8 30.Kh1 Rfe8 31.Rg4 Rg8
+32.Rd1 Qb4 33.Qf2 Qc3 34.Qh4 Nh6 35.Rf4 Nf7 36.Kh2 Rge8 37.Qg3
+Rg8 38.Rh4 g5 {The threat was 39 Nf4 Nh6 40 Rxd6.} 39.fxg6
+{Rg4 could have been countered by Be8.} Rxg6 40.Qf2 f5 41.Nf4
+Rf6 42.Ne2 Qb2 43.Rd2 Qa1 44.Ng3 Kg8 {The threat was 45 exf5
+Bxf5 46 Nxf5 Rxf5 47 Rxh7+.} 45.exf5 Bxf5 46.Nd4 {! Decisive.}
+cxd4 47.Nxf5 Kf8 48.Qxd4 Qxd4 49.Nxd4 Ne5 50.Rh5 Ref7 51.c5
+dxc5 52.Rxe5 cxd4 53.Rxd4 Rf2 54.Rd8+ Kg7 55.Ra5 Rc2 56.a3
+{Naturally, since ...Rff2 would have won the important
+a-pawn.} c5 57.Rc8 Rb2 58.Rb5 Rff2 59.Rb7+ Kg6 60.Rc6+ Rf6
+61.Rxc5 Ra6 62.a4 Rf6 {62...Rxa4 would be followed by 63 Rc6+
+followed by Rb5+ and bxa4.} 63.Rc3 a6 64.Rg3+ Kh6 65.Rgg7 1-0

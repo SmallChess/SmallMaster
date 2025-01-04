@@ -1,0 +1,15 @@
+[Event "Simul, 20b"]
+[Site "Norwich ENG"]
+[Date "1900.11.28"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "A T Nicholls"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nc6 4.Nf3 Bc5 5.O-O d6 6.c3 Bg4 7.b4
+Bb6 8.a4 a5 9.b5 Ne5 10.Nxe5 Bxd1 11.Nxf7 Be2 12.Bxe2 Kxf7 0-1

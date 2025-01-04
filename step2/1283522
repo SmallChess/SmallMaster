@@ -1,0 +1,16 @@
+[Event "Manchester"]
+[Site "Manchester ENG"]
+[Date "1890.08.27"]
+[EventDate "1890.08.25"]
+[Round "4"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Isidor Gunsberg"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 a6 6.Ba4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Re1 O-O 11.Nd4 Qd7 12.Nxe6 fxe6
+13.Rxe4 1-0

@@ -1,0 +1,22 @@
+[Event "Aeroflot Open"]
+[Site "Moscow RUS"]
+[Date "2005.02.22"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Dmitry Bocharov"]
+[ECO "B47"]
+[WhiteElo "2483"]
+[BlackElo "2585"]
+[Source "365Chess"]
+[PlyCount "71"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6
+7. Bg2 Nf6 8. O-O Be7 9. Re1 O-O 10. Nxc6 dxc6 11. e5 Rd8
+12. Qf3 Nd5 13. h4 b6 14. Bg5 h6 15. Bxe7 Nxe7 16. Rad1 Bb7
+17. h5 Rab8 18. Rxd8+ Rxd8 19. Rd1 Rb8 20. Qe2 b5 21. Kh2 b4
+22. Na4 c5 23. Bxb7 Rxb7 24. Qxa6 Nc6 25. Nxc5 Ra7 26. Qe2
+Rxa2 27. Rd7 Qxe5 28. Qf3 Qf6 29. Qxc6 Qxf2+ 30. Kh3 Qf1+
+31. Qg2 Qf5+ 32. g4 Qxc5 33. Rd8+ Kh7 34. Qe4+ f5 35. g5 hxg5
+36. Qxe6 1-0

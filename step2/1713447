@@ -1,0 +1,28 @@
+[Event "nTCEC - Stage 1"]
+[Site "TCEC-chess.net"]
+[Date "2013.01.25"]
+[EventDate "2013.01.22"]
+[Round "1.5"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Crafty (Computer)"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 f5 5. d5 Nf6 6. g3 Na6
+7. Bg2 Nc5 8. Nf3 Nce4 9. dxe6 Nxc3 10. exd7+ Qxd7 11. Qxd7+
+Nxd7 12. bxc3 Ne5 13. Nxe5 Bxg2 14. Rg1 Bb7 15. Be3 g6 16. f4
+Bd6 17. Kf2 O-O 18. Nd3 c5 19. a4 Rfe8 20. a5 Re7 21. Ra2 Rae8
+22. Ne5 Bxe5 23. fxe5 Rxe5 24. Bf4 R5e6 25. Rb1 Be4 26. Rbb2
+R8e7 27. Rd2 Kg7 28. Rd8 Rf7 29. h4 Bh1 30. Rb8 Rfe7 31. Rd2
+bxa5 32. Bg5 Re8 33. Rxe8 Rxe8 34. Ra2 Be4 35. Rxa5 Ra8
+36. Be7 Kf7 37. Bxc5 a6 38. Ke3 Rc8 39. Bd4 Bb7 40. c5 Re8+
+41. Kd2 Ra8 42. h5 Bc6 43. hxg6+ hxg6 44. c4 Bh1 45. Ke3 Re8+
+46. Kd3 Ra8 47. Be3 Bc6 48. Bf4 Ra7 49. Kc3 Ke6 50. Bd2 Ra8
+51. Bc1 Kf6 52. Bf4 g5 53. Be3 Kg6 54. Kd4 Bg2 55. Bg1 Kf6
+56. Bf2 Bc6 57. Be3 g4 58. Bf4 Ke6 59. Kc3 Be4 60. Ra2 a5
+61. Rd2 Rc8 62. Rd6+ Kf7 63. Be3 a4 64. Kb4 Bc6 65. Rh6 Rb8+
+66. Ka5 Re8 67. Rxc6 Rxe3 68. Kxa4 Ke7 69. Rd6 Re5 70. Kb5
+Rxe2 71. Rd4 Re5 72. Rd1 f4 73. gxf4 Rf5 74. Rf1 Rh5 1-0

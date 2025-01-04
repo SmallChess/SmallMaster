@@ -1,0 +1,33 @@
+[Event "Korchnoi Vs. Vallejo"]
+[Site "Vera ESP"]
+[Date "2004.07.10"]
+[EventDate "2004.07.09"]
+[Round "3"]
+[Result "1-0"]
+[White "Francisco Vallejo Pons"]
+[Black "Viktor Korchnoi"]
+[ECO "C45"]
+[WhiteElo "2679"]
+[BlackElo "2568"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5
+Ne4 7. Nd2 Nxd2 8. Bxd2 d5 9. Bd3 Qh4 10. O-O Bc5 11. c4 O-O
+12. Rc1 Bd4 (12... Rd8) 13. Bc3 ( 13. cxd5 cxd5 14. Bc3 Bb6
+15. b4 $5) 13... Bxc3 14. Rxc3 Be6 (14... d4 15. Ra3) 15. f4
+(15. cxd5 Bxd5 16. Qc2 $14) 15... Rad8 16. c5 Rb8 17. Qd2 f6
+18. f5 Qd4+ 19. Rf2 fxe5 20. fxe6 e4 21. Ba6 $1 (21. Bf1 Qxf2+
+22. Qxf2 Rxf2 23. Kxf2 Rxb2+ 24. Ke3 Kf8 (24... Rxa2))
+21... Qe5 $1 (21... Qxf2+ 22. Qxf2 Rxf2 23. Kxf2 Rxb2+ 24. Ke3
+Kf8 25. Rb3 $1 Rxa2 26. Bc8 Ke7 27. Rb7 Kf6 28. Rxc7 Ke5
+29. Rd7 $8 $18) 22. Rb3 Rbe8 23. Qc3 Qxe6 24. Rxf8+ Rxf8
+25. Qd4 Qf5 26. Rg3 Rf6 27. h3 h6 28. b4 Qf4 29. Rc3 Qg5
+30. Be2 Kh7 31. a4 Qh4 32. Rc1 Rg6 33. Qf2 $4 $138 ( 33. Bg4
+$1 Qg5 34. Rf1 h5 35. Rf5 $1 Qc1+ 36. Bd1 $16) 33... Qxh3
+34. Bf1 Rg5 ( 34... Qa3 $1) 35. b5 Qa3 36. Rd1 Qxa4 37. Qd4
+Qc2 (37... cxb5 38. Qxa4 bxa4 39. Ra1 $15) 38. bxc6 Rf5
+39. Ra1 a5 40. Bb5 Qb3 41. Be2 a4 (41... Qg3 $1) 42. Rxa4 Qb1+
+43. Qd1 Qb2 44. Ra1 (44. Rd4 $1) 44... Qc3 45. Bg4 Qxc5+
+46. Kh1 Rg5 47. Rc1 Qe3 48. Bh3 d4 49. Qf1 $1 h5 $2 $138
+50. Re1 Qd2 51. Bf5+ Kh6 (51... g6 52. Bxe4) 52. Rxe4 $1 d3
+53. Re6+ g6 54. Bxd3 Qb4 55. Qf6 $1 1-0

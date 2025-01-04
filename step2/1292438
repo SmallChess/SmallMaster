@@ -1,0 +1,23 @@
+[Event "Ebbw Vale sim"]
+[Site "Ebbw Vale"]
+[Date "1998.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Zane Allford"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 g6 6.e4 d6 7.Be2
+Bg7 8.Nc2 O-O 9.O-O a6 10.Be3 Bd7 11.Rc1 Rb8 12.f3 Ne5 13.a4
+Ne8 14.Qd2 f5 15.exf5 Bxf5 16.Nd4 Nc6 17.Nxf5 Rxf5 18.f4 Nc7
+19.Bg4 Rf8 20.Bb6 Bxc3 21.Rxc3 e5 22.Rd3 Qe7 23.Rxd6 Rbd8
+24.Rd7 Rxd7 25.Qxd7 Qxd7 26.Bxd7 Na8 27.Bxc6 bxc6 28.Be3 exf4
+29.Rxf4 Rxf4 30.Bxf4 Nb6 31.b3 Nd7 32.Be3 Kf7 33.Kf2 Ke6
+34.Ke2 h5 35.Kd3 c5 36.Kc3 Kd6 37.Bf4+ Kc6 38.Kd3 Nf8 39.Ke4
+Ne6 40.Be3 Kd6 41.h3 Nf8 42.Bh6 Ne6 43.g3 Nd4 44.b4 Nf5
+45.Bf4+ Kc6 46.b5+ axb5 47.axb5+ Kb6 48.Ke5 h4 49.g4 Ng3
+50.Kf6 1-0

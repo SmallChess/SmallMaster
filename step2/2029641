@@ -1,0 +1,20 @@
+[Event "B.C.A. Handicap t"]
+[Site "London ENG"]
+[Date "1868.12.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "H D Haggard"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'Steinitz in London', T.Harding, p.176"]
+[PlyCount "37"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. e3 Nf6 3. b3 Bg4 4. Nf3 e6 5. Bb2 Bd6 6. h3 Bxf3
+7. Qxf3 O-O 8. g4 h6 9. h4 Nc6 10. g5 Nh7 11. gxh6 f6 12. Rg1
+Rf7 13. Bd3 e5 14. Bxh7+ Kxh7 15. Qh5 Rd7 16. hxg7+ Kg8
+17. Qh8+ Kf7 18. g8=Q+ Qxg8 19. Qh5+ 1-0

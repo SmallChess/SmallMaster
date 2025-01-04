@@ -1,0 +1,20 @@
+[Event "Krakow clock simul"]
+[Site "Krakow POL"]
+[Date "1966.02.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Tal"]
+[Black "Czeslaw Jedrzejek"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bb3 b4 9.Ne2 Bd6 10.O-O O-O 11.Nf4 c5 12.Re1 Bb7 13.e4
+cxd4 14.Qxd4 Bc5 15.Qd3 Ng4 16.Nh3 Qb6 17.Be3 Bxe3 18.fxe3 Nc5
+19.Qe2 Nxe4 20.Nd4 Ngf6 21.Rad1 Rad8 22.Bc2 e5 23.Nf5 g6
+24.Ng3 Ba6 25.Rxd8 Bxe2 26.Rxf8+ Kxf8 27.Rxe2 Nxg3 28.hxg3 Ng4
+29.Bb3 Nxe3 30.Kh1 Qc6 31.Ng1 Qc1 32.Rf2 f5 33.g4 Qe1 34.Re2
+Qh4+ 35.Nh3 Nxg2 0-1

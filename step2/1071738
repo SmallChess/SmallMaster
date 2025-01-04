@@ -1,0 +1,17 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1936.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "O Herrmann"]
+[Black "Paul Keres"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.Bb5
+Ne4 8.Nxd4 O-O 9.Nxc6 bxc6 10.Bxc6 Ba6 11.Bxa8 Bxf1 12.Be3
+Bxe3 13.fxe3 Bxg2 14.Qg4 Bh3 15.Qxh3 Qg5+ 16.Kf1 Rxa8 17.c3
+Qxe5 18.Qg2 Rb8 19.Na3 Rb6 20.Ke1 Rg6 0-1

@@ -1,0 +1,16 @@
+[Event "Clock simul, 12b"]
+[Site "Rio de Janeiro BRA"]
+[Date "1939.05.26"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Oswaldo Cruz Filho"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 Qb6 6. a4 a6
+7. exd5 axb5 8. dxc6 Qxc6 9. axb5 Qxf3 10. Rxa8 Qxg2 11. Rxc8+
+Kd7 12. Rxf8 Qxh1+ 13. Nf1 Ke7 14. dxc5 1-0

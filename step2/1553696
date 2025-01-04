@@ -1,0 +1,18 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Mary Ann Gomes"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 f5 2.Bg5 g6 3.Nd2 Bg7 4.e4 Bxd4 5.exf5 Bxb2 6.fxg6 hxg6
+7.Bd3 Bxa1 8.Qxa1 Nf6 9.Bxg6+ Kf8 10.h4 Nc6 11.Ngf3 d6 12.Ne4
+Kg7 13.h5 Bg4 14.Qc3 Ne5 15.Nxe5 dxe5 16.f3 Be6 17.Qxe5 Bxa2
+18.Ng3 e6 19.Ne4 Rf8 20.Rh4 Qe7 21.Rf4 Qb4+ 22.c3 Qb1+ 23.Kf2
+Qb6+ 24.Kg3 1-0

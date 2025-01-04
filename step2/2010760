@@ -1,0 +1,19 @@
+[Event "Simul, 19b"]
+[Site "Philadelphia, PA USA"]
+[Date "1893.10.23"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Hermann G Voigt"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Whyld (1998)"]
+[PlyCount "49"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 g6 4.h4 h5 5.Bc4 d6 6.c3 Bg7 7.Ng5 Nh6
+8.Qf3 Bg4 9. Qf2 e6 10.d3 a6 11.Bb3 Rc8 12.Nd2 b5 13.Ndf3 Qe7
+14.Bd2 d5 15.O-O-O d4 16. c4 O-O 17.Rde1 e5 18.f5 gxf5 19.exf5
+Bxf5 20.Ne4 Ng4 21.Qg3 Kh8 22.Rhf1 Bg6 23.Nh2 f5 24.Bg5 Qa7
+25.Nd6 {Adjudicated win for Black} 0-1

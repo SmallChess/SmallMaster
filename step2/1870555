@@ -1,0 +1,17 @@
+[Event "Simul, 20b"]
+[Site "Hotel Alamac, New York, NY USA"]
+[Date "1939.07.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Max Demby"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 O-O
+7. Bd3 c5 8. Qh5 g6 9. Qh6 f6 10. Nf3 Nd7 11. h4 Rf7 12. exf6
+Nxf6 13. Ne5 Rg7 14. Bg5 Nf5 15. Bxf5 exf5 16. h5 Qe7 17. Bxf6
+Qxf6 18. hxg6 Qe7 19. Kd2 Be6 20. Rh5 Rc8 21. gxh7+ 1-0

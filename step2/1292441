@@ -1,0 +1,17 @@
+[Event "Ebbw Vale sim"]
+[Site "Ebbw Vale"]
+[Date "1998.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Howard Deere"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.Bg5 d5 3.e3 Nbd7 4.Nf3 e6 5.c4 dxc4 6.Bxc4 Bb4+
+7.Nc3 Nb6 8.Bd3 c5 9.dxc5 Nbd5 10.O-O Bxc3 11.bxc3 h6 12.Bh4
+g5 13.Bg3 O-O 14.c4 Nb4 15.Bd6 Re8 16.Ne5 Nxd3 17.Qxd3 Nd7
+18.Qc3 Qf6 19.f4 Nxe5 20.Bxe5 Qg6 21.fxg5 Qxg5 22.Rf3 1-0

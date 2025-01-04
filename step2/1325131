@@ -1,0 +1,19 @@
+[Event "Simul, 32b"]
+[Site "Barcelona ESP"]
+[Date "1920.02.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Raul Capablanca"]
+[Black "Valentin Marin y Llovet"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.e3 e6 5.Qb3 Bb4+ 6.Nc3 Bxf3
+7.gxf3 Nge7 8.Bd2 O-O 9.O-O-O Rb8 10.h4 dxc4 11.Bxc4 b5 12.Bd3
+Bxc3 13.Bxc3 Nd5 14.Bd2 Rb6 15.Kb1 a5 16.Rc1 Qa8 17.Rc5 a4
+18.Qc2 b4 19.Qd1 Rfb8 20.Ka1 Na5 21.Bc4 Nb3+ 22.Bxb3 axb3
+23.Qxb3 Ra6 24.Rb1 Rbb6 25.Rxd5 exd5 26.Re1 Rxa2+ 27.Qxa2 Ra6
+28.Qxa6 Qxa6+ 29.Kb1 Qd3+ 0-1

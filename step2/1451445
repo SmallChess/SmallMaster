@@ -1,0 +1,16 @@
+[Event "Syracuse"]
+[Site "Syracuse, NY USA"]
+[Date "1934.08.16"]
+[EventDate "1934.08.13"]
+[Round "5"]
+[Result "1-0"]
+[White "Samuel Reshevsky"]
+[Black "Israel Albert Horowitz"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 cxd4 8.cxd4 Qa5+ 9.Bd2 Bb4 10.Rb1 Bxd2+ 11.Qxd2 Qxd2+
+12.Kxd2 b6 13.Bb5+ Bd7 14.Rhc1 f6 15.Rc8+ 1-0

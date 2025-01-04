@@ -1,0 +1,21 @@
+[Event "Simul"]
+[Site "Cork IRL"]
+[Date "2011.02.23"]
+[EventDate "2011.02.23"]
+[Round "?"]
+[Result "1-0"]
+[White "Nigel Short"]
+[Black "Gerry McCarthy"]
+[ECO "C18"]
+[WhiteElo "2658"]
+[BlackElo "1800"]
+[PlyCount "83"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Ne7
+8.bxa5 dxc3 9.Qxg7 Rg8 10.Qxh7 Nbc6 11.Nf3 Qxa5 12.Rb1 Qc7
+13.Bb5 Bd7 14.O-O O-O-O 15.Bxc6 Nxc6 16.Re1 d4 17.Bg5 Rdf8
+18.h4 Rg6 19.h5 Rgg8 20.Qe4 Rh8 21.h6 Rfg8 22.Qf4 Be8 23.Rbd1
+Rg6 24.Nxd4 Nxd4 25.Rxd4 Bc6 26.Red1 Bd5 27.Rxd5 exd5 28.Rxd5
+Qb6 29.Qf5+ Qe6 30.Qxe6+ Rxe6 31.f4 Kc7 32.Kf2 Ra6 33.Ke3 Rxa3
+34.g4 Kc6 35.Rd6+ Kc7 36.Bd8+ Kc8 37.g5 Ra1 38.Bf6 Rh7 39.Rd8+
+Kc7 40.Rg8 a5 41.Rg7 Rxh6 42.gxh6 1-0

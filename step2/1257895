@@ -1,0 +1,24 @@
+[Event "Manchester"]
+[Site "Manchester ENG"]
+[Date "1890.09.02"]
+[EventDate "1890.08.25"]
+[Round "12"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Edmund Thorold"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qh5
+7.O-O Nc6 8.Nb3 e5 9.Nxe5 Qxd1 10.Rxd1 Nxe5 11.Re1 f6 12.f4
+Bb4 13.Bd2 Bxd2 14.Nxd2 Bf5 15.fxe5 O-O-O 16.Bd3 Bxd3 17.cxd3
+fxe5 18.Rac1+ Kb8 19.Rxe5 Nf6 20.Rce1 Rhe8 21.Rxe8 Nxe8 22.Re7
+a6 23.Nb3 b6 24.Nxd4 Rxd4 25.Rxe8+ Kc7 26.Re3 Kd7 27.Kf2 g6
+28.Rh3 h5 29.Ke3 Rd6 30.d4 Re6+ 31.Kd3 Re1 32.Rg3 Re6 33.Re3
+Rd6 34.Re5 Rf6 35.a4 Rf2 36.Re2 Rf6 37.b4 Rf1 38.Re5 Rf2
+39.Rg5 Rf6 40.h3 Kd6 41.Ke4 Re6+ 42.Re5 Rf6 43.d5 Kd7 44.Rg5
+Kd6 45.Rg3 Ke7 46.Rf3 Rd6 47.Ke5 Rd8 48.d6+ Kd7 49.Rf7+ Kc8
+50.Rc7+ Kb8 51.Rc2 Re8+ 52.Kf6 b5 53.d7 Rh8 54.Ke7 Rh7+ 55.Kd6
+Rh8 56.Re2 1-0

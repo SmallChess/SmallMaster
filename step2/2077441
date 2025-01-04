@@ -1,0 +1,20 @@
+[Event "Odds game"]
+[Site "Vienna AUH"]
+[Date "1860.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Deutsch"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Osterreichische Schachrundschau, IV (Jan 1925), p.4"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Bc4 Bc5 3. b4 Bxb4 4. f4 d6 5. Nf3 Bg4 6. fxe5 Bxf3 7. Qxf3 Qe7 8.
+Qb3 Bc5 9. Qxb7 c6 10. Qxa8 Qc7 11. exd6 Bxd6 12. Bb2 Ne7 13. O-O O-O 14. Rf3
+Nd7 15. Raf1 Nf6 16. Rxf6 gxf6 17. Bxf7+ Kg7 18. Bxf6+ Kxf7 19. Bxe7+ Kxe7 20.
+Qxf8+ Ke6 21. Qf5+ Ke7 22. Qxh7+ Ke6 23. Qg6+ 1-0

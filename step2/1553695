@@ -1,0 +1,25 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Anatoly Borodavkin"]
+[ECO "C53"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Bc5 5.c3 O-O 6.O-O Re8 7.Re1
+Na5 8.Bb5 c6 9.Ba4 b5 10.Bc2 Qb6 11.Qe2 Ng4 12.Rf1 b4 13.h3
+bxc3 14.Nxc3 Nf6 15.Na4 Qb5 16.Nxc5 Qxc5 17.a3 Qb6 18.b4 Nb7
+19.Bg5 Qd8 20.Bb3 a5 21.Qc2 Qe7 22.Qc3 axb4 23.axb4 Rxa1
+24.Rxa1 Nd6 25.Ra8 Bb7 26.Rxe8+ Ndxe8 27.Nxe5 Nd6 28.Qc5 Kf8
+29.Nf3 Nc8 30.Qxe7+ Nxe7 31.Ne5 d5 32.Bxf6 gxf6 33.Nd7+ Kg7
+34.Nc5 Ba8 35.f4 Ng6 36.g3 h5 37.h4 Ne7 38.Kf2 Nc8 39.Ke3 Na7
+40.Ba4 Kg6 41.f5+ Kg7 42.Kf4 Nc8 43.Bd1 dxe4 44.dxe4 Nd6
+45.Bxh5 Nc4 46.Be2 Na3 47.Bd3 Kh6 48.g4 Kg7 49.g5 fxg5+
+50.hxg5 Kh7 51.e5 Nb5 52.e6 Kg7 53.e7 Nc7 54.f6+ Kg8 55.g6
+Nd5+ 56.Kg5 Nc7 57.Kh6 Ne8 58.Bc4 Nxf6 59.gxf7+ Kh8 60.e8=Q+
+Nxe8 61.f8=N 1-0

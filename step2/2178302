@@ -1,0 +1,14 @@
+[Event "Moscow Aeroflot op-A"]
+[Site "Moscow"]
+[Date "2005.02.22"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Van Wely, Loek"]
+[Black "Mikhail Kobalia"]
+[ECO "D43"]
+[WhiteElo "2679"]
+[BlackElo "2634"]
+[PlyCount "70"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5  9. Be2 Bb7 10. h4 g4 11. Ne5 h5 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5 Bg7 15. Rad1  {Es ist interessant, dass Van Wely nicht zu Sakaevs Fortsetzung 15.Lg3 greift  und stattdessen das häufiger gespielte 15.Tad1 anwendet. Die danach  entstehenden Stellungen kann man mit Fug und Recht als "unklar" bezeichnen, es  scheint mir jedoch nicht, dass Weiß etwas Besonderes hat.} (15. Bg3) 15... O-O  16. Bg3 Nd7 17. f3 Qb6 {Während Weiß sich über den schwarzen Königsflügel  hermacht, sucht Schwarz das Gegenspiel gegen d4.} 18. Kh1 c5 (18... e5 19. dxe5  $5 (19. d5 cxd5 20. Nxd5 Bxd5 21. Rxd5 Rad8 22. fxg4 hxg4 23. Bxg4 Nf6 $11 {  1/2-1/2 Vallejo Pons,F-Dreev,A/Biel 2002/CBM 91/[Lutz] (42)}) 19... Nxe5 20.  Qc1 (20. fxg4 $5 hxg4 21. Bxe5 Bxe5 22. Qc1 Bg7 $132) 20... Rae8 21. fxg4 hxg4  22. Rd6 $13 {1-0 Filippov,V-Borovikov,V/Chalkidiki 2002/CBM 92/[Lutz] (60)})  19. d5 Ne5 20. fxg4 hxg4 21. Qc1 Nd3 $146 (21... exd5 22. Nxd5 Bxd5 23. Rxd5  Rae8 24. Rf5 f6 25. Qd1 Nf7 26. e5 (26. Bxg4 $5 {Lutz}) 26... Nh6 27. Rh5 Qe6  28. Rd6 Qf7 29. Bxg4 Nxg4 30. Qxg4 f5 31. Qg5 (31. Qf3 $5 {Lutz}) 31... f4 32.  Rf6 Rxe5 33. Rxf7 Rxf7 34. Qd8+ Rf8 35. Qd1 Rxh5 36. Qxh5 fxg3 37. Qd5+ Kh7 38.  Qh5+ Kg8 (38... Bh6 {Lutz} 39. Kg1 $11) 39. Qd5+ Kh7 40. Qh5+ {  1/2-1/2 Avrukh,B-Novikov,I/Mallorca 2004/CBM 104/[Lutz] (40)}) (21... b4 $5)  22. Bxd3 (22. Qg5 exd5 23. Nxd5 Bxd5 24. exd5 Qg6 {  nimmt Weiß den Wind aus den Segeln.} (24... Nxb2 25. d6 $5 Nxd1 26. Bxd1 $44))  22... cxd3 23. Rxd3 (23. Qg5 exd5 24. exd5 Qg6 $17) 23... b4 24. Ne2 $6 {  Vielleicht sollte Weiß kleinere Brötchen backen.} (24. dxe6 $5 {  ist ein interessanter Zug, der vermutlich zum Dauerschach führt.} bxc3 (24...  fxe6 25. Rxf8+ Rxf8 26. Qg5 bxc3 27. Be5 Rf7 28. Rd8+ $16) 25. exf7+ Rxf7 (  25... Kh8 $2 26. Rd6 cxb2 27. Qg5 $18) 26. Rxf7 Kxf7 27. Rd7+ Kg8 28. Bd6 (28.  Qg5 Qh6 $19) 28... cxb2 29. Rxg7+ Kxg7 30. Qg5+ Kf7 31. Qf5+ $11) 24... exd5  25. exd5 Rae8 26. Rd2 Bh6 (26... Ba6 $5 27. Re1 c4 $36) 27. Bf4 Qf6 $6 (27...  Ba6 $5 28. Re1 c4 $36) 28. Bg5 Qh8 29. Rd4 $2 {  Effektvoll, aber nicht wirklich gut.} (29. Rdd1 $5 Bxg5 (29... Bg7 30. Qc4) 30.  Qxg5+ Qg7 31. Qxg7+ Kxg7 32. Ng3 $36) 29... Bg7 (29... cxd4 30. Bxh6 Qe5 31.  Qf4 $11) 30. Rxg4 f5 31. Rg3 Rxe2 32. Bh6 Bxd5 $6 {  Schwarz beschließt, das Remis zu sichern.} (32... Rf7 $5 {erschien Schwarz  während der Partie anscheinend zu riskant, aber Mehrfigur ist Mehrfigur ...}  33. Qg5 Re5 34. d6 Bc6 35. Kg1 Kf8 $17) 33. Rxg7+ Qxg7 34. Bxg7 Rxg2 35. Bxf8 (  35. Qxc5 Rd2+ 36. Qxd5+ Rxd5 37. Bxf8 Kxf8 $11) 35... Rc2+ 1/2-1/2

@@ -1,0 +1,50 @@
+[Event "Morphy - Harrwitz"]
+[Site "Paris FRA"]
+[Date "1858.09.07"]
+[EventDate "1858.09.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Daniel Harrwitz"]
+[Black "Paul Morphy"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 {Notes by J. Lowenthal. Herr Harrwitz, when first player,
+almost invariably adopts this mode of opening the game. It is
+one with every variation of which he is thoroughly familiar,
+and in no match of importance has he ever failed of using it.}
+e6 2.c4 d5 3.Nc3 Nf6 4.Bf4 {Mr. Morphy agrees with us in the
+opinion, that at this stage the text move is the most forcible
+one that can be selected ; indeed, he says he found it so
+strong. that in his after games with Harrwitz he proferred
+meeting d4 with f5, in place of exposing himself to this
+attack.} a6 5.e3 c5 6.Nf3 Nc6 7.a3 cxd4 8.exd4 dxc4 9.Bxc4 b5
+10.Bd3 Bb7 11.O-O Be7 12.Be5 O-O 13.Qe2 Nd5 14.Bg3 {Very well
+played for it not only obviates the capture of the Bishop and
+the subsequent posting of the King's Knight at f4, but also
+prevents the advance of the f-pawn.} Kh8 { Mr. Morphy
+considers that he lost the game by this move, and that if he
+had played Bf6 instead, the game would have been even.}
+15.Rfe1 Bf6 { The following variation will show that Black
+could not have thrown up the f-pawn as he had intended,
+15...f5 16 Qxe6 Nxc3 17 bxc3 f4 18 Qe4 g6 19 Bxf4 with a won
+game.} 16.Qe4 g6 17.Nxd5 Qxd5 18.Qxd5 exd5 19.Ne5 Rad8 20.Nxc6
+Bxc6 21.Rac1 Rc8 22.Bd6 Rg8 23.Be5 Kg7 {It is a singular fact,
+that in the earlier stages of every contest upon which
+Mr. Murphy has entered, he has played very much below his real
+force. This game presents none of those brilliant moves and
+remarkable combinations that so eminently abound in his
+general play, and at this point be selects a move which
+actually gives the victory to his opponent. The Bishop should
+have now been captured, and the game thereby would have been
+rendered an even one.} 24.f4 Bd7 25.Kf2 h6 26.Ke3 Rxc1 27.Rxc1
+Rc8 28.Rc5 Bxe5 29.fxe5 Be6 { If Black had exchanged Rooks,
+with the view of breaking up his adversary's centre Pawns, the
+White King would have been posted at d4, and victory secured.}
+30.a4 bxa4 31.Bxa6 Rb8 32.Rb5 Rd8 33.Rb6 Ra8 34.Kd2 Bc8
+35.Bxc8 Rxc8 36.Rb5 Ra8 37.Rxd5 a3 38.bxa3 Rxa3 39.Rc5 Kf8
+40.Ke2 Ke7 41.d5 Kd7 42.Rc6 h5 43.Rf6 Ke7 44.d6 Ke8 45.e6 fxe6
+46.Rxe6+ Kf7 47.d7 Ra8 48.Rd6 Ke7 49.Rxg6 Kxd7 50.Rg5 Rh8
+51.Kf3 Ke6 52.Kg3 h4 53.Kg4 h3 54.g3 Kf6 55.Rh5 1-0

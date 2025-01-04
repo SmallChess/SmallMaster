@@ -1,0 +1,25 @@
+[Event "Training Match"]
+[Site "Marseilles Chess Club, France"]
+[Date "1903.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Semion Alapin"]
+[Black "Siegbert Tarrasch"]
+[ECO "C71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 {Annotations by Semion Alapin} e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 d6 5.c4 {An interesting novelty, which probably deserves
+attention. At least it stops Black's ...b7-b5} Bd7 {Best for
+Black is 5...Bg4 6.Nc3 Nf6 7.d3 Be7 8.Nd5 etc.} 6.d4 g6 7.dxe5
+Nxe5 8.Nxe5 dxe5 9.O-O Bg7 10.Nc3 Ne7 11.Be3 c6 12.Qe2 Qc7
+13.Rfd1 Rd8 14.Bc5 Nc8 15.Rac1 f6 {If 15...Be6 16.Nd5!.} 16.b4
+Kf7 17.Bb3 Be6 18.a3 Rxd1+ 19.Nxd1 Rd8 20.Nb2 Bh6 21.Be3 Bf8
+22.Nd3 b6 23.f4 {In this position, Black, who was in time
+trouble, played 23...Qd7?, and White answered with 24.Rd1,
+which wins at least a pawn. Then unexpectedly Dr. Tarrasch
+took his move back, and replaced it with a bigger mistake.}
+Bd6 {??} 24.f5 {!} 1-0

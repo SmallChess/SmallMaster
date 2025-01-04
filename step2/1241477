@@ -1,0 +1,33 @@
+[Event "Lasker - Tarrasch World Championship Match"]
+[Site "Munich GER"]
+[Date "1908.09.01"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Siegbert Tarrasch"]
+[ECO "C98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 {Notes by Emanuel Lasker} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7
+11.Nbd2 Nc6 12.h3 O-O 13.Nf1 cxd4 14.cxd4 Nxd4 15.Nxd4 exd4
+{So far it's exactly like the third game of the match when I
+continued 16 Ng3.} 16.Bg5 {The idea being either to get rid of
+Black's important King's Bishop or to hamper its
+development. The position is now getting very complicated.} h6
+17.Bh4 Qb6 {This is much too passive a move and Black will
+almost immediately get into trouble.} 18.Qd3 {The threat being
+19 Bxf6, followed by e5. Black can't parry this by 18...Be6 on
+account of 19 Bxf6 Bc4 20 Qxd4, hence the loosening of Black's
+K-wing is practically forced.} g5 19.Bg3 Be6 20.Rad1 {!} Rfc8
+21.Bb1 Nd7 22.e5 Nf8 23.Qf3 {Threatening exd6 followed by
+Qf6.} d5 24.Qh5 Kg7 25.f4 {Threatening f5.} f5 {Like an
+ancient Roman hero Tarrasch throws himself on his own sword!
+Evidently he did not feel like offering some prolonged
+resistance by 25...Ng6.} 26.exf6 Bxf6 27.fxg5 hxg5 28.Be5 d3+
+29.Kh1 Ng6 30.Qxg5 Bf7 31.Ng3 Bxe5 32.Rxe5 Rh8 {...Qd8 would
+have been countered by 33 Re7.} 33.Bxd3 Ra7 34.Rde1 Kf8
+35.Bxg6 Qxg6 36.Qe3 Rc7 37.Nf5 Qc6 38.Qg5 1-0

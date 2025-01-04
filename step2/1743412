@@ -1,0 +1,20 @@
+[Event "Simul, 25b"]
+[Site "Baltimore, MD USA"]
+[Date "1901.05.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Edward Bradford Adams"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 Bb6 7.dxe5
+a6 8.Qd5 Qe7 9.Ba3 Qe6 10.Bb3 Nge7 11.Qd1 Qg6 12.O-O Qh5
+13.Nbd2 Nxe5 14.Nxe5 Qxe5 15.Nc4 Qf6 16.e5 Qg6 17.Qf3 Ba7
+18.Rfe1 Nf5 19.Re4 h5 20.Rf4 Nh6 21.Re1 Ng4 22.Rxf7 Bxf2+
+23.Kh1 c5 24.e6 dxe6 25.Nd6+ Kd8 26.Rd1 Bd4 27.Bxc5 Nf2+
+28.Qxf2 Bxf2 29.Nxb7+ Ke8 30.Rf8+ Rxf8 31.Rd8+ Kf7 32.Rxf8#
+1-0

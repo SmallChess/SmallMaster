@@ -1,0 +1,19 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Gunther Hagen"]
+[ECO "E11"]
+[WhiteElo "2644"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Qxd2 a5
+7.Qc2 d5 8.Bg5 Nbd7 9.e3 h6 10.Bh4 b6 11.cxd5 exd5 12.Bb5 Nb8
+13.Rc1 Ra7 14.Ne5 Qe7 15.O-O g5 16.Bg3 Ne4 17.f3 Nxg3 18.hxg3
+c5 19.f4 Rc7 20.Qe2 Bd7 21.Bd3 Be8 22.Ng4 Rc6 23.fxg5 Qxg5
+24.Rf5 Qg7 25.Rcf1 Nd7 26.Rxd5 f6 27.Qf3 h5 28.Nf2 c4 29.Bf5
+Rc7 30.Ne4 Bg6 31.Bxd7 1-0

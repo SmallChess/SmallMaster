@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gutnikov"]
+[Black "Mikhail Tal"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5 Nxe4 6.Qe2 f5 7.g4
+Kf7 8.Bf4 d6 9.O-O-O Be6 10.Qc4 Ne7 11.Nxc7 Bxc4 12.Bxc4+ d5
+13.Ne5+ Kg8 14.Nxd5 Qxd5 15.Rxd4 Qxc4 16.Rxc4 Nf6 17.h4 fxg4
+18.h5 Ned5 19.Bg5 Nb6 20.Rf4 Nbd5 21.Rf5 Be7 22.h6 g6 0-1

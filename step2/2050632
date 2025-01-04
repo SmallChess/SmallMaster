@@ -1,0 +1,25 @@
+[Event "City of London CC Handicap t"]
+[Site "London ENG"]
+[Date "1871.12.??"]
+[EventDate "?"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Septimus Swyer"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1871.12.23, p.560"]
+[PlyCount "89"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. c3 Bg4 5. Bc4 exf4 6. d4 Bxf3
+7. Qxf3 g5 8. h4 Bh6 9. g3 Qf6 10. hxg5 Bxg5 11. gxf4 Bh6
+12. Be3 a6 13. O-O-O Nge7 14. e5 dxe5 15. dxe5 Nxe5 16. Rxh6
+Nxf3 17. Rxf6 O-O 18. Bc5 Rae8 19. Rh6 b6 20. Bxe7 Rxe7
+21. Bd5 Kg7 22. Rhh1 Ne5 23. fxe5 Rxe5 24. Rdg1+ Kf6 25. Rh6+
+Ke7 26. Bb3 Rh8 27. Rg7 Re1+ 28. Kd2 Rf1 29. Ke2 Rf5 30. Rhxh7
+Rf8 31. Rg3 a5 32. Rf3 Rf6 33. Rxf6 Kxf6 34. Rh6+ Kg5 35. Rh3
+f5 36. Rh7 c5 37. Kf3 Rf6 38. Rg7+ Kh6 39. Rf7 Rxf7 40. Bxf7
+Kg5 41. a4 Kf6 42. Bc4 Ke5 43. b3 f4 44. Bd3 Kd5 45. Kxf4 1-0

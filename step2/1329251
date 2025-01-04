@@ -1,0 +1,17 @@
+[Event "Barcelona"]
+[Site "Barcelona ESP"]
+[Date "1929.10.06"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Joaquin Torres Caravaca"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.Nf3 Nf6 2.c4 c5 3.d4 cxd4 4.Nxd4 e5 5.Nb5 Bb4+ 6.Bd2 Bxd2+
+7.Qxd2 O-O 8.N1c3 Na6 9.g3 Nc5 10.Bg2 a6 11.Nd6 Qa5 12.O-O Rb8
+13.Rfd1 b5 14.cxb5 axb5 15.Qg5 Na4 16.Nf5 Ne8 17.Nh6+ Kh8
+18.Qe7 1-0

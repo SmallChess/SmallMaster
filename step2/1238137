@@ -1,0 +1,18 @@
+[Event "New Orleans"]
+[Site "New Orleans, LA USA"]
+[Date "1854.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Charles Maurian"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+[SetUp "1"]
+[FEN "1nbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQk - 0 1"]
+
+1.d4 e6 2.c4 Nc6 3.d5 Ne5 4.f4 Ng6 5.Be3 Bb4+ 6.Nc3 e5 7.Qh5
+Nf6 8.Qg5 Be7 9.f5 Nxd5 10.Qh5 Nxe3 11.Kf2 O-O 12.Kxe3 Bg5+
+13.Kf3 Nf4 14.Qg4 h5 15.Qg3 Bh4 0-1

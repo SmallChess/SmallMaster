@@ -1,0 +1,22 @@
+[Event "45th US Open"]
+[Site "Boston, MA USA"]
+[Date "1944.08.01"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Edward Schuyler Jackson"]
+[Black "Samuel Reshevsky"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7 11.h3 O-O 12.Nbd2 cxd4 13.cxd4
+Nc6 14.Nb3 a5 15.Be3 a4 16.Nbd2 Bd7 17.Rc1 Rfc8 18.Nb1 Qa5
+19.a3 b4 20.d5 Nb8 21.Bd2 Na6 22.Qe2 Qb6 23.Be3 Nc5 24.Bd3
+Rab8 25.Nbd2 Qa7 26.Nc4 Be8 27.Nfd2 Nfd7 28.g3 Qa8 29.axb4
+Rxb4 30.Ra1 Nxd3 31.Qxd3 Nc5 32.Bxc5 Rxc5 33.b3 Qc8 34.Reb1
+axb3 35.Ra7 Kf8 36.Rxb3 Rbxc4 37.Nxc4 Rxc4 38.Rbb7 Rc3 39.Qd2
+Bd8 40.Kg2 Qc4 41.Qe1 Rc1 42.Qb4 Qf1+ 43.Kf3 Qd1+ 44.Ke3 Bg5+
+45.f4 exf4+ 46.gxf4 Qg1+ 0-1

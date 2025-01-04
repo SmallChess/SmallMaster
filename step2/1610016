@@ -1,0 +1,27 @@
+[Event "Simul"]
+[Site "Havana CUB"]
+[Date "1960.02.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Keres"]
+[Black "E Velasco"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 d6 6. Nf3 Nf6
+7. O-O O-O 8. d3 Bd7 9. Kh1 Qc8 10. Ng1 Rb8 11. a4 Nd4
+12. Nce2 Nxe2 13. Qxe2 a6 14. a5 b5 15. axb6 Rxb6 16. Ra2 Ne8
+17. b3 Be6 18. Nf3 Nc7 19. Bb2 Nb5 20. Bxg7 Kxg7 21. Raa1 Bg4
+22. Qe3 Bxf3 23. Bxf3 Nd4 24. Bd1 Qa8 25. Kg1 d5 26. b4 Qc6
+27. c3 Ne6 28. bxc5 Nxc5 29. Qd4+ Kg8 30. exd5 Qd6 31. Rf2 Rd8
+32. c4 e6 33. Ra5 Rb1 34. Rf1 Rxd1 35. Rxd1 Nb3 36. c5 Qc7
+37. Qb4 Qxa5 38. Qxb3 Qxc5+ 39. d4 Qxd5 40. Qxd5 Rxd5 41. Kf2
+a5 42. Ke3 a4 43. Kd3 Rh5 44. Rd2 a3 45. Ra2 Ra5 46. Kc4 Ra4+
+47. Kb3 Rxd4 48. Kxa3 Rc4 49. Kb3 Rc7 50. Ra5 Kg7 51. Kb2 Kf6
+52. Rb5 h6 53. h4 h5 54. Ra5 Re7 55. Re5 Rd7 56. Kc2 Rd5
+57. Re4 Kf5 58. Ra4 f6 59. Ra6 e5 60. fxe5 fxe5 61. Ra8 Rd6
+62. Ra4 e4 63. Ra5+ Kg4 64. Ra3 Rd3 65. Ra6 Rxg3 66. Rxg6+
+Kxh4 0-1

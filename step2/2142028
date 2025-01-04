@@ -1,0 +1,14 @@
+[Event "Beersheba g/30'"]
+[Site "Beersheba"]
+[Date "2004.04.18"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alon Greenfeld"]
+[Black "Viktor Korchnoi"]
+[ECO "D21"]
+[WhiteElo "2551"]
+[BlackElo "2579"]
+[PlyCount "50"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 a6 5. Bxc4 b5 6. Bd3 Bb7 7. a4 b4 8. Nbd2  c5 9. O-O Nf6 10. e4 cxd4 11. e5 Nfd7 12. Ne4 (12. Nb3 Nc6 13. Bf4 Be7 14. Qe2  g5 {1/2-1/2 Johannessen,L-Nguyen Anh Dung/Istanbul 2000/EXT 2001 (14)}) 12...  Nc5 $6 (12... Nc6 13. Bf4 (13. Bg5 Qa5 $132) 13... Be7 $13) 13. Nxc5 Bxc5 14.  Bg5 Qd7 (14... Be7 $5 15. Bxe7 Qxe7 16. Nxd4 Qg5 17. Nf3 Qf4 $132) 15. Nd2 $1  $44 h6 16. Ne4 Bxe4 {After this move Black has no counterplay} ({  that could be provided by} 16... Qd5 $1 17. Bh4 (17. Bf6 Kf8 18. Bh4 Nd7 19.  Rc1 Bb6 20. f4 Nc5 $132) (17. Rc1 Nd7) 17... Nd7 (17... Qxe5 18. Re1 Qd5 19.  Rc1 Nd7 20. Bc4 Qc6 21. Bf1 Qd5 22. Qg4 (22. Bc4 $11) 22... Kf8 23. Nxc5 Nxc5  24. Rc4 e5 25. Rxb4 $13)) 17. Bxe4 Ra7 18. Bf4 Rc7 (18... O-O 19. Qg4 Kh8 20.  Qh5 Kg8 21. Rfd1 $40) 19. Rc1 (19. Qg4 g5 20. Bg3 $5 Qe7 21. f4 h5 22. Qxg5  Qxg5 23. fxg5 $36) 19... Qe7 20. Qg4 g5 (20... g6 21. Rfd1 g5 22. Bd2 Nd7 23.  Qg3 a5 24. f4 $44) 21. Bd2 Nd7 22. Bxb4 (22. Qg3 $5 a5 23. f4 $44) (22. f4 gxf4  23. Bxf4 $44) 22... Nxe5 23. Qg3 Qd6 $2 (23... Bd6 $8 24. Bxd6 (24. f4 Bxb4 25.  fxe5 Bd2) 24... Qxd6 25. Rxc7 Qxc7 26. Bd3 (26. f4 Nd7 27. Qd3 Qd6) 26... a5  27. Re1 f6 28. Bb5+ Ke7 29. f4 $1 gxf4 30. Qxf4 d3 31. Rf1 Qc5+ 32. Kh1 $44)  24. Ba5 $1 (24. Ba5 Rd7 25. b4 $18) 1-0

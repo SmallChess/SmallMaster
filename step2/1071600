@@ -1,0 +1,18 @@
+[Event "Parnu, Est jr ch"]
+[Site "Parnu"]
+[Date "1932.12.28"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "J Siitam"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.f4 exf4 3.Nc3 Nc6 4.d4 Bb4 5.Bxf4 Qh4+ 6.g3 Bxc3+
+7.bxc3 Qe7 8.Bg2 d6 9.Nf3 Qxe4+ 10.Kf2 Bf5 11.Re1 Qxe1+
+12.Qxe1+ Nge7 13.d5 O-O 14.dxc6 Bxc2 15.Qxe7 Rae8 16.Qxc7 Re4
+17.cxb7 Rfe8 18.b8=Q Re2+ 19.Kg1 Rxg2+ 20.Kxg2 Rxb8 21.Qxb8#
+1-0

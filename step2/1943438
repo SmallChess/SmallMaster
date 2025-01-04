@@ -1,0 +1,72 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "B48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "512"]
+
+1. e4 { book } c5 { book } 2. Nf3 { book } e6 { book } 3. d4 {
+book } cxd4 { book } 4. Nxd4 { book } Nc6 { book } 5. Nc3 {
+book } Qc7 { book } 6. Be3 { book } a6 { book } 7. Qd2 { book
+} Nf6 { book } 8. O-O-O { book } Be7 { book } 9. f3 { book }
+b5 { book } 10. Kb1 { book } Ne5 { book } 11. g4 { book } b4 {
+book } 12. Na4 h6 13. c4 d6 14. Be2 O-O 15. h4 Bd7 16. Qc2
+Rfc8 17. g5 Nh5 18. gxh6 Bf6 19. Rhg1 Rab8 20. Rc1 Qb7 21. c5
+g6 22. Qb3 Bb5 23. cxd6 Bxe2 24. Nxe2 Nxf3 25. Rgd1 Qxe4+
+26. Qd3 Qxd3+ 27. Rxd3 Ne5 28. Rdd1 Rxc1+ 29. Nxc1 Bxh4
+30. Nd3 Nc4 31. Bc5 a5 32. Nxb4 axb4 33. Rd4 Na3+ 34. bxa3
+bxa3+ 35. Kc2 Bf6 36. d7 g5 37. Bd6 Rd8 38. Bc7 Bxd4 39. Bxd8
+Nf6 40. Nc5 Kh7 41. Be7 Nxd7 42. Nxd7 g4 43. Bf6 Be3 44. Kd3
+Bc1 45. Ne5 g3 46. Bh4 Bf4 47. Nxf7 g2 48. Bf2 Kg6 49. Ke4
+Kxf7 50. Kxf4 Kg6 51. Ke5 Kxh6 52. Kxe6 Kg6 53. Bg1 Kh7
+54. Kf7 Kh6 55. Be3+ Kh7 56. Bb6 Kh8 57. Bf2 Kh7 58. Ba7 Kh6
+59. Bc5 Kg5 60. Ke6 Kg6 61. Bd4 Kg5 62. Bg1 Kg4 63. Ke5 Kf3
+64. Kd5 Kg4 65. Ke4 Kh5 66. Kf5 Kh6 67. Kf6 Kh5 68. Bd4 Kg4
+69. Ke5 Kg5 70. Kd5 Kg4 71. Bf2 Kf3 72. Bc5 Kf4 73. Bf2 Kf3
+74. Bg1 Kg4 75. Ke4 Kh5 76. Kd3 Kh6 77. Kc4 Kg5 78. Bd4 Kf5
+79. Kd5 Kg4 80. Ke4 Kg3 81. Bg1 Kg4 82. Be3 Kh5 83. Kf3 Kg6
+84. Kxg2 Kf5 85. Kf3 Ke5 86. Kf2 Kd5 87. Ke1 Kc4 88. Bd2 Kd3
+89. Kd1 Ke4 90. Ke2 Kf5 91. Bc3 Ke6 92. Kf1 Kd5 93. Bf6 Kc4
+94. Ke2 Kd5 95. Bc3 Ke6 96. Kf1 Kd5 97. Bf6 Kc4 98. Ke2 Kd5
+99. Ke1 Ke6 100. Bd4 Kd5 101. Be3 Kc4 102. Kd2 Kd5 103. Ke2
+Ke4 104. Bg5 Kf5 105. Be3 Ke4 106. Bc1 Kf5 107. Bxa3 Ke4
+108. Bb2 Kd5 109. Kf1 Kc4 110. Be5 Kd5 111. Ba1 Kc4 112. Bb2
+Kd5 113. Ba1 Kc4 114. Kg2 Kd5 115. Bh8 Kc4 116. Bb2 Kd5
+117. Ba1 Kc6 118. Bh8 Kb7 119. Ba1 Kc6 120. Bh8 Kb7 121. Be5
+Ka8 122. Kg3 Ka7 123. Bd4+ Kb7 124. Kg2 Ka6 125. a3 Kb7
+126. Be5 Ka6 127. Kf2 Kb7 128. Kf1 Ka8 129. Kg2 Kb7 130. Kg3
+Ka6 131. Kg2 Kb7 132. Bd4 Ka6 133. Kf2 Kb7 134. Kf1 Ka6
+135. Kf2 Kb7 136. Kg3 Ka6 137. Kf3 Ka5 138. Bc5 Kb5 139. Bd4
+Ka5 140. Kf4 Ka4 141. Bb2 Kb5 142. Kg3 Kc6 143. Bd4 Kb5
+144. Kf4 Ka4 145. Bc5 Kb5 146. Be3 Ka4 147. Bc1 Ka5 148. Bb2
+Kb5 149. Ke4 Kc6 150. Bd4 Kb7 151. Kf3 Ka6 152. Ke4 Kb7
+153. Kf3 Ka6 154. Kf4 Kb7 155. a4 Ka6 156. Bc3 Ka7 157. Kg3
+Ka6 158. Kf2 Kb7 159. Ke1 Kb8 160. Bf6 Ka7 161. Kd2 Ka6
+162. Bc3 Kb7 163. Kc2 Ka6 164. Bd2 Kb7 165. Bf4 Ka6 166. Kb2
+Ka5 167. Kb3 Kb6 168. Bc1 Kc5 169. Be3+ Kc6 170. Kc2 Kb7
+171. Kd1 Kc6 172. Kc1 Kd7 173. Kd1 Kc6 174. Kd2 Kd7 175. Ke2
+Kc6 176. Kd1 Kd6 177. Ke2 Kc6 178. Kd1 Kd6 179. Kd2 Kd7
+180. Bd4 Kc6 181. Kc2 Kd7 182. Kd2 Kc6 183. Kc3 Kc7 184. a5
+Kb7 185. Kb3 Ka6 186. Ka4 Kb7 187. Be3 Ka6 188. Bc1 Kb7
+189. Bg5 Ka6 190. Be3 Kb7 191. Bc1 Ka6 192. Kb4 Kb7 193. Ka4
+Ka6 194. Bg5 Kb7 195. Kb4 Ka6 196. Bd2 Kb7 197. Bc1 Ka6
+198. Be3 Kb7 199. Kb5 Kc8 200. Ka4 Kb7 201. Kb4 Ka6 202. Bf2
+Kb7 203. Kc3 Ka6 204. Bb6 Kb7 205. Kd2 Kb8 206. Ke1 Ka8
+207. Kf1 Kb8 208. Bd8 Ka7 209. Ke2 Ka6 210. Kf2 Kb7 211. Ke1
+Ka6 212. Ke2 Kb7 213. Kd2 Ka6 214. Ke1 Kb7 215. Kf2 Ka6
+216. Ke3 Kb7 217. Kd3 Ka6 218. Kd4 Kb7 219. Bb6 Ka6 220. Kc5
+Kb7 221. Kb5 Kc8 222. a6 Kb8 223. Ka4 Ka8 224. Ka3 Kb8
+225. Kb2 Ka8 226. Kc1 Kb8 227. Bc5 Ka8 228. Kd1 Kb8 229. Kc2
+Ka8 230. Kd2 Kb8 231. Kd3 Ka8 232. Ke3 Kb8 233. Kf4 Ka8
+234. Kg5 Kb8 235. Kg6 Ka8 236. a7 Kb7 237. Kg5 Ka8 238. Bf2
+Kb7 239. Bd4 Ka8 240. Bc5 Kb7 241. Kf6 Ka8 242. Kf5 Kb7
+243. Ke6 Ka8 244. Kf6 Kb7 245. Ke6 Ka8 246. Kf6 Kb7 247. Ke5
+Ka8 248. Kf4 Kb7 249. Kg4 Ka8 250. Kh4 Kb7 251. Kh5 Ka8
+252. Bg1 Kb7 253. Kh4 Ka8 254. Kg5 Kb7 255. Bb6 Ka8 256. Be3
+Kb7 1/2-1/2

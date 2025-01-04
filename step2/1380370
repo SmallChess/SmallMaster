@@ -1,0 +1,16 @@
+[Event "Simul, 31b"]
+[Site "Hamburg GER"]
+[Date "1904.01.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Kluxen"]
+[Black "Emanuel Lasker"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.a3 Nc6 5.Bf4 Nge7 6.Bg3 Nf5 7.Qd3
+Qg5 8.f4 Qh6 9.Nh3 Ne3 10.Nf2 Bf5 11.Ne4 Bb4+ 12.Nbd2 Bxd2+
+13.Kxd2 Qg6 14.Qb3 Bxe4 15.Bf2 Na5 0-1

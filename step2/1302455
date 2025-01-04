@@ -1,0 +1,18 @@
+[Event "Kramnik online sim"]
+[Site "Internet"]
+[Date "2001.09.05"]
+[EventDate "2001.09.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "NN"]
+[ECO "A57"]
+[WhiteElo "2800"]
+[BlackElo "1939"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. b6 a5
+7. Nc3 Ba6 8. e4 Bxf1 9. Rxf1 d6 10. e5 dxe5 11. Nxe5 Qxb6
+12. Qa4+ Nfd7 13. Nc4 Qb4 14. a3 Qxa4 15. Nxa4 Na6 16. Bf4 e6
+17. O-O-O e5 18. Nxe5 Nxe5 19. Bxe5 Bh6+ 20. Kc2 O-O 21. d6 f6
+22. Bc3 Nb8 23. d7 Nc6 24. Nxc5 Rf7 25. Rfe1 1-0

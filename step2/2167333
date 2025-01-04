@@ -1,0 +1,19 @@
+[Event "Knight Odds Game"]
+[Site "Montreal, PQ CAN"]
+[Date "1893.11.14"]
+[EventDate "1893.11.14"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "William A Hall"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Montreal Gazette, 1893.11.15, p.8"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Nf6 3.Qe2 Nc6 4.c3 Bc5 5.f4 d6 6.Nf3 O-O 7.d3 Be6 8.Bb5 Qe7
+9.f5 Bd7 10.b4 Bb6 11.Bc4 h6 12.a4 a6 13.Ra2 Nh7 14.g4 Kh8 15.h4 g6 16.
+Bxh6 Rfe8 17.Bg5 f6 18.fxg6 fxg5 19.hxg5 Qf8 20.Rxh7# 1-0

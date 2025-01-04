@@ -1,0 +1,18 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Thomas Munck"]
+[ECO "C18"]
+[WhiteElo "2644"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 cxd4 6.axb4 dxc3 7.bxc3
+Qc7 8.Nf3 Qxc3+ 9.Bd2 Qc7 10.Bd3 Ne7 11.O-O Nd7 12.Re1 Ng6
+13.Qe2 Nb6 14.h4 Bd7 15.h5 Ne7 16.h6 g6 17.Bg5 Ng8 18.Qe3 Nc8
+19.g4 Kf8 20.b5 Nb6 21.Qd4 Nc4 22.Rxa7 Rxa7 23.Qxa7 Bxb5
+24.Bxc4 dxc4 25.Qa8+ Be8 26.Qa3+ Ne7 27.Bf6 Rg8 1-0

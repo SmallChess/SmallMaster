@@ -1,0 +1,87 @@
+[Event "URS-ch sf"]
+[Site "Tbilisi"]
+[Date "1949.05.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Iosif Pogrebissky"]
+[ECO "D74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. d4 {Notes by Peter Clarke} Nf6 2. c4 g6 3. Nf3 Bg7 4. g3
+{In the last few years this fianchetto has lost ground as a
+means of combating the King's Indian, being replaced by
+systems involving a more immediate and aggresive occupation of
+the center. Petrosian's part in this trend is clear to see in
+later games. Here, of course, White may have been prepared for
+the Gruenfeld anyway.} O-O 5. Bg2 d5 6. cxd5 Nxd5 {The basic
+idea behind Black's play, as in the Alekhine Defence, to
+provoke his opponent into making premature pawn
+advances. Inevitably there is a considerable element of risk
+in such a policy, for nobody can predict the outcome with
+certainty and pawns which prove weak in one game may, given
+some new finesse, become a crushing force in the next. All
+this is typical of the modern approach to the openings -a
+willingness to make concessions of some sort in the belief
+that real counter-chances will be obtained in return.} 7. O-O
+c5 8. e4 Nf6 {8...Nb6 went out of favour with the game
+Botvinnik - Novotelnov, Chigorin Memorial Tournament, 1947,
+which continued 9.d5 e6 10.Bg5 f6 11.Be3 Na6 12.Nc3 Nc4 13.Bc1
+e5 14.Nb5 Bd7 15.a4, etc.} 9. e5 Nfd7 {Tempting fate a little
+too far. He should play 9...Nd5, to which White normally
+replies 10.dxc5, with an intense struggle ahead.} 10. Ng5 {! A
+very useful opening principle refers to the danger of moving
+the same piece twice before completing one's development. In
+this game Black's whole strategy has so far been a negation of
+this - yet it cannot be condemned as wrong - and now White
+'errs' as well. Knowing principles is good; knowing how to
+break them is better! The Knight move is the only way to
+obtain the advantage. It fulfill two functions; permits him to
+consolidate his e-pawn by f4 and at the same time threatens
+the disruptive e6.} cxd4 {He has no choice. After 10...e6
+11.f4 White has secured his spatial advantage and Black's play
+has failed accordingly.} 11. f4 {Too slow now. 11.e6 gives
+excellent chances; for instance, 11...Ne5 12.exf7+ Nxf7 13.Qb3
+e6 14.Bxb7 Bxb7 15.Qxb7 Nxg5 16.Bxg5 Qxg5 (though 16...Qb6 is
+better, White still has the upper hand after 17.Qxb6 axb6)
+17.Qxa8 Qb5 18.Na3 Qxb2 19.Qxa7 Nc6 20.Qd7 Ne5 21.Qxe6+
+(Donner-Bouwmeester, Munich, 1954).} Nc5 {If 11...Nc6
+(reckoning on 12.e6 Nc5 13.exf7+ Kh8!) White could probably
+get away with 12.Bxc6 bxc6 13.Qxd4, the initiative and command
+of the center being his.} 12. b4 {This is really the decisive
+moment. White realises he must play with the outmost
+vigour-having failed to do so on the previous move! His idea
+here is that after 12...Ne6 (not 12...Nca6 13.a3!) 13.Nxe6
+fxe6 Black's KB would be shut out of the game for good while
+his other one would be a little better off. And the d-pawn
+would be sure to fall. So what is Black to do? He must play
+vigorously himself and instead of ...fxe6 be ready to
+sacrifice the exchange by 13...Bxe6 14.Bxb7 Bd5; if he
+accepts, White is left desperately weak on the white
+squares. Petrosian, who pointed out this possibility
+afterwards, would probably have exchanged Bishops and tried to
+make something out of the temporary isolatin of the
+d-pawn. The likelyhood of his succeeding would not appear to
+have been very great. But Pogrebyssky panics and in a vain
+attempt to drive back the enemy Knight gets his King position
+compromised.} f6 13. exf6 {!} exf6 14. Nxh7 Kxh7 15. bxc5 Nc6
+16. Bb2 Qc7 {Defending the d-pawn indirectly, e.g. 17.Bxc6
+Qxc6 18.Qxd4 Bh3 19.Rf2 Rad8, etc. However, since there was
+not that much to lose now, he might have boldly played
+16...Bf5 and hoped for some counterplay if White took the
+pawn.} 17. Nd2 Be6 18. Ne4 Rad8 19. h4 {! By this energetic
+thrust White shows up the true weakness of his opponent's K
+side. Though Black has got all his pieces out, they are
+powerless to stop the onslaught.} Qd7 20. h5 Bg4 {Seeming to
+block the way, but White has a small combination ready.}
+21. hxg6+ Kxg6 22. f5+ Bxf5 {If 22...Qxf5, then 23.Qb1! forces
+Black to expose himself to a deadly discovered check; while if
+22...Kh5, there is the drastic finish 23.Qxg4+! Kxg4 24.Rf4+
+and mate next move.} 23. Nd6 {The quiet point. Petrosian
+concludes the attack with a series of elegant strokes.} Bg4
+24. Be4+ Kh5 25. Rf4 {! An echo of a previous idea; if
+25...Bxd1, then Rh4+ Kg5 27.Bc1 mate.} f5 26. Rxg4 fxg4
+27. Qd2 {Threatening mate in two by Qh2+.} Rh8 28. Kg2 {!} 1-0

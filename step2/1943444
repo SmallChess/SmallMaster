@@ -1,0 +1,48 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "325"]
+
+1. e4 { book } e5 { book } 2. f4 { book } exf4 { book } 3. Bc4
+{ book } Qh4+ { book } 4. Kf1 { book } d6 5. Nc3 Nf6 6. Nf3
+Qh6 7. d4 Be7 8. Kg1 Be6 9. d5 Bd7 10. g3 Nh5 11. Be2 g6
+12. Ne1 Na6 13. Ng2 Qg7 14. gxf4 f5 15. e5 dxe5 16. Bxh5 gxh5
+17. Qxh5+ Kd8 18. fxe5 Rg8 19. Qe2 Nb4 20. h4 Bc5+ 21. Kf1 Kc8
+22. Rh3 Qg4 23. Qxg4 fxg4 24. Rg3 Nxc2 25. Rb1 Rf8+ 26. Bf4 b6
+27. e6 Be8 28. Rxg4 Kb7 29. b4 Be3 30. Ke2 Bh5 31. Bxe3 Bxg4+
+32. Kd2 Na3 33. Rg1 Rf3 34. Ne1 Nc4+ 35. Kd3 Rxe3+ 36. Kxc4
+Rg8 37. Kd4 Rh3 38. e7 Rxh4 39. Ne4 Bf5 40. Rxg8 Rxe4+ 41. Kc3
+Rxe7 42. Ng2 Bb1 43. a4 Rf7 44. Ne3 h5 45. Kb2 Rf3 46. Nc2
+Bxc2 47. Kxc2 a6 48. a5 bxa5 49. bxa5 Rf7 50. Rh8 Rf5 51. Rd8
+h4 52. Rh8 Rxd5 53. Rxh4 Rc5+ 54. Kb3 Rxa5 55. Rh8 Rb5+
+56. Ka3 a5 57. Ka4 c6 58. Rf8 Rc5 59. Rd8 Re5 60. Rf8 Rb5
+61. Rd8 Rf5 62. Re8 Kc7 63. Ra8 Kb6 64. Rb8+ Kc5 65. Rc8 Rf1
+66. Rg8 Kb6 67. Rb8+ Kc7 68. Rh8 Ra1+ 69. Kb3 Rb1+ 70. Ka4 Rb5
+71. Rf8 Rg5 72. Ra8 Rg1 73. Kb3 Kb6 74. Rb8+ Kc5 75. Ra8 Rg3+
+76. Ka4 Rg4+ 77. Kb3 Rb4+ 78. Kc3 Kb5 79. Rc8 Rc4+ 80. Kb3 a4+
+81. Ka3 Rc3+ 82. Ka2 a3 83. Rb8+ Kc4 84. Rc8 Kc5 85. Ra8 Kd6
+86. Rd8+ Kc7 87. Ra8 Rf3 88. Ra6 Re3 89. Ra8 Rg3 90. Rh8 Kb6
+91. Rb8+ Ka6 92. Rc8 Kb7 93. Rf8 Re3 94. Rd8 Rf3 95. Rg8 Rh3
+96. Rf8 Ka7 97. Rc8 Rc3 98. Rg8 Re3 99. Rf8 Kb6 100. Rb8+ Kc5
+101. Ra8 Rc3 102. Rc8 Kd5 103. Rd8+ Ke6 104. Rg8 Ke7 105. Rg6
+Kd7 106. Rh6 Rg3 107. Rf6 Kc7 108. Rf8 c5 109. Rf6 c4 110. Ra6
+c3 111. Kxa3 c2+ 112. Kb2 c1=Q+ 113. Kxc1 Rg1+ 114. Kd2 Rg4
+115. Ke1 Rd4 116. Kf1 Rd1+ 117. Kf2 Rd7 118. Kg1 Kb7 119. Rh6
+Ka7 120. Rh8 Rd1+ 121. Kg2 Rd3 122. Rc8 Rd2+ 123. Kg1 Rd1+
+124. Kg2 Ra1 125. Rh8 Rb1 126. Rd8 Rb3 127. Rh8 Rb2+ 128. Kg1
+Rb1+ 129. Kg2 Rc1 130. Rd8 Re1 131. Rf8 Re7 132. Rf6 Rb7
+133. Rf4 Rb1 134. Rf2 Rd1 135. Rf8 Rd2+ 136. Kg1 Rd6 137. Rh8
+Rc6 138. Rd8 Kb6 139. Rf8 Rc1+ 140. Kg2 Ra1 141. Rb8+ Kc5
+142. Rd8 Re1 143. Ra8 Re3 144. Rf8 Re2+ 145. Kg1 Re1+ 146. Kg2
+Re5 147. Ra8 Re2+ 148. Kg1 Re4 149. Rd8 Re1+ 150. Kg2 Kb6
+151. Rf8 Re7 152. Rh8 Rd7 153. Kf1 Rd5 154. Rh6+ Kc5 155. Ra6
+Rd7 156. Ra2 Rd1+ 157. Kf2 Kb6 158. Rc2 Rd3 159. Kg1 Rd1+
+160. Kg2 Ra1 161. Rf2 Rb1 162. Rf1 Rxf1 163. Kxf1 1/2-1/2

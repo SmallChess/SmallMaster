@@ -1,0 +1,47 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "AlphaZero (Computer)"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "286"]
+
+1. e4 { book } g6 { book } 2. d4 { book } Bg7 { book } 3. Nc3
+{ book } d6 { book } 4. Be3 { book } a6 { book } 5. Qd2 { book
+} b5 { book } 6. f3 { book } Nd7 { book } 7. Nh3 Bb7 8. a4 b4
+9. Nd1 a5 10. c3 bxc3 11. Nxc3 Ngf6 12. Be2 O-O 13. Nf2 c5
+14. d5 Ba6 15. Bxa6 Rxa6 16. O-O Ne8 17. Bh6 Bxh6 18. Qxh6 Qb6
+19. Nfd1 Ra8 20. Kh1 Qb4 21. Qg5 f6 22. Qe3 Ng7 23. Qe2 Rf7
+24. g4 f5 25. gxf5 gxf5 26. Ne3 fxe4 27. fxe4 Raf8 28. Rxf7
+Rxf7 29. Nc4 Nb6 30. Nxb6 Qxb6 31. Rg1 Qb4 32. Qg2 Kh8 33. Rf1
+Kg8 34. Rxf7 Kxf7 35. Qf1+ Ke8 36. Qe2 Kd8 37. Qa6 Ke8
+38. Qb5+ Kd8 39. Kg2 Nh5 40. Kf1 Nf6 41. Qc6 Qc4+ 42. Kg2 Qb4
+43. b3 h5 44. Qa8+ Kd7 45. Qc6+ Kd8 46. h3 h4 47. e5 dxe5
+48. d6 exd6 49. Qxd6+ Nd7 50. Nd5 Qe4+ 51. Kf1 Qh1+ 52. Ke2
+Qg2+ 53. Kd1 Qxh3 54. Kc1 c4 55. bxc4 Qf1+ 56. Kd2 Qg2+
+57. Kc1 Qg5+ 58. Kc2 Qf5+ 59. Kc3 e4 60. Qe7+ Kc8 61. Qe8+ Kb7
+62. Qd8 Qh3+ 63. Kd2 Qg2+ 64. Ke1 Qg1+ 65. Ke2 Qh2+ 66. Ke3
+Qd6 67. Qxh4 Qc5+ 68. Kf4 Qxc4 69. Ne3 Qxa4 70. Qe7 Ka7
+71. Qxe4 Qb5 72. Nd5 Nc5 73. Qe7+ Nd7 74. Qe4 Qf1+ 75. Ke3 Nc5
+76. Qh7+ Ka6 77. Qh6+ Kb5 78. Qb6+ Kc4 79. Qxa5 Qh3+ 80. Ke2
+Qd3+ 81. Kf2 Qf5+ 82. Kg2 Qg4+ 83. Kf1 Qh3+ 84. Ke1 Nd3+
+85. Ke2 Qg2+ 86. Ke3 Qg3+ 87. Ke4 Qg4+ 88. Ke3 Qh3+ 89. Kd2
+Qh2+ 90. Ke3 Qf2+ 91. Ke4 Nc5+ 92. Ke5 Qd4+ 93. Kf5 Qxd5+
+94. Kg6 Qe4+ 95. Kg5 Qe3+ 96. Kg4 Qe2+ 97. Kh3 Qh5+ 98. Kg2
+Qg5+ 99. Kh3 Qf5+ 100. Kh4 Qf6+ 101. Kg3 Qg7+ 102. Kf3 Qf7+
+103. Ke2 Qh5+ 104. Ke3 Qe5+ 105. Kf3 Qd5+ 106. Kg4 Qg2+
+107. Kh5 Qh3+ 108. Kg6 Qg4+ 109. Kh6 Qh4+ 110. Kg6 Qg4+
+111. Kh6 Qf4+ 112. Kh5 Qf7+ 113. Kg5 Qg7+ 114. Kh5 Qf7+
+115. Kg5 Qg7+ 116. Kh5 Qe5+ 117. Kh6 Qe3+ 118. Kh5 Qf3+
+119. Kg6 Qg2+ 120. Kh5 Qf3+ 121. Kg6 Qe4+ 122. Kg5 Qe5+
+123. Kh6 Qe6+ 124. Kg5 Qe7+ 125. Kg4 Qd7+ 126. Kh4 Qd4+
+127. Kh3 Kd3 128. Qb5+ Ke3 129. Kg2 Qg7+ 130. Kh3 Ne4
+131. Qb3+ Kf4 132. Kh2 Nd2 133. Qb4+ Ke3 134. Qa3+ Ke2
+135. Qa2 Qg4 136. Qa6+ Kf2 137. Qa7+ Kf1 138. Qa1+ Ke2
+139. Qa6+ Nc4 140. Qa2+ Kf1 141. Qa1+ Kf2 142. Qa2+ Kf3
+143. Qb3+ Ne3 1/2-1/2

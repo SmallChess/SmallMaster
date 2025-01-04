@@ -1,0 +1,40 @@
+[Event "Lodz"]
+[Site "Lodz RUE"]
+[Date "1908.10.??"]
+[EventDate "1908.10.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "Frank James Marshall"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 {Notes by Carl Schlechter from "Deutsche Schachzeitung"
+1908.} e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6
+7.Ne2 Bg4 {The usual continuation, 7...Ne7, leads to
+complicated and not easy to be handled middlegame positions
+for both players.} 8.Be3 Nh5 {? Weak, because here the knight
+is not useful, and ...f7-f5, which probably was intended, is
+not feasible. Best is 8...Ne7.} 9.Bxc6 bxc6 10.Ne1 {! White
+could win a pawn by 10.c3 Ba5 11.Qa4, but after 11....Bb6
+12.Bxb6 (12.Qxc6?! Rb8 13.b3 Bd7 14.Qc4 Bxe3 15.fxe3 Bb5)
+12...axb6 13.Qxc6 Bd7 (also good is 13...Bxf3 and 14...Qf6)
+14.Qc4 Be6, White must play again 15.Qc6 (15.Qb4? c5 16.Qb5
+Ra5 17.Qc6 Qb8 etc., or 15.Qb5? Ra5 16.Qc6 Bd7 17.Qc4 Bb5
+etc.), with a draw by repetition.} d5 {Black should capture
+both knights and then bring the knight back into play with
+...Nf6. In this case he would have good chances.} 11.f3 Be6
+12.g4 Nf6 13.Ng3 {Premature is 13.Ng2? because of 13...dxe4
+14.dxe4 Bc4!.} d4 {? Better is 13...Bd6.} 14.Bd2 Be7 15.Ng2
+Rb8 16.b3 c5 17.Nf5 Bxf5 18.gxf5 Rb6 19.Rf2 Qd7 20.Qe2 Rfb8
+21.f4 exf4 22.Bxf4 c4 {An attempt for counterplay in a
+position that is already strategically lost.} 23.bxc4 {If
+23.dxc4 Bc5 24.Qd3 Ng4 25.Re2 f6, followed by ...Ne5.} Rb1+
+24.Rxb1 Rxb1+ 25.Rf1 Rb2 26.e5 Ne8 27.Bg3 Qa4 28.f6 {!} Bf8
+{If 28....Rxc2 29.Qg4 Bf8 30.e6 and White wins. The best
+defense is 28...gxf6 29.exf6 Bf8.} 29.Qg4 g6 {If 29...Qxc2
+30.Bf2.} 30.e6 Rxc2 31.Ne1 {!} Rxa2 32.exf7+ Kxf7 33.Nf3 Nxf6
+34.Ng5+ Kg7 35.Rxf6 {!} Kxf6 36.Qf4+ Ke7 37.Qf7+ Kd8 38.Ne6+
+1-0

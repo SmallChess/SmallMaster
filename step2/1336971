@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1868.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Johannes Zukertort"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. h3 O-O 6. O-O d5
+7. exd5 Qxd5 8. Nc3 Qd6 9. Be3 Nd4 10. Bxd4 exd4 11. Ne2 c6
+12. Bc4 b5 13. Bb3 a5 14. a3 Bb6 15. Ng3 Ra7 16. Qd2 Rc7
+17. Ba2 c5 18. Ng5 c4 19. N5e4 Nxe4 20. Nxe4 Qc6 21. Rae1 Kh8
+22. Qf4 f5 23. Ng5 h6 24. Nf3 Bb7 25. Re2 g5 26. Qe5+ Rg7
+27. Ne1 g4 28. h4 Bc7 29. Qxd4 g3 30. Re7 gxf2+ 31. Kh1 Qxg2+
+32. Nxg2 Bxg2# 0-1

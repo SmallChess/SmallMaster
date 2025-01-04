@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Helsinki FIN"]
+[Date "1935.10.09"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "Thorsten Gauffin"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nf3 a6 3.b4 cxb4 4.a3 d5 5.exd5 Qxd5 6.axb4 Bg4
+7.Nc3 Qh5 8.Be2 e6 9.O-O Nf6 10.Ra5 Nd5 11.h3 Bxf3 12.Bxf3
+Nxc3 13.dxc3 Qg6 14.Qd4 Qf6 15.Qc4 Nd7 16.Bg5 Qg6 17.Bxb7 Rb8
+18.Bc6 Be7 19.Bxd7+ Kxd7 20.Rd1+ Ke8 21.Qc7 1-0

@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2013.02.20"]
+[EventDate "2013.02.19"]
+[Round "3"]
+[Result "0-1"]
+[White "Richard Bjerke"]
+[Black "Wei Yi"]
+[ECO "B62"]
+[WhiteElo "2131"]
+[BlackElo "2501"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 Qa5
+12. f3 O-O-O 13. Kb1 g5 14. Be3 Bg7 15. Bc4 Nd7 16. Nb5 Qxe1
+17. Na7+ Kc7 18. Rhxe1 Ba4 19. b3 Ne5 20. Bf1 Be8 21. a4 Ra8
+22. b4 Bxa4 23. b5 axb5 0-1

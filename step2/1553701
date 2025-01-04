@@ -1,0 +1,24 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Dotan Shchori"]
+[ECO "A45"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 c5 4.f3 Nf6 5.dxc5 Qa5+ 6.Nc3 Qxc5
+7.e4 Nc6 8.Qd2 d6 9.O-O-O Qb6 10.Be3 Qd8 11.g4 g6 12.h4 Bg7
+13.h5 O-O 14.Bh6 Ne5 15.Be2 Qa5 16.Kb1 Bd7 17.Nd5 Qxd2
+18.Nxe7+ Kh8 19.Bxd2 Rfe8 20.h6 Bf8 21.Nd5 Nxd5 22.exd5 f5
+23.g5 Rac8 24.b3 Be7 25.f4 Nf7 26.Bd3 Bd8 27.Nf3 Bb6 28.Rhe1
+a6 29.c4 Ba7 30.a4 Rb8 31.Rxe8+ Rxe8 32.Re1 Rxe1+ 33.Nxe1 Kg8
+34.Nc2 Kf8 35.Be3 Bc5 36.a5 Ke8 37.b4 Bxe3 38.Nxe3 Kd8 39.Kb2
+Kc7 40.Kc3 Bc8 41.Kd4 Bd7 42.c5 Be8 43.c6 b5 44.Nd1 Nd8 45.Nc3
+Bxc6 46.dxc6 Nxc6+ 47.Ke3 Ne7 48.Bc2 Kc6 49.Bb3 Kd7 50.Nd5 Nc6
+51.Nf6+ Ke7 52.Nxh7 Nxb4 53.Nf6 Kf8 54.Nd7+ Ke7 55.h7 Kxd7
+56.h8=Q Kc6 57.Qc8+ 1-0

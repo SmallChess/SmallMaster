@@ -1,0 +1,18 @@
+[Event "Simul, 32b"]
+[Site "Haarlem NED"]
+[Date "1896.05.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Reyne"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 Nc6 5.Nf3 exf4 6.c3 Ba5 7.d4
+g5 8.h4 f6 9.Nxg5 Qe7 10.Qh5+ Kf8 11.O-O Bb6 12.Bxf4 Nxd4
+13.cxd4 Bxd4+ 14.Kh1 Bxa1 15.Bxc7 Kg7 16.Nd2 Nh6 17.Rxa1 d5
+18.Bxd5 Bg4 19.Ne6+ Bxe6 20.Bf4 Nf7 21.Rf1 Bxd5 22.exd5 Ne5
+23.Bh6+ Kg8 24.Ne4 Ng6 25.Nxf6+ Kf7 26.Nxh7+ 1-0

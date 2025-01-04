@@ -1,0 +1,22 @@
+[Event "Simul, 20b"]
+[Site "Mercantile Library, Philadelphia, PA USA"]
+[Date "1907.11.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Norman Tweed Whitaker"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 { source: Philadelphia Inquirer, November 24, 1907 } d5
+2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Bf5 5.Qf3 Qc8 6.Bf4 e6 7.Nb5 Na6
+8.O-O-O Nf6 9.Re1 Bb4 10.c3 Be7 11.Ne2 O-O 12.Ng3 Bg6 13.h4 h6
+14.h5 Bh7 15.Bd3 Nd5 16.Bxh7+ Kxh7 17.Bd2 c6 18.Na3 Bxa3
+19.bxa3 c5 20.Rh4 cxd4 21.Rxd4 Qc5 22.Kb2 Rac8 23.Ne4 Qb6+
+24.Ka1 f5 25.Ng3 Nc5 26.Rxd5 exd5 27.Nxf5 Ne4 28.Qg4 Qf6
+29.Rxe4 {Forced.} dxe4 30.Nd4 Rce8 31.Be3 Re5 32.Kb2 Qf7
+33.Qg3 Rxh5 34.a4 Rg5 35.Qh3 Rg6 36.a5 Qc7 37.Ne6 Qd6 38.Nxf8+
+Qxf8 39.Bxa7 Rg5 40.Bd4 Rb5+ 41.Kc2 Qa3 42. Qe6 0-1

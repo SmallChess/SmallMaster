@@ -1,0 +1,19 @@
+[Event "Simul"]
+[Site "London ENG"]
+[Date "1885.03.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Johannes Zukertort"]
+[Black "Frank P Carr"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 h6
+7. Nxf7 Kxf7 8. d4 d5 9. exd5 Nce7 10. Bxf4 Ng6 11. Be5 Bd6
+12. Bxh8 Bg3+ 13. Kd2 Bf4+ 14. Ke1 Bg3+ 15. Kd2 Bf4+ 16. Kd3
+Bf5+ 17. Kc4 b5+ 18. Kb3 Nxh8 19. a3 Nf6 20. Bxb5 Rb8 21. Rf1
+Nxd5 22. a4 Ne3 23. Rxf4 Nxd1 24. Rxf5+ Kg6 25. Rd5 Qg8
+26. h5+ Kg7 27. Rxd1 c6 0-1

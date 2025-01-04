@@ -1,0 +1,17 @@
+[Event "Gatineau Shirov Simul"]
+[Site "Gatineau CAN"]
+[Date "2012.02.24"]
+[EventDate "2012.02.24"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Benoit Dagenais"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 c5 4. c4 Nb4 5. d5 d6 6. a3 Qa5
+7. Nc3 Bf5 8. axb4 Qxa1 9. bxc5 Nd7 10. Nb5 O-O-O 11. Nd4 Bg6
+12. c6 Nxe5 13. f4 Nd3+ 14. Bxd3 Bxd3 15. Qxd3 Qxc1+ 16. Kf2
+g6 17. Nge2 Qxh1 18. Qb3 b6 19. Qa4 a5 20. Qb5 1-0

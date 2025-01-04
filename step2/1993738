@@ -1,0 +1,19 @@
+[Event "Simul, 20b"]
+[Site "London ENG"]
+[Date "1891.08.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "H W Ward"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(London) Daily News, 1891.08.10, p.3"]
+[PlyCount "48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 d6 6.d4 b5 7.Bb3
+Nxd4 8.O-O c5 9.Bd5 Nxd5 10.Nxd5 Be7 11.Nxd4 exd4 12.b4 Be6
+13.a4 Bxd5 14.exd5 O-O 15. Qe2 Qd7 16.Re1 Bf6 17.Qf3 d3 18.Ra3
+cxb4 19.Rxd3 bxa4 20.Bh6 Rfe8 21.Rb1 Bc3 22.Qg3 Qe7 23.Bxg7
+Qe1+ 24.Rxe1 Rxe1# 0-1

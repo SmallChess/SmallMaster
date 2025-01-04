@@ -1,0 +1,17 @@
+[Event "Blindfold simul, 2b"]
+[Site "Skaneateles, NY USA"]
+[Date "1891.07.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Albert Hodges"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nc3 Bc5 3.f4 Bxg1 4.Rxg1 Qh4+ 5.g3 Qe7 6.fxe5 Nc6
+7.d4 f6 8.Nd5 Qd8 9.Bf4 g5 10.Qh5+ Kf8 11.Bc4 gxf4 12.gxf4
+Nxd4 13.Nxf6 Qe7 14.Bxg8 Nxc2+ 15.Kd1 h6 16.Bb3 Nxa1 17.Qxh6+
+1-0

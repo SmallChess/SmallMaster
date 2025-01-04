@@ -1,0 +1,19 @@
+[Event "Dimock theme"]
+[Site "New York, NY USA"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Frank James Marshall"]
+[Black "Erling Tholfsen"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4 Nf6 6.Bg5 Be7
+7.Nc3 c6 8.O-O-O d5 9.Rhe1 Be6 10.Qh4 Nbd7 11.Bd3 Nc5 12.Nd4
+Kf8 13.Bf5 Qd7 14.Re5 Re8 15.Rde1 Bd8 16.b4 Bxf5 17.Rxe8+ Nxe8
+18.bxc5 f6 19.Bf4 Ba5 20.Qg3 Be4 21.Bd2 Bg6 22.h3 Kf7 23.Qb8
+a6 24.Nce2 Qc7 25.Qa7 Bxd2+ 26.Kxd2 Qa5+ 27.Nc3 Qb4 28.Nxc6
+Qf4+ 29.Kd1 Be4 30.Qxb7+ Nc7 31.Nxe4 dxe4 32.g3 1-0

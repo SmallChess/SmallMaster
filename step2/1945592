@@ -1,0 +1,20 @@
+[Event "Clock simul, 12b"]
+[Site "Rio de Janeiro BRA"]
+[Date "1939.05.26"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Luiz Felippe Burlamaqui"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5
+dxc4 7. Bxc4 e6 8. Nf3 Be7 9. O-O O-O 10. Re1 Re8 11. a3 Na5
+12. Ba2 b6 13. Ne5 Bb7 14. Nxf7 Kxf7 15. Rxe6 Kf8 16. d5 Bc8
+17. Re3 Bf5 18. Qf3 Bg4 19. Qg3 Qd7 20. Qh4 Bf5 21. d6 Qxd6
+22. Rd1 Qc6 23. g4 Bg6 24. Rde1 Rad8 25. Re6 Rd6 26. R6e3 Nc4
+27. R3e2 Bd3 28. Re5 Nxe5 29. Rxe5 Qf3 30. Re3 Qxg4+ 31. Qxg4
+Nxg4 0-1

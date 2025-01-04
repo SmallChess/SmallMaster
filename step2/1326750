@@ -1,0 +1,19 @@
+[Event "Clock simul, 3b"]
+[Site "Havana CUB"]
+[Date "1913.09.07"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Juan Corzo"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Nc5 10.Bc2 Be7 11.b4 Nd7 12.Re1 Nb6 13.a4
+O-O 14.axb5 axb5 15.Rxa8 Qxa8 16.Na3 Nc4 17.Nxb5 Qb7 18.Nbd4
+Bg4 19.Nxc6 Qxc6 20.Nd4 Qd7 21.e6 Bxe6 22.Nxe6 fxe6 23.Qh5 g6
+24.Bxg6 hxg6 25.Qxg6+ Kh8 26.Rxe6 Bh4 27.Qh6+ Kg8 28.Rg6+ Kf7
+29.Rg7+ Ke8 30.Qh5+ Rf7 31.Rg8+ Ke7 32.Qxh4+ 1-0

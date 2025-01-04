@@ -1,0 +1,18 @@
+[Event "Radom sim"]
+[Site "Radom"]
+[Date "2000.05.21"]
+[EventDate "?"]
+[Round "25"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Wojciech Gniadek"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nxd4 6.Nxd4 exd4
+7.Re1 Qh4 8.g3 Qf6 9.Rxe4+ Be7 10.Qxd4 Qf5 11.Nc3 c6 12.Bd3
+Qh3 13.Qxg7 Rf8 14.Bh6 Kd8 15.Rxe7 Kxe7 16.Qxf8+ Kf6 17.Bg7+
+Kg5 18.Qe7+ Kh5 19.Qxf7+ Kg4 20.Qf4+ Kh5 21.Ne4 Kg6 22.Qf6+
+Kh5 23.Qg5# 1-0

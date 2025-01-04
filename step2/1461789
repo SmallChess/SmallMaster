@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1885.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Rainer"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6 Nh6 7.Nc3
+c6 8.Ngxe4 dxe4 9.Qh5+ g6 10.Qe5 Rg8 11.Bg5 Qd6 12.Rd1 Qxe6
+13.Bc4 Nd7 14.Bxe6 1-0

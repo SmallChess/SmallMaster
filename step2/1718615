@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Burton-on-Trent ENG"]
+[Date "1877.04.11"]
+[EventDate "1877.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Chilton"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6
+7. d4 O-O 8. Nxe5 Nxe4 9. Nxf7 Rxf7 10. Bxf7+ Kxf7 11. d5 Nb8
+12. d6 c6 13. Re1 Bxc3 14. Rxe4 Bxa1 15. Qh5+ Kf8 16. Bg5 Bf6
+17. Bxf6 gxf6 18. Qh6+ Kf7 19. Qxh7+ Kf8 20. Rg4 1-0

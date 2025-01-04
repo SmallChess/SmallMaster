@@ -1,0 +1,17 @@
+[Event "Clock simul, 12b"]
+[Site "Riga LAT"]
+[Date "1935.09.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Arvids Kalnins"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 c5 2. c4 e5 3. f4 exf4 4. Nf3 Nc6 5. d4 cxd4 6. Bxf4
+Bb4+ 7. Nbd2 Nf6 8. Bd3 Nh5 9. Bg5 f6 10. Nh4 O-O 11. Qxh5 Ne5
+12. Qe2 fxg5 13. Nf5 Qa5 14. Rd1 d5 15. O-O Nxd3 16. Qxd3 dxe4
+17. Nh6+ gxh6 18. Rxf8+ Bxf8 19. Nxe4 Bg7 0-1

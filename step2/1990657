@@ -1,0 +1,19 @@
+[Event "Simul, 7b"]
+[Site "Chicago, IL USA"]
+[Date "1893.06.05"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Herman Elson"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(Philadelphia) Times, 1893.06.11, p.14"]
+[PlyCount "48"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Bb5+ c6 6.dxc6 bxc6
+7.Bc4 Bc5 8.Nge2 Bg4 9.h3 Bxe2 10.Qxe2 O-O 11.g4 Nd5 12.Nxe4
+Nd7 13.d3 Qb6 14.Bb3 a5 15.a4 Bb4+ 16.Kf1 Qc7 17.f5 Rfe8
+18.Qh2 Qa7 19.g5 Nc5 20.Nxc5 Qxc5 21.Qf2 Re1+ 22.Qxe1 Bxe1
+23.Kxe1 Re8+ 24.Kd1 Qf2 0-1

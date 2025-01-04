@@ -1,0 +1,23 @@
+[Event "Simul, 30b"]
+[Site "New York, NY USA"]
+[Date "1926.02.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Joseph P Beck"]
+[ECO "C72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Brooklyn Daily Eagle, 1926.03.04, p.4A"]
+[PlyCount "93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.O-O a6 5.Ba4 b5 6.Bb3 h6 7.c3 Bg4
+8.d4 Bxf3 9.Qxf3 Qf6 10.d5 Qxf3 11.gxf3 Nd8 12.f4 Nf6 13.f3
+Nb7 14.fxe5 dxe5 15.Nd2 Bd6 16.a4 O-O 17.Bc2 Nc5 18.b4 Nxa4
+19.Bxa4 bxa4 20.Rxa4 Nd7 21.Bb2 Nb6 22.Ra5 Ra7 23.Rfa1 Rfa8
+24.Kg2 g5 25.b5 f6 26.bxa6 h5 27.c4 Bb4 28.c5 Bxa5 29.Rxa5 Nd7
+30.c6 Nb6 31.h4 gxh4 32.f4 Rxa6 33.Rb5 Re8 34.fxe5 fxe5 35.Kh3
+Kf7 36.Kxh4 Kg6 37.Rb3 Ra4 38.d6 Rd8 39.Bxe5 Nc8 40.d7 Ne7
+41.Bxc7 Nxc6 42.Bxd8 Nxd8 43.Rb8 Rd4 44.Rxd8 Rxd2 45.Rg8+ Kf7
+46.d8=Q Rxd8 47.Rxd8 1-0

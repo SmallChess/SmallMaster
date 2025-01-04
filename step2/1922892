@@ -1,0 +1,27 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.06.11"]
+[EventDate "1906.06.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Georg Salwe"]
+[Black "Frank James Marshall"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Ostend 1906 / Gillam, Game 94"]
+[PlyCount "131"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.d3 Nf6 5.Bg2 Nc6 6.Nge2 d4 7.Nb1 h5
+8.f4 h4 9.Nd2 e5 10.Nf3 h3 11.Bf1 Bg4 12.Neg1 c4 13.Be2 Bb4+
+14.Kf1 exf4 15.Bxf4 Nh5 16.Ne1 Bxe2+ 17.Qxe2 Nxf4 18.gxf4 Qh4
+19.Qf2 Bxe1 20.Rxe1 cxd3 21.cxd3 Nb4 22.Rd1 Rc8 23.Ne2 Rc2
+24.a3 Nc6 25.b4 Ra2 26.b5 Ne7 27.Rg1 Qxf2+ 28.Kxf2 Ng6 29.Kf3
+Nh4+ 30.Kf2 Ng2 31.Kf3 Nh4+ 32.Kf2 Ng2 33.Kf3 Rxa3 34.Nxd4 Rh6
+35.Nf5 Rb6 36.e5 Ra4 37.d4 Ra3+ 38.Ke4 Kd7 39.Ra1 Rb3 40.Rxa7
+R6xb5 41.Nd6 R5b4 42.Nxf7 g6 43.Rf1 Re3+ 44.Kd5 Rb5+ 45.Kc4
+Reb3 46.Rf3 R5b4+ 47.Kc5 Rb5+ 48.Kc4 R5b4+ 49.Kc5 Rb5+ 50.Kc4
+R3b4+ 51.Kc3 Kc6 52.Ra3 Rb1 53.Nd6 R5b2 54.Nc4 Re2 55.Kd3 Ree1
+56.Ne3 Nxe3 57.Rxe3 Rxe3+ 58.Kxe3 Rb2 59.Ke4 Rxh2 60.Rc3+ Kd7
+61.Kd5 Ra2 62.Rxh3 Ra5+ 63.Ke4 b5 64.Rh7+ Kc8 65.e6 b4 66.Rh8+
+1-0

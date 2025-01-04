@@ -1,0 +1,16 @@
+[Event "Ch St. Petersburg B16"]
+[Site "St. Petersburg"]
+[Date "2007.11.10"]
+[EventDate "?"]
+[Round "6.2"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Mikhail Pleshkov"]
+[ECO "E17"]
+[WhiteElo "2341"]
+[BlackElo "2004"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+d6 8.Qc2 Nbd7 9.e4 c5 10.e5 de5 11.de5 Ne8 12.Rd1 g6 13.Qa4
+Bc8 14.Ne1 Rb8 15.Bc6 b5 16.Qa7 1-0

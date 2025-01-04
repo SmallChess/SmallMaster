@@ -1,0 +1,25 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1859.06.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Napoleon Marache"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 {"In the evening Mr. Morphy played two games with
+Mr. Knott and one game with Mr. Marache, in all of which games
+he gave the large odds of the Queen's Knight, winning all in
+dashing style." -- David Lawson (Paul Morphy: The Pride and
+Sorrow of Chess, pp. 221-22)} e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4
+Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8. Re1+ Be6 9. Ng5 Qxf6
+10. Nxe6 fxe6 11. Qh5+ g6 12. Qxc5 Rf8 13. Bg5 Qxf2+ 14. Kh1
+Rf5 15. Qxc4 Rxg5 16. Qxe6+ Kf8 17. Rf1 Rxg2 18. Qh3 Rg1+
+19. Rxg1 Kg7 20. Rae1 Rf8 21. Rgf1 Qxc2 22. Qd7+ Kg8 23. Rxf8+
+Kxf8 24. Re8# 1-0

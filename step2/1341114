@@ -1,0 +1,20 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1893.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Laubmann"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7
+7. d4 d5 8. Bxf4 dxe4 9. Be2 h5 10. O-O Kg6 11. Nc3 Bf5
+12. Be5 Nf6 13. Nxe4 Nxe4 14. Rxf5 Kxf5 15. Qf1+ Kg6 16. Bd3
+Qd5 17. Qf6+ Kh7 18. Qxh8+ Kg6 19. Qf6+ Kh7 20. Qf5+ Kh6
+21. Qxf8+ Kg6 22. Qg7+ Kf5 23. Qf6# 1-0

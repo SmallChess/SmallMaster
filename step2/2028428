@@ -1,0 +1,21 @@
+[Event "Odds Game"]
+[Site "Glasgow SCO"]
+[Date "1880.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "R Kennedy"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Glasgow Weekly Herald, 1881.01.01"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 d5 3.exd5 Qxd5 4.Nf3 Qe4+ 5.Be2 Bc5 6.fxe5 Nc6
+7.c3 Nxe5 8. Nxe5 Qxg2 9.Qa4+ c6 10.Rf1 Nf6 11.d4 Bd6 12.Bf3
+Qxh2 13.Bxc6+ Kf8 14.Bf4 Qh4+ 15.Kd2 Bxe5 16.dxe5 Nh5 17.Bd5
+Bf5 18.Qb4+ Qe7 19.Qxe7+ Kxe7 20.Bg5+ f6 21.exf6+ gxf6
+22.Rae1+ Kd8 23.Bh4 Bg6 1-0

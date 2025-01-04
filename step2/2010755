@@ -1,0 +1,18 @@
+[Event "Simul, 20b"]
+[Site "London ENG"]
+[Date "1904.02.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Emanuel Lasker"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Sunday Times, 1904.02.28 / Whyld (1998)"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5
+7.Bg5 Be7 8. exd5 Qxd5 9.Qf3 Qxg5 10.Qxc6+ Kd8 11.Qxa8 Qc1+
+12.Ke2 Qxh1 13.Ba6 Kd7 14. Bb5+ Ke6 15.Bc4+ Kd6 16.Kd2 Rd8
+17.Bd3 Bg4 18.Qxa7 Nd5 19.Qa6+ c6 0-1

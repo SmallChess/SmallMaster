@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1952.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "Feliks Villard"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Nf6 5.Nc3 Nxe4 6.Ne5 Bh4+
+7.g3 fxg3 8.Bxf7+ Kf8 9.O-O gxh2 10.Kxh2 Bg3+ 11.Kg2 Qh4
+12.Nf3 1-0

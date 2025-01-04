@@ -1,0 +1,15 @@
+[Event "Simul, 12b"]
+[Site "Knickerbocker Field Club, New York, NY USA"]
+[Date "1916.04.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "Jay P Hopkins"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 Nc6 5.Nf3 Nf6 6.O-O Be7 7.e5
+Ng4 8.Qe2 d6 9.exd6 Qxd6 10.h3 Nd4 11.Nxd4 Qh2# 0-1

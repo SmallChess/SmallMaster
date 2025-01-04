@@ -1,0 +1,27 @@
+[Event "Clock simul, 8b"]
+[Site "Steiner Chess Group"]
+[Date "1961.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Tibor Weinberger"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 Qe8
+7. Nbd2 d6 8. Re1 Qh5 9. e4 Nc6 10. exf5 e5 11. d5 Nb4 12. Qb3
+a5 13. Nh4 Bxf5 14. Bf3 Bg4 15. a3 Na6 16. h3 Nc5 17. Qe3 Bxf3
+18. Qxf3 Qe8 19. Nf5 Rf7 20. Nb3 Nfd7 21. Nxc5 Nxc5 22. Be3
+Qd7 23. g4 Nb3 24. Rad1 Raf8 25. Kg2 a4 26. Qe4 b6 27. Rf1 Qd8
+28. f4 Bf6 29. g5 exf4 30. gxf6 Qxf6 31. Rxf4 Qg6+ 32. Ng3
+Rxf4 33. Bxf4 Qxe4+ 34. Nxe4 Rxf4 35. Re1 h6 36. Kg3 g5
+37. Nc3 Nd4 38. Re8+ Kf7 39. Rc8 Nf5+ 40. Kh2 Rxc4 41. Nb5
+Rc2+ 42. Kg1 Rc5 43. Rxc7+ Rxc7 44. Nxc7 Ne3 45. Nb5 Nc4
+46. Kg2 Kf6 47. Kf3 Kf5 48. b3 axb3 49. Nd4+ Ke5 50. Nxb3 h5
+51. a4 Kxd5 52. Nc1 Ne5+ 53. Ke3 Kc4 54. Ke4 g4 55. hxg4 hxg4
+56. Ne2 Nd3 57. Kf5 Nf2 58. Kf4 d5 59. Kg3 Ne4+ 60. Kxg4 Nc3
+61. Nc1 Nxa4 62. Kf4 Nc3 63. Ke3 Nb1 64. Ke2 d4 65. Nd3 Kc3
+66. Ne1 b5 67. Nd3 b4 68. Nc5 Kc2 0-1

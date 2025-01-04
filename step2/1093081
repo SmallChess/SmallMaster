@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.18"]
+[EventDate "1922.07.31"]
+[Round "15"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Davide Marotti"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 {Notes by Geza Maroczy} c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6
+5.Be3 Bg7 6.c4 {Black opened the game very badly, earlier he
+should have played ...Nf6 in order to force Nc3. White's move
+is very strong, it impedes d5 and breaks up the QB diagonal.}
+d6 7.Nc3 Nf6 8.Be2 Bd7 9.O-O O-O 10.f4 Ng4 {A blunder. Black
+remenbered that ...Ng4 could be played, but he did not know
+that it should not be made in this position.} 11.Bxg4 Bxg4
+12.Nxc6 Qd7 13.Nxe7+ Kh8 14.Qd3 Qxe7 {Black has lost a pawn,
+and has a bad game otherwise. The game is decided.} 15.Nd5 Qd7
+16.f5 gxf5 17.exf5 Be5 18.h3 Bh5 19.Nf4 Bxf4 20.Bxf4 f6
+21.Rae1 Rad8 22.g4 Qc6 23.Qd4 Rd7 24.Bh6 1-0

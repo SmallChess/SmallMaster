@@ -1,0 +1,15 @@
+[Event "Pontoise op"]
+[Site "Pontoise"]
+[Date "2006.03.25"]
+[EventDate "2006.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Xavier Loutre"]
+[ECO "B40"]
+[WhiteElo "2637"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4
+7. Qg4 Bxc3+ 8. bxc3 f5 9. Qxg7 Rf8 10. Ba3 Nc6 11. Qxf8# 1-0

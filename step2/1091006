@@ -1,0 +1,83 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1949.10.24"]
+[EventDate "1949.??.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Andre Lilienthal"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 {Notes by Peter Clarke} e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4
+{The Rubinstein Counter-Attack (4...Nd4) is sound enough, but
+Lilienthal was no doubt unwilling to provide the 'novice' with
+a ready-made simplifying line-5.Nxd4 exd4 6.e5, etc.} 5.O-O
+O-O 6.d3 Bxc3 7.bxc3 d6 8.Bg5 Qe7 {This and his next two moves
+constitute the Metger Defence; while holding on firmly to the
+center Black seeks to unpin himself and drive back the
+agressive Bishops.} 9.Re1 Nd8 10.d4 Ne6 11.Bc1 c5 {Here we
+have a position which is not only of fundamental importance
+for the theory of the opening but also extremely interesting
+from the point of view of general strategy. It is a question
+of Bishops versus Knights and of the advantages and
+disadvantages of the doubled pawn complex. Nimzovitch
+considered that White was not in an attacking but a
+'crouching' position and that any move on the part of his
+central pawns would disclose their dynamic weakness. He
+recommended Black's last move as the correct way to challenge
+them. On the other hand, Botvinnik has frequently demonstrated
+that this type of position can be very favourable for White if
+he can stabilise the situation in the center and consolidate a
+piece-preferably his KB-on d5. To this end the continuation
+12.dxe5 dxe5 13.Bc4 (Not 13.Nxe5 Nc7, etc.) is well worth
+considering.} 12.Bf1 Qc7 {Inconsequential play; Black could
+and should have carried out the positional threat of 12...cxd4
+13.cxd4 Qc7 with prospects on the c-file. He is not given a
+second opportunity.} 13.d5 Nd8 {13...Nf4 would allow White to
+break up the center to his advantage by 14.Bxf4 exf4 15.e5
+dxe5 16.Nxe5. Petrosian supports this as follows 16...Rd8
+17.c4 b5 18.Qf3 Bb7 (or 18...bxc4 19.d6 Qb7 20.Qxf4, etc.)
+19.Rad1 bxc4 20.Bxc4 Rd6 21.Bb3. It shoul be noted that while
+Black has succeeded in immobilising the enemy pawns this is
+not necessarily a permanent state of affairs. Wite immediately
+starts preparing for a thrust on the K side with h4.} 14.Nh4
+Ne8 15.g3 Qe7 16.Nf5 Bxf5 {Otherwise this Knight may settle on
+c4 and harass him on all sides. However, leaving onelf with
+two knights against two bishops, even in a closed position, is
+a serious step,. It may be all right in theory, but in
+practice many difficulties are involved. The trouble is that
+the player with the Knights must be extremely cautious about
+changes in the pawn formation, whereas his opponent may
+undertake almost any action he likes. The rest of the game
+affords a good illustration of the way the bishops work
+towards the breaching and ultimate collapse of the opposing
+defences.} 17.exf5 Qf6 18.Qg4 Qe7 19.Bg5 Qd7 20.a4 f6 {After
+non too happy manouvering with his Queen, Black was faced with
+the threat of 21. Bb5 Qc7 22.Bxe8 Rxe8 23.Bf6 and wins.}
+21.Bd2 g6 {Is this not helping White? Yes; but if he does
+nothing to relieve his rather cramped position, White will
+buid up a K side offensive at his leisure. That is Black's
+dilemma.} 22.Bh3 Qxf5 {Not 22...Ng7? 23.fxg6! winning a pawn;
+while if 22...g5, White simply retires his KB again and gets
+ready to strike back with h4.} 23.Qxf5 gxf5 24.Bxf5 Ng7 25.Bd3
+f5 {He ought to have played 25...Nf7 and kept his pawns firmly
+entrenched where they were. By his weakening his support to
+the strongpoint at e5 he makes it easier for White to
+undermine it. It is doubtful whether Black's game can be saved
+after this.} 26.f4 e4 {Closing the position again, but the
+respite is only temporary. With every new advance the Knights
+find it harder to plug the gaps. 26...Nf7 was therefore the
+better choice.} 27.Be2 Rc8 28.c4 Ne8 29.h3 Nf6 30.g4 {!
+White's strategy has won the day. The barrier of enemy pawns
+that curbs his Bishops can no longer be maintained.} fxg4
+31.hxg4 Rc7 32.Kf2 h6 33.Rh1 e3 {A desperate attempt at
+counter-play. Passive defence was hopeless in any case; for
+example, 33...Kg7 34.Bc3 Kg6 35.Ke3 Rh7 36.Rag1 Nf7 37.g5 hxg5
+38.f5+!, winning a piece.} 34.Bxe3 Ne4+ 35.Kg2 Nf7 36.Bd3 Re7
+37.Rae1 Rfe8 38.Bc1 Nc3 {The Knight makes a sortie at last.}
+39.Rxe7 Rxe7 40.a5 b6 41.Bd2 Ne2 42.axb6 axb6 43.c3 {And gets
+trapped! As is fitting the Bishops have had the final way.} b5
+44.Kf3 1-0

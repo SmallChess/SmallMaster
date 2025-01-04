@@ -1,0 +1,15 @@
+[Event "Simul, 20b"]
+[Site "Zeljeznicar CC, Sarajevo YUG"]
+[Date "1970.05.08"]
+[EventDate "1970.05.08"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert James Fischer"]
+[Black "Nikifor Kostic"]
+[ECO "C32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Qxd5 6. Nd2 Bf5
+7. dxe4 Bxe4 8. Ngf3 Nc6 9. c4 Qa5 10. Ng5 Nd4 11. Qd1 Bc2 0-1

@@ -1,0 +1,20 @@
+[Event "Exhibition odds game"]
+[Site "Havana CUB"]
+[Date "1941.03.29"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Leon Fernandez"]
+[Black "Jose Raul Capablanca"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Bc4 cxd4 5.Bxg8 Rxg8 6.Nxd4 d5
+7.Nb3 dxe4 8.Qxd8+ Kxd8 9.c3 Nc6 10.N1d2 Bf5 11.Nc5 e3 12.fxe3
+b6 13.Nce4 Ne5 14.Nf2 Nd3+ 15.Nxd3 Bxd3 16.Nf3 e5 17.Bd2 Ke7
+18.O-O-O e4 19.Nd4 Bh6 20.Nc6+ Ke6 21.Nb4 Be2 22.Rde1 Bb5
+23.b3 a5 24.a4 axb4 25.axb5 Ra2 26.cxb4 Rc8+ 0-1

@@ -1,0 +1,18 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1863.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player's Magazine, vol.i, November 1863, p.141"]
+[PlyCount "26"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Bb4 5. Nd5 Ba5 6. Nxf4 d6 7. c3 Bb6 8. d4
+Bg4 9. Bb5 Kf8 10. O-O Ne5 11. Nxe5 Bxd1 12. Neg6+ hxg6 13. Nxg6# 1-0

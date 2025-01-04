@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "A Remmelgas"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 c5 2.Nf3 e6 3.b4 cxb4 4.d4 d5 5.e5 Nc6 6.a3 bxa3 7.c3 a6
+8.Nxa3 Bd7 9.Bd3 f5 10.g4 g6 11.gxf5 exf5 12.Qe2 Be6 13.Ng5
+Qe7 14.Nb5 1-0

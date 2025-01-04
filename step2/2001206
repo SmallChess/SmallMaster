@@ -1,0 +1,15 @@
+[Event "Banter blitz"]
+[Site "chess24.com"]
+[Date "2020.07.30"]
+[EventDate "2020.07.30"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Peter Svidler"]
+[ECO "A02"]
+[WhiteElo "2129"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.e4 Qh4+ 5.g3 Bxg3+ 6.hxg3
+Qxg3+ 7.Ke2 Bg4+ 0-1

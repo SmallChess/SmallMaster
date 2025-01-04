@@ -1,0 +1,17 @@
+[Event "World Cup"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.07"]
+[EventDate "2017.09.03"]
+[Round "2.2"]
+[Result "1/2-1/2"]
+[White "Matthias Bluebaum"]
+[Black "Wesley So"]
+[ECO "D40"]
+[WhiteElo "2633"]
+[BlackElo "2792"]
+[PlyCount "31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4
+exd5 7. e4 Nc6 8. Bb5 dxe4 9. Qxd8+ Kxd8 10. Ng5 Be6 11. O-O
+Bb4 12. Ncxe4 Nxe4 13. Nxe4 Ke7 14. Be3 Rhd8 15. Nc5 Nd4
+16. Nxe6 1/2-1/2

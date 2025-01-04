@@ -1,0 +1,37 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg  RUE"]
+[Date "1914.05.03"]
+[EventDate "1914.04.21"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Emanuel Lasker"]
+[Black "Siegbert Tarrasch"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 O-O 11.Re1 Nc5 12.Bc2 d4
+13.cxd4 Nxd4 14.Nxd4 Qxd4 15.Nb3 Nxb3 16.axb3 Qxd1 17.Rxd1 c5
+18.Bd2 Rfd8 19.Ba5 Rxd1+ 20.Rxd1 f6 21.Bc3 fxe5 22.Bxe5 Rd8
+23.Rxd8+ Bxd8 24.f4 Kf7 25.Kf2 Bf6 26.Bd6 Bd4+ 27.Kf3 Bd5+
+28.Kg4 Ke6 29.Bf8 Kf7 30.Bd6 Bxg2 31.Bxh7 Ke6 32.Bf8 Kd5
+33.Kg5 Bf6+ 34.Kg6 Be4+ 35.f5 Ke5 36.Bxg7 Bxf5+ 37.Kf7 Bxg7
+38.Bxf5 Kxf5 39.Kxg7 a5 {In this position, the game appears to
+be lost for White. How can the King, way across the board,
+still hold up the a-pawn, which threatens to go for a Queen
+after 40... c4 41.bxc4 bxc4 and c3? Black had already
+calculated the following play before the exchange of pieces:
+40.h4 Kg4 41.Kf6 c4 42.bxc4 bxc4 43.Ke5 c3 44.bxc3 a4 45.Kd4
+a3, and his own pawn on c3 prevents the King, situated in the
+'square' of the passed pawn, from approaching it. -- Tarrasch}
+40.h4 Kg4 41.Kg6 {This is the problem move. Black must capture
+the h-pawn and White's King thereby wins space and time. It is
+as though, in the variation just given, White had not moved to
+f6, but in one move, at once to f5. From there he can easily
+hold up the a-pawn, since his journey does not lead him over
+e5 and d4, but over e4 and d3, where his own pawn is not in
+the way. Now Black must still make exertions to save the
+game. -- Tarrasch} Kxh4 42.Kf5 Kg3 43.Ke4 Kf2 44.Kd5 Ke3
+45.Kxc5 Kd3 46.Kxb5 Kc2 47.Kxa5 Kxb3 1/2-1/2

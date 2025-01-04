@@ -1,0 +1,16 @@
+[Event "Odessa sim"]
+[Site "Odessa RUE"]
+[Date "1916.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Boris Verlinsky"]
+[Black "Alexander Alekhine"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 Nc6 2.Nc3 e5 3.Nf3 d6 4.d4 Bg4 5.Bb5 exd4 6.Qxd4 a6
+7.Bxc6+ bxc6 8.Qc4 Qd7 9.Nd4 Ne7 10.h3 Bh5 11.O-O f6 12.Qd3 c5
+13.Nf3 h6 14.b3 g5 15.Bb2 Bg7 16.Na4 1/2-1/2

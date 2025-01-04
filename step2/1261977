@@ -1,0 +1,60 @@
+[Event "American National"]
+[Site "New York, NY USA"]
+[Date "1913.01.28"]
+[EventDate "1913.01.19"]
+[Round "7"]
+[Result "0-1"]
+[White "Harry Kline"]
+[Black "Jose Raul Capablanca"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. d4 {Notes by Nimzowitsch. This game illustrates the plan of
+action "center file v. flank attack".} Nf6 2. Nf3 d6 3. c3
+Nbd7 4. Bf4 c6 5. Qc2 Qc7 6. e4 e5 7. Bg3 Be7 {White has now
+the attacking position in the center. This is unquestionably
+an advantage. But here the weakness of his pawn at e4 (we
+shall quickly see why e4 is weak) will soon force White to
+surrender his advantage; that is to say he will find himself
+obliged to equalize with dxe5.} 8. Bd3 O-O 9. Nbd2 Re8 {!}
+10. O-O Nh5 {In order to exchange the bishop.} 11. Nc4 Bf6
+12. Ne3 Nf8 13. dxe5 {Since the Bishop is needed at d3 for the
+protection of the e-pawn, the d-pawn can only be protected
+against a Knight at e6 by exchanging him. The student should
+consider carefully the motif here used, aiming at forcing the
+opponent to declare himself (whether for dxe5 or for d5).}
+dxe5 14. Bh4 Qe7 15. Bxf6 Qxf6 16. Ne1 Nf4 {? With this move a
+diversion is put 'en train' which may be said to run counter
+to the spirit of the opening. The right line of play consisted
+in ...Be6 and doubling the rooks on the d-file. By this means
+advantage could have been taken of the rather uncomfortable
+position of White's bishop at d3. Black's simplest course
+would have been to play ...Be6 on his 14th move.} 17. g3 Nh3+
+18. Kh1 h5 19. N3g2 g5 20. f3 Ng6 21. Ne3 {!} h4 22. g4 {??
+The entry of the knight at f5 would, according to my analysis,
+have decided the game in White's favor. The retreat of the
+Black knight at h3 is cut off. The attempt at a rescue
+undertaken by means of a wreckless advance of the k side pawns
+gives the opportunity, often ocurring in such a position, for
+a decisive counter stroke, by an invasion in the center, in
+the present case by ...Nf4. For instance 22 Nf5 hxg3 23 hxg3
+Bxf5 24 exf5 Ne7 25 Kg2 Kg7 (is the pawn sacrifice 25...g4 26
+fxg4 Ng5 any better?) 26 Kxh3 Rh8+ (or 26...Nd5 27 Qe2) 27 Kg2
+Qh6 28 Kf2 Qh2+ 29 Ng2 Rh3 30 Ke1 Rxg3 31 Ne3, etc. Moreover
+as a superabundance 26 Rh1 is also playable, which I showed to
+be a win for White in an analysis I published in the 'Rigaer
+Rundschau'.} Nhf4 {Now the knight rejoices in his rediscovered
+freedom, and black, after this doubtful excursion, which could
+easily have ended fatally for him, takes up the right line,
+play in the queen file, and pursues it with complete masterly
+to victory. What remains needs but few remarks.} 23. Rf2 Nxd3
+24. Nxd3 Be6 25. Rd1 Red8 26. b3 Nf4 27. Ng2 Nxd3 28. Rxd3
+Rxd3 29. Qxd3 Rd8 {Why not ...Bxg4.} 30. Qe2 h3 31. Ne3 a5
+32. Rf1 a4 33. c4 Rd4 {!} 34. Nc2 Rd7 35. Ne3 Qd8 36. Rd1
+Rxd1+ 37. Nxd1 Qd4 {Queen file and centralization.} 38. Nf2 b5
+{!} 39. cxb5 axb3 40. axb3 Bxb3 {Threatening ...Qa1+.}
+41. Nxh3 Bd1 42. Qf1 cxb5 43. Kg2 b4 44. Qb5 b3 45. Qe8+ Kg7
+46. Qe7 b2 47. Nxg5 Bb3 48. Nxf7 Bxf7 49. Qg5+ Kf8 50. Qh6+
+Ke7 51. Qg5+ Ke8 0-1

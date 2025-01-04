@@ -1,0 +1,21 @@
+[Event "Simul, 20b"]
+[Site "New York, NY USA"]
+[Date "1892.12.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Zander"]
+[Black "Emanuel Lasker"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(New York) Sun, 1892.12.10, p.4"]
+[PlyCount "70"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Bc4 Nf6 5.Ne2 Nbd7 6.O-O Bc5+
+7.Kh1 Ng4 8.Qe1 Qf6 9.Qg3 h5 10.Nbc3 Nde5 11.Nxe4 Qf5 12.Nxc5
+Nxc4 13.d3 h4 14.Qf3 Nd6 15. Nd4 Qh5 16.Re1+ Kf8 17.Bd2 h3
+18.g3 Nf6 19.c4 Bg4 20.Qf2 Rd8 21.Bb4 Kg8 22.Re7 Nxd5 23.Re5
+Nxb4 24.Rxh5 Rxh5 25.Ndb3 b6 26.a3 Nc6 27.Na6 Nf5 28. Re1 Rxd3
+29.Nd2 Rh6 30.Nxc7 Ncd4 31.Nd5 Re6 32.Rxe6 fxe6 33.Nc3 Re3
+34.Nb5 Re2 35.Qg1 Nf3 0-1

@@ -1,0 +1,21 @@
+[Event "Simul, 30b"]
+[Site "Brooklyn Institute CC, New York, NY USA"]
+[Date "1914.12.19"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "R Goldsmith / A W Parker"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 Nf6 5.e5 d5 6.exf6 c2 7.Qxc2
+dxc4 8.Qxc4 Qxf6 9.Nf3 Bd6 10.O-O O-O 11.Nc3 Be6 12.Qb5 Nc6
+13.Ne4 Qg6 14.Nxd6 cxd6 15.Qxb7 Bd5 16.Ng5 Rab8 17.Qd7 f5
+18.Rd1 Rf7 19.Qxf7+ Bxf7 20.Bf4 Ne5 21.Bxe5 dxe5 22.Nf3 e4
+23.Ne5 Qe6 24.Nd7 Rd8 25.Nc5 Rxd1+ 26.Rxd1 Qxa2 27.Rd8+ Be8
+28.g4 Kf7 29.gxf5 Qxb2 30.Ne6 e3 31.fxe3 Qb1+ 32.Kg2 Bc6+
+33.Kg3 Qg1+ 34.Kf4 Qxh2+ 35.Kg4 h5+ 36.Kg5 Qg3+ 37.Kxh5 Bf3#
+0-1

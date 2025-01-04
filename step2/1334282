@@ -1,0 +1,19 @@
+[Event "Buenos Aires sim"]
+[Site "Buenos Aires"]
+[Date "2003.10.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Andrei Shcherbine"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nc6 5.Be3 e5 6.d5 Nce7 7.g4 f6
+8.h4 Bh6 9.g5 Bg7 10.Bh3 f5 11.f3 h6 12.Qe2 hxg5 13.hxg5 f4
+14.Bd2 c5 15.O-O-O a6 16.a4 a5 17.Qg2 Bxh3 18.Rxh3 Qd7 19.Rxh8
+Bxh8 20.Qh2 Bg7 21.Nb5 Nc8 22.Ne2 Na7 23.Qh7 Kf7 24.Nxf4 exf4
+25.Bc3 Kf8 26.Nxd6 Nc8 27.Ne8 Kxe8 28.Bxg7 Nce7 29.b3 Rd8
+30.Be5 1-0

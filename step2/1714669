@@ -1,0 +1,24 @@
+[Event "nTCEC - Stage 3"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.04.03"]
+[EventDate "2013.03.30"]
+[Round "5"]
+[Result "0-1"]
+[White "HIARCS (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nc3
+Bxc3+ 7. bxc3 Qe7 8. Qd5 f6 9. exf6 Nxf6 10. Qd3 d6 11. e3 O-O
+12. Be2 Ne4 13. Nd4 Nc5 14. Qd1 Ne5 15. Nb3 Na4 16. Qd2 Qf6
+17. Nd4 Bd7 18. O-O Qf7 19. Nf3 Nxc4 20. Qc2 Na3 21. Qc1 Nb5
+22. Bd3 Nbxc3 23. Ng5 Qh5 24. Bxh7+ Kh8 25. Kh1 Bf5 26. Bxf5
+Rxf5 27. Nh3 Raf8 28. f3 Qf7 29. Qe1 Kg8 30. Rc1 Qf6 31. Bg3
+Rc5 32. e4 b5 33. Bh4 Qf7 34. Bf2 Nxa2 35. Rxc5 Nxc5 36. Bxc5
+dxc5 37. Qa5 Qc4 38. Rg1 Nc1 39. Qxc7 Nd3 40. Qd7 b4 41. Rd1
+Qd4 42. Qe6+ Kh8 43. Rf1 c4 44. Qg6 b3 45. Qh5+ Kg8 46. g3 Qd6
+47. f4 a5 48. Qb5 Qc5 49. Qd7 Ne5 50. Qe6+ Nf7 51. Ng5 Qc8
+52. Qd5 b2 53. Nxf7 Rxf7 54. Qd4 0-1

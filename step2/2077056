@@ -1,0 +1,20 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1863.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Era, 1863.09.20, p.6"]
+[PlyCount "60"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 f6 4. Bf4 Nd7 5. cxd5 cxd5 6. Nxd5 e5 7. dxe5 fxe5 8.Bg3 Qa5+ 9. Nc3 Bb4 10. Qc2 Ngf6 11. Rc1 O-O 12. e3 Nb6 13. Qb3+ Kh8 14. Bxe5
+Ne4 15. f3 Nc5 16. Qd1 Bf5 17. e4 Rad8 18. Qc2 Bg6 19. f4 Ne6 20. Be2 Bc5 21. h4
+Be3 22. h5 Bd2+ 23. Qxd2 Rxd2 24. hxg6 Rd7 25. Bg4 Re7 26. Bxe6 Rxe6 27. Rxh7+
+Kg8 28. Rxg7+ Kh8 29. Rh7+ Kg8 30. Rh8# 1-0

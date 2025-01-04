@@ -1,0 +1,29 @@
+[Event "nTCEC - Stage 4 - Season 1"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.04.23"]
+[EventDate "?"]
+[Round "18.2"]
+[Result "0-1"]
+[White "Stockfish (Computer)"]
+[Black "Houdini (Computer)"]
+[ECO "C70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4
+7. Re1 d5 8. a4 b4 9. d3 Nf6 10. a5 Be7 11. Ba4 Bd7 12. Bxc6
+Bxc6 13. Nxe5 Bb7 14. Bg5 d4 15. Bxf6 gxf6 16. Nc4 Rg8 17. f3
+Qd7 18. Qe2 O-O-O 19. Nbd2 Bf8 20. Ne4 Qf5 21. Ng3 Qg6 22. Qf2
+h5 23. Re4 Qg5 24. Rae1 b3 25. cxb3 Bb4 26. Ra1 Kb8 27. Ne2
+Bxe4 28. fxe4 h4 29. Rd1 Bd6 30. Kh1 Be5 31. Qf1 Rg7 32. Rd2
+Rdg8 33. Ng1 Qg4 34. Rf2 Kb7 35. Ne2 Qd7 36. Qd1 Qb5 37. Ng1
+Kb8 38. Ne2 Rg5 39. Ng1 R5g6 40. Ne2 R6g7 41. Qb1 Qxb3 42. Ng1
+Ka8 43. Qf1 Qb5 44. Ne2 Qd7 45. Ng1 Qa4 46. Qc1 Kb8 47. Qe1
+Kb7 48. Qb1 Qd7 49. Qd1 Kb8 50. Qb3+ Qb5 51. Qc2 Bf4 52. Qe2
+Qb3 53. Qf3 Be3 54. Nxe3 dxe3 55. Qxe3 Rd8 56. Qh6 Rg6
+57. Qxh4 Rxd3 58. Qf4 Qb4 59. g3 Rg5 60. Nf3 Rxa5 61. Kg2 Qb6
+62. e5 fxe5 63. Nxe5 Qb7+ 64. Nf3 f5 65. Kh3 Qe4 66. Nh4 Rb5
+67. Nxf5 Qxf4 68. Rxf4 Rxb2 69. Nd4 Kb7 70. Ne6 Kb6 71. Kg4
+Re2 72. Nd4 Rxh2 73. Rf6+ Kb7 74. Rf4 a5 75. Ne6 Kb6 76. Rf8
+a4 0-1

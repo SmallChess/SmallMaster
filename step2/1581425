@@ -1,0 +1,31 @@
+[Event "New Orleans USA"]
+[Site "New Orleans USA"]
+[Date "1861.09.11"]
+[EventDate "1861.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. g3 f5 5. Bg2 Nf6 6. Ne2 Be7
+7. O-O O-O 8. Rc1 e4 9. Nf4 g5 10. Ne2 Ne8 11. d3 Qd6 12. c4
+Ne5 13. c5 Qe6 14. Nd4 Qg6 15. dxe4 dxe4 16. Nb5 Nd3 17. Bd4
+Nxc1 18. Qxc1 Bf6 19. f3 exf3 20. Bxf3 c6 21. Nc3 Bxd4
+22. exd4 Be6 23. d5 cxd5 24. Nxd5 Qg7 25. c6 Qd4+ 26. Ne3 bxc6
+27. Rd1 Qb6 28. Kh1 Rd8 29. Re1 Ng7 30. Nd1 Bd5 31. Bxd5+ Rxd5
+32. Qxg5 f4 33. Qg4 f3 34. Rf1 f2 35. Qe2 Qd4 36. Nxf2 Qd2
+37. Ng4 Rxf1+ 38. Qxf1 Rf5 39. Qc4+ Qd5+ 40. Qxd5+ cxd5
+41. Nh6+ Kf8 42. Nxf5 Nxf5 43. Kg2 Kf7 44. Kf3 Kf6 45. Kf4 Ke6
+46. g4 Nd6 47. h4 Ne4 48. a3 h6 49. b4 Nf2 50. Kf3 Nd3 51. Ke3
+Ne5 52. Kf4 Ng6+ 53. Kg3 Kd6 54. h5 Ne5 55. Kf4 d4 56. g5 d3
+57. Ke3 d2 58. Ke2 hxg5 59. h6 Nf7 60. h7 Ke6 61. b5 Kf6
+62. a4 Kg7 63. a5 Ne5 64. b6 Nc6 65. Kxd2 axb6 66. axb6 Kxh7
+67. Kd3 Kg6 68. Ke4 Kf6 69. Kd5 Na5 70. Kc5 Ke6 71. Kb5 Nb7
+72. Kc6 Nd6 73. Kc5 g4 74. Kd4 g3 75. Ke3 Kd7 76. b7 Kc7
+77. Kf3 Nf5 0-1

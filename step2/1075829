@@ -1,0 +1,17 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1890.??.??"]
+[EventDate "1890.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Schroeder"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 d6 3.d3 f5 4.Nc3 fxe4 5.dxe4 a6 6.fxe5 dxe5 7.Nf3
+Bb4 8.Bg5 Qd6 9.Rd1 Qg6 10.Rd8+ Kf7 11.Bc4+ Be6 12. Nxe5# 1-0

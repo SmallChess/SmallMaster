@@ -1,0 +1,18 @@
+[Event "Dimock theme"]
+[Site "New York"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rudolph Smirka"]
+[Black "Frank James Marshall"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.Qe2 d6 6.Ng5 Ne5 7.Bb3
+h6 8.f4 Bg4 9.Qb5+ Bd7 10.Qe2 hxg5 11.fxe5 dxe5 12.Bxg5 Bb4+
+13.c3 dxc3 14.Bxf7+ Kxf7 15.Qc4+ Be6 16.Qxb4 cxb2 17.Qxb2 Qd3
+18.Qxe5 Bc4 19.Nc3 Rae8 20.Qxc7+ Re7 21.Qa5 Rxe4+ 22.Kf2 Ng4+
+23.Kg1 Qd4+ 0-1

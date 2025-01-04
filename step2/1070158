@@ -1,0 +1,23 @@
+[Event "Hamburg sim-32 (32)"]
+[Site "Hamburg FRG"]
+[Date "1985.06.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Superstar 36K (Computer)"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6
+7.Bd3 O-O 8.Qc2 h6 9.Ne2 Qc7 10.Be3 Bg4 11.h3 Be6 12.Qd2 Nd7
+13.Nf4 Nb6 14.Nxe6 fxe6 15.O-O Nd5 16.Rfe1 Qe7 17.Rad1 Bc7
+18.c4 Nb4 19.Bb1 Rad8 20.a3 Na6 21.Qc2 f5 22.d5 cxd5 23.cxd5
+Rxd5 24.Rxd5 exd5 25.Rd1 Qe5 26.g3 Bb6 27.Bf4 Qe6 28.Ba2 Rd8
+29.Qd2 Kh7 30.Bxd5 Qc8 31.Qe2 Nc7 32.Ba2 Rxd1+ 33.Qxd1 Ne6
+34.Bd2 Nd4 35.Bc3 Qd7 36.Qd3 g6 37.Qc4 Qg7 38.Kg2 Qh8 39.Qd5
+Qg7 40.h4 Kh8 41.b4 h5 42.a4 a6 43.a5 Ba7 44.Qd8+ Kh7 45.Bd5
+f4 46.gxf4 Ne6 47.Bxe6 Qxc3 48.Bg8+ Kg7 49.Bd5 Qd4 50.Qe7+ Kh6
+51.Qf8+ Qg7 52.Qxg7+ Kxg7 53.Bxb7 Bb8 54.Bxa6 1-0

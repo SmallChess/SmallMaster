@@ -1,0 +1,21 @@
+[Event "Simul, 12b"]
+[Site "Manhattan CC, New York, NY USA"]
+[Date "1892.11.05"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Rustam Beramje"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltimore Sunday News, 1892.11.20"]
+[PlyCount "49"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.f4 f5 2.b3 e6 3.Bb2 Nf6 4.Nf3 Be7 5.e3 b6 6.Be2 c5 7.O-O Ba6
+8.d3 Nc6 9. h3 Bb7 10.Qe1 Qc7 11.Rc1 h6 12.Ne5 Nxe5 13.fxe5
+Nd5 14.Bh5+ Kd8 15.Bg6 Bc6 16.c4 Nxe3 17.Qxe3 Bg5 18.Qg3 Bxc1
+19.Bxc1 Qb7 20.d4 Be4 21.d5 Kc7 22.d6+ Kc6 23.Qh4 Qc8 24.Qxe4+
+fxe4 25.Bxe4# 1-0

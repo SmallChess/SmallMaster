@@ -1,0 +1,27 @@
+[Event "1/91-12 Vienna simultan"]
+[Site "?"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Judit Polgar"]
+[Black "Mephisto (Computer)"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7
+7.O-O Qh4 8.Nc3 Nxc3 9.bxc3 Be7 10.g3 Qh3 11.Re1 Bg4 12.Qd2
+Be6 13.Rb1 O-O-O 14.Bf1 Qf5 15.Bg2 c6 16.Re5 Qg6 17.a4 Rhe8
+18.a5 Bf6 19.Re1 Bf5 20.a6 b6 21.Rb2 h5 22.Rf1 h4 23.c4 hxg3
+24.fxg3 c5 25.c3 Bd3 26.Bh3+ Re6 27.Rf3 Be4 28.Rf1 cxd4
+29.cxd5 dxc3 30.Qf2 cxb2 31.dxe6 fxe6 32.Bxb2 Be7 33.Rc1+ Kd7
+34.Bd4 Ba3 35.Ra1 Bd6 36.Rd1 Rf8 37.Qe2 Bf3 38.Qb5+ Bc6 39.Qd3
+Qxd3 40.Rxd3 Bb5 41.Rd1 Rf3 42.Bxg7 Bxa6 43.Bg2 Re3 44.Kf2 Rd3
+45.Ra1 Bc5+ 46.Ke1 Re3+ 47.Kd1 Be2+ 48.Kd2 a5 49.Re1 Bf3
+50.Bxf3 Rxf3 51.Rd1 Rf5 52.Ke2 Kc6 53.h4 b5 54.g4 Rf4 55.h5
+Rxg4 56.h6 Rh4 57.Rc1 Kd5 58.Kf3 Bd4 59.Kg3 Rh5 60.Kg4 Rh2
+61.Rd1 e5 62.Kg3 Rh5 63.Kg2 b4 64.Kg3 a4 65.Kg4 Rh2 66.Kg3 Rc2
+67.h7 Rc3+ 68.Kg4 Rc8 69.Kf3 Ke6 70.Ke4 a3 71.h8=Q Rxh8
+72.Bxh8 a2 73.Kd3 b3 0-1

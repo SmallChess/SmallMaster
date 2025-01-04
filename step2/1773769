@@ -1,0 +1,21 @@
+[Event "London Match"]
+[Site "London ENG"]
+[Date "2014.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 Nc6 6.Be3 a6 7.Qd2 Rb8
+8.O-O-O O-O 9.Kb1 b5 10.cxb5 axb5 11.Bxb5 Na5 12.Nge2 c6
+13.Bd3 Be6 14.h4 Rb7 15.Nf4 Bc4 16.Qe2 Qb6 17.Bxc4 Nxc4 18.b3
+Qb4 19.Rd3 e5 20.dxe5 Nd7 21.e6 Nc5 22.exf7+ Rbxf7 23.Ncd5
+cxd5 24.Nxd5 Na3+ 25.Kc1 Qb5 26.Kd2 Nc4+ 27.Ke1 Qa5+ 28.Rd2
+Nxd2 29.Qxd2 Qxd2+ 30.Kxd2 Ra8 31.Bxc5 Rxa2+ 32.Kd3 dxc5 33.f4
+Rb7 34.h5 Rxb3+ 35.Kc4 Rbb2 36.Rd1 Ra4+ 37.Kxc5 Rxe4 38.Nb6
+Rxf4 39.Na8 Rxg2 40.Rc1 gxh5 0-1

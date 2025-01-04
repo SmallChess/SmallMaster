@@ -1,0 +1,21 @@
+[Event "New York m"]
+[Site "New York m"]
+[Date "1857.11.30"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Charles Henry Stanley"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Be3 Qb6 5.b3 Nc6 6.Nf3 cxd4 7.Bxd4
+Nxd4 8. Nxd4 Bc5 9.c3 Ne7 10.Bb5+ Nc6 11.Bxc6+ bxc6 12.Qh5+ g6
+13.Qg4 O-O 14. O-O Ba6 15.Qxe6+ Kh8 16.Rd1 Rae8 17.Qg4 Rxe5
+18.Nd2 Bc8 19.Qg3 Bd6 20. Qd3 Ba6 21.Qc2 Rh5 22.N2f3 c5 23.Ne2
+Rxf3 24.gxf3 Qd8 25.c4 Rxh2 26. Rxd5 Qh4 27.Qc3+ Kg8 28.Ng3
+Qh3 0-1

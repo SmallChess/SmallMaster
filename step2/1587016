@@ -1,0 +1,20 @@
+[Event "Odds game"]
+[Site "New Orleans, LA USA"]
+[Date "1866.12.30"]
+[EventDate "1866.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. b4 Bxb4 6. c3 Be7
+7. Ng5 O-O 8. d4 d5 9. exd5 Nxd5 10. Qh5 Bxg5 11. Bxg5 Nf4
+12. Qh4 Qd7 13. dxe5 Ng6 14. e6 Qd6 15. exf7+ Kh8 16. Qg3 Qxg3
+17. fxg3 Na5 18. Bd5 c6 19. c4 cxd5 20. cxd5 Nc4 21. Rae1 Nd6
+22. Be7 Nxe7 23. Rxe7 Bf5 24. h3 Rad8 0-1

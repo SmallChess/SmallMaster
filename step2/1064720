@@ -1,0 +1,31 @@
+[Event "Lasker - Janowski"]
+[Site "Paris FRA"]
+[Date "1909.10.21"]
+[EventDate "1909.05.12"]
+[Round "2"]
+[Result "0-1"]
+[White "David Janowski"]
+[Black "Emanuel Lasker"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 {Notes by Simon Alapin} e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4
+5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Ne7 {This is the usual
+move introduced by Pillsbury, the alternative 8...Qe7 is not
+very attractive.} 9.Bc4 {The usual Bxf6 is better, but
+Janowski had a predilection for preserving his 2 Bishops.} Ng6
+10.Nh4 {?} Nf4 {! This very strong move was first made by
+Pillsbury.} 11.Bxf4 exf4 12.Nf3 {Loss of time; 12 g3 followed
+by Ng2 was preferable.} Bg4 13.h3 Bh5 14.Rb1 b6 15.Qd2
+{Unnecessary, but Janowski evidently hoped for attacking
+chances on the open g-file.} Bxf3 16.gxf3 Nh5 17.Kh2 Qf6
+18.Rg1 Rae8 19.d4 Kh8 20.Rb5 Qh6 21.Rbg5 f6 22.R5g4 g6 23.Bd3
+{So as to stop ...f5.} Re7 24.c4 {A careless move: White might
+have tried something more passive such as Qc1 or Rg2, but he
+was under great time pressure.} Ng7 {!} 25.c3 {? d5!} Ne6
+26.Bf1 f5 {!} 27.R4g2 Rf6 {!} 28.Bd3 g5 {!} 29.Rh1 {Only now
+White sees the terrible threat of the Queen sacrifice, but
+there is no defence anyway.} g4 30.Be2 Ng5 31.fxg4 f3 32.Rg3
+fxe2 0-1

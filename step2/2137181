@@ -1,0 +1,15 @@
+[Event "King's Indian Defense thematic engine tournament"]
+[Site "?"]
+[Date "2021.09.22"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "AnMon"]
+[Black "Stockfish"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Original content, 2021"]
+[PlyCount "114"]
+
+{Annotations by the tournament host.} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 {End of book} 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4 Kh8 13. f3 b6 14. Nb3 axb4 15. axb4 Ng8 16. exf5?! gxf5 17. Be3 Bh6 18. Bxh6 Nxh6 19. Bd3 Rg8 20. Qd2 f4 21. Ra1 Rb8 22. Nb5 Nf6 23. Ra7 Rg7 24. Qc2 Nhg4!! {This move was not on white's radar up to the moment it hit the board.} 25. fxg4 Nxg4 26. Qe2? {Not the most tenacious defense, but clinging to all the extra material.} Qh4 27. h3 Ne3 28. Rxc7 Rxc7 29. Nxc7 Bxh3 30. Be4 Rg8 31. Rf2 Bg4 32. Qe1 Bf5 33. Bf3 Nxg2 34. Bxg2 Rxg2+ 35. Kxg2 Bh3+ 36. Kh1 Bg4+ 37. Kg2 Qg3+ 38. Kf1 Bh3+ 39. Ke2 Qe3+ 40. Kd1 Bg4+ 41. Re2 Qxb3+ 42. Kc1 Qa3+ 43. Kd2 Qb2+ 44. Kd1 Qb1+ 45. Kd2 Qb2+ 46. Kd1 e4 47. Nb5 Qb1+ 48. Kd2 Qd3+ 49. Kc1 Bxe2 50. Nc3 Qxc4 51. Qxe2 Qxc3+ 52. Kd1 e3 53. Qc2 Qxc2+ 54. Kxc2 e2 55. Kd2 f3 56. Ke1 h5 57. b5 { Arena adjudicated the game as a win for black here. Although white is a relatively weak engine, black still conducted a sparkling attack. } 0-1

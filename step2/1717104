@@ -1,0 +1,22 @@
+[Event "nTCEC - Stage 4"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.04.17"]
+[EventDate "2013.04.13"]
+[Round "7"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6
+7. Be3 Bf5 8. Nc3 e6 9. Nf3 Bb4 10. Be2 Na5 11. c5 Nd5 12. Bd2
+Ne7 13. O-O h6 14. Bc1 Bxc3 15. bxc3 O-O 16. Qe1 Qd7 17. Nh4
+Bh7 18. Qg3 Kh8 19. Rf2 Nac6 20. Bd2 Nf5 21. Nxf5 Bxf5
+22. Raf1 Ne7 23. Qh4 Kh7 24. g4 Bg6 25. Qg3 Kg8 26. h4 Be4
+27. h5 Qd5 28. Bxh6 gxh6 29. Qe3 Nf5 30. gxf5 exf5 31. Rxf5
+Bxf5 32. Rxf5 Kh7 33. Bf3 Rg8+ 34. Kh1 Qd8 35. Rxf7+ Rg7
+36. Be4+ Kg8 37. Rf6 Rg5 38. Qf3 c6 39. Rxh6 Qe7 40. Rf6 Kh8
+41. Rf7 Qe6 42. d5 Qh6 1-0

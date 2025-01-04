@@ -1,0 +1,24 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1888.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Regensburger"]
+[Black "Siegbert Tarrasch"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nc6 4. Bg5 e6 5. Qd2 Be7 6. Nf3 O-O
+7. O-O-O d5 8. e5 Ng4 9. Bxe7 Qxe7 10. h3 Nh6 11. Bd3 Nb4
+12. Be2 c5 13. Nb5 c4 14. c3 Nc6 15. Nd6 Nf5 16. Nxc8 Raxc8
+17. g4 Nh6 18. Rdf1 b5 19. Ng5 b4 20. h4 Nf7 21. Nxf7 Rxf7
+22. g5 a5 23. h5 Rff8 24. Bg4 a4 25. f4 a3 26. f5 axb2+
+27. Kb1 bxc3 28. Qxc3 Qxg5 29. Rhg1 exf5 30. Bxf5 Rxf5
+31. Rxg5 Rxf1+ 32. Kxb2 Rb8+ 33. Kc2 Nb4+ 34. Kd2 Rf2+ 35. Ke1
+Rxa2 36. Rg3 Nc2+ 37. Kf1 Rb1+ 38. Kg2 Ne3+ 39. Kf3 Rb3
+40. Qxe3 Rxe3+ 41. Kxe3 Ra3+ 0-1

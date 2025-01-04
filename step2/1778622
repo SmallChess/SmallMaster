@@ -1,0 +1,22 @@
+[Event "TCEC - Season 7 - Stage 1a"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.09.21"]
+[EventDate "2014.09.19"]
+[Round "2"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Alfil (Computer)"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. Bg5 Nbd7 6. e3 Qa5
+7. Bxf6 Nxf6 8. Bd3 Bb4 9. O-O Bxc3 10. bxc3 Qxc3 11. c5 Nd7
+12. Qe2 O-O 13. Rfc1 Qa5 14. e4 Rd8 15. e5 h6 16. g4 b6 17. g5
+bxc5 18. gxh6 gxh6 19. Qe3 Ba6 20. Qxh6 Bxd3 21. Kh1 Nf8
+22. Rg1+ Bg6 23. Rg3 Qa3 24. Rag1 Qd3 25. Ng5 Qxd4 26. Nxe6
+Qe4+ 27. f3 Qxe5 28. Nxf8 Qg7 29. Rxg6 fxg6 30. Rxg6 Qxg6
+31. Nxg6 Re8 32. Nf4 Re1+ 33. Kg2 Rae8 34. Qg6+ Kf8 35. Qxc6
+Kf7 36. Qxd5+ Kg7 37. Qxc5 R8e7 38. Qg5+ Kh7 39. Qg6+ Kh8
+40. Kf2 Rh1 41. Qh6+ Kg8 42. Ng6 Re8 43. f4 Rc1 1-0

@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1857.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Thomas Herbert Worrall"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w Kkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4 gxf3 6.O-O Bh6 7.Qxf3
+Nc6 8.Bxf7+ Kxf7 9.Qh5+ Kg7 10.Bxf4 Bxf4 11.Rxf4 Nh6 12.Raf1
+Qe8 13.Qh4 d6 14.Qf6+ Kg8 15.Qxh6 Bd7 16.R4f3 Ne7 17.h4 Ng6
+18.h5 Bg4 19.hxg6 hxg6 {White announced mate in 3} 20.Rf8+
+Qxf8 21.Rxf8+ Rxf8 22.Qxg6# 1-0

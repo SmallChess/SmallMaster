@@ -1,0 +1,19 @@
+[Event "New York USA"]
+[Site "New York  USA"]
+[Date "1857.??.??"]
+[EventDate "1857.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4
+7. O-O Nf6 8. Ba3 Bb6 9. Qb3 d5 10. exd5 Na5 11. Re1+ Be6
+12. dxe6 Nxb3 13. exf7+ Kd7 14. Be6+ Kc6 15. Ne5+ Kb5 16. Bc4+
+Ka5 17. Bb4+ Ka4 18. axb3# 1-0

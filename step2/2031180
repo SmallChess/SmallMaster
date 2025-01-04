@@ -1,0 +1,22 @@
+[Event "Odds match"]
+[Site "Dundee SCO"]
+[Date "1867.01.26"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "George Brunton Fraser"]
+[Black "Wilhelm Steinitz"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1867.02.16, p.171"]
+[PlyCount "54"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Nf7 5. Bc4 Ngh6 6. Nf3
+Bc5 7. Nc3 c6 8. Bd2 d5 9. exd5 O-O 10. Kf1 b5 11. Bd3 cxd5
+12. h3 Nf5 13. Bxf5 Bxf5 14. Qe1 Bxc2 15. g3 b4 16. Ne2 Bd3
+17. Rh2 Qe7 18. Rc1 Rae8 19. Rxc5 Qxc5 20. Bxb4 Qe3 21. Ng1
+Rc8 22. Bd2 Qe4 23. Kf2 Rfe8 24. Nc3 Qxe1+ 25. Bxe1 d4
+26. Nce2 Bxe2 27. Nxe2 Rc2 0-1

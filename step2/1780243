@@ -1,0 +1,17 @@
+[Event "London Chess Classic (Rapid Open)"]
+[Site "London ENG"]
+[Date "2014.12.06"]
+[EventDate "2014.12.06"]
+[Round "2.9"]
+[Result "0-1"]
+[White "Florian Hahn"]
+[Black "Loek van Wely"]
+[ECO "E10"]
+[WhiteElo "2165"]
+[BlackElo "2663"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Qa4+ Nbd7 6. Qxc4
+a6 7. Bg2 b5 8. Qc2 Bb7 9. O-O c5 10. Nbd2 Rc8 11. Qb1 Qb6
+12. e4 cxd4 13. e5 Ng4 14. Nb3 Ngxe5 15. Nbxd4 Bc5 16. Nxe5
+Nxe5 17. Nb3 Bxf2+ 18. Kh1 Ng4 19. h3 Bxg2+ 0-1

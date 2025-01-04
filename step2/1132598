@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1867.06.05"]
+[EventDate "1867.06.04"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Hieronim Czarnowski"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c6 4. Nf3 Bb4 5. Bd3 dxe4 6. Bxe4 Nf6
+7. Bd3 h6 8. O-O Nbd7 9. Be3 Bd6 10. Qd2 Qc7 11. h3 b6 12. Ne2
+g5 13. c4 Bb7 14. b4 c5 15. dxc5 bxc5 16. bxc5 Bxc5 17. Nfd4
+Rd8 18. Bc2 Rg8 19. Ba4 Ke7 20. Rfd1 Nb6 21. Nc6+ Qxc6
+22. Bxc6 Bxe3 23. Qb4+ 1-0

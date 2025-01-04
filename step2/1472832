@@ -1,0 +1,51 @@
+[Event "World Championship Tournament"]
+[Site "Mexico City MEX"]
+[Date "2007.09.14"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Levon Aronian"]
+[Black "Viswanathan Anand"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 {Notes by Raymond Keene. --- The first positive result of
+the event. Aronian thought that his d5 was not good, and that
+he had missed ...Qe6. He said that Anand had played well and
+he had not, his attacking idea being too speculative. In reply
+to a question about his state of mind after achieving the
+first win of the tournament, Anand replied that one should
+play on a day-to-day basis, and not get ahead of oneself. 40%
+of people think that games should end in a draw, but sometimes
+they are not correct.} Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6
+{At this point 5 ... dxc4 6 e4 b5 7 e5 h6 8 Bh4 g5 9 Nxg5 hxg5
+10 Bxg5 Nbd7 is the famous Botvinnik variation.} 6.Bh4
+{Offering a different type of gambit and admitting that 6 Bxf6
+Qxf6 is probably harmless for Black.} dxc4 7.e4 g5 8.Bg3 b5
+9.Ne5 h5 10.h4 g4 {Although Black's position is weakened on
+both wings he does enjoy an extra pawn. Furthermore a pattern
+is beginning to emerge in that Black's pawns on g4 and c4 are
+threatening to restrict the movement of White's f1-bishop.}
+11.Be2 Bb7 12.O-O Nbd7 13.Qc2 Nxe5 14.Bxe5 Bg7 15.Rad1 O-O
+16.Bg3 Nd7 17.f3 c5 18.dxc5 Qe7 19.Kh1 {This move seems
+insufficiently active. The critical line must be 19 Bd6 Qxh4
+(threatening ... g3) 20 fxg4 Bh6 21 Rf3 with complications.}
+a6 20.a4 Bc6 21.Nd5 {White's next move tries to storm the
+black camp with his bare hands. It is surprising that Aronian
+did not instead seek to counter Black's strategy of containing
+the white king's bishop. White could have achieved this by
+playing 21 fxg4 which also has the virtue of pocketing a
+pawn. After this the position remains devilishly
+complicated. } exd5 22.exd5 Be5 23.f4 Bg7 24.dxc6 Nxc5 25.Rd5
+Ne4 26.Be1 Qe6 {! This was the move White had overlooked. His
+rook is now driven out of play, Black's knight dominates the
+centre and by permitting Black with his next move to
+consolidate the pawn on g4, White is suddenly faced with a
+situation where his light squared bishop is virtually
+useless. } 27.Rxh5 f5 28.Kh2 Rac8 29.Bb4 Rfe8 30.axb5 axb5
+31.Re1 Qf7 32.Rg5 {An admission of the bankruptcy of his
+entire strategy beginning with 21 Nd5.} Nxg5 33.fxg5 Rxc6
+34.Bf1 Rxe1 35.Bxe1 Re6 36.Bc3 Qc7+ 37.g3 Re3 38.Qg2 Bxc3
+39.bxc3 f4 40.Qa8+ Kg7 41.Qa6 fxg3+ 0-1

@@ -1,0 +1,25 @@
+[Event "World Open: Open Section"]
+[Site "Philadelpha, PA USA"]
+[Date "2003.07.02"]
+[EventDate "2003.07.03"]
+[Round "1"]
+[Result "0-1"]
+[White "Georgios Alexopoulos"]
+[Black "Hikaru Nakamura"]
+[ECO "B22"]
+[WhiteElo "2236"]
+[BlackElo "2648"]
+[PlyCount "62"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. Bc4 Nb6
+7. Bb3 d5 8. exd6 Qxd6 9. O-O Be6 10. Bxe6 Qxe6 11. Nxd4 Nxd4
+12. Qxd4 Rd8 13. Qb4 Qc6 14. a4 { A game of great theoretical
+importance with a novelty on move 14!! (The 14. .. . Rd5 of
+Grandmaster Nakamuradoes not appear in any of my
+severalmulti-million game databases!!} 14... Rd5 $3 15. a5 e6
+16. Qf4 Bd6 17. axb6 $5 Bxf4 18. bxa7 $1 Ke7 $1 {The only
+move.} 19. Bxf4 Ra8 {The only move!} 20. Bb8 $1 Rd8 $1 21. Na3
+Raxb8 22. axb8=Q Rxb8 23. Nc2 Rd8 24. Nd4 Qb6 25. b4 Rc8
+26. Ra3 { White is in time trouble.} 26... Rc4 27. Rd1 Qc7
+28. Ne2 h5 $3 29. Rd4 Qe5 30. Rd2 $138 Re4 31. Raa2 Qxc3
+{White loses on time.} 0-1

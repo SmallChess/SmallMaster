@@ -1,0 +1,16 @@
+[Event "Amsterdam m2"]
+[Site "Amsterdam NED"]
+[Date "1919.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Gerard Kroone"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Bxd5 Qxd5 8.Nc3 Qa5 9.Nxd4 Nxd4 10.Qxd4 f5 11.Bg5 Bc5
+12.Qxg7 Bxf2+ 13.Kh1 Qb4 14.Nd5 1-0

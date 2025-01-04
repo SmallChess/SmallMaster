@@ -1,0 +1,19 @@
+[Event "Rethymno sim"]
+[Site "Rethymno GRE"]
+[Date "2001.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Andreas Karabinas"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 g6 6.c3 Bg7 7.d4
+Nf6 8.h3 O-O 9.dxc5 dxc5 10.Bf1 Qc7 11.Na3 a6 12.e5 Ne8 13.Qd5
+b6 14.Bf4 Be6 15.Qe4 Bf5 16.Qe3 Qb7 17.g4 Bd7 18.Rad1 Rd8
+19.Bg2 Nc7 20.Ng5 Ne6 21.Nxe6 Bxe6 22.b3 Rd7 23.Rxd7 Qxd7
+24.Bg3 Rd8 25.f4 Nb8 26.Bh4 Kf8 27.Nc4 Bxc4 28.bxc4 Qd3
+29.Qxd3 Rxd3 30.Rb1 f6 31.e6 Rd6 32.g5 Nc6 33.Rxb6 Rd1+ 1-0

@@ -1,0 +1,36 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1925.12.02"]
+[EventDate "1925.11.10"]
+[Round "17"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Rudolf Spielmann"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. c4 {Notes by Bogoljubov} e6 2. d4 d5 3. Nf3 Nf6 4. Bg5 h6
+5. Bxf6 Qxf6 6. Nc3 c6 7. e3 Nd7 8. Bd3 Bb4 9. O-O Bxc3
+10. bxc3 dxc4 11. Bxc4 e5 {He should have castled first before
+making this move. Now White will have the better endgame.}
+12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qd4 Qxd4 15. exd4 Be6 {The
+lesser evil since 15...0—0, could be answered by 16 Rfe1
+followed by Re7.} 16. Rfe1 Kd7 17. Bxe6+ fxe6 18. Re5 Rhf8
+19. Rae1 Rae8 20. f3 Rf5 21. Kf2 Rxe5 22. Rxe5 {This Rook
+ending is far from easy for Black but it is by no means lost
+yet.} b5 23. Ke3 Rb8 24. h4 Rb6 25. a4 {! Evidently Black's
+counter manoeuvre has not availed him much but now he should
+play b4 so as at least to keep his Rook mobile after 26 cxb4
+Rxb4 27 Ra5 Rb2, etc.} a5 26. Kd3 Rb8 27. Kc2 Rb7 28. c4 bxa4
+29. Rxa5 Rb4 30. Kd3 Kc7 31. c5 Kb7 32. Ke4 h5 33. g4 hxg4
+34. fxg4 g6 35. Ke5 Rc4 36. h5 {? One of the very rare cases
+of Lasker playing an ending with lack of precision and thereby
+enabling the opponent to force the draw by a subtle
+manoeuvre. White could have won quite easily by 36 b5.} gxh5
+37. gxh5 Rc1 {? Black misses his opportunity. It was only in
+the post mortem that Spielmann found out how he could have
+drawn the game here by 37...Rb4! 38 h6 Rb3! 39 Rxa4 Rh3 40 Kd6
+Rxh6, etc.} 38. Rxa4 Rh1 39. Kd6 Rxh5 40. Rb4+ Kc8 41. Kxc6
+Rd5 42. Ra4 Kb8 43. Kb6 1-0

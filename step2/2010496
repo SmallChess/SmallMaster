@@ -1,0 +1,20 @@
+[Event "Simul, 27b"]
+[Site "Knotty Ash, Liverpool ENG"]
+[Date "1974.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Tal"]
+[Black "Stephen Pimentil"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Britbase"]
+[PlyCount "56"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 Nf6 5.Qe2 O-O 6.O-O c6 7.Bb3
+a5 8.a4 Nbd7 9.e5 dxe5 10.dxe5 Nd5 11.Nbd2 Nc5 12.Bc4 Be6
+13.Ne4 Nb6 14.Bxe6 Nxe6 15. Rd1 Qc7 16.Neg5 Nxg5 17.Bxg5 Rad8
+18.b3 Nd5 19.Rd4 Nc3 20.Qd3 Rxd4 21.Nxd4 Qxe5 22.Qxc3 Qxg5
+23.Rd1 Rd8 24.Kf1 e5 25.Qxa5 Rxd4 26.Rxd4 Qc1+ 27.Ke2 exd4
+28.Qd8+ Bf8 0-1

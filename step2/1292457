@@ -1,0 +1,21 @@
+[Event "Ebbw Vale sim"]
+[Site "Ebbw Vale"]
+[Date "1998.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "David J Williams"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 Bf5 4.Bg5 Nbd7 5.e3 e5 6.Bd3 Bxd3
+7.Qxd3 Be7 8.dxe5 Nxe5 9.Nxe5 dxe5 10.Qb5+ Nd7 11.Bxe7 Qxe7
+12.O-O-O Rb8 13.Nd5 c6 14.Nxe7 cxb5 15.Nf5 g6 16.Nd6+ Ke7
+17.Nxb5 f5 18.Rd5 e4 19.Rhd1 Nf6 20.Re5+ Kf7 21.Nd6+ Kf8
+22.Re6 Ne8 23.Nxe8 Rxe8 24.Red6 Kf7 25.c4 Re5 26.Rd7+ Re7
+27.Kc2 Rc8 28.Kc3 b5 29.b3 bxc4 30.bxc4 Rb8 31.c5 Rb5 32.Kc4
+Rb2 33.R7d2 Rb8 34.c6 Rc7 35.Rd7+ Rxd7 36.Rxd7+ Ke8 37.Rxa7
+Rb2 38.c7 Rc2+ 39.Kd5 1-0

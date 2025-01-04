@@ -1,0 +1,24 @@
+[Event "Open GMI"]
+[Site "Evry"]
+[Date "2005.02.22"]
+[EventDate "2005.03.12"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Sergey Fedorchuk"]
+[ECO "C69"]
+[WhiteElo "2488"]
+[BlackElo "2570"]
+[PlyCount "106"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4
+exd4 7. Nxd4 c5 8. Nb3 Qxd1 9. Rxd1 Bg4 10. f3 Be6 11. Bf4 c4
+12. Nd4 O-O-O 13. Nc3 Bf7 14. Kf1 Ne7 15. Be3 g6 16. Rd2 Bg7
+17. Rad1 Rhe8 18. Kf2 b6 19. f4 Kb7 20. Nf3 Rxd2+ 21. Rxd2 Be6
+22. h3 h5 23. Bd4 Nc6 24. Be3 Bc8 25. Nd4 Nd8 26. f5 c5
+27. Nde2 gxf5 28. Ng3 fxe4 29. Nxh5 Bh8 30. Nxe4 Nf7 31. Nd6+
+Nxd6 32. Rxd6 c3 33. bxc3 f5 34. c4 Re4 35. Nf6 Rxc4 36. Kf3
+Rxc2 37. h4 Ka7 38. g3 Rxa2 39. Kf4 a5 40. h5 a4 41. Nd5 Rb2
+42. Nxb6 Rb4+ 43. Kg5 a3 44. Nxc8+ Kb7 45. Rd7+ Kxc8 46. Ra7
+Rg4+ 47. Kxf5 Rxg3 48. Bxc5 Bb2 49. h6 Rh3 50. Kg6 Rg3+
+51. Kf5 Rh3 52. Kg6 Rg3+ 53. Kf5 Rh3 1/2-1/2

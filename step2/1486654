@@ -1,0 +1,15 @@
+[Event "Cergy Pontoise op 2nd"]
+[Site "Cergy Pontoise"]
+[Date "2004.05.15"]
+[EventDate "2004.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Y Benmessaoud"]
+[ECO "C40"]
+[WhiteElo "2637"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Ne7
+6. Qxh8 Nec6 7. Bc4 Nb4 8. Qxh7 Nd3+ 9. cxd3 d6 10. Qf7# 1-0

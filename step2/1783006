@@ -1,0 +1,18 @@
+[Event "Tradewise Gibraltar"]
+[Site "Catalan Bay GIB"]
+[Date "2015.01.27"]
+[EventDate "2015.01.27"]
+[Round "3.20"]
+[Result "1-0"]
+[White "Veselin Topalov"]
+[Black "Andres Guerrero Vargas"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg5 Bb7 5. Nbd2 Be7 6. e3 Ne4
+7. Nxe4 Bxe4 8. Bxe7 Qxe7 9. c3 e5 10. Bd3 Bxd3 11. Qxd3 e4
+12. Qxb5 exf3 13. Qb7 O-O 14. Qxa8 Nc6 15. Qb7 Rb8 16. Qxc7
+Rxb2 17. Qc8+ Nd8 18. O-O h5 19. Rab1 Rxb1 20. Rxb1 Kh7
+21. Qc5 1-0

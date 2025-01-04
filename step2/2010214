@@ -1,0 +1,23 @@
+[Event "Champions Showdown Chess 9LX"]
+[Site "lichess.org INT"]
+[Date "2020.09.12"]
+[EventDate "2020.09.11"]
+[Round "4.1"]
+[Result "0-1"]
+[White "Garry Kasparov"]
+[Black "Fabiano Caruana"]
+[ECO "000"]
+[WhiteElo "2812"]
+[BlackElo "2835"]
+[Source "TWIC"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "bbrqnknr/pppppppp/8/8/8/8/PPPPPPPP/BBRQNKNR w HChc - 0 1"]
+
+1. c4 c5 2. b3 b6 3. Ngf3 Nef6 4. d4 e6 5. O-O Ne7 6. Qd2 Ng6
+7. Nd3 Qe7 8. Rfd1 cxd4 9. Nxd4 O-O 10. Qb4 Bd6 11. Qc3 Rfe8
+12. Nb5 Bb8 13. Qb4 d6 14. f3 a6 15. Nd4 a5 16. Qe1 d5
+17. cxd5 Nxd5 18. Rxc8 Rxc8 19. Rc1 Rd8 20. Nc6 Bxc6 21. Rxc6
+Qg5 22. g3 h5 23. Qc1 Qe7 24. Rc8 h4 25. f4 Bd6 26. Qc6 Qf8
+27. Rxd8 Qxd8 28. Qc4 Bf8 29. Bd4 h3 30. Nf2 b5 31. Qd3 Nb4
+32. Qe4 Qc7 33. Nxh3 Nd5 34. Qd3 Bc5 35. Qc2 Bxd4+ 0-1

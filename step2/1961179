@@ -1,0 +1,16 @@
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.02.13"]
+[EventDate "2019.01.08"]
+[Round "6"]
+[Result "1-0"]
+[White "Samuel Shankland"]
+[Black "Joshua Sheng"]
+[ECO "B41"]
+[WhiteElo "2725"]
+[BlackElo "2451"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Qd3 Qc7 7. O-O d6 8. c4
+Nbd7 9. Nc3 b6 10. f4 Bb7 11. b4 Rc8 12. f5 Ne5 13. Qh3 exf5 14. Nxf5 g6 15. Bg5
+Nfd7 16. Nh6 Bg7 17. Rxf7 1-0

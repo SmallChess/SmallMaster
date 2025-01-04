@@ -1,0 +1,17 @@
+[Event "EST-ch"]
+[Site "Tallinn EST"]
+[Date "1942.05.24"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Sinkel Th"]
+[Black "Paul Keres"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Be3 d5 6.exd5 Nxd5
+7.Bxd5 Qxd5 8.Nbd2 Bg4 9.h3 Bh5 10.g4 Bg6 11.Rg1 h5 12.Ng5
+hxg4 13.hxg4 Bxg5 14.Bxg5 e4 15.f4 exf3 16.Nxf3 Kd7 17.Kd2 Nd4
+18.Nxd4 Qxg5+ 19.Ke2 0-1

@@ -1,0 +1,22 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Herbert Steinbring"]
+[ECO "E71"]
+[WhiteElo "2644"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Nf3 Nbd7 7.Bd3
+e5 8.d5 c5 9.g4 a6 10.Nd2 Ne8 11.h4 Nc7 12.g5 b5 13.cxb5 axb5
+14.Nxb5 Nxb5 15.Bxb5 Ba6 16.Bxa6 Rxa6 17.b3 Qa8 18.Qc2 f5
+19.f3 fxe4 20.fxe4 Nb6 21.a4 Qc8 22.Qd3 Ra8 23.Qe2 Qd7 24.h5
+Rf7 25.hxg6 hxg6 26.Kd1 Qc8 27.Kc2 Qd7 28.Qb5 Qxb5 29.axb5
+Rfa7 30.Rxa7 Rxa7 31.Nc4 Nxc4 32.bxc4 Bf8 33.Bd2 Be7 34.b6 Rb7
+35.Ba5 Bd8 36.Rh3 Kg7 37.Rg3 Rb8 38.Rb3 Rb7 39.Kb2 Bxg5 40.Ka3
+Bd8 41.Ka4 g5 42.Kb5 Rb8 43.Kc6 Kf6 44.Kxd6 g4 45.Kxc5 Kg5
+46.Bd2+ Kf6 47.b7 Rxb7 48.Rxb7 g3 49.Be3 1-0

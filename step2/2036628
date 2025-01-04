@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1859.07.??"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Moncure Daniel Conway"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+[PlyCount "23"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. Qxf3 Bh6
+7. O-O Ne7 8. Bxf4 Bxf4 9. Bxf7+ Kxf7 10. Qxf4+ Kg7 11. Qf6+
+Kg8 12. Qf7# 1-0

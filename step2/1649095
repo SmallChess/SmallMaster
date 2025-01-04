@@ -1,0 +1,17 @@
+[Event "London Classic Exhibition"]
+[Site "London"]
+[Date "2011.12.03"]
+[EventDate "2011.11.03"]
+[Round "?"]
+[Result "0-1"]
+[White "Boris Becker"]
+[Black "Nigel Short"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Bxc6 dxc6 5. exf5 e4 6. Ne5
+Bxf5 7. O-O Qd4 8. Qh5+ g6 9. Nxg6 hxg6 10. Qe2 Bd6 11. g3
+O-O-O 12. c3 Qd5 13. f4 Bc5+ 14. d4 exd3+ 15. Qf2 Bh3 16. Qxc5
+Qg2# 0-1

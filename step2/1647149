@@ -1,0 +1,16 @@
+[Event "Scarborough simul"]
+[Site "Ontario"]
+[Date "2010.02.18"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Jiaxin Dora Liu"]
+[ECO "B94"]
+[WhiteElo "2723"]
+[BlackElo "1297"]
+[PlyCount "29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5
+Nbd7 7. Bc4 e6 8. Qe2 Qc7 9. O-O-O b5 10. Bxe6 fxe6 11. Nxe6
+Qc6 12. Nd5 Nxd5 13. exd5 Qc4 14. Nc7+ Kf7 15. Qe6# 1-0

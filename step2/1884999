@@ -1,0 +1,17 @@
+[Event "Simul, 25b"]
+[Site "Amsterdam NED"]
+[Date "1920.01.31"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "L Gorris"]
+[Black "Emanuel Lasker"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. e5 dxc3 5. bxc3 Nc6 6. f4 Bc5
+7. Nf3 Nge7 8. Bd3 Bf5 9. Na3 O-O 10. Nc2 f6 11. Ncd4 fxe5
+12. Bxf5 Nxf5 13. Ne6 Qd6 14. Nxf8 Rxf8 15. fxe5 Nxe5 16. Nd4
+Nxd4 17. cxd4 Bb4+ 18. Ke2 0-1

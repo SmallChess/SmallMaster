@@ -1,0 +1,21 @@
+[Event "Clock simul, 10b"]
+[Site "London ENG / New York USA"]
+[Date "1984.07.01"]
+[EventDate "1984.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Paul Truong"]
+[ECO "E12"]
+[WhiteElo "2710"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Bg5 h6 6.Bh4 g5 7.Bg3
+Ne4 8.Qc2 Bb7 9.Nd2 Bxc3 10.bxc3 f5 11.e3 Nxd2 12.Qxd2 d6
+13.h4 g4 14.a4 Nc6 15.c5 Na5 16.Qa2 Qe7 17.Bb5+ Kf7 18.O-O
+dxc5 19.Bd3 Rad8 20.Rfe1 c4 21.Bc2 Rhg8 22. e4 f4 23.Bxf4 Qxh4
+24.Bxc7 Rd7 25.Bg3 Qg5 26.Qa3 Nc6 27.d5 Ne5 28.a5 h5 29.Rad1
+Rgd8 30.Ba4 Rd6 31.axb6 axb6 32.Bb5 Kg6 33.Qc1 Qxc1 34.Rxc1
+Nd3 35.Bxd6 Rxd6 36.dxe6 Bc6 37.e5 Bxb5 38.exd6 Kf6 39.Rb1
+Nxe1 40.Rxb5 Nd3 41.e7 1-0

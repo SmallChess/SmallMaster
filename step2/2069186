@@ -1,0 +1,21 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1881.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player's Chronicle, 1881.10.18, p.499"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPP1PP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 d6 5. O-O Be6 6. Bb5 a6 7. Ba4 b5 8. Bb3
+Bxb3 9. axb3 Nd4 10. Nxd4 exd4 11. Ne2 c5 12. d3 Be7 13. h3 O-O 14. Ng3 h6 15.
+Nf5 Qc7 16. Qe1 Nh5 17. Qe2 g6 18. Bxh6 Kh7 19. Bc1 Rg8 20. Qg4 Bf6 21. Nh6 Rg7
+22. Qf3 Qe7 23. e5 Bg5 24. exd6 Qf6 25. Qxa8 Qd8 26. Qxd8 Bxd8 27. Nxf7 Ng3 28.
+Nxd8 Ne2+ 29. Kh2 Nxc1 30. Ne6 Rd7 31. Nf8+ 1-0

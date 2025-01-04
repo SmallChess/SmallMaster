@@ -1,0 +1,25 @@
+[Event "Noisy le Grand op"]
+[Site "Noisy le Grand"]
+[Date "2000.??.??"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Moez Jellouli"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "B39"]
+[WhiteElo "?"]
+[BlackElo "2637"]
+[PlyCount "118"]
+
+1. e4 c5 2. Nf3 g6 3. c4 Bg7 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Nc6
+7. Be3 Ng4 8. Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 d6 11. Bd3 Bd7
+12. O-O Bc6 13. Qd2 a5 14. b3 Nc5 15. Bb1 O-O 16. Bd4 b6
+17. Bxg7 Kxg7 18. Rfd1 Qc7 19. Nd5 Qb7 20. Qg5 f6 21. Qe3 Rfd8
+22. f3 e6 23. Nf4 e5 24. Nd5 Rab8 25. Qc3 Ne6 26. Rd2 Bxd5
+27. cxd5 Rbc8 28. Qb2 Rxc1+ 29. Qxc1 Nd4 30. Bd3 Rc8 31. Qf1
+Qc7 32. Ba6 Qc1 33. Qxc1 Rxc1+ 34. Kf2 b5 35. Rb2 Kf7 36. a4
+b4 37. Bc4 Ke7 38. Ke3 f5 39. Rd2 f4+ 40. Kf2 Kd7 41. Rb2 Kc7
+42. Be2 Kb6 43. Bc4 Kc5 44. Bd3 Rc3 45. Bc4 Rxc4 46. bxc4 Kxc4
+47. Rb1 Kc3 48. Rc1+ Nc2 49. Ke2 b3 50. Kd1 b2 51. Rxc2+ Kb3
+52. Rxb2+ Kxb2 53. Kd2 Kb3 54. Kd3 g5 55. h3 h5 56. Kd2 Kxa4
+57. Kc3 Kb5 58. Kb3 h4 59. Ka3 a4 0-1

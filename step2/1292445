@@ -1,0 +1,19 @@
+[Event "Ebbw Vale sim"]
+[Site "Ebbw Vale"]
+[Date "1998.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael Adams"]
+[Black "Nigel Granville"]
+[ECO "B76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+O-O 8.Qd2 Nc6 9.O-O-O Bd7 10.h4 h5 11.Kb1 Ne5 12.Bh6 Rc8
+13.Bxg7 Kxg7 14.Be2 Nc4 15.Bxc4 Rxc4 16.Rhe1 Qa5 17.Nb3 Qc7
+18.Nd5 Nxd5 19.exd5 Rc8 20.Nd4 Kh7 21.Rxe7 Rxd4 22.Qc1 Rxd1
+23.Qxd1 Kg8 24.a3 Re8 25.Qe2 Qd8 26.Re4 Rxe4 27.Qxe4 Bf5
+28.Qd4 Qc7 29.Qd2 Qc4 0-1

@@ -1,0 +1,20 @@
+[Event "Casual game"]
+[Site "Paris FRA"]
+[Date "1858.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Francois Charles Devinck"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 d6 2.d4 Nf6 3.Bd3 e5 4.dxe5 dxe5 5.Bg5 Bc5 6.Nf3 h6 7.Bh4
+Bg4 8. O-O Nbd7 9.Nbd2 g5 10.Bg3 h5 11.Qe1 Qe7 12.h4 Nh7 13.c3
+O-O-O 14.b4 Bb6 15.a4 a6 16.Qb1 Rhf8 17.a5 Ba7 18.b5 Bxf3
+19.Nxf3 Rxf3 20.gxf3 gxh4 21. b6 cxb6 22.axb6 Bxb6 23.Rxa6
+bxa6 24.Bxa6+ Kc7 25.Qb5 hxg3 0-1

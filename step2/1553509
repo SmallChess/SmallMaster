@@ -1,0 +1,24 @@
+[Event "Kamp Lintfort sim"]
+[Site "Kamp Lintfort"]
+[Date "2004.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Ralf Ciaxz"]
+[ECO "A35"]
+[WhiteElo "2644"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 g6 4.e3 Bg7 5.d4 cxd4 6.exd4 d6 7.Be2
+Nf6 8.d5 Nb8 9.O-O O-O 10.h3 Nbd7 11.Be3 Nc5 12.Rc1 Nfe4
+13.Nxe4 Nxe4 14.Qc2 Nf6 15.Qb3 b6 16.Nd4 Qc7 17.Rfe1 Nd7
+18.Qa3 Bb7 19.Bf1 Rfe8 20.Qa4 Nc5 21.Qd1 a5 22.Nb5 Qd8 23.Bd4
+Nd7 24.Bxg7 Kxg7 25.Qd4+ Kg8 26.b3 Ba6 27.Nc3 Nc5 28.Rb1 Bc8
+29.Re3 Rb8 30.Rbe1 Bd7 31.Qf4 Rb7 32.Qh6 e5 33.dxe6 Rxe6 34.g3
+Rxe3 35.Rxe3 Be6 36.Bg2 Re7 37.Qf4 Bf5 38.Nb5 Ne6 39.Qxd6 Rd7
+40.Qe5 Rd1+ 41.Kh2 Rd2 42.Re2 Bb1 43.Bd5 Rxe2 44.Qxe2 Nc5
+45.Nc3 Bd3 46.Qf3 Qe7 47.Qf4 Kg7 48.Kg2 f5 49.Qd4+ Qf6
+50.Qxf6+ Kxf6 51.f4 h6 52.Kf2 a4 53.Ke3 axb3 54.axb3 Bc2 55.b4
+Na6 1-0

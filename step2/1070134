@@ -1,0 +1,28 @@
+[Event "Hamburg sim-32 (10)"]
+[Site "Hamburg FRG"]
+[Date "1985.06.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Elite A/S Experimental (Computer)"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "147"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 exd4 6.Nxd4 c5
+7.Nb5 Qxd1+ 8.Kxd1 Kd7 9.Bf4 Bxc3 10.bxc3 Nc6 11.Kc2 g5
+12.Bxg5 Ne5 13.Bf4 f6 14.Bxe5 fxe5 15.Bxc4 Nf6 16.Rad1+ Ke7
+17.Nc7 Rb8 18.Nd5+ Kf7 19.Nxf6 Kxf6 20.Rd6+ Kg7 21.Rhd1 b5
+22.Be6 Rf8 23.f3 Kh8 24.R1d5 Re8 25.Bxc8 Rbxc8 26.Rd7 a6
+27.Ra7 Rc6 28.h4 Kg8 29.h5 h6 30.Rdd7 Rf6 31.Rg7+ Kf8 32.g4
+Ree6 33.Rh7 Kg8 34.Rhc7 Rxf3 35.Rxc5 Rf7 36.Rc8+ Kg7 37.Raa8
+Rf2+ 38.Kb3 Rf4 39.Rg8+ Kh7 40.Rh8+ Kg7 41.Rag8+ Kf7 42.g5
+hxg5 43.Rxg5 Rxe4 44.Rh7+ Kf8 45.h6 Rh4 46.Rh8+ Ke7 47.Rg7+
+Kd6 48.h7 Reh6 49.Rd8+ Ke6 50.Rdd7 e4 51.Rge7+ Kf6 52.Kb4 e3
+53.Ka5 Ra4+ 54.Kb6 Kf5 55.Kb7 Rxa2 56.Rxe3 Rah2 57.Rf7+ Kg6
+58.Ref3 Rxh7 59.Rxh7 Kxh7 60.Kxa6 Rh5 61.Rg3 Rd5 62.Kb6 Re5
+63.Ka5 Rd5 64.Kb4 Re5 65.Rg2 Rf5 66.Ra2 Kg6 67.Ra5 Rf3 68.Rxb5
+Rf4+ 69.c4 Kf6 70.Rd5 Ke7 71.Rd1 Rf2 72.Kb5 Rc2 73.c5 Rb2+
+74.Ka6 1-0

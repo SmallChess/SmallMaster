@@ -1,0 +1,23 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Abdullah Che Hassan"]
+[ECO "E41"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nge2 d5 7.cxd5
+Nxd5 8.O-O Bxc3 9.bxc3 h6 10.e4 Nf6 11.e5 Nd5 12.Bb1 f5
+13.exf6 Nxf6 14.Ba3 Nbd7 15.dxc5 Ne5 16.Qb3 Nc6 17.Ng3 Kh8
+18.Ne4 Nxe4 19.Bxe4 Qc7 20.Rad1 Bd7 21.Rd6 Rad8 22.Rfd1 Na5
+23.Qb4 Nc6 24.Qb1 Bc8 25.h3 e5 26.Bc1 Qf7 27.Be3 Qe8 28.Bxh6
+Rxd6 29.Rxd6 gxh6 30.Bxc6 Qh5 31.Bf3 Qg5 32.Rg6 Qf4 33.Qe4
+Qc1+ 34.Kh2 Re8 35.Qh4 Qf4+ 36.Qxf4 exf4 37.Rxh6+ Kg7 38.Rd6
+Re5 39.c6 b6 40.Rd8 Bf5 41.Rd5 Kf6 42.Rxe5 Kxe5 43.Bg4 Bxg4
+44.hxg4 Kd6 45.g5 Kxc6 46.g6 Kb5 47.g7 f3 48.g8=Q fxg2 49.Qd5+
+Ka6 50.c4 g1=Q+ 51.Kxg1 1-0

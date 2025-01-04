@@ -1,0 +1,45 @@
+[Event "Lasker - Schlechter World Championship Match"]
+[Site "Vienna AUH"]
+[Date "1910.01.13"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Emanuel Lasker"]
+[Black "Carl Schlechter"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 {Notes by J. R. Capablanca} e5 2. Nf3 Nc6 3. Bb5 a6
+4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4 {8.dxe5 is the
+usual continuation} Nxd4 $1 9. Nxd4 exd4 10. Qxd4 {If 10.axb5
+Bc5, with a fine game. 10...Nc5 in answer to 10.axb5, as
+suggested by I. Gunsberg, would not do, as White gets the
+better game by playing 11.QXd4.} Be6 11. c3 c5 {11...Bc5!
+would have led to a most interesting situation. In fact, it
+looks as if White would get the worst of it. 11...Bc5 12.Qxg7
+Kd7, and I cannot see any good way for White to get away from
+the terrific attack. As 13...Qh4 is threatened, White's best
+move is probably 13.Qh6, then 13...Rg8 14.Be3 (seems best)
+14...Rg6 15.Qh5 and now without going into any further attacks
+Black gets the better game by playing 15...Bxe3 16.fxe3 Qg5
+17.Qg5 Rxg5.} 12. Qe5 Qb8 $16 13. Qxb8+ Rxb8 14. axb5 axb5
+{After all these exchanges, Black comes out a pawn ahead. If
+that is the best that White can obtain from a4 on the eight
+move, it cannot be recommended. The advance seems premature.}
+15. Na3 Be7 {15...b4 seems to be the proper move; and if
+16.Ba4+ Bd7. The text move gives White a chance to gain lost
+ground.} 16. Bf4 Rb7 17. f3 Nf6 18. Nxb5 O-O {If 18...Rxb5
+19.Ba4 Bd7 20.Bxb5 Bxb5 21.Re1 and Black must lose a
+piece. Mr. I. Gunsberg's suggestion that if 18...Rxb5 19.Ra8+
+is not correct, as Black could then play 19...Kd7, and have
+two pieces for a rook.} 19. Ba4 $5 c4 {If 19...Bd7 20.c4 dxc4
+21.Nc3.} 20. Ra2 $1 $16 20... Bc5+ 21. Kh1 $1 Bd7 22. Bd6 Bxd6
+{Black could also play 22...Rxb5 23.Bxf8 Bxf8 24.Bxb5 Bxb5,
+and White would now have two exchanges for a piece. Too bad
+Schlechter did not play this way. It would have been a great
+ending to play.} 23. Nxd6 Rb6 24. Bxd7 Nxd7 25. Nf5 $13 Re8
+26. Ra7 Nf6 27. Ra2 g6 28. Nd4 Reb8 29. Rf2 Nd7 30. h3 Nc5
+31. Rd2 Nd3 32. b4 $1 cxb3 33. Nxb3 Rxb3 34. Rxd3 Rc8 35. Rxd5
+Rbxc3 1/2-1/2

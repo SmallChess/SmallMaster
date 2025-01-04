@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Unknown"]
+[Date "1873.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Wilhelm Steinitz"]
+[ECO "A83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. Bxf6 exf6 6. Nxe4
+Qb6 7. Qe2 Qxb2 8. Nd6+ Kd8 9. Qe8+ Kc7 10. Qxc8+ Kxd6 11. Rd1
+Na6 12. Qxa8 Kc7 13. Qxa7 Bb4+ 14. Ke2 Qxc2+ 15. Kf3 Qf5+
+16. Kg3 Bd6+ 17. Kh4 Qg5+ 18. Kh3 Qh5# 0-1

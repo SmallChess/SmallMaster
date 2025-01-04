@@ -1,0 +1,27 @@
+[Event "Pasadena"]
+[Site "Pasadena, CA USA"]
+[Date "1932.08.16"]
+[EventDate "1932.08.15"]
+[Round "2"]
+[Result "1-0"]
+[White "Samuel Reshevsky"]
+[Black "Jacob Bernstein"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "147"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.Bd3 Bd6 5.Nbd2 Nbd7 6.e4 dxe4
+7.Nxe4 Nxe4 8.Bxe4 c5 9.O-O O-O 10.c3 cxd4 11.Qxd4 Qb6 12.Qd1
+Nf6 13.Bc2 h6 14.Qe2 Bd7 15.a4 Rfe8 16.Ne5 Qc7 17.Nxd7 Nxd7
+18.h3 Nf6 19.Bd2 Bf4 20.Be1 Rad8 21.c4 Be5 22.Rb1 Rd7 23.a5
+Red8 24.Bb4 Rc8 25.b3 Rcd8 26.Rfd1 Bd4 27.Kh1 Qf4 28.Be1 Qe5
+29.Qxe5 Bxe5 30.Rxd7 Rxd7 31.Kg1 Kf8 32.Kf1 Ke7 33.Ke2 Kd8
+34.Rd1 Rxd1 35.Kxd1 Kc7 36.Ke2 Nd7 37.Ke3 b6 38.f4 Bb2 39.g4
+Bc1+ 40.Kf3 Bb2 41.Bd2 Kc6 42.axb6 axb6 43.b4 Kd6 44.Ba4 Nb8
+45.Be3 Na6 46.Bxb6 Nxb4 47.Be8 f6 48.Ke4 Na6 49.Be3 Nc5+
+50.Kf3 Bc3 51.Ke2 Ba5 52.Bg6 Bc3 53.Bc2 Kc6 54.Kf3 Kd6 55.Bc1
+Bd4 56.Bd2 Ba1 57.Be3 Bc3 58.Bf2 Nd7 59.Be3 Bb2 60.Kg3 g5
+61.h4 gxf4+ 62.Kxf4 Ne5 63.c5+ Ke7 64.Kg3 Ba3 65.Bb3 Bb4
+66.Kh3 Ba3 67.Ba4 Nc4 68.c6 h5 69.c7 hxg4+ 70.Kxg4 Nd6 71.Kh5
+Nc8 72.Kg6 Kd6 73.h5 Kxc7 74.h6 1-0

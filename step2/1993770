@@ -1,0 +1,21 @@
+[Event "Odds Match"]
+[Site "New York"]
+[Date "1893.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Nellie L Marshall Showalter"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "New York Recorder, 1893.12.23 & 12.30"]
+[PlyCount "50"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Nc6 5. Nf3 Be7 6. Be2 Bd7
+7. O-O O-O 8. Qe1 Ne8 9. g4 Nb4 10. Bd1 Bb5 11. d3 c5 12. g5
+c4 13. a3 Nc6 14. Be2 cxd3 15. cxd3 Bc5 16. Qf2 a5 17. Rfe1
+Nd6 18. Rac1 Ba7 19. Bf1 Nf5 20. Kh1 Qb6 21. g6 fxg6 22. Ng5
+Rae8 23. Qf3 Nxe3 24. Qh3 h6 25. Nxe6 Nd1 {...} 0-1

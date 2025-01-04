@@ -1,0 +1,17 @@
+[Event "Match"]
+[Site "Amsterdam NED"]
+[Date "1934.06.25"]
+[EventDate "1934.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Johannes Hendrik Otto van den Bosch"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.dxc5 Bxc5 5.Bd3 Nc6 6.Ngf3 Nf6
+7.O-O Nb4 8.e5 Nxd3 9.exf6 Nxc1 10.fxg7 Rg8 11.Rxc1 Qf6 12.c4
+Qxg7 13.g3 d4 14.Ne4 Be7 15.Nxd4 Bd7 16.c5 O-O-O 17.c6 Be8
+18.cxb7+ Kxb7 19.Qb3+ Ka8 20.Rc7 Rb8 21. Qe3 Bd8 22.Nc6 1-0

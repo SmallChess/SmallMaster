@@ -1,0 +1,44 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "AlphaZero (Computer)"]
+[ECO "B48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "266"]
+
+1. e4 { book } c5 { book } 2. Nf3 { book } e6 { book } 3. d4 {
+book } cxd4 { book } 4. Nxd4 { book } Nc6 { book } 5. Nc3 {
+book } Qc7 { book } 6. Be3 { book } a6 { book } 7. Qd2 { book
+} Nf6 { book } 8. O-O-O { book } Be7 { book } 9. f3 { book }
+b5 { book } 10. Kb1 { book } Ne5 { book } 11. g4 { book } b4 {
+book } 12. Na4 h6 13. c4 d6 14. b3 Bd7 15. Nb2 O-O 16. Qg2 a5
+17. Nb5 Bxb5 18. cxb5 d5 19. Bf4 Rad8 20. Nd3 Bd6 21. g5 Nh5
+22. gxh6 g6 23. b6 Qb8 24. Bg5 Nxd3 25. Bxd3 Nf4 26. Qb2 d4
+27. Rhg1 Kh7 28. Bxd8 Rxd8 29. Rg5 Be5 30. Qd2 f6 31. Rg4 Rc8
+32. h4 Rc3 33. Rxf4 Bxf4 34. Qg2 Qe5 35. Bc4 a4 36. Rg1 Qh5
+37. Qh3 f5 38. exf5 Qxf5+ 39. Qxf5 exf5 40. Rd1 a3 41. b7 Kxh6
+42. Bd3 Kh5 43. Bc2 d3 44. Rxd3 Rxd3 45. Bxd3 Kxh4 46. Bb5 Kg3
+47. Bc6 Kf2 48. Bd5 g5 49. Be6 Kxf3 50. Bxf5 Bd6 51. Kc2 Ke3
+52. Bg4 Kf4 53. Be2 Ke4 54. Bg4 Ke3 55. Kd1 Kf4 56. Bh5 g4
+57. Ke2 Bc7 58. Bxg4 Kxg4 59. Kd3 Bd6 60. Kc2 Kf5 61. Kd3 Kf4
+62. Kd4 Kf5 63. Kd5 Bb8 64. Kc4 Bd6 65. b8=Q Bxb8 66. Kxb4
+Bd6+ 67. Ka4 Ke5 68. b4 Kd5 69. Kxa3 Kc4 70. Kb2 Bxb4 71. a3
+Ba5 72. Kb1 Kd5 73. Kc2 Bb6 74. a4 Ba5 75. Kb1 Kc5 76. Ka1 Kc4
+77. Kb1 Kd5 78. Ka1 Kc5 79. Kb1 Kd4 80. Ka1 Kd3 81. Ka2 Ke4
+82. Ka1 Kd4 83. Kb1 Kc4 84. Ka1 Kc3 85. Kb1 Kd2 86. Ka1 Ke2
+87. Kb1 Kd3 88. Ka2 Kc4 89. Ka1 Kc5 90. Kb1 Kd5 91. Ka1 Kc4
+92. Kb1 Kc5 93. Ka1 Kd5 94. Kb1 Bb6 95. Kc2 Bg1 96. Kd1 Bc5
+97. a5 Kc6 98. Ke2 Bd6 99. Kf2 Bc5+ 100. Ke2 Bd6 101. Kf2 Be7
+102. Kf3 Kb7 103. Ke4 Ba3 104. Kf3 Bf8 105. a6+ Ka8 106. a7
+Bb4 107. Ke4 Be7 108. Kd5 Bb4 109. Ke4 Bf8 110. Kf3 Ba3
+111. Ke2 Be7 112. Kd1 Bf8 113. Kc1 Bb4 114. Kb1 Bc5 115. Kb2
+Bd6 116. Ka1 Be7 117. Kb1 Bb4 118. Ka1 Bc5 119. Kb2 Bd6
+120. Ka1 Be7 121. Kb1 Bh4 122. Kc2 Bd8 123. Kb1 Bg5 124. Ka1
+Bh6 125. Kb1 Bd2 126. Ka1 Bg5 127. Kb1 Bf6 128. Kc2 Bg7
+129. Kb3 Ba1 130. Ka2 Bh8 131. Kb3 Ba1 132. Ka2 Bh8 133. Kb3
+Ba1 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Schiffers - Steinitz"]
+[Site "Rostov-on-Don RUE"]
+[Date "1896.03.16"]
+[EventDate "1896.03.04"]
+[Round "6"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Emmanuel Schiffers"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ngf3
+cxd4 8.cxd4 Qb6 9.Nb3 a5 10.a4 Bb4+ 11.Kf2 f6 12.Be3 O-O
+13.Rc1 Qd8 14.Bd3 Nb6 15.exf6 Qxf6 16.Nc5 Bxc5 17.Rxc5 Nb4
+18.b3 Bd7 19.Bb1 Be8 20.Bd2 Bh5 21.Be3 Nc8 22.h3 Nd6 23.g4 Bg6
+24.Kg2 Ne4 25.Rc7 Rac8 26.Qc1 Nd6 27.Qc5 Na6 28.Rxc8 Nxc5
+29.Rxc5 Bxb1 30.Rxb1 Qg6 31.Re1 Qd3 32.Rxa5 g5 33.b4 gxf4
+34.Bf2 Ne4 35.Ra7 Rc8 36.Rxb7 Nxf2 0-1

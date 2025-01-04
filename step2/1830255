@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.03"]
+[EventDate "2016.09.02"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Hikaru Nakamura"]
+[Black "John K Shaw"]
+[ECO "B01"]
+[WhiteElo "2789"]
+[BlackElo "2454"]
+[PlyCount "41"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Bc4 a6 6. Bg5 h6
+7. Bxf6 exf6 8. Nf3 Bb4 9. O-O Bxc3 10. bxc3 O-O 11. Re1 Nc6
+12. Nh4 Na5 13. Bd3 Be6 14. Ng6 Re8 15. Qh5 c5 16. Nf4 c4
+17. Be4 Qc7 18. g3 Rad8 19. Re3 b6 20. Rae1 Qd6 21. Bd5 1-0

@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1867.06.22"]
+[EventDate "1867.06.04"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Sam Loyd"]
+[ECO "C27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nc3 f5 3.exf5 Nf6 4.g4 h6 5.Bg2 d5 6.d3 Bc5 7.h3 O-O
+8.Nge2 c6 9.Ng3 Qc7 10.h4 Qb6 11.Qe2 Bb4 12.a3 Qa5 13.axb4
+Qxa1 14.O-O Qa6 15.g5 hxg5 16.hxg5 Nfd7 17.Nxd5 1-0

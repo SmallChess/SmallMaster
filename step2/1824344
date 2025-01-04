@@ -1,0 +1,18 @@
+[Event "Simul, 25b"]
+[Site "Rotterdam NED"]
+[Date "1908.05.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "J van Roon"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d4
+exd4 7. Qxd4 Bf8 8. Qxd8+ Kxd8 9. Bf4 Nf6 10. O-O-O+ Ke8
+11. Bxc7 Bd7 12. e5 Ng4 13. Ne4 Bf5 14. Nd6+ Bxd6 15. exd6
+Nxf2 16. Rhe1+ Kf8 17. d7 Nxd1 18. Bd6+ Kg8 19. Re8+ Rxe8
+20. dxe8=R# 1-0

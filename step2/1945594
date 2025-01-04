@@ -1,0 +1,27 @@
+[Event "Clock simul, 12b"]
+[Site "Rio de Janeiro BRA"]
+[Date "1939.05.26"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Miguel Pereira Filho"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. e3 Nbd7 6. Nf3 Qa5
+7. Nd2 Bb4 8. Qc2 O-O 9. Be2 dxc4 10. Bxf6 Nxf6 11. Nxc4 Qc7
+12. O-O Bd6 13. Nxd6 Qxd6 14. f4 b6 15. Bf3 Bb7 16. Rad1 Rfd8
+17. Qe2 Rd7 18. e4 Qe7 19. e5 Nd5 20. Bxd5 cxd5 21. f5 exf5
+22. Rxf5 Re8 23. Qg4 Ba6 24. Rh5 f6 25. Re1 g6 26. e6 Bb7
+27. Rhe5 Rd6 28. R5e3 Bc8 29. Qf3 Bb7 30. Nb5 Rc6 31. Rc3 Rxe6
+32. Rxe6 Qxe6 33. Nc7 Qe1+ 34. Qf1 Qxf1+ 35. Kxf1 Re4 36. Kf2
+Rxd4 37. Ne8 Rd2+ 38. Ke1 Rd4 39. Nxf6+ Kg7 40. Ne8+ Kf8
+41. Nd6 Ba6 42. Ra3 Ke7 43. Rxa6 Kxd6 44. Rxa7 h5 45. Rg7 Re4+
+46. Kf2 Re6 47. b4 d4 48. Rg8 Kd5 49. a4 Kc4 50. Rd8 Kd3
+51. a5 bxa5 52. bxa5 Kc3 53. Rc8+ Kd2 54. Rc4 Rf6+ 55. Kg3 Ke3
+56. Ra4 Ra6 57. Ra1 d3 58. Re1+ Kd2 59. Re5 Rf6 60. Kh4 Rc6
+61. Kg5 Kc2 62. a6 Rxa6 63. Rc5+ Kd1 64. Kf4 Re6 65. Kf3 d2
+66. Kf2 Rf6+ 0-1

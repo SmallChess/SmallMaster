@@ -1,0 +1,66 @@
+[Event "New York Masters"]
+[Site "New York, NY USA"]
+[Date "1915.04.25"]
+[EventDate "1915.04.19"]
+[Round "5"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Oscar Chajes"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. e4 {Notes by Capablanca} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2
+Nc5 11. Bc2 d4 12. Ne4 dxc3 13. Nxc5 Bxc5 14. Be4 Qd7 15. bxc3
+{I had published, some months previously, an analysis of the
+variation 11...d4, and I gave the text moves as an example of
+a simple way for White to play against it in order to obtain
+the better game. I left off at the above position, stating
+that White had the better game. Chajes and a few other local
+players studied the analysis, and came to the conclusion that
+was wrong. They thought that Black had at least as good a game
+as White; in fact, better. Therefore Chajes availed himself of
+the first opportunity to prove his contention. I was ignorant
+of all this at the time, and was consequently very much
+surprised at his "falling" (as I thought) into my published
+variation, and commented on it to one of the spectators, who
+then enlightened me as to the true reason of his play. The
+game, I hope, will show that my judgment was better than his,
+as at no point of the proceedings was I in danger of obtaining
+anything worse than a draw. The advantage of White rests
+mainly on the strength of the pawn at e5, which largely
+restricts the action of the Black pieces, while it gives
+plenty of freedom for the maneuvering of the White forces.}
+Rd8 16. Qxd7+ Bxd7 17. Rd1 Ne7 {Black could not castle because
+of 18. Be3! Bxe3 19. Rxd7! Rxd7 20. Bxc6 and White will come
+out with two minor pieces for a Rook and two pawns.} 18. Nd4
+h6 {A bad move, which shows that Black did not properly
+understand the position. He wants to prevent the pinning of
+the Knight by Bg5 and does not realize that the posting of the
+White Bishop at a3 (after Nb3) is much more important. He
+should now castle when White's best move would probably be
+19.Be3} 19.Nb3 Bb6 20.Ba3 h5 {He now must attempt to bring his
+King's Rook into the game in this way.} 21.Rd3 Bg4 22. Rxd8+
+Kxd8 23. Nc5 Rh6 {He naturally avoids the alternative
+23... Bxc5 which would leave White with two Bishops in an open
+position.} 24.h3 Bc8 25. Rd1+ Ke8 26. Kf1 g5 {To prevent
+27.f4, which was the intention, revealed by White's last
+move.} 27. Nd3 f5 {White threatened to win a pawn by
+28.Bc1. Besides, the pawn at e5 completely blocks the free
+maneuvering of Black's pieces; therefore in desperation he
+advances the f-pawn to get rid of White's e-pawn, and thus
+have breathing space.} 28. exf6 Rxf6 29. Re1 Be6 {29... Re6
+would be no better, as then White could play either 30. Bg6+!
+Rxg6 31. Rxe7+ Kd8 32. Ne5 threatening the Rook, and 33.Nf7
+mate.} 30. Bf3 Rh6 {Not good, but there was no way to avoid
+the loss of a pawn, which in such positions means the loss of
+the game. If 30... h4 31. Bg4 and if 30... g4 31. hxg4 hxg4
+32. Bxg4 Bxg4 33. Rxe7+ Kd8 34. Rg7 winning.} 31. Bxh5+ Kd7
+32. Bg4 Nc6 33. Rxe6 Rxe6 34. Bc1 Kd6 35. Bxe6 Kxe6 {He might
+have resigned, as he will now be two pawns behind, without any
+compensation whatever for them.} 36. Bxg5 Ba5 37. Bd2 Kd5
+38. h4 Ne5 39. Nxe5 Kxe5 40. h5 c5 41. g4 Kf6 42. Ke2 c4
+43. f4 Kf7 44. Kf3 Bd8 45. Ke4 a5 46. Kd5 Be7 47. g5 Kg8
+48. f5 1-0

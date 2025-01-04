@@ -1,0 +1,15 @@
+[Event "Simul, 23b"]
+[Site "Hollywood, Los Angeles, CA USA"]
+[Date "1933.05.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Raul Capablanca"]
+[Black "Mary Bain"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Re8
+7.Nd3 Bd4 8.Ne2 Rxe4 9.Nxd4 Nxd4 10.Ba4 Ne2+ 11.Kh1 Nxc1 0-1

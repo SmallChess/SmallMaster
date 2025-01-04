@@ -1,0 +1,15 @@
+[Event "Simul, 26b"]
+[Site "New York, NY USA"]
+[Date "1890.10.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1. e4 e5 2. c3 d6 3. d4 Bd7 4. Bc4 Nf6 5. Qb3 Qe7 6. Qxb7 Bc6
+7. Qc8+ Qd8 8. Bxf7+ Ke7 9. Qe6# 1-0

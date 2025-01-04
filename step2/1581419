@@ -1,0 +1,41 @@
+[Event "After a Vacation in Newport"]
+[Site "New York, NY USA"]
+[Date "1860.09.18"]
+[EventDate "1860.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "James Thompson"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 {Morphy arrived in New York on August 4, 1860. During
+his stay in the city of about a week he visited the New York
+Chess Club two or three times, but played no chess. He then
+visited Saratogo and Newport, home of the famous 'ckr',
+spending altogether several weeks before returning to New York
+early in September. On September 18 he again encountered James
+Thompson at Knight Odds, losing a fine game in seventy-six
+moves. A few days later he played three more games at the same
+odds, all of which Morphy won" - Lawson, 258-259} e5 2. f4 d5
+3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 Bxf3 6. Bxf3 e4 7. Qe2 f5 8. d3
+Nf6 9. dxe4 Nxe4 10. Be3 Nc6 11. Rd1 Qe6 12. O-O Be7 13. g4 g6
+14. Qg2 h5 15. gxf5 gxf5 16. Qh3 Bd6 17. Rfe1 O-O-O 18. Kh1
+Rde8 19. Qf1 Qf6 20. Qb5 a6 21. Qd5 Qe6 22. Qd3 Bxf4 23. Bg1
+Rd8 24. Qf1 Rxd1 25. Rxd1 Nd2 26. Re1 Nxf1 27. Rxe6 Kd7
+28. Rf6 Ne3 29. Bxe3 Bxe3 30. Rxf5 Nd4 31. Rf7+ Kc8 32. Bd1
+Rg8 33. Rf1 h4 34. c3 Nc6 35. Re1 Bb6 36. h3 Bf2 37. Rf1 Bg3
+38. b4 Ne5 39. Be2 Rd8 40. Bd1 Rd2 41. Bb3 Rf2 42. Be6+ Kb8
+43. Rxf2 Bxf2 44. c4 c6 45. a4 Kc7 46. Kg2 Be1 47. b5 axb5
+48. cxb5 cxb5 49. axb5 Kd6 50. Bc8 b6 51. Kf1 Bg3 52. Ke2 Kc5
+53. Ba6 Nc4 54. Kd3 Nd6 55. Ke3 Nxb5 56. Bc8 Nd6 57. Be6 b5
+58. Kd3 Nc4 59. Kc3 Be5+ 60. Kb3 Na5+ 61. Kc2 Kb4 62. Bg8 Ka3
+63. Bf7 b4 64. Bd5 b3+ 65. Kb1 Kb4 66. Bg8 Nc4 67. Bh7 Kc3
+68. Kc1 Bf4+ 69. Kd1 Ne3+ 70. Kc1 Ng4+ 71. Kb1 Nf2 72. Bf5 Nd3
+73. Bh7 Ne5 74. Bf5 Nc4 75. Ka1 Bc1 76. Kb1 Bb2 { Morphy must
+have resigned and someone added the conclusion making 77
+moves} 77.Bh7 Nd2# 0-1

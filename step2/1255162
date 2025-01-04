@@ -1,0 +1,17 @@
+[Event "Simul, 57b"]
+[Site "Houston, TX USA"]
+[Date "1964.03.28"]
+[EventDate "1964.03.28"]
+[Round "?"]
+[Result "1-0"]
+[White "Robert James Fischer"]
+[Black "Steve Moffit"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 Qc7 6. Bd3
+Bxd3 7. Nxd3 e6 8. Bf4 Bd6 9. Qg4 g6 10. Nf3 Bxf4 11. Nxf4 Nf6
+12. Qh4 Qe7 13. O-O Nbd7 14. c4 h6 15. d5 $1 15... cxd5
+16. cxd5 O-O-O 17. dxe6 Nb6 18. exf7 Qxf7 19. Ne5 1-0

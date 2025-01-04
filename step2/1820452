@@ -1,0 +1,18 @@
+[Event "Stjernen Grand Prix Group A"]
+[Site "Oslo NOR"]
+[Date "2000.10.14"]
+[EventDate "2000.10.13"]
+[Round "3"]
+[Result "1-0"]
+[White "Endre Dalsrud"]
+[Black "Magnus Carlsen"]
+[ECO "B87"]
+[WhiteElo "1545"]
+[BlackElo "1323"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 b5 8. O-O b4 9. Na4 Nxe4 10. Re1 d5 11. f3 Nc5 12. f4
+Nxb3 13. axb3 Be7 14. f5 exf5 15. Bg5 Ra7 16. Qe2 h6 17. Bf4
+Rc7 18. Bxc7 Qxc7 19. Kh1 Kf8 20. Nb6 Bb7 21. Nxf5 Qxb6
+22. Qxe7+ Kg8 23. Nd6 1-0

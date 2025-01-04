@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "Nurnberg"]
+[Date "1883.07.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jacques Schwarz"]
+[Black "Siegbert Tarrasch"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 e5 2. d4 exd4 3. c3 Qe7 4. f3 d5 5. Qxd4 Nc6 6. Bb5 dxe4
+7. fxe4 Nf6 8. e5 Bd7 9. Bxc6 Bxc6 10. Nf3 Rd8 11. Qe3 Ng4
+12. Qg5 Qd7 13. O-O Bc5+ 14. Kh1 Nf2+ 15. Rxf2 Qd1+ 16. Ng1
+Qxg1+ 17. Kxg1 Rd1# 0-1

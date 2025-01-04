@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1885.07.24"]
+[EventDate "1885.07.13"]
+[Round "16"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Arnold Schottlaender"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 g6 5.Nc3 Bg7 6.Bd2 d6 7.Nf3
+Be6 8.Bb5 Nge7 9.Nd4 Bd7 10.Nxc6 Nxc6 11.O-O O-O 12.Kh1 f5
+13.Bc4+ Kh8 14.f4 Ne7 15.e5 dxe5 16.fxe5 Bc6 17.Rad1 Qe8 18.e6
+Ng8 19.Qg3 Qe7 20.Bf4 Rac8 21.Rfe1 Nf6 22.Nd5 Bxd5 23.Bxd5 Nh5
+24.Qg5 Bf6 25.Be5 c6 26.Bb3 Rfe8 27.Rd7 Qf8 28.Rf7 Qxf7
+29.exf7 Rxe5 30.Rxe5 1-0

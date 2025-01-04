@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lu Muller"]
+[Black "Paul Keres"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Qg5 5.d4 Qxg2 6.Qh5+ g6
+7.Bf7+ Kd8 8.Bxg6 Qxh1+ 9.Ke2 Qxc1 10.Nf7+ Ke8 11.Qe5+ Be7
+12.Nc3 Qxc2+ 13.Ke1 hxg6 14.Nxh8 Qxb2 15.Qxe4 0-1

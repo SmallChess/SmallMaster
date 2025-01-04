@@ -1,0 +1,24 @@
+[Event "Season 7 - Superfinal"]
+[Site "TCEC"]
+[Date "2014.12.17"]
+[EventDate "2014.12.16"]
+[Round "8"]
+[Result "1-0"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Be3 c5 8.Qd2 O-O 9.Rc1 Qa5 10.Nf3 Bg4 11.d5 Na6 12.h4 h5
+13.Nh2 Bd7 14.Be2 e6 15.O-O exd5 16.exd5 Nc7 17.Nf3 Bf5 18.Bg5
+Nb5 19.Bxb5 Qxb5 20.Be7 Rfe8 21.d6 Qd3 22.Qb2 Qa6 23.Rcd1 Bf8
+24.Bxf8 Rxf8 25.Qd2 Kg7 26.Qd5 Qc6 27.Qxc6 bxc6 28. Ne5 Rfe8
+29.Nxc6 Bd7 30.Ne7 Red8 31.Rfe1 Rab8 32.Re5 Rb5 33.f3 Kf8
+34.Kh2 Ra5 35.Kg3 Ra6 36.Rxc5 Ba4 37.Rc8 Rxc8 38.Nxc8 Ke8
+39.Rd4 Kd7 40.Ne7 Bb5 41.Kf4 Rxd6 42.Rxd6+ Kxd6 43.Nc8+ Kc7
+44.Nxa7 Bf1 45.a4 Bxg2 46.Nb5+ Kd7 47.Na3 f6 48.Nc4 Bf1 49.Nd2
+Ba6 50.Ne4 Ke7 51.Ke3 Bc4 52.f4 Be6 53.a5 Bd5 54.f5 g5 55.hxg5
+fxg5 56.Nxg5 1-0

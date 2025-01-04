@@ -1,0 +1,26 @@
+[Event "nTCEC - Superfinal - Season 1"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.04.28"]
+[EventDate "?"]
+[Round "7.1"]
+[Result "1/2-1/2"]
+[White "Houdini (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7
+7. a4 dxe5 8. a5 N6d7 9. dxe5 Nxe5 10. Qxd8+ Kxd8 11. Nxe5
+Bxe5 12. Bxf7 e6 13. Bg5+ Kd7 14. Ra3 Nc6 15. Rd3+ Bd6 16. Rh3
+Ne5 17. Bf6 Rf8 18. Bxe5 Rxf7 19. Bxd6 cxd6 20. Na3 Ke7
+21. O-O Bd7 22. Rd1 Rc8 23. Rhd3 d5 24. Re1 Rf5 25. c3 Rc5
+26. b4 Rc8 27. Nc2 Rf4 28. Nd4 Kd6 29. Nf3 b6 30. g3 Rfc4
+31. Nd2 R4c7 32. c4 Rxc4 33. Nxc4+ Rxc4 34. axb6 axb6 35. Rf3
+Rxb4 36. Rf7 b5 37. Rxh7 Rc4 38. f4 b4 39. Rb1 d4 40. Kf2 Bc6
+41. Rb2 Be4 42. Rh8 Bc2 43. Rd8+ Ke7 44. Rb8 b3 45. R8xb3 Bxb3
+46. Rxb3 Rc2+ 47. Kf3 Rxh2 48. Ke4 Rd2 49. Rd3 Rxd3 50. Kxd3
+g5 51. Kxd4 gxf4 52. gxf4 Kd7 53. Ke4 Ke8 54. Ke3 Kd7 55. Kf3
+Ke7 56. Ke3 e5 57. fxe5 Kf8 58. e6 Ke7 59. Kf4 Kd6 60. e7 Kxe7
+1/2-1/2

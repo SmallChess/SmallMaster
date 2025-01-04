@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1857.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Horace Richardson"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2.d4 e6 3.Bd3 c5 4.e5 g6 5.c3 Nc6 6.Nf3 d5 7.Be3 Qb6 8.Qc2 Bd7
+9.Bg5 Nge7 10.Be3 c4 11.Be2 Nf5 12.Nbd2 Nxe3 13.fxe3 Bh6
+14.Nf1 O-O 15.Qd2 Rf7 16.Ng3 Raf8 17.O-O Qd8 18.Rae1 b5 19.Bd1
+a5 20.a3 Qb6 21.b4 axb4 22.cxb4 Ra8 23.Qb2 Qa7 24.a4 bxa4
+25.Bxa4 Nxb4 26.Qxb4 Qxa4 27.Qxa4 Rxa4 28.Rf2 Ra3 29.Nf1 Ba4
+30.g4 Rb7 31.g5 Bf8 32.Rc1 c3 33.Ne1 c2 34. Nd2 Rc3 35.Nef3
+Rbc7 0-1

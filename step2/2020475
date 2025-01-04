@@ -1,0 +1,18 @@
+[Event "Simul, 25b"]
+[Site "Mannheim GER"]
+[Date "1913.11.02"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Wilhelm Friedrich Adolf Gudehus"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'Wilhelm Gudehus...Festschrift', p.59"]
+[PlyCount "36"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.Nc3 Nf6 5.d4 cxd4 6.Nxd4 Bb4
+7.Nxc6 bxc6 8.e5 Ne4 9.Qd4 Qa5 10.Bd2 Nxd2 11.Kxd2 O-O 12.Bd3
+d5 13.exd6 Rd8 14.a3 Bxd6 15. Kc2 Be5 16.Qh4 f5 17.Ne2 Bxb2
+18.Kxb2 Qd2+ 0-1

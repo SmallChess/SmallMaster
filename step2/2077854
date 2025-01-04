@@ -1,0 +1,19 @@
+[Event "Odds game"]
+[Site "Vienna AUH"]
+[Date "1860.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Telegraf, I:39, 1860.09.23"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 d6 5. hxg5 Bg7 6. d4 Bg4 7. Bxf4 Bxf3 8.
+gxf3 Nc6 9. c3 Qe7 10. b4 O-O-O 11. Qa4 a6 12. b5 Nb8 13. Bh3+ Rd7 14. bxa6 Nxa6
+15. Nd2 Nb8 16. Nb3 b6 17. Kf2 h6 18. Qa8 hxg5 19. Na5 Qf6 20. Nc6 1-0

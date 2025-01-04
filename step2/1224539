@@ -1,0 +1,27 @@
+[Event "Hastings 1968/69"]
+[Site "Hastings ENG"]
+[Date "1969.01.07"]
+[EventDate "1968.12.28"]
+[Round "10"]
+[Result "1-0"]
+[White "Jan Smejkal"]
+[Black "Vasily Smyslov"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. e5 Nd5 6. Nf3 O-O
+7. Bc4 c6 8. a4 (8. O-O b5 (8... a5 9. a4 Na6) 9. Bd3 { a4})
+8... Na6 9. O-O Nac7 10. Qe1 f6 11. Qh4 Be6 12. Na3 (12. Nbd2
+$6) 12... Qd7 13. Bd2 b5 14. Bd3 Nb6 15. axb5 cxb5 16. Rae1
+16... a6 $2 (16... dxe5 17. fxe5 17... a6 $13) 17. exd6 exd6
+18. Rxe6 Qxe6 19. f5 19... g5 $2 (19... gxf5 20. Qh3 $40)
+(19... Qf7 $142 20. Qg3 (20. fxg6 $5 20... hxg6 21. Qg3 g5
+22. Qxd6 $16) 20... g5 21. Qxd6 $16) 20. Nxg5 fxg5 21. Bxg5
+Qd7 (21... Qf7 22. f6 Bh8 23. Qg4 $18) 22. f6 Bh8 23. Bf5 Ne6
+( 23... Qf7 24. Qg4 h5 25. Qg3 Ne6 26. Bh6+ Ng7 27. Bxg7 Bxg7
+28. Be6 $1) 24. Qg4 Kf7 25. Qh5+ Kg8 26. Qg4 Kf7 27. Bxh7 Ke8
+28. f7+ Rxf7 29. Bg6 Nd8 (29... Nxg5 30. Bxf7+ $18) 30. Qh5 $1
+30... Qe6 31. Qxh8+ Kd7 32. Bxf7 (32. Bxf7 Nxf7 33. Qg7 Ke8
+34. Qg8+ $18) 1-0

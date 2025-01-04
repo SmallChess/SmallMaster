@@ -1,0 +1,17 @@
+[Event "iWYZE Garry Kasparov Chess Rapid"]
+[Site "Table Mountain, South Africa"]
+[Date "2012.03.22"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Marcel Roberts"]
+[Black "Garry Kasparov"]
+[ECO "B06"]
+[WhiteElo "1838"]
+[BlackElo "2812"]
+[PlyCount "40"]
+
+1.e4 g6 2.Nf3 Bg7 3.d4 d6 4.Bd3 Nf6 5.c4 Bg4 6.Nc3 O-O 7.Be3
+Nc6 8.h3 Bxf3 9.Qxf3 Nd7 10.Ne2 Nb4 11.Bb1 c5 12.O-O Nc6
+13.Rd1 Qb6 14.dxc5 Qxb2 15.Bd3 Nde5 16.Qg3 Nxd3 17.Rab1 Qxe2
+18.Rd2 Nd4 19.Kh1 Nxf2+ 20.Qxf2 Qxf2 0-1

@@ -1,0 +1,20 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1864.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Franklin"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player's Magazine, vol.ii, September 1864, p.270"]
+[PlyCount "48"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. e3 e6 3. b3 Nf6 4. Bb2 Bd6 5. Nf3 h6 6. Qe2 O-O 7. g4 Nxg4 8. Bxg7
+Kxg7 9. Rg1 f5 10. h3 h5 11. O-O-O Qf6 12. Kb1 Kh6 13. hxg4 fxg4 14. Ng5 Qf5 15.
+Rh1 Be7 16. Rxh5+ Kxh5 17. Qh2+ Kg6 18. Bd3 Bxg5 19. fxg5 Kxg5 20. Rh1 Kf6 21.
+Bxf5 exf5 22. Qxc7 Nd7 23. Qd6+ Kg7 24. Qe7+ Kg6 {White mates in 3} 1-0

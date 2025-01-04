@@ -1,0 +1,25 @@
+[Event "Knight Odds"]
+[Site "New Orleans USA"]
+[Date "1869.??.??"]
+[EventDate "1869.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 {Years later it was revealed that in 1869 Morphy
+frequently met with Maurian for a game of chess. In fact,
+Maurian said they played four series of games all at knight
+odds. - Lawson p,289} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 Bxd4
+5. c3 Bb6 6. Ng5 Nh6 7. O-O O-O 8. Kh1 Kh8 9. f4 exf4 10. Bxf4
+d6 11. h3 Ne5 12. Bb3 f6 13. Nf3 Nxf3 14. Rxf3 Nf7 15. Qd2 Qe7
+16. Raf1 Be6 17. Bc2 Ne5 18. Rg3 g5 19. Bxe5 dxe5 20. Rgf3
+Rad8 21. Qe2 Qg7 22. g4 Rd6 23. b4 c5 24. b5 Rfd8 25. Bb3 Bxg4
+26. hxg4 Rd2 27. Qxd2 Rxd2 28. Rxf6 Rd8 29. Bd5 Qd7 30. R1f5
+Qxb5 31. Rf7 Qd3 32. Rf3 Qd1+ 33. Kh2 c4 0-1

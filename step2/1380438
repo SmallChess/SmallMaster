@@ -1,0 +1,24 @@
+[Event "Clock simul, 9b"]
+[Site "Zagreb YUG"]
+[Date "1924.09.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Milan Filipcic"]
+[Black "Emanuel Lasker"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 Nc6 5.c4 cxd4 6.exd4 Bb4+
+7.Nbd2 h6 8.Be3 d5 9.a3 Bxd2+ 10.Qxd2 O-O 11.Bd3 dxc4 12.Bxc4
+Bd7 13.O-O Qe7 14.Rad1 Rfd8 15.Rfe1 Rac8 16.Ba2 Be8 17.Bb1 Qf8
+18.Qe2 Ne7 19.Ne5 Ned5 20.Bc1 Ba4 21.Rd2 a6 22.Qf3 Rc7 23.b3
+Rdc8 24.Bb2 Be8 25.g4 Nc3 26.Bd3 Bb5 27.Bc4 Bxc4 28.bxc4 Na4
+29.Ba1 Nb6 30.c5 Nbd5 31.Rb1 Qe7 32.Nc4 Ne8 33.Nb6 Nxb6
+34.Rxb6 Nf6 35.Kg2 Nd5 36.Rb3 f5 37.h3 fxg4 38.Qxg4 Rf8 39.Rf3
+Rxf3 40.Kxf3 b6 41.Re2 Rc6 42.Bb2 Qf6+ 43.Kg3 Kf7 44.Qh5+ Qg6+
+45.Qxg6+ Kxg6 46.cxb6 Rxb6 47.h4 Kf5 48.Re5+ Kf6 49.Re2 Rb3+
+50.f3 Kf7 51.Rc2 Ne3 52.Re2 Nf5+ 53.Kg4 h5+ 54.Kg5 Rxf3
+55.Kxh5 Rg3 56.Rc2 g6+ 0-1

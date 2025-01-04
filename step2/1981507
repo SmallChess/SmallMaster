@@ -1,0 +1,17 @@
+[Event "Stuttgart simul"]
+[Site "?"]
+[Date "1958.??.??"]
+[EventDate "1958.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "NN"]
+[ECO "B75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "ChessBase"]
+[PlyCount "28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 Nc6 8. Qd2 Bd7 9. O-O-O Qa5 10. Kb1 Rc8 11. g4 h6 12. h4
+a6 13. Be2 Ne5 14. g5 hxg5 1-0

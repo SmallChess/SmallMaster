@@ -1,0 +1,18 @@
+[Event "Simul, 10b"]
+[Site "Kansas City, MO USA"]
+[Date "1915.03.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "Joseph Daniels"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 e6 2.d4 d5 3.c4 c6 4.Nc3 Bb4 5.e5 Ne7 6.Nf3 dxc4 7.Bxc4
+Nd5 8.Bd2 Bxc3 9.bxc3 Nd7 10.O-O N7b6 11.Bd3 Qc7 12.Ng5 Bd7
+13.c4 Ne7 14.Qf3 O-O-O 15.Nxf7 Rdf8 16.Ba5 Kb8 17.c5 Be8
+18.Rab1 Ned5 19.Be4 Qd7 20.cxb6 a6 21.Qb3 Rxf7 22.Bd3 Nf4
+23.Bxa6 bxa6 24.b7 Qd5 0-1

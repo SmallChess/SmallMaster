@@ -1,0 +1,27 @@
+[Event "Tilburg Fontys"]
+[Site "Tilburg NED"]
+[Date "1997.09.27"]
+[EventDate "1997.09.27"]
+[Round "1"]
+[Result "0-1"]
+[White "Tal Shaked"]
+[Black "Vladimir Kramnik"]
+[ECO "E46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. d4 { Annotation by Mark Hathaway hathawa2@marshall.edu }
+Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 {
+attempting to show the irrelevance of 5. Ne2 } 7. cxd5 Nxd5 {
+7...exd5 } 8. g3 Nxc3 { no better is 8...b6 9. Bg2 Bb7 10. Qb3
+} 9. Nxc3 c5 10. d5 Bf6 { The alternative is 10...exd5
+11. Nxd5 Bd6 } 11. Bg2 Bxc3 12. bxc3 exd5 13. Qxd5 Qe7 {
+13...Qa5 14. Bd2 and Pc5 is still in danger and Black's
+queen-side is still undeveloped. } 14. Rb1 Nc6 15. O-O {
+15. Rb5 a6 16. Rb6 keeps the pressure on Nc6 & Pb7. } 15...Be6
+16. Qh5 Rad8 17. e4 Ba2 18. Ra1 Bc4 19. Re1 Ne5 { -/+ }
+20. Be3 g6 21. Qh4 Qxh4 22. gxh4 b6 23. Bh6 Rfe8 24. h3 f6
+25. Rad1 Bb5 { 25...Rd3 } 26. Rxd8 Rxd8 27. Kh2 Bc6 28. Kg3
+Rd3+ 29. Re3 Rd1 30. Re2 Ra1 31. Rd2 Nf7 32. Be3 Rxa3 33. Rc2
+Ne5 34. f3 Ba4 35. Rc1 Nd3 0-1

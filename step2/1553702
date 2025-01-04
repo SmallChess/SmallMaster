@@ -1,0 +1,20 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Jamie Hillman"]
+[ECO "B12"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.a3 c5 6.c4 Nc6 7.cxd5 exd5
+8.Nc3 c4 9.Be3 Be7 10.Be2 Qd7 11.O-O a6 12.b3 b5 13.bxc4 bxc4
+14.Qa4 Bd8 15.Nb5 Bc7 16.Nxc7+ Qxc7 17.Bxc4 dxc4 18.d5 Bd7
+19.dxc6 Qxc6 20.Qb4 Ne7 21.Nd4 Qd5 22.Rfd1 Qxe5 23.Re1 O-O
+24.Nf3 Qb5 25.Qxe7 Rfe8 26.Qb4 Qc6 27.Bd4 Be6 28.Qc3 f6 29.h3
+Rac8 30.Re3 Red8 31.Rae1 Bf7 32.Re7 Rb8 33.Qe3 Rb3 34.Qf4 Bd5
+35.Nh4 g5 36.Qf5 Bf7 37.Rxf7 Kxf7 38.Qxh7+ 1-0

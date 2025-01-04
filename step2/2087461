@@ -1,0 +1,18 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1907.06.19"]
+[EventDate "1907.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Gajdukevich"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "YottaBase"]
+[PlyCount "46"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6 5. axb5 cxb5 6. b3 Qd6 7. Bd2 e5 8. bxc4
+bxc4 9. Qa4+ Bd7 10. Qxc4 exd4 11. Nf3 Nc6 12. Bd3 dxe3 13. Bxe3 Ne5 14. Nxe5
+Qxe5 15. O-O Be7 16. Bd4 Qg5 17. Nc3 Nf6 18. Rfe1 Nh5 19. Nd5 Rc8 20. Qb4 Be6
+21. Qb5+ Bd7 22. Qb7 Be6 23. Rxe6 1-0

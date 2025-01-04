@@ -1,0 +1,17 @@
+[Event "London Chess Classic"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[EventDate "2016.12.07"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Levon Aronian"]
+[Black "Anish Giri"]
+[ECO "D78"]
+[WhiteElo "2785"]
+[BlackElo "2771"]
+[PlyCount "40"]
+
+1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 dxc4
+7. Na3 c5 8. Nxc4 Be6 9. b3 Nc6 10. Bb2 cxd4 11. Nxd4 Nxd4
+12. Bxd4 b6 13. Rc1 Rc8 14. Rc2 b5 15. Ne3 Rxc2 16. Nxc2 Qa5
+17. Qa1 Qd2 18. Qd1 Qa5 19. Qa1 Qd2 20. Qd1 Qa5 1/2-1/2

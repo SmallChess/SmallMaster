@@ -1,0 +1,20 @@
+[Event "Jaffe - Janowski"]
+[Site "New York, NY USA"]
+[Date "1916.03.14"]
+[EventDate "1916.02.25"]
+[Round "10"]
+[Result "1-0"]
+[White "David Janowski"]
+[Black "Charles Jaffe"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 d5 2.Nf3 Nd7 3.Bf4 Ngf6 4.e3 c6 5.Bd3 Qb6 6.O-O Qxb2
+7.Nbd2 Qb6 8.c4 e6 9.Re1 Be7 10.Rb1 Qd8 11.cxd5 cxd5 12.e4
+dxe4 13.Nxe4 O-O 14.Qc2 Nd5 15.Bd2 b6 16.Neg5 h6 17.Bh7+ Kh8
+18.Bg8 N7f6 19.Nxf7+ Rxf7 20.Bxf7 Bd6 21.Bxe6 Bb7 22.Ne5 Bxe5
+23.dxe5 Nh5 24.Qf5 Ne7 25.Qxh5 Qxd2 26.Rbd1 Qb4 27.Qf7 Bc6
+28.h3 Ba4 29.Bb3 Bc6 30.Re3 Rg8 31.Rd6 Qh4 32.Rxc6 Nxc6
+33.Qxg8# 1-0

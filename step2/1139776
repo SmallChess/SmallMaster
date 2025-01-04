@@ -1,0 +1,19 @@
+[Event "Krakow clock simul"]
+[Site "Krakow POL"]
+[Date "1966.02.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Tal"]
+[Black "Edward Klaput"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 Nf6 5.e3 d6 6.Nge2 g6 7.d4 e4
+8.O-O Bg7 9.f3 exf3 10.Bxf3 O-O 11.Nf4 Kh8 12.b3 g5 13.Nfd5
+Ne7 14.Nxf6 Bxf6 15.Bb2 Ng6 16.Qd2 c6 17.Rae1 Qc7 18.Bg2 Qg7
+19.Re2 Bd7 20.Ref2 Rae8 21.Bh3 f4 22.Bxd7 fxe3 23.Bxe8 exd2
+24.Bxg6 Qxg6 25.Rxd2 Kg8 26.Kg2 Bxd4 27.Re1 Qf5 28.Ne4 Qf3+
+29.Kh3 Bxb2 30.Rxb2 Rf4 0-1

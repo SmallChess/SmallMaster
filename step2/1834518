@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.11"]
+[EventDate "2016.09.02"]
+[Round "9.2"]
+[Result "0-1"]
+[White "Frode Olav Olsen Urkedal"]
+[Black "Samuel Shankland"]
+[ECO "B94"]
+[WhiteElo "2537"]
+[BlackElo "2679"]
+[PlyCount "62"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5
+Nbd7 7. Qe2 h6 8. Bh4 g6 9. O-O-O e5 10. Nb3 Be7 11. Kb1 b5
+12. a3 Qc7 13. f3 Kf8 14. Bf2 Kg7 15. h4 Nb6 16. g3 Rb8
+17. Bxb6 Qxb6 18. Bh3 a5 19. Bxc8 Rhxc8 20. Nd5 Nxd5 21. Rxd5
+a4 22. Nc1 b4 23. axb4 Qxb4 24. Nd3 Qc3 25. Kc1 Qc4 26. Rh2 a3
+27. bxa3 Qa2 28. Kd1 Rb1+ 29. Nc1 Qxa3 30. Qd2 Qxf3+ 31. Re2
+Qxg3 0-1

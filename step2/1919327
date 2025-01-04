@@ -1,0 +1,19 @@
+[Event "Simul"]
+[Site "Nice FRA"]
+[Date "1974.06.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "NN"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Argus (Fremont, CA), 1974.11.10, p.16"]
+[PlyCount "43"]
+
+1. e4 a6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. f4 e6 8. Nf3 Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Ngf6
+12. Bd2 Be7 13. O-O-O c5 14. Rhe1 O-O 15. f5 exf5 16. Nxf5 Re8
+17. Bxh6 gxh6 18. Nxh6+ Kf8 19. Ng5 Nxh5 20. Qh7 Bxg5+ 21. Kb1
+Bxh6 22. Qh8# 1-0

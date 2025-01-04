@@ -1,0 +1,46 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "AlphaZero (Computer)"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "296"]
+
+1. d4 { book } Nf6 { book } 2. c4 { book } e6 { book } 3. Nc3
+{ book } Bb4 { book } 4. e3 { book } c5 { book } 5. Bd3 { book
+} Nc6 { book } 6. Nf3 { book } Bxc3+ { book } 7. bxc3 { book }
+d6 { book } 8. e4 e5 9. d5 Ne7 10. O-O h6 11. Ne1 g5 12. a4
+Ng6 13. g3 Bh3 14. Ng2 a5 15. Rb1 Rb8 16. Re1 Kd7 17. Ne3 Kc7
+18. Bf1 Bd7 19. Bg2 b6 20. Rb2 Rg8 21. Nf5 Bxf5 22. exf5 Nf8
+23. h3 Kb7 24. Bf1 Ka6 25. Bd3 N8h7 26. Kg2 Ka7 27. Rd2 h5
+28. Rde2 Rb7 29. Bd2 Rg7 30. Qc2 Qc8 31. Kg1 h4 32. g4 Ng8
+33. Rb1 f6 34. Be3 Nh6 35. Rbe1 Qh8 36. Bd2 Nf8 37. Kh2 Rh7
+38. f3 Rhd7 39. Be3 Re7 40. Rb1 Nh7 41. Kg2 Red7 42. Rb5 Qc8
+43. Kg1 Rb8 44. Rd2 Qa6 45. Be2 Re7 46. Qb1 Nf8 47. Bf2 e4
+48. fxe4 Nd7 49. Bf1 Nf7 50. Rdb2 Qb7 51. Kh1 Re5 52. Qc2 Nd8
+53. Rb1 Qa6 54. Kg2 Nb7 55. Bg1 Ree8 56. R1b2 Rf8 57. Bh2 Rfc8
+58. Qb1 Re8 59. Kf2 Rbd8 60. Bg2 Re7 61. Kg1 Rde8 62. Bh1 Rh7
+63. Bf3 Rf7 64. Kg2 Rd8 65. Be2 Re7 66. Bd1 Ree8 67. Bf3 Rg8
+68. Kg1 Rge8 69. Be2 Re7 70. Bd3 Rc8 71. R5b3 Ree8 72. Bf1
+Rcd8 73. Kf2 Re7 74. Bd3 Rb8 75. Rb5 Ra8 76. R2b3 Ree8 77. Be2
+Rac8 78. Kg2 Rc7 79. Bf3 Rb8 80. Rb2 Rf8 81. Kf2 Rd8 82. Kg1
+Rh8 83. Be2 Rd8 84. Kg2 Re8 85. R2b3 Rh8 86. Bd1 Rd8 87. Qc1
+Re8 88. Bc2 Ra8 89. Bd3 Rb8 90. Qb1 Rd8 91. Bf1 Rb8 92. Rb2
+Rf8 93. Kg1 Re8 94. Bg2 Rd8 95. Kf2 Rf8 96. Qd3 Rd8 97. Qd1
+Ne5 98. Bxe5 dxe5 99. Qb3 Rd6 100. Bf1 Rh7 101. Be2 Rh8
+102. Ke1 Rhd8 103. Bd1 Rg8 104. Qc2 Rf8 105. Qe2 Rb8 106. Bc2
+Rbd8 107. Bb1 Rg8 108. Ba2 Rb8 109. Rb1 Rbd8 110. Bb3 Rf8
+111. Bd1 Rb8 112. Bc2 Rbd8 113. Kf2 Rh8 114. Bd1 Rhd8 115. Qb2
+Ra8 116. Bc2 Rad8 117. Qa1 Rb8 118. Bd3 Rbd8 119. R5b2 Rf8
+120. Bf1 Rb8 121. Be2 Rbd8 122. Rb5 Rg8 123. Qb2 Rgd8 124. Qb3
+Rf8 125. Bd3 Rfd8 126. Qb2 Rf8 127. Kg1 Rfd8 128. Qc2 Rf8
+129. Qb3 Rfd8 130. Kf2 Rf8 131. Qa3 Rfd8 132. Ke2 Rf8 133. Qa2
+Rfd8 134. Kd2 Rf8 135. Qa3 Rfd8 136. Bf1 Rh8 137. Ke3 Rhd8
+138. Qa1 Rh8 139. Be2 Rhd8 140. Kf3 R8d7 141. Bf1 Rd8 142. Kg2
+Rf8 143. Bd3 Rfd8 144. Bc2 Rg8 145. Qb2 Rgd8 146. Bd1 Ra8
+147. Bc2 Re8 148. Bd1 Ra8 1/2-1/2

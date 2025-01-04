@@ -1,0 +1,18 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Rustam Khusnutdinov"]
+[Black "Teimour Radjabov"]
+[ECO "C49"]
+[WhiteElo "2523"]
+[BlackElo "2758"]
+[Source "Chess-Results"]
+[PlyCount "38"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6
+dxc6 7. Nxe5 Re8 8. Nd3 Bxc3 9. dxc3 Nxe4 10. Qf3 Qf6 11. Bf4
+Nd6 12. Rfe1 Be6 13. Qg3 Nf5 14. Qg5 Qxg5 15. Bxg5 Nd6 16. Bf4
+Bc4 17. b3 Bxd3 18. Bxd6 Bxc2 19. Bxc7 f6 1/2-1/2

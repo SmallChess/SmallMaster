@@ -1,0 +1,21 @@
+[Event "Kasparov Chess sim"]
+[Site "New York"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Rafael Pita Romero Rodriguez"]
+[ECO "B01"]
+[WhiteElo "2812"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Qxd5 6.Qxd5 Nxd5
+7.Nc3 Nxc3 8.bxc3 Nd7 9.a4 O-O-O 10.a5 a6 11.g3 e5 12.Bg2 Nc5
+13.d3 Be7 14.Be3 Rd7 15.Ke2 f5 16.Rhb1 c6 17.Rb4 g5 18.Rc4 Ne6
+19.Bb6 Nc7 20.g4 f4 21.Be4 Kb8 22.Bxc7+ Rxc7 23.Bf3 Rd8 24.Rb1
+Kc8 25.Be4 Rh8 26.Bf5+ Kb8 27.Re4 Bd6 28.d4 Re7 29.Kd3 h5
+30.gxh5 exd4 31.Rxe7 Bxe7 32.cxd4 Rxh5 33.Re1 Bb4 34.Re5 Ka7
+35.Bg4 Rh8 36.c3 Bd6 37.Rxg5 Bc7 38.Rf5 Rd8 39.h4 Rd5 40.Rxd5
+cxd5 41.h5 Bxa5 42.h6 Bd8 43.Bf3 Kb6 44.Bxd5 Kc7 45.Ke4 1-0

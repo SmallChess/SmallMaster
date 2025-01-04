@@ -1,0 +1,23 @@
+[Event "84th US Open"]
+[Site "Pasadena, CA USA"]
+[Date "1983.08.08"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Paul D Lane"]
+[Black "Samuel Reshevsky"]
+[ECO "E15"]
+[WhiteElo "2056"]
+[BlackElo "2533"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3
+d5 8.cxd5 exd5 9.Bg2 O-O 10.O-O Bb7 11.Bg5 Nbd7 12.Ne5 Nxe5
+13.dxe5 Ne4 14.Nxe4 Bxg5 15.Nxg5 Qxg5 16.f4 Qe7 17.Qc2 f6
+18.exf6 Rxf6 19.Rad1 Rd6 20.Rfe1 Re8 21.e3 a5 22.Rc1 c5
+23.Rcd1 h6 24.Kh1 Re6 25.Bxd5 Bxd5+ 26.Rxd5 Rxe3 27.Rxe3 Qxe3
+28.Qd1 Qe2 29.Qxe2 Rxe2 30.Rd6 b5 31.a4 b4 32.Rc6 Rc2 33.Rb6
+h5 34.Kg1 Kf7 35.Kf1 Ke7 36.Ke1 Rc3 37.Rb5 Ke6 38.Kd1 Rxb3
+39.Kc2 Rc3+ 40.Kb2 Kd5 41.Rxa5 Kc4 42.Ra7 Re3 43.Rd7 Re2+
+44.Kc1 Kc3 45.a5 b3 46.Rd1 Ra2 47.Kb1 Rxa5 48.Rc1+ Kb4 49.h3
+c4 50.Re1 c3 0-1

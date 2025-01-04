@@ -1,0 +1,47 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "AlphaZero (Computer)"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "297"]
+
+1. d4 { book } d5 { book } 2. c4 { book } c6 { book } 3. Nc3 {
+book } e6 { book } 4. e4 { book } dxe4 { book } 5. Nxe4 { book
+} Bb4+ { book } 6. Bd2 { book } Qxd4 { book } 7. Bxb4 { book }
+Qxe4+ { book } 8. Be2 { book } Na6 { book } 9. Ba5 { book } f6
+{ book } 10. Nf3 { book } b6 { book } 11. Nd2 Qf4 12. Bh5+ g6
+13. Bf3 Qe5+ 14. Kf1 Qc7 15. Bc3 e5 16. Ne4 Kf7 17. b4 Ne7
+18. h4 h5 19. Qe2 Nf5 20. Re1 Qe7 21. g4 hxg4 22. Bxg4 Nxh4
+23. Bxc8 Raxc8 24. c5 Nf5 25. Rxh8 Rxh8 26. Qxa6 Qd7 27. Ke2
+Rh4 28. Qc4+ Ke7 29. Qd3 Qd5 30. Nd2 bxc5 31. bxc5 Ke6 32. Rb1
+Qxc5 33. Rb7 Nd6 34. Rc7 Qb5 35. Qxb5 Nxb5 36. Rxc6+ Kd5
+37. Rc8 Ra4 38. a3 Rxa3 39. Rd8+ Ke6 40. Bb2 Ra4 41. Re8+ Kf5
+42. Rc8 Nd6 43. Rb8 g5 44. Nf1 Nc4 45. Bc3 Ra2+ 46. Kd3 Nb6
+47. Bd2 Nd5 48. Kc4 Nf4 49. Rd8 Rc2+ 50. Kb3 Rc6 51. Be3 Ne6
+52. Rd7 a6 53. f3 Nf4 54. Rd2 Ng6 55. Rd7 Ke6 56. Rd3 Nf4
+57. Rd8 Ng2 58. Bf2 Rd6 59. Rxd6+ Kxd6 60. Kc4 Ke6 61. Kd3 a5
+62. Nd2 Nf4+ 63. Kc4 a4 64. Ne4 Kf5 65. Nd2 Ke6 66. Nb1 Ne2
+67. Nd2 Nc1 68. Bc5 f5 69. Be3 a3 70. Kc3 Ne2+ 71. Kb3 Nd4+
+72. Bxd4 exd4 73. Kxa3 Ke5 74. Kb2 Kf4 75. Kb3 Ke3 76. Kc2 Ke2
+77. Nb3 Ke3 78. Nd2 d3+ 79. Kd1 Kf2 80. Nc4 Kxf3 81. Kd2 g4
+82. Kxd3 g3 83. Ne5+ Kf2 84. Ng6 g2 85. Nf4 Kg3 86. Ne2+ Kf3
+87. Ng1+ Kf2 88. Nh3+ Kg3 89. Ng1 Kf2 90. Nh3+ Kf3 91. Ng1+
+Kf4 92. Ne2+ Kg5 93. Ke3 Kg4 94. Kf2 Kh3 95. Kg1 Kh4 96. Kxg2
+Kg4 97. Ng1 Kf4 98. Kf1 Kg3 99. Ne2+ Kf3 100. Nd4+ Kf4
+101. Kf2 Ke5 102. Ne2 Ke4 103. Nc1 Kf4 104. Kf1 Kf3 105. Ne2
+Ke3 106. Ke1 Kf3 107. Nc1 Kg4 108. Nd3 Kg5 109. Kf1 Kg6
+110. Ne5+ Kg5 111. Ke1 Kf4 112. Nc6 Kf3 113. Nd4+ Kf4 114. Kf1
+Ke4 115. Nc2 Kf3 116. Ne1+ Ke3 117. Ng2+ Kf3 118. Nh4+ Kf4
+119. Ke1 Kg4 120. Ng6 Kg5 121. Nf8 Kf6 122. Kf2 Kf7 123. Nd7
+Ke6 124. Nc5+ Ke5 125. Nb3 Ke4 126. Na5 Kf4 127. Kf1 Ke3
+128. Nc6 Ke4 129. Nb4 Kd4 130. Nc2+ Kd3 131. Na3 Ke3 132. Nc4+
+Ke4 133. Nb2 Ke3 134. Ke1 Kf3 135. Nd1 Kf4 136. Kf1 Kf3
+137. Nc3 Ke3 138. Nb5 Kf4 139. Kg2 Ke3 140. Nc3 Kd3 141. Nd5
+Ke4 142. Nb4 Ke3 143. Na2 f4 144. Nc3 f3+ 145. Kf1 f2
+146. Nd5+ Ke4 147. Nb4 Ke3 148. Nc2+ Ke4 149. Kxf2 1/2-1/2

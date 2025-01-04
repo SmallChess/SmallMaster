@@ -1,0 +1,14 @@
+[Event "Moscow Aeroflot op-A"]
+[Site "Moscow"]
+[Date "2005.02.17"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Valerij Filippov"]
+[Black "Levon Aronian"]
+[ECO "D31"]
+[WhiteElo "2621"]
+[BlackElo "2684"]
+[PlyCount "64"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Bb4 4. a3 {Die prinzipiellste Antwort. Weiß möchte  mit Zugumstellung eine für ihn günstige Variante des Nimzoindisch erreichen.}  Bxc3+ 5. bxc3 b6 $5 {Ein sehr seltener Zug. Aronian plant mit Ba6 den  sofortigen Angriff auf den Bauern c4.} ({Nach} 5... Nf6 6. e3 O-O 7. cxd5 exd5  8. Bd3 c5 9. Ne2 b6 10. O-O $14 {hat Weiß eine leicht bessere Stellung aus dem  Nimzoindisch und damit sein Ziel erreicht.}) ({  Sehr verbreitet ist die Entwicklung} 5... Ne7 6. e3 O-O 7. Bd3 c5 8. Nf3 {  , z.B.} h6 9. O-O Qc7 10. Qe2 Nd7 11. a4 Re8 12. e4 dxe4 13. Qxe4 Ng6 14. Re1  $14 {Khenkin,I-Godena,M/Ischia 1996}) 6. cxd5 (6. e3 Ba6 $11) (6. Nf3 Ba6 (6...  Nf6 $5) 7. cxd5 exd5 8. Bg5 $14) 6... exd5 7. c4 $5 {Ein zweischneidiges  Bauernopfer. Zu seinem Läuferpaar bekommt Weiß ein mobiles Bauernzentrum.} (7.  e3 $5) 7... dxc4 8. e4 $5 ({Sicherer, aber ungefährlicher für Schwarz ist} 8.  Qa4+ c6 9. Qxc4 Ba6 10. Qc3 Nf6 {  , und Schwarz wird dank seinem Entwicklungsvorsprung keine Sorgen haben, z.B.,}  11. Nf3 O-O 12. Bg5 Ne4 13. Bxd8 Nxc3 $11) 8... Ba6 {  Besser war m.E. das konsequente Halten des Mehrbauern mittels 8...b5.} (8... b5  9. a4 c6 10. Nf3 (10. axb5 cxb5 11. Qh5 Qxd4 12. Qxb5+ Bd7 $15) 10... Nf6 $13)  9. Nf3 Nf6 10. Qc2 c5 $2 {Auch hier war 10...b5 angezeigt. Mit dem Textzug  plant Aronian ein Figurenopfer, das sich als unzureichend erweisen wird.} (  10... b5 $1 11. a4 c6 12. axb5 (12. Be2 O-O 13. e5 Nd5 14. Ng5 g6 $13) 12...  cxb5 13. Ba3 Qa5+ 14. Nd2 Nc6 (14... b4 $2 15. Bb2 $16) 15. Bb2 Qb6 $13) 11. e5  cxd4 $2 (11... Nd5 $142 12. Bxc4 Bxc4 13. Qxc4 cxd4 14. Nxd4 O-O 15. O-O Qd7  $14) 12. exf6 O-O 13. Bxc4 Re8+ 14. Kd1 Qxf6 15. Qa4 $16 {Schwarz hat  eindeutig nicht genug für das geopferte Material, zumal seine Figuren nicht  einmal besser entwickelt sind. Der weiße König fühlt sich recht sicher auf d1.}  Rc8 (15... b5 16. Bxb5 Bxb5 17. Qxb5 Nc6 18. Ra2 Rab8 19. Qd3 $16) 16. Re1 b5  17. Bxb5 Bb7 18. Bb2 Nd7 $6 (18... Bxf3+ 19. gxf3 Qxf3+ 20. Be2 Qf5 (20... Qxf2  21. Qxd4 $18) 21. Rc1 $16) 19. Bxd4 (19. Qxd4 Bxf3+ 20. gxf3 Qxf3+ 21. Kd2 Nf6  22. Bd3 $18) 19... Bxf3+ 20. gxf3 Qxf3+ 21. Be2 $18 Qd5 22. Rg1 Ne5 23. Ke1 g6  24. Rd1 Qe4 25. Qb3 Re8 26. Kf1 Red8 27. Qe3 Qxe3 28. Bxe3 Rxd1+ 29. Bxd1 Nc4  30. Bc1 Rd8 31. Be2 Rc8 32. Rg3 1-0

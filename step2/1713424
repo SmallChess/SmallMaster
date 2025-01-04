@@ -1,0 +1,16 @@
+[Event "Breslau Hauptturnier A"]
+[Site "Breslau GER"]
+[Date "1889.07.17"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Albin Reif"]
+[Black "Emanuel Lasker"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.f4 e5 2.fxe5 f6 3.exf6 Nxf6 4.Nf3 d5 5.e3 Nc6 6.Bb5 Bd6
+7.Bxc6+ bxc6 8.O-O O-O 9.b3 Ng4 10.h3 Qf6 11.c3 Nh2 12.Nxh2
+Bxh2+ 13.Kxh2 Qxf1 0-1

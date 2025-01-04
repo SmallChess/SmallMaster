@@ -1,0 +1,16 @@
+[Event "Clock simul, 3b"]
+[Site "Vienna AUH"]
+[Date "1908.12.19"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Richard Reti"]
+[Black "Emanuel Lasker"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Bxd5 Qxd5 8.Nc3 Qd8 9.Nxe4 Be6 10.c3 dxc3 11.Qb3 Bb4 12.Neg5
+cxb2 13.Nxe6 bxa1=Q 14.Nxd8+ Bxe1 15.Nxc6 Qxc1 0-1

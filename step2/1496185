@@ -1,0 +1,25 @@
+[Event "Training, 6-board Clock Simul"]
+[Site "Toronto"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Paul Keres"]
+[Black "Lawrence Day"]
+[ECO "C72"]
+[WhiteElo "?"]
+[BlackElo "2367"]
+[PlyCount "120"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bg4 6.h3 h5 7.c3 Qf6
+8.d3 Nge7 9.Nbd2 Ng6 10.Bxc6+ bxc6 11.Qa4 Kd7 12.d4 Nf4
+13.dxe5 dxe5 14.Re1 Bc5 15.Qc4 Bd6 16.Re3 Be6 17.Qf1 g5 18.Nc4
+g4 19.Nh2 Bc5 20.h4 Bxe3 21.Bxe3 Bxc4 22.Qxc4 Rhd8 23.g3 Ne6
+24.Rf1 Qg6 25.f3 gxf3 26.Rxf3 Ke8 27.Qxc6+ Kf8 28.Nf1 Rab8
+29.b4 Kg8 30.Rf5 Rd1 31.Bg5 Rd6 32.Qc4 Ng7 33.Rxe5 Re8
+34.Rxe8+ Nxe8 35.Ne3 Qe6 36.Nd5 c6 37.Ne7+ Kf8 38.Qe2 Qg4
+39.Qe3 Rd1+ 40.Kf2 f6 41.Qc5 Nd6 42.Nd5 Qe6 43.Bf4 cxd5
+44.Qxd6+ Kf7 45.Qc7+ Kg6 46.Qd8 Ra1 47.Qxd5 Rxa2+ 48.Ke3 Qb6+
+49.Kd3 Qb5+ 50.Qxb5 axb5 51.c4 bxc4+ 52.Kxc4 Kf7 53.b5 Ke7
+54.Kd5 Kd7 55.e5 fxe5 56.Bxe5 Rd2+ 57.Kc4 Kc8 58.Bf4 Rd1
+59.Be3 Kb7 60.Bd4 Rb1 1/2-1/2

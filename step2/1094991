@@ -1,0 +1,19 @@
+[Event "Simul"]
+[Site "Minneapolis, MN USA"]
+[Date "1915.01.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "Edward P Elliott"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d6 6.Nf3 Nc6
+7.O-O Nh6 8.Nbd2 f6 9.Rc1 Ne5 10.Nd4 Nxc4 11.Nxc4 Be7 12.Nb5
+a6 13.Qh5+ Nf7 14.Ne5 g6 15.Nxf7 Kxf7 16.Qd5+ Be6 17.Qxb7 axb5
+18.Rxc7 Rxa2 19.Bd4 Re8 20.e5 fxe5 21.Ba7 Bc4 22.Re1 Kf8
+23.Be3 Qa8 24.Bh6+ Kf7 25.Qb6 Ra1 26.Qe3 Rxe1+ 27.Qxe1 Rc8
+28.Rxc8 Qxc8 29.h4 Bxh4 30.Qe4 Bf6 0-1

@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Edward Pindar"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 d5 2.exd5 Qxd5 3.c4 Qd8 4.d4 e5 5.Bd3 Bb4+ 6.Bd2 Bxd2+
+7.Qxd2 Nc6 8.Ne2 Nf6 9.d5 Nd4 10.Ng3 O-O 11.O-O Re8 12.Rae1
+Qd6 13.f4 c5 14.fxe5 Rxe5 15.Rxe5 Qxe5 16.Re1 Qd6 17.Qg5 Bd7
+18.Rf1 Re8 19.b4 b6 20.Qh4 h6 21.bxc5 bxc5 22.h3 Re3 23.Ne4
+Nxe4 24.Qd8+ Qf8 25.Qxd7 Rxd3 26.Re1 Nf6 27.Qc7 Nf5 0-1

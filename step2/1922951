@@ -1,0 +1,26 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.06.21"]
+[EventDate "1906.06.05"]
+[Round "15"]
+[Result "1-0"]
+[White "David Janowski"]
+[Black "Hugo Suechting"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Ostend 1906 / Gillam, Game 229"]
+[PlyCount "127"]
+
+1.d4 d5 2.Nf3 c5 3.c3 e6 4.Bf4 Nf6 5.e3 Nbd7 6.Nbd2 Qb6 7.Qc2
+Bd6 8.Bg3 O-O 9.Bd3 Qc7 10.Bh4 Re8 11.O-O-O c4 12.Be2 b5 13.g4
+Bb7 14.g5 Ne4 15.Nxe4 dxe4 16.Nd2 e5 17.Nxe4 exd4 18.Nxd6 Qxd6
+19.Rxd4 Qa6 20.Rhd1 Nc5 21.Kb1 Be4 22.Rxe4 Nxe4 23.Bf3 Qc6
+24.Kc1 Re6 25.Rd4 Rae8 26.Bg3 Qb7 27.Bf4 Qe7 28.h4 Nc5 29.Bd5
+Nd3+ 30.Kb1 Rb6 31.Bg3 Rd8 32.e4 h6 33.Qd2 hxg5 34.Qxg5 Qxg5
+35.hxg5 Rd7 36.f4 Nc5 37.f5 g6 38.Kc2 Re7 39.b4 cxb3+ 40.axb3
+Ra6 41.b4 Na4 42.Bf4 Nb6 43.fxg6 Nxd5 44.gxf7+ Kxf7 45.exd5
+Ra2+ 46.Kd3 Rf2 47.d6 Rd7 48.Be3 Rg2 49.Rf4+ Ke6 50.Rf6+ Kd5
+51.Bf4 Rg7 52.Rf5+ Kc6 53.Rc5+ Kb6 54.Be3 Ka6 55.Re5 Rd7
+56.Rd5 Rg4 57.Bd4 Kb7 58.Rxb5+ Kc6 59.Ra5 Rxd6 60.Kc4 Rd7
+61.Ra6+ Kc7 62.Rxa7+ Kc8 63.Ra8+ Kb7 64.Rg8 1-0

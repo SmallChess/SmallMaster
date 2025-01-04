@@ -1,0 +1,28 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.12"]
+[EventDate "1922.07.31"]
+[Round "10"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Richard Reti"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 {Notes by Geza Maroczy} Nf6 2.Nf3 g6 3.h3 {White intends
+to play Bf4 and this move is made to secure a retreat for the
+bishop.} Bg7 4.Bf4 O-O 5.Nbd2 d6 6.e3 Nbd7 7.c3 c5 8.Bc4 b6
+9.O-O Bb7 10.Qe2 Qc7 11.Bh2 Rae8 12.e4 cxd4 13.cxd4 e5 14.Rac1
+Qb8 15.d5 Rc8 16.Bb5 Rxc1 17.Rxc1 Rc8 18.Bc6 Bh6 19.b4 Bxd2
+{If Black intended to capture this knight he might have waited
+till White had moved the rook. After 19...Bxc6 20 Rxc6! White
+still has the better game.} 20.Nxd2 Bxc6 21.dxc6 b5 22.Nb3 Nf8
+23.Qd3 Ne6 24.Kf1 {! With the intention to bring the bishop in
+the game via g1.} Qb6 25.Na5 Qd4 26.Qxd4 Nxd4 27.f3 Rc7 {? The
+best would have been ...Nh5, but White has with 28 g4 the
+better end-game. After the text-move the ending is lost for
+Black.} 28.Bg1 Kf8 29.Bxd4 exd4 30.Rd1 Ke7 31.Rxd4 Ke6 32.Ke2
+Ng8 33.Nb7 Nf6 34.Rxd6+ Ke7 35.Ke3 Ne8 36.e5 Ng7 37.f4 h5
+38.g4 hxg4 39.hxg4 1-0

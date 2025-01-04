@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1889.08.27"]
+[EventDate "1889.08.26"]
+[Round "3"]
+[Result "0-1"]
+[White "Rudolf Johannes Loman"]
+[Black "Emanuel Lasker"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Nc3 b5 7.Bb3
+Bg4 8.h3 Bh5 9.d3 Nd4 10.Kh2 g5 11.g4 Nxg4+ 12.hxg4 Bxg4
+13.Bxf7+ Kxf7 14.Nxg5+ Qxg5 15.Bxg5 Bxd1 16.f4 Bg4 17.fxe5+
+Kg6 18.Bf6 Bg7 19.Rf4 h5 20.Raf1 Raf8 21.Nd5 dxe5 22.R4f2 Bxf6
+0-1

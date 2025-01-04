@@ -1,0 +1,79 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1950.12.11"]
+[EventDate "1950.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Igor Bondarevsky"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 {Notes by Peter Clarke} e6 {There are people who play
+this against any opening move by White. Perhaps it is the only
+reply that unquestionably deserves such a strange
+distinction.} 2. g3 f5 3. Bg2 Nf6 4. O-O Be7 5. d4 O-O 6. c4
+c6 {He intens to adapt the stonewall formation and decides on
+this order of moves to avoid the possibility of his
+black-squared Bishop being exchanged by b3 and Ba3 (this way
+he has ...d6 in reserve); not that there is anything really to
+be feared in that.} 7. Qc2 Qe8 {The manouver ...Q-e8-g6 (or
+h5) is the normal method of preparing the K-side attack. Here
+he starts it while waiting for White to reveal his hand more.}
+8. Nbd2 d5 9. Ne5 {Petrosian is employing the same strategy as
+he did against Pirtskhalava-placing his Knights on d3 and f3
+in order to exploit the hole on e5. What is interesting is
+that he has found an entirely different route for them to
+take.} Nbd7 10. Nd3 Ne4 11. Nf3 {White has avoided relieving
+Black's game by exchanges and is now ready to begin the drive
+forward in the center. This is a critical moment for the
+second player, for he must seek counter-play on the K side and
+yet not overreach himself there; 11...Qh5 seems
+natural. Instead Bondarevsky tries to combat White's plans by
+striking out first on the other wing, a policy as wrong as it
+is anti-thematic.} Nd6 12. b3 b5 13. c5 {!} Nf7 14. a4 {The
+new extension to the wall must fall, after which Black is left
+with a weakened and exposed Q side, not at all what he had
+bargained for.} bxa4 15. Rxa4 Bf6 16. Bb2 a6 {For the one and
+only time he could have played ...e5 here. Although it would
+have greatly freed his pieces-after, for instance, 17.dxe5
+Nfxe5 18.Rfa1 Nxd3 19.exd3 Bxb2 20.Qxb2 Nxc5 21.Rxa7-White's
+too would have had the board opened up for them. And open
+positions invariably favor the side with the initiative.}
+17. Nfe5 Nfxe5 18. dxe5 Be7 19. f4 Rb8 {If 19...g5 20.fxg5
+Bxg5 21.Bc1! Black's problem is to find a constructive plan
+which does not help his opponent.} 20. Rfa1 Rb5 21. b4 {!
+21.Bd4 was superficially correct, but White would like to see
+his Knight on d4; moreover, he wishes to preserve the
+possibility of Bc1, as mentioned in the previous note.} h5
+{Bondarevsky has not yet had all the fight squeezed out of
+him.! He is aiming to win some space on the K side and so
+perhaps put White out of his methodical stride.} 22. Bc3 h4
+23. e3 Nb8 {Unfortunately this passive step is necessary, as
+White is threatening to bring his KB to bear on the a-pawn.}
+24. Ne1 Rb7 {Better was the prelimanary 24...hxg3. As played,
+Black loses the benefit he expected from the advance of the
+h-pawn.} 25. gxh4 Bxh4 26. Nf3 Bd8 27. h4 {! It is clear that
+Black's last chance of doing anything active- ...g5-has
+gone. The outlook is one of grim defence behind his pawn
+barrier.} Qh5 28. Be1 Bd7 29. Qf2 Kf7 {? A final error,
+shortening the game by many moves. He had to return his Bishop
+to c8 to protect his a-pawn, in which event it still would
+have required a long campaign of White to breach the defences
+(the g-file is the weak spot). As soon as the pawn is removed,
+there is nothing to hold the attacker off.} 30. Bf1 Rh8
+31. Bxa6 Nxa6 32. Rxa6 Be7 33. Ra7 Rhb8 {He attacked the enemy
+h-pawn in vain and now he has had to give up. The end is not
+far away.} 34. Rxb7 Rxb7 35. Nd4 Qh8 36. Qg3 Qb8 {Black was
+almost in Zugzwang; for instance, Bishop moves permit Ra8,
+whilst the threat of b5 continually hangs over him.} 37. h5
+Ra7 38. Rc1 {Avoiding a subtle trap-38.Rxa7 Qxa7 39.Qg6+ Kf8
+40.Ne6+ Bxe6 41.Qxe6 Qa1! 42.Qc8+ Kf7 48.Qxf5+ Kg8, and White
+must either give perpetual check or lose his Bishop.} Qg8
+39. Qg6+ Kf8 40. b5 {This inevitable breakthrough is the
+stronger for being delayed. If 40...cxb5, then 41.c6 Bc 8
+42.Nxb5 and 43.Nd6 wins.} Qf7 41. bxc6 Bc8 {Black sealed this
+move and the next day, in view of the continuation 42.Qxf7+
+Kxf7 43.Nb5 Ra8 44.Nd6+ Kf8 45.c7, he resigned.} 1-0

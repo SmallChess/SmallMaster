@@ -1,0 +1,14 @@
+[Event "Biel GM"]
+[Site "Biel"]
+[Date "2005.07.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andrei Volokitin"]
+[Black "Boris Gelfand"]
+[ECO "B90"]
+[WhiteElo "2671"]
+[BlackElo "2724"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8. O-O  Nc6 9. Be3 O-O 10. f4 Bg4 11. Nb3 Qc8 12. a5 {The whole set up is well known,  Volokitin hopes to get some advantage with the help of the control of the  critical square b6.} (12. Kh1 Bxe2 13. Qxe2 Qg4 14. Rf3 Rac8 15. Rd1 Qh5 16.  Bg1 Rfe8 17. Qf1 b5 18. axb5 axb5 19. Re1 b4 20. Nb5 d5 21. e5 Ne4 {  0-1 Conquest,S-Rowson,J/Douglas 2005/ (57)}) 12... Bxe2 (12... Re8 13. Ra4 Bxe2  14. Qxe2 Qg4 15. Qd3 Rac8 16. Nd5 Nxd5 17. exd5 Ne5 {  0-1 Short,N-Anand,V/Dubai 2002/ (17)}) 13. Qxe2 Nd7 14. Na4 f5 15. exf5 Rxf5  16. c4 (16. Bd2 Qc7 17. Qe6+ Kh8 18. Bc3 Raf8 $11) 16... Qc7 17. Nc3 (17. Bb6  Nxb6 $1 18. Nxb6 Raf8 19. Nd5 Qc8 20. Rad1 e6 21. Nb6 Qe8 22. Rxd6 Be5 $11)  17... Bxc3 $5 {Gelfand is a realistic player and he solves the tension in the  position by eating the a5 pawn.} 18. bxc3 Nxa5 19. Nxa5 Rxa5 20. Rxa5 Qxa5 21.  Bd4 e5 (21... Qf5 $2 22. Qxe7 Qf7 23. Qxd6 $16) (21... Kf7 $2 22. f5 gxf5 23.  Qh5+ Ke6 24. Qxh7 $16) 22. fxe5 dxe5 (22... Nxe5 $2 23. c5 Qb5 24. Qf2 $18) 23.  Qg4 $1 {  White is forced to accept the line with complete equality and immediate draw.}  exd4 (23... Rd8 $2 24. Qe6+ Kh8 25. Qe7 exd4 26. Rf7 Qa1+ 27. Kf2 Qb2+ 28. Kg3  Qxc3+ 29. Kh4 $18) 24. Qxd7 dxc3 25. Qe6+ (25. Rf7 Qb6+ 26. Kf1 Qb1+ 27. Kf2  Qb2+ 28. Kg3 c2 $19) 25... Kh8 26. Qf6+ 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Radom sim"]
+[Site "Radom"]
+[Date "2000.05.21"]
+[EventDate "?"]
+[Round "18"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Arkadiusz Konczyk"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.g4
+h6 8.g5 hxg5 9.Bxg5 Be7 10.Qd3 Nbd7 11.f4 Nc5 12.Qe3 Qc7
+13.Bf3 Bd7 14.O-O-O Rc8 15.e5 dxe5 16.fxe5 Nh7 17.Bxe7 Kxe7
+18.Nf5+ Kf8 19.Nd6 Rb8 20.h4 b5 21.Kb1 b4 22.Nce4 Nxe4 23.Bxe4
+Ke7 24.Rhg1 g6 25.h5 gxh5 26.Bxh7 Rxh7 27.Qg5+ Kf8 28.Qg8+ 1-0

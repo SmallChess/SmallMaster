@@ -1,0 +1,19 @@
+[Event "Blindfold simul, 7b"]
+[Site "Oxford ENG"]
+[Date "1872.02.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Benjamin Whitefoord"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Oxford Review, 1887.05.11, p.448"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 g5 5. h4 d6 6. hxg5 Qxg5
+7. Nf3 Qg3+ 8. Ke2 Bh6 9. Nd5 Kd8 10. Rxh6 Nxh6 11. Bxf4 Qg7
+12. Bg5+ Ke8 13. Nxc7+ Kd7 14. Nxa8 Re8 15. Kf2 Rxe4 16. Bd3
+Rg4 17. Qd2 Qg8 18. d5 Ne5 19. Bb5+ Nc6 20. Rd1 Ke8 21. dxc6
+Rxg5 22. cxb7+ Bd7 {White announced mate in 2} 1-0

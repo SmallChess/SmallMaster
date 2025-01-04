@@ -1,0 +1,22 @@
+[Event "Mainz CC Fischer Random"]
+[Site "Mainz GER"]
+[Date "2001.06.26"]
+[EventDate "2001.06.26"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Peter Leko"]
+[Black "Michael Adams"]
+[ECO "000"]
+[WhiteElo "2730"]
+[BlackElo "2750"]
+[PlyCount "64"]
+[SetUp "1"]
+[FEN "rbknnqbr/pppppppp/8/8/8/8/PPPPPPPP/RBKNNQBR w KQkq - 0 1"]
+
+1. e4 e5 2. Nd3 f5 3. exf5 e4 4. Ne1 Nd6 5. Ne3 Nxf5 6. f3
+Nxe3 7. Bxe3 exf3 8. Nxf3 Bd5 9. c4 Bxf3 10. Qxf3 Qxf3
+11. gxf3 Ne6 12. f4 c5 13. f5 Nd4 14. Bxd4 cxd4 15. Be4 Be5
+16. Kc2 Kc7 17. Kd3 Rae8 18. c5 Bf6 19. b4 Re5 20. Rhe1 Rhe8
+21. Re2 d5 22. cxd6+ Kxd6 23. Rae1 R8e7 24. Bg2 Rxe2 25. Rxe2
+Be5 26. h3 Rc7 27. Re1 b6 28. Be4 h6 29. a4 Rc8 30. Bb7 Rb8
+31. Be4 Rc8 32. Bb7 Rb8 1/2-1/2

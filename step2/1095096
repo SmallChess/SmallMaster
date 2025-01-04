@@ -1,0 +1,24 @@
+[Event "Dimock theme"]
+[Site "New York"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anthony Santasiere"]
+[Black "Frank James Marshall"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.Ng5 Ne5 6.Qxd4 Nxc4
+7.Qxc4 d5 8.exd5 Qxd5 9.Qe2+ Be6 10.O-O O-O-O 11.Nc3 Qf5
+12.Nxe6 fxe6 13.Be3 Bd6 14.Nb5 a6 15.Nxd6+ Rxd6 16.Rad1 Rhd8
+17.Rxd6 Rxd6 18.Rd1 Nd5 19.h3 Qe5 20.c3 Qe4 21.Re1 Nxe3
+22.fxe3 Rd3 23.Qf2 g6 24.Re2 Rd1+ 25.Kh2 b5 26.a3 h5 27.Qf4
+Qb1 28.Qf8+ Kb7 29.Qf3+ Kb6 30.Qf6 Qe4 31.Qf4 Qd5 32.h4 e5
+33.Qf8 Qc4 34.Qf6+ Rd6 35.Qf2 Qe4 36.Re1 c6 37.Kg1 Rd3 38.Kh2
+a5 39.Kg1 a4 40.Kh2 Rd6 41.Kg1 Kc5 42.c4 bxc4 43.Qf7 Kb6
+44.Qf8 Kc7 45.Qe7+ Rd7 46.Qc5 Qxh4 47.Qxe5+ Kb7 48.Rf1 Qe7
+49.Qxe7 Rxe7 50.Kf2 Rf7+ 51.Ke2 Rxf1 52.Kxf1 Kc7 53.Ke2 Kd6
+54.Kd2 Ke5 55.Kc3 g5 56.Kxc4 h4 57.Kd3 g4 0-1

@@ -1,0 +1,37 @@
+[Event "Blindfold simul, 8b"]
+[Site "Paris FRA"]
+[Date "1858.09.27"]
+[EventDate "1858.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Bornemann"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 {Notes by Lowenthal} e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4
+5. Bc4 Nf6 6. fxe5 Bxf3 {Black must take the knight, for if
+...dxe5, White replies Bxf7+, etc.} 7. Qxf3 dxe5 8. d3 Nc6
+9. Bg5 a6 10. Nd2 Be7 11. O-O-O Qd7 12. Nf1 {This is a good
+move, for when the knight comes to e3, it can be played either
+to d5 or f5 with great advantage.} O-O-O 13. Ne3 {To have
+taken on f7 would have been dangerous.} h6 14. Bh4 g5 15. Bg3
+Rdf8 16. Nd5 Ne8 {He could not exchange knight without losing
+his e-pawn.} 17. d4 {Remarkably well played, securing a free
+file for the queen's rook and opening a diagonal for his
+queen's bishop to attack the king's position.} exd4 18. cxd4
+{Bxc7 would also have been a powerful reply as a check would
+have been threatened to both king and queen.} Bd8 19. Rhf1 Nd6
+20. Bb3 Nb5 21. Qe3 f5 {this was a very unadvisable step, and
+one by which his game is terribly compromised.} 22. exf5 Rxf5
+23. Nb6+ {Taking due advantage of the imprudent advance of the
+f-pawn.} cxb6 24. Be6 {If white had taken rook instead, Black
+would have saved his Queen with ...Re8. It is evident that if,
+on rook takes rook, the queen had reataken, mate would have
+followed in two moves.} Rd5 25. Rf7 Ne7 26. Kb1 {All this is
+astonishingly well played, when we consider that it is played
+blindfold, and with so many games at hand at the same time.}
+Re8 27. Rc1+ Nc7 28. Bxd7+ Rxd7 29. d5 Nc6 30. dxc6 Rxe3
+31. cxd7+ Kb8 32. Rxc7 1-0

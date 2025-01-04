@@ -1,0 +1,22 @@
+[Event "Rethymno sim"]
+[Site "Rethymno GRE"]
+[Date "2001.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Angelos Sandalakis"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Re1 e6
+7.c3 c4 8.d4 cxd3 9.Qxd3 Qc7 10.Bf4 Nh5 11.Be3 Be7 12.Nbd2 a6
+13.a4 Rc8 14.a5 Nhf6 15.Bd4 Nc5 16.Qc2 e5 17.Bxc5 Qxc5 18.Qa4+
+Qc6 19.Nc4 Qxa4 20.Rxa4 Rc6 21.Nfd2 Bd8 22.Rb4 Nd7 23.Rxb7 Nc5
+24.Rb8 O-O 25.Ra1 Bg5 26.Rb6 Rfc8 27.Kf1 Kf8 28.Ke2 Nd7
+29.Rxc6 Rxc6 30.f3 Ke7 31.Ne3 Nc5 32.Ndc4 Nb3 33.Ra4 Bxe3
+34.Nxe3 Nc1+ 35.Kd2 Nb3+ 36.Kc2 Nc5 37.Rb4 Kd7 38.Nd5 h6
+39.Rb8 f6 40.h4 Ne6 41.b4 Nd8 42.Kd3 Ke8 43.c4 Kd7 44.g3 Ke8
+45.Ra8 h5 46.f4 exf4 47.gxf4 1-0

@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1888.??.??"]
+[EventDate "1888.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Andres Clemente Vazquez"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5
+7. Qg4 O-O 8. Nf3 Qe7 9. Bd3 f5 10. Qh3 a6 11. g4 g6 12. gxf5
+exf5 13. Nxd5 Qg7 14. Bd2 b5 15. Bc3 Bb7 16. e6 Nf6 17. Nxf6+
+Rxf6 18. O-O-O Be3+ 19. Kb1 Bxf4 20. Bxf5 Qf8 21. Rhg1 b4
+22. Bxg6 1-0

@@ -1,0 +1,27 @@
+[Event "Delannoy - Morphy Construction"]
+[Site "Paris FRA"]
+[Date "1859.??.??"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Alphonse Delannoy"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"]
+
+1. f4 {This is not a real Morphy game until 22... Rfe8. The
+following is the "Alexander G. Sellman" construction of the
+missing moves that were presented with the ending in Maroczy's
+game 399, a brilliant feat of retro-analysis. The opening
+score is supposition, only the ending was known} e6 2. Nf3 c5
+3. c4 Bd6 4. e5 Bc7 5. Nc3 Nc6 6. d3 d6 7. exd6 Qxd6 8. Be2
+Nd4 9. Nxd4 cxd4 10. Na4 Nf6 11. c5 Qd8 12. O-O O-O 13. Bd2
+Bd7 14. b3 Be8 15. Qc1 Nh5 16. Bxh5 Bxh5 17. Qb1 Qd5 18. b4
+Bg6 19. f5 exf5 20. Qc1 Rae8 21. Bf4 Re2 22. Rf2 { This is the
+position and following are the known scores that have
+survived.} Rfe8 23. Bxc7 Rxf2 24. Kxf2 Re2+ 25. Kxe2 Qxg2+
+26. Ke1 Qg1+ 27. Ke2 Bh5+ 28. Kd2 Qf2# 0-1

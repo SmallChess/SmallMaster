@@ -1,0 +1,16 @@
+[Event "MrDodgy Invitational 3"]
+[Site "chess24.com INT"]
+[Date "2022.11.25"]
+[EventDate "2022.11.25"]
+[Round "15.7"]
+[Result "0-1"]
+[White "Simon K Williams"]
+[Black "Daniil Dubov"]
+[ECO "E00"]
+[WhiteElo "2467"]
+[BlackElo "2708"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. c4 e6 3. g4 Ng8 4. h4 Ne7 5. e4 d5 6. cxd5 exd5 7. e5 h5 8. gxh5 c5
+9. Bg5 Nbc6 10. dxc5 d4 11. Nd2 Qd5 12. Nc4 Qxh1 13. Nd6+ Kd7 14. Qg4+ Kc7 15.
+e6 Bxe6 16. Qf4 Nd5 0-1

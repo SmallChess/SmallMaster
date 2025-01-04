@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1864.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Emil Schallopp"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d5 6. Bb5
+Nge7 7. exd5 exd5 8. O-O a6 9. Ba4 b5 10. Nxc6 Nxc6 11. Re1+
+Be7 12. Nxd5 bxa4 13. Bg5 Be6 14. Bxe7 Nxe7 15. Nf4 Qxd1
+16. Raxd1 O-O 17. Rd4 a3 18. b3 Rad8 19. Ra4 Rd2 20. Rxa6 Rxc2
+21. Rxa3 Ng6 22. Nh5 Bg4 23. Ng3 Nf4 24. h3 Ne2+ 25. Kh2 Nxg3
+26. hxg4 Ne2 27. Ra7 f5 28. g5 f4 29. f3 Rf5 30. Re7 Nd4
+31. Kh3 Rxg5 32. Rd7 Rg3+ 33. Kh2 Nxf3+ 34. Kh1 Rh3+ 35. gxh3
+Rh2# 0-1

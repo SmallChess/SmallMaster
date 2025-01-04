@@ -1,0 +1,35 @@
+[Event "Outdoor Exhibition Match"]
+[Site "Bergen NOR"]
+[Date "2004.08.06"]
+[EventDate "2004.08.06"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Magnus Carlsen"]
+[Black "Simen Agdestein"]
+[ECO "E21"]
+[WhiteElo "2567"]
+[BlackElo "2614"]
+[PlyCount "208"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 h6 6. Bh4 c5
+7. Rc1 cxd4 8. Nxd4 Qa5 9. Bxf6 gxf6 10. a3 Be7 11. e3 Qg5
+12. Be2 Kh8 13. O-O Rg8 14. Bf3 Nc6 15. Ne4 Qg7 16. Nxc6 dxc6
+17. Nd6 Rd8 18. c5 e5 19. Qb3 Bxd6 20. cxd6 Rb8 21. Rfd1 Be6
+22. Qa4 f5 23. e4 fxe4 24. Qxe4 f5 25. Qe3 e4 26. Be2 Rd7
+27. Bc4 Bxc4 28. Rxc4 Rbd8 29. Rcd4 Kh7 30. b4 Qe5 31. Qd2 Rg8
+32. g3 Rg6 33. a4 h5 34. Rc1 Rgxd6 35. Rxd6 Qxd6 36. Qg5 Qg6
+37. Qe3 a6 38. Rc5 Qg4 39. Kg2 Rd3 40. h3 Qf3+ 41. Qxf3 exf3+
+42. Kh2 Kg6 43. g4 hxg4 44. hxg4 f4 45. b5 axb5 46. axb5 Rd5
+47. Rc4 Rxb5 48. Rxf4 Rb3 49. Kg3 b5 50. Rd4 Kg5 51. Rd6 Rc3
+52. Rd4 c5 53. Rd5+ Kf6 54. g5+ Kg6 55. Kf4 Rc4+ 56. Kxf3 b4
+57. Ke3 b3 58. Kd3 Rb4 59. Rd6+ Kxg5 60. f4+ Kf5 61. Rd5+ Kxf4
+62. Rh5 c4+ 63. Kc3 b2 64. Kxb4 b1=Q+ 65. Kxc4 Qe4+ 66. Kc5
+Qe7+ 67. Kb6 Qd8+ 68. Ka6 Qd6+ 69. Kb5 Qd3+ 70. Ka5 Qd2+
+71. Kb6 Qd6+ 72. Kb5 Qd7+ 73. Ka5 Qc7+ 74. Kb4 Ke4 75. Rc5
+Qb6+ 76. Rb5 Qd4+ 77. Ka3 Kd3 78. Rb4 Qc5 79. Ka4 Qc6+ 80. Kb3
+Qc7 81. Ka4 Qc6+ 82. Ka5 Kc3 83. Rb3+ Kc2 84. Rb6 Qa8+ 85. Kb4
+Qd5 86. Rb5 Qd4+ 87. Ka5 Kc3 88. Rb6 Qc5+ 89. Ka6 Kc4 90. Kb7
+Qe7+ 91. Ka6 Qa3+ 92. Kb7 Kc5 93. Rc6+ Kd5 94. Rb6 Qe7+
+95. Ka6 Qd7 96. Rb7 Qa4+ 97. Kb6 Kd6 98. Rb8 Qb4+ 99. Ka7 Qa5+
+100. Kb7 Kd7 101. Ra8 Qb5+ 102. Ka7 Kc7 103. Rc8+ Kxc8
+104. Ka8 Qa6# 0-1

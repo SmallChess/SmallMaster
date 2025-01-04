@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "Philadelphia, PA USA"]
+[Date "1882.12.11"]
+[EventDate "1882.12.11"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Lorenzo D Barbour"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.f4 Nf6 3.fxe5 Nxe4 4.Nf3 Ng5 5.c3 d5 6.exd6 Bxd6
+7.d4 Qe7+ 8.Kf2 Ne4+ 9.Kg1 O-O 10.Bd3 f5 11.c4 c5 12.d5 Nd7
+13.Qe2 Ne5 14.Nxe5 Bxe5 15.g3 Bd4+ 16.Kg2 Re8 17.Re1 Bd7
+18.Nd2 Qf6 19.Nxe4 fxe4 20.Bxe4 Bf5 21.Qf3 Rxe4 0-1

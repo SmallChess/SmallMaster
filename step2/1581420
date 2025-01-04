@@ -1,0 +1,20 @@
+[Event "Thompson - 3 Casual Knight Odds"]
+[Site "New York, NY USA"]
+[Date "1860.09.22"]
+[EventDate "1860.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "James Thompson"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4 a6 6. d4 exd4
+7. c3 d3 8. O-O d6 9. Qb3 Qe7 10. a5 Ba7 11. b5 axb5 12. Qxb5
+Nf6 13. e5 dxe5 14. Ba3 Qd7 15. Rad1 e4 16. Bxd3 Qf5 17. a6
+Qxb5 18. Bxb5 Nd7 19. Rfe1 f5 20. Rd5 Ne7 21. axb7 Bxb7
+22. Rxd7 Bxf2+ 23. Kxf2 Rxa3 24. Rxc7+ Kf7 25. Rxb7 1-0

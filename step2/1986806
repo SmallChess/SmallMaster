@@ -1,0 +1,16 @@
+[Event "World Blitz Championship"]
+[Site "Moscow RUS"]
+[Date "2019.12.29"]
+[EventDate "2019.12.29"]
+[Round "2.45"]
+[Result "0-1"]
+[White "Eldar Gasanov"]
+[Black "Alexander Grischuk"]
+[ECO "A40"]
+[WhiteElo "2481"]
+[BlackElo "2777"]
+[PlyCount "40"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 f5 5. d5 Nf6 6. g3 Na6 7. Bg2 Bd6 8. Nf3 O-O
+9. O-O Nc5 10. Nd4 Be5 11. e3 a5 12. b3 exd5 13. cxd5 Nce4 14. Bb2 Nxc3 15. Bxc3
+Bxd5 16. Nxf5 Bxg2 17. Bxe5 Bxf1 18. Qxf1 d6 19. Qc4+ Kh8 20. Bb2 0-1

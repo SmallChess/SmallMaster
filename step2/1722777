@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "SWE"]
+[Date "1911.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "Otto Loewenborg"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.d4 exd4 5.Bd3 Bg4 6.h3 Bxf3 7.Qxf3
+Nc6 8.O-O Nge7 9.Qg3 Qd7 10.a3 f5 11.b4 fxe4 12.Bxe4 d5 13.Bd3
+Bd6 14.b5 Na5 15.Nd2 O-O-O 16.Nf3 g5 17.Qxg5 Rhg8 18.Qh4 Nf5
+19.Bxf5 Qxf5 20.Nxd4 Bc5 21.Be3 Qe4 0-1

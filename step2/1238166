@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1857.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "James McConnell"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O Nf6 7.d4
+exd4 8. cxd4 Bb6 9.Ba3 d6 10.e5 Ne4 11.Re1 d5 12.Bb5 Bg4
+13.Rc1 Qd7 14.Qa4 Bxf3 15.Rxc6 O-O-O 16.e6 fxe6 17.Rxb6 1-0

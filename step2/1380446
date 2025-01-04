@@ -1,0 +1,19 @@
+[Event "Simul"]
+[Site "Kiel GER"]
+[Date "1925.03.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Schulz"]
+[Black "Emanuel Lasker"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Nxe4 5.Re1 d5 6.Bb5 Bc5
+7.Bxc6+ bxc6 8.d4 exd4 9.Nxd4 O-O 10.Be3 Qf6 11.c3 Bb6 12.Nd2
+Nxd2 13.Qxd2 Bb7 14.Bg5 Qg6 15.Nf3 f6 16.Be3 c5 17.Qd1 Rad8
+18.Nh4 Qf7 19.Nf5 d4 20.cxd4 cxd4 21.Bh6 Rfe8 22.Rxe8+ Rxe8
+23.Bxg7 Qe6 24.g4 Qe4 25.f3 d3+ 26.Kf1 Qe2+ 27.Qxe2 dxe2+
+28.Ke1 Ba5+ 0-1

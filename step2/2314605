@@ -1,0 +1,18 @@
+[Event "Odds game"]
+[Site "Berlin GER"]
+[Date "1887.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "NN"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Taegliche Rundschau, 1887.06.30, p.300 / C.N. 10727"]
+[PlyCount "20"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 c5 2. c3 Nc6 3. d4 d6 4. Nf3 Bg4 5. d5 Ne5 6. Nxe5 Bxd1 7. Bb5+ Qd7 8.
+Bxd7+ Kd8 9. Nxf7+ Kxd7 10. Kxd1 {White wins} 1-0

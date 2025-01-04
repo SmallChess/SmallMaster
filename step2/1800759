@@ -1,0 +1,16 @@
+[Event "Simul, 50b"]
+[Site "San Francisco, CA USA"]
+[Date "1964.04.13"]
+[EventDate "1964.04.13"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert James Fischer"]
+[Black "Robert Eugene Burger"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1
+Nxd5 8.cxd4 Qxg5 9.Bxb5+ Kd8 10.Qf3 Bb7 11.O-O exd4 12.Qxf7
+Nf6 0-1

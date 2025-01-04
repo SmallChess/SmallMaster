@@ -1,0 +1,20 @@
+[Event "Clock simul, 13b"]
+[Site "Barcelona ESP"]
+[Date "1935.01.27"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Rafael Domenech"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3
+f5 7. f3 exf3 8. Qxf3 c6 9. Bf4 Nf6 10. O-O-O O-O 11. Bc4 Nd5
+12. Rhe1 b5 13. Nxd5 exd5 14. Bd3 a5 15. Qg3 Na6 16. Bg5 Qc7
+17. Re5 Bd7 18. Rde1 Rae8 19. Bh6 Bc8 20. Rxe8 Qxg3 21. Rxf8+
+Kxf8 22. hxg3 gxh6 23. Bxf5 Bxf5 24. Rf1 Kg7 25. Rxf5 Nc7
+26. Kd2 Ne6 27. Ke3 Kg6 28. g4 Kg7 29. b3 a4 30. bxa4 bxa4
+31. c4 Nc7 32. Kd3 Kg6 33. Kc3 1-0

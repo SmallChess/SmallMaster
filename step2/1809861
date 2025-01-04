@@ -1,0 +1,25 @@
+[Event "China Chess Queens"]
+[Site "Taizhou CHN"]
+[Date "2015.11.30"]
+[EventDate "2015.11.24"]
+[Round "3.3"]
+[Result "1-0"]
+[White "Tan Zhongyi"]
+[Black "Ju Wenjun"]
+[ECO "A18"]
+[WhiteElo "2492"]
+[BlackElo "2547"]
+[PlyCount "119"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 d4 6. exf6
+dxc3 7. Bb5+ c6 8. Qe2+ Be6 9. Bc4 Qxf6 10. dxc3 Be7 11. Nf3
+Bxc4 12. Qxc4 h6 13. O-O O-O 14. Re1 Nd7 15. Bxh6 Nb6 16. Qg4
+Rfe8 17. Bf4 Bf8 18. Be5 Qh6 19. Nd4 Nd5 20. Nf5 Qg6 21. Qxg6
+fxg6 22. Nh4 Re6 23. Nf3 Rae8 24. Kf1 Nb6 25. Bf4 Na4 26. Rxe6
+Rxe6 27. Rb1 c5 28. c4 a6 29. Bd2 b5 30. b3 Nb6 31. cxb5 axb5
+32. Re1 Rd6 33. Re8 Kf7 34. Rb8 Be7 35. Bf4 Re6 36. Ne5+ Rxe5
+37. Bxe5 Nd7 38. Rxb5 Nxe5 39. a4 Nc6 40. a5 Nb4 41. Ke2 g5
+42. Kf3 Ke8 43. Rb7 Kd8 44. Ke4 Bf6 45. f4 gxf4 46. Kxf4 Kc8
+47. Rf7 Nc6 48. a6 Kb8 49. Kf5 Na5 50. g4 Ka8 51. g5 Bd4
+52. h4 Nxb3 53. Rc7 Na5 54. h5 Kb8 55. a7+ Ka8 56. h6 gxh6
+57. gxh6 Nb7 58. Kg6 Kxa7 59. Rg7 c4 60. h7 1-0

@@ -1,0 +1,20 @@
+[Event "Simul"]
+[Site "Hamburg FRG"]
+[Date "1985.06.05"]
+[EventDate "1985.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Felix Magath"]
+[ECO "D30"]
+[WhiteElo "2715"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 c5 5.cxd5 Nxd5 6.Bg2 Nc6 7.O-O
+cxd4 8.Nxd4 Be7 9.Nc3 O-O 10.Nxd5 exd5 11.Be3 Be6 12.Qd2 Bf6
+13.Rac1 Rc8 14.Nxc6 bxc6 15.Bxa7 Qd7 16.Bc5 Rfe8 17.a4 Bh3
+18.b4 Bxg2 19.Kxg2 Re5 20.f3 Rce8 21.Rf2 Qe6 22.Rc2 Rh5 23.a5
+Bg5 24.Qd3 Qh6 25.Kg1 f5 26.f4 Bf6 27.b5 g5 28.bxc6 gxf4
+29.Qxd5+ Kh8 30.Qf7 Rg8 31.Qxg8+ Kxg8 32.c7 fxg3 33.c8=Q+ Kf7
+34.Qb7+ 1-0

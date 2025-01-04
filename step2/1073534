@@ -1,0 +1,23 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Keres"]
+[Black "Julius Nielsen"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.O-O Nxc3 6.dxc3 f6
+7.Re1 d6 8.Nh4 g6 9.f4 Qe7 10.f5 Qg7 11.Re3 Ne7 12.Be6 Bxe6
+13.fxe6 Qg8 14.Qf3 c6 15.Qxf6 Nd5 16.Qf7+ Qxf7 17.exf7+ Kxf7
+18.Re2 Bg7 19.c4 Nc7 20.Nf3 Rhe8 21.Bd2 Ne6 22.c3 Bf6 23.Rd1
+Rad8 24.Be3 b6 25.a4 Re7 26.a5 b5 27.cxb5 cxb5 28.Rd5 a6
+29.Bb6 Rdd7 30.Red2 e4 31.Ne1 Be5 32.g3 Nc7 33.Bxc7 Rxc7
+34.Nc2 Ke6 35.Nb4 Rc4 36.Rd1 Rxb4 37.cxb4 Rc7 38.R5d2 Rc4
+39.Kf1 Rxb4 40.Rc1 Ra4 41.b4 Rxb4 42.Rc6 Ra4 43.Rxa6 Bd4
+44.Ra8 Kd5 45.a6 e3 46.Rd1 Kc6 47.Rc8+ Kd7 48.Rxd4 Kxc8
+49.Rxd6 Kc7 50.Re6 Ra2 51.Rxe3 Kb6 52.h4 b4 0-1

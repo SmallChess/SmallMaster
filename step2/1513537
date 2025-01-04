@@ -1,0 +1,22 @@
+[Event "Blindfold odds game"]
+[Site "Petrograd RUE"]
+[Date "1914.12.28"]
+[EventDate "1914.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "B Bashkirov / Sergei Prokofiev"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 d5 2. e3 c5 3. Nf3 Bg4 4. Be2 e6 5. b3 Be7 6. O-O Nc6
+7. h3 Bxf3 8. Bxf3 Bf6 9. Rb1 Nge7 10. Ba3 Qa5 11. Qc1 Nb4
+12. Bxb4 cxb4 13. a4 Rc8 14. g4 g6 15. d4 Qc7 16. Qd2 Qc3
+17. Qe2 O-O 18. Rbc1 Bg7 19. Rfd1 Rc7 20. h4 f6 21. h5 gxh5
+22. gxh5 Kh8 23. Kf2 e5 24. e4 f5 25. exd5 e4 26. d6 Bxd4+
+27. Kf1 Nd5 {!} 28. dxc7 Ne3+ 29. Kg1 Nxd1+ 30. Kh2 Ne3
+31. Bh1 Qxc7 0-1

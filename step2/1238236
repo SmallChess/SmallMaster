@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "?"]
+[Date "1865.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Bc5 3.Nf3 d6 4.b4 Bxb4 5.c3 Bc5 6.Qb3 Qf6 7.O-O
+Nh6 8.d4 Bb6 9.dxe5 Qg6 10.Ng5 O-O 11.e6 fxe6 12.Bxe6+ Kh8
+13.Bxc8 Raxc8 14.Qe6 Qh5 15.Nf3 Ng4 16.h3 Nxf2 17.Rxf2 Rce8
+18.Qd5 Qxd5 19.exd5 Re2 20.Kh2 Bxf2 21.Nbd2 Be3 22.Nc4 Bxc1
+23.Rxc1 Rxf3 0-1

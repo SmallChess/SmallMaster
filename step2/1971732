@@ -1,0 +1,16 @@
+[Event "Simul, 24b"]
+[Site "London ENG"]
+[Date "1964.01.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "E W Jaggs"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 cxd4
+7.cxd4 Ne7 8.Bd3 O-O 9.Nf3 Nbc6 10.Bxh7+ Kh8 11.Bd3 Ng6 12.Ng5
+1-0

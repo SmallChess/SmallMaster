@@ -1,0 +1,19 @@
+[Event "Blitz game"]
+[Site "Pasadena, TX USA"]
+[Date "1992.04.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Zarkov (Computer)"]
+[Black "Robert James Fischer"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'Bobby Fischer and His World', J.Donaldson, p.541"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.Nc3 d5 3.Nf3 g6 4.Bf4 Bg7 5.e3 O-O 6.Bd3 Bg4 7.h3
+Bxf3 8.Qxf3 c6 9.O-O Nbd7 10.a4 a5 11.Rfe1 Re8 12.Bg3 e5
+13.Qd1 exd4 14.exd4 Qb6 15. Ne2 Nh5 16.Bd6 Bxd4 17.Nxd4 Qxd4
+18.Rxe8+ Rxe8 19.c3 Qf6 20.Bc7 Ne5 21.Be2 Nf4 22.Bxa5 Qg5
+23.Bg4 h5 24.g3 hxg4 25.gxf4 Qxf4 26.Bc7 Nf3+ 0-1

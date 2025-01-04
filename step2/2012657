@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1945.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vasily Smyslov"]
+[Black "Serebriski"]
+[ECO "C04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 Nc6 2.Nf3 e6 3.d4 d5 4.Nbd2 Nf6 5.e5 Nd7 6.c3 f6 7.exf6
+Qxf6 8.Bb5 Bd6 9.Qe2 O-O 10.Nf1 e5 11.Bxc6 bxc6 12.dxe5 Nxe5
+13.Nxe5 Bxe5 14.Bd2 a5 15.O-O-O Ba6 16.Qe1 a4 17.a3 Rab8
+18.Ne3 Bd6 19.f3 Bxa3 20.bxa3 Bd3 21.Nc2 Bxc2 0-1

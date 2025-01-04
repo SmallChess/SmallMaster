@@ -1,0 +1,32 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1. c4 { book } c5 { book } 2. g3 { book } g6 { book } 3. Bg2 {
+book } Bg7 { book } 4. Nc3 { book } Nc6 { book } 5. a3 { book
+} e5 { book } 6. b4 { book } d6 7. Bb2 a6 8. Nf3 Nge7 9. bxc5
+dxc5 10. d3 Rb8 11. Rb1 O-O 12. O-O b6 13. Nd2 Nd4 14. e3 Ne6
+15. Nf3 Qd6 16. h4 Rd8 17. h5 Bb7 18. e4 Nc6 19. Nd5 b5
+20. Qd2 Ncd4 21. Bxd4 Nxd4 22. Nxd4 cxd4 23. cxb5 Bxd5
+24. exd5 axb5 25. Rb3 Bf8 26. Rfb1 Qd7 27. Bf3 Rdc8 28. Kg2
+Bd6 29. Rh1 Qe7 30. Rhb1 Qd7 31. Rh1 Qe7 32. Qb2 Qd8 33. Rb1
+Qe7 34. Rh1 Rc3 35. Rxb5 Rbc8 36. Bg4 Rc2 37. Qb1 Qf6 38. Rf1
+e4 39. Bxc8 Qf3+ 40. Kg1 Bxg3 41. Qxc2 Bh2+ 42. Kxh2 Qf4+
+43. Kh3 Qf3+ 44. Kh2 Qf4+ 45. Kh1 Qh4+ 46. Kg2 Qg5+ 47. Kh3
+Qxh5+ 48. Kg3 Qf3+ 49. Kh2 Qf4+ 50. Kh1 Qh6+ 51. Kg2 Qg5+
+52. Kh3 Qh5+ 53. Kg3 Qf3+ 54. Kh2 Qf4+ 55. Kh1 Qh4+ 56. Kg1
+Qg5+ 57. Kh1 Qh4+ 58. Kg2 Qg5+ 59. Bg4 Qxg4+ 60. Kh1 Qh3+
+61. Kg1 Qg4+ 62. Kh2 Qh5+ 63. Kg3 Qf3+ 64. Kh4 Qh5+ 65. Kg3
+Qg5+ 66. Kh3 Qh5+ 67. Kg2 Qg5+ 68. Kh1 Qh4+ 69. Kg2 Qg4+
+70. Kh1 Qh3+ 71. Kg1 Qg4+ 72. Kh2 Qf4+ 73. Kh3 Qf3+ 74. Kh2
+Qh5+ 75. Kg2 Qg5+ 76. Kh1 Qh6+ 77. Kg1 Qg5+ 78. Kh2 Qh5+
+1/2-1/2

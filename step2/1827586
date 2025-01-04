@@ -1,0 +1,18 @@
+[Event "Simul, 31b"]
+[Site "Leiden NED"]
+[Date "1898.04.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "J J Colpa"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6
+7. Nc3 O-O 8. Bd3 Ng4 9. O-O f5 10. Nd5 c5 11. Ng5 Nc6 12. Qb3
+Kh8 13. Nxb6 Nxd4 14. Nf7+ Rxf7 15. Qxf7 Be6 16. Qh5 Qxb6
+17. exf5 Nf6 18. Qh3 Bd5 19. Be3 c4 20. Bc2 Re8 21. Bxd4 Qxd4+
+22. Rf2 Re2 0-1

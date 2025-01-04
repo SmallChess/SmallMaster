@@ -1,0 +1,20 @@
+[Event "Radom sim"]
+[Site "Radom"]
+[Date "2000.05.21"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Anatoly Karpov"]
+[Black "Mariusz Cwiek"]
+[ECO "A91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.c4 f5 2.d4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nd2 d5 6.Nh3 O-O 7.O-O c6
+8.Qc2 Ne4 9.Nf4 Bf6 10.Nf3 Qe8 11.Nd3 Nd7 12.b3 Kh8 13.Ba3 Rg8
+14.Nfe5 Nxe5 15.dxe5 Be7 16.Bb2 Ng5 17.h4 Nf7 18.b4 g5 19.hxg5
+Nxg5 20.Nf4 Bf8 21.b5 Bg7 22.bxc6 bxc6 23.Rab1 Rb8 24.Ba1 Bd7
+25.Bd4 a6 26.Rxb8 Qxb8 27.Rb1 Qc8 28.Nh5 c5 29.Be3 Nf7 30.cxd5
+Bxe5 31.Qxc5 Qxc5 32.Bxc5 Rc8 33.Be7 Rc2 34.Rb7 Rc7 35.Rb6 Bb5
+36.Rb8+ 1-0

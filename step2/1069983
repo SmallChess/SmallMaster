@@ -1,0 +1,91 @@
+[Event "Bugojno 3rd"]
+[Site "Bugojno YUG"]
+[Date "1982.05.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Miguel Najdorf"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 {Noted by Eric Schiller.} Nf6 2.c4 e6 3.Nf3 b6 4.a3 {
+4.Nc3 Bb4 5.Bg5 Bb7 6.e3 h6 7.Bh4 is also popular, but after
+capturing at c3, Black gets counterplay. Bxc3+ [ 7...g5 8.Bg3
+Ne4 9.Qc2 Bxc3+ 10.bxc3 d6 11.Bd3 f5 12.d5 Nc5 13.h4 g4 14.Nd4
+Qf6 15.O-O Nxd3 16.Qxd3 and White was better in a game from
+the Kasparov vs. Timman match in 1985. ] 8.bxc3 d6 9.Nd2 g5
+10.Bg3 Qe7 11.a4 a5 12.h4 Rg8 13.hxg5 hxg5 and Black had a
+fine game in game 18 of the 1986 Kasparov vs. Karpov World
+Championship match. } Bb7 { 4...c5 is less effective. A good
+example is Kasparov's crushing defeats of Van der Wiel and
+Fedorowicz at the 1981 World Youth Team Championship. 5.d5 Ba6
+6.Qc2 Qe7 [ 6...exd5 7.cxd5 g6 8.Nc3 Bg7 9.g3 O-O 10.Bg2 d6
+11.O-O Re8 12.Re1 Qc7 13.Bf4 Nh5 14.Bd2 Nd7 15.Qa4 Bb7 16.Qh4
+a6 17.Rac1 b5 18.b4 Qd8 19.Bg5 f6 20.Bd2 f5 21.Bg5 Qb6 22.e4
+cxb4 23.axb4 Rac8 24.Be3 Qd8 25.Bg5 Qb6 As team captain, I was
+very worried here, seeing the Black pieces drift away from the
+kingside. I had no idea how Kasparov would do it, but I
+expected a breakthrough soon. 26.exf5 Rxe1+ 27.Rxe1 Bxc3
+28.Re7 Rc4 29.Qh3 Bc8 30.fxg6 Ndf6 31.Bxf6 Nxf6 32.gxh7+ Kf8
+33.h8=Q+ Kxe7 34.Qg7+ and Fedorowicz resigned. The American
+team did manage to draw the match, thanks to a fine effort by
+Joel Benjamin. ] 7.Bg5 exd5 8.Nc3 Bxc4 9.e4 h6 10.Bxf6 Qxf6
+11.exd5 Bxf1 12.Kxf1 d6 13.Re1+ Be7 14.Ne4 Qg6 15.Qa4+ Kf8
+16.h4 and Van der Wiel eventually lost. The kingside pressure
+was just too much. } 5.Nc3 {This is the Kasparov vs. Petrosian
+variation, though now it is usually just called the Kasparov
+Variation, since he not only rehabilitate the line, but also
+set a good example by racking up many points as White.} d5
+{His opponent, the great Miguel Najdorf developer of the
+Najdorf Variation of the Sicilian was not well prepared for
+this event. He was supposed to be the arbiter, but when one of
+the players couldn't make it the veteran gamely stepped
+in. Still, he plays well in the opening, following the main
+lines and improving on Petrosian's play. 5...Ne4 led to one of
+the most famous games in the variation, played by Kasparov
+against Ulf Andersson at the Tilburg Interpolis tournament of
+1981. 6.Nxe4 Bxe4 7.Nd2 Bg6 8.g3 Nc6 9.e3 a6 10.b4 b5 11.cxb5
+axb5 12.Bb2 Na7 13.h4 h6 14.d5 exd5 15.Bg2 c6 16.O-O f6 17.Re1
+Be7 18.Qg4 Kf7 19.h5 Bh7 20.e4 ! dxe4 21.Bxe4 Bxe4 22.Nxe4 Nc8
+23.Rad1 Ra7 24.Nxf6 gxf6 25.Qg6+ Kf8 26.Bc1 d5 27.Rd4 Nd6
+28.Rg4 Nf7 29.Bxh6+ Ke8 30.Bg7 Andersson resigned. } 6.cxd5
+Nxd5 {Black usually captures with the knight, at after
+6...exd5 7.g3 White gets a superior position.} 7.e3 {Kasparov
+has also been effective with 7.Qc2, especially against
+Karpov. 7.Qc2 Nd7 8.Nxd5 exd5 9.Bg5 f6 10.Bf4 c5 11.g3 g6
+12.h4 with a better position in game 41 of the 1984/85 World
+Championship. } Be7 8.Bb5+ c6 9.Bd3 Nxc3 { 9...O-O 10.e4 Nxc3
+11.bxc3 was better for White in Kasparov vs. Marjanovic, Banja
+Luka Yugoslavia 1979. } 10.bxc3 c5 11.O-O Nc6 {This is an
+attempt to improve on the simple castling, where White can get
+an advantage via rapid development. 11...O-O 12.Qc2 g6 13.e4
+Nc6 14.Bh6 and White had the advantage in Kasparov
+vs. Petrosian, Moscow 1981. Kasparov later blundered away the
+game in time pressure. } 12.e4 O-O 13.Be3 cxd4 14.cxd4 {White
+has a good central position, but Black has no weaknesses.} Rc8
+15.Qe2 Na5 16.Rfe1 {! Kasparov realizes that the e-pawn will
+eventually need protection.} Qd6 { 16...Kh8 17.h4 Bxh4 18.Rad1
+Be7 19.d5 Bc5 20.Bf4 led to a messy game in Kasparov
+vs. Groszpeter, also from the 1981 World Youth Team
+championship. } 17.d5 {! A strong positional pawn sacrifice.}
+exd5 18.e5 Qe6 19.Nd4 {!} Qxe5 20.Nf5 {White has plenty of
+compensation for the pawn, with active pieces and attacking
+changes on the kingside. Black's queenside forces are out of
+play.} Bf6 21.Qg4 Rce8 {? I recall that as I watched this game
+from the audience which was large, even in the bucolic little
+Yugoslav town that this move made little sense to me. I had
+been concentrating on a different idea. 21...Qc3 was a good
+move, I thought. Another spectator pointed out to me that this
+could invite 22.Ne7+ ! Bxe7 23.Bd4 but it wasn't hard to see
+Qxd4 24.Qxd4 Bf6 25.Qg4 Bxa1 26.Rxa1 and the question is, does
+White have a change to win. It is hard to evaluate the
+position. White can try to attack on the h-file or get a rook
+to the seventh rank. If a pair of rooks are exchanged, then it
+is likely that the White queen will be able to infiltrate and
+win a pawn or too. Still, White's advantage would be pretty
+small, far less than in the game. } 22.Bd2 {Now the queen
+sacrifice fails for tactical reasons.} Qxa1 23.Rxa1 Bxa1
+24.Nxg7 Bxg7 25.Bh6 {Najdorf resigned.} 1-0

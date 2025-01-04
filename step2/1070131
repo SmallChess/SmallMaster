@@ -1,0 +1,20 @@
+[Event "Blindfold simul, 10b"]
+[Site "Hamburg FRG"]
+[Date "1985.06.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Mephisto (Computer)"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Bd7 13.b3 Qb6
+14.Nbd2 Rfc8 15.Nf1 h6 16.Be3 Qd8 17.Qd2 Nh7 18.Ng3 Rab8
+19.Nf5 Bxf5 20.exf5 Nf6 21.g4 Nh7 22.Kg2 Rb7 23.Rh1 Nf6
+24.Rag1 Qb6 25.Kf1 Rd7 26.g5 hxg5 27.Nxg5 Qb7 28.Ne6 fxe6
+29.fxe6 Rdc7 30.Rxg7+ Kxg7 31.Bh6+ Kh8 32.Bg7+ Kxg7 33.Qg5+
+Kf8 34.Qh6+ Ke8 35.Bg6+ Kd8 36.Qh8+ 1-0

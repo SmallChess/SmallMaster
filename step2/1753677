@@ -1,0 +1,15 @@
+[Event "Simul, 13b"]
+[Site "Newark, NJ USA"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "F A Voss"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 g6 2.d4 Bg7 3.c3 e6 4.f4 Ne7 5.Nf3 d5 6.e5 Nbc6 7.Bd3 Bd7
+8.O-O O-O 9.Na3 Nf5 10.Qe1 Qe7 11.g4 Nh6 12.h3 f5 13.exf6 1-0

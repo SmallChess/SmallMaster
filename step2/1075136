@@ -1,0 +1,18 @@
+[Event "Blindfold simul, 8b"]
+[Site "London ENG"]
+[Date "1859.04.13"]
+[EventDate "1859.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Alfred Jones"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 Qe7 6. O-O gxf3
+7. Nc3 c6 8. Qxf3 Bg7 9. Bxf4 Bxd4+ 10. Kh1 Bg7 11. e5 Bh6
+12. Ne4 d5 13. exd6 Qf8 14. Rae1 Be6 15. Bxe6 fxe6 16. Qh5+
+Kd7 17. Nc5+ Kc8 18. Bxh6 Nf6 19. Qe5 Nbd7 20. Nxd7 Qxh6
+21. Rxf6 Qh4 22. Nc5 1-0

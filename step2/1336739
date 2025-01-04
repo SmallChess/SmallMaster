@@ -1,0 +1,15 @@
+[Event "Posen"]
+[Site "Posen"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "NN"]
+[Black "Johannes Zukertort"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nxe5 d5 5. Bb3 Qg5 6. O-O
+Qxe5 7. d3 Bd6 8. g3 Ng5 9. Re1 Nf3+ 10. Kf1 Bh3# 0-1

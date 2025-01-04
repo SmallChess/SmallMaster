@@ -1,0 +1,20 @@
+[Event "Odds game"]
+[Site "Riga RUE"]
+[Date "1896.02.10"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Karl Behting"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Nf6 3.Qe2 Nc6 4.c3 d6 5.f4 Be7 6.Nf3 Be6 7.Bb5
+Bd7 8.d3 exf4 9.d4 O-O 10.Bd3 Bg4 11.Bxf4 Qd7 12.h3 Bxf3
+13.Qxf3 Kh8 14.O-O-O Ng8 15.g4 Rab8 16.g5 b5 17.h4 b4 18.e5
+bxc3 19.Qe4 g6 10.h5 d5 21.hxg6 fxg6 22.Rxh7+ Kxh7 23.Qxg6+
+Kh8 24.Qh7 1-0

@@ -1,0 +1,124 @@
+[Event "Kramnik - Leko Classical World Championship Match"]
+[Site "Brissago SUI"]
+[Date "2004.10.16"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Peter Leko"]
+[Black "Vladimir Kramnik"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. d4 {(Notes by Raymond Keene.) After all the predictions of
+a dull event, this is proving to be one of the most dramatic
+sporting contests of recent WCC matches. Kramnik needed at
+least one win from the last two games, and was not going to
+leave it all to the very last game. He chose as Black a
+strongly counter-attacking, unbalanced system, the Modern
+Benoni, and one could not help but recall how this defence
+gave Fischer his first win against Spassky in 1972. Kramnik, a
+long-time 1 d4 player, must have been more familiar with this
+structure than the neophyte Leko, and played in true Benoni
+style, putting pressure on White with a King's-side pawn
+advance. Leko seemed to escape any difficulties and a rook
+endgame emerged on the board, but again Kramnik found ways to
+set his opponent problems. Leko faced pressure on the board
+and the clock, probably missing some chances to obtain a more
+clearly drawn position, but with characteristic determination
+found a series of 'miracle' saves and Kramnik could not find a
+final decisive manoeuvre. Perhaps through sheer momentum, the
+players continued until the most clearly drawn position of all
+was reached... two lonely Kings. Did Kramnik miss a win?
+Probably! I have been greatly assisted in my understanding of
+this endgame by comments from acirce, a chessgames.com
+contributor who is also a noted endgame composer [Ulf
+Hammarström], and the analysis published on
+www.chessbase.com. } Nf6 2. c4 e6 3. Nf3 c5 {The Benoni is
+often seen as a dubious defence, but Kramnik is desperately in
+need of something irrational to disturb the balance, given his
+dire match situation.} 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2
+Bg7 {Or 7...Nbd7 8 Nc4 Nb6 9 e4 Bg7 10 Ne3 O-O 11 Bd3 Nh5 12
+O-O Be5 13 a4 Nf4 14 a5, was Nimzowitsch-Marshall, New York
+1927. In this line, 11...Re8 12 O-O c4 13 Bc2 Bd7 14 Bd2 Rc8
+15 Kh1 Rc5 16 f3 Nc8 17 a4 a6 18 Ne2 Ne7 19 Bb4 Rc8 20 Bc3
+also greatly favours White (Keene-Pritchett, British Ch
+1972).} 8.e4 O-O 9. Be2 Na6 10. O-O Ne8 11. Nc4 {This transfer
+of the Knight to c4 was, I believe, first seen in the
+Nimzowitsch game and is now standard in many main lines of the
+Benoni.} Nac7 12. a4 f5 13. exf5 {Kramnik has had this
+position as White, a number of years ago. He drew in 46 moves
+after the continuation 13 f3 Qe7 14 Bf4 g5 15 Bg3 f4 in the
+game Kramnik Ivanchuk, Belgrade 1995.} Rxf5 14. Bg4 Rf8 { A
+new move, it seems. } 15. Bxc8 Rxc8 16. Qb3 b6 17. Nb5 {White
+is playing for a light square grip, but there is something
+rather static about the position for White that emerges. That
+is, it looks impressive, but it is hard to see how to improve
+the position thereafter, or to exchange White's advantages for
+others. } Nxb5 18. axb5 Rc7 19. Bd2 Rcf7 20. Bc3 Qd7 {The
+online audience were baying for Kramnik to 'launch' 20...Qh4,
+but this may just get in the way of Black's actual plan.}
+21. f3 {Kramnik now begins a bold King's-side pawn advance.}
+g5 22. Ne3 Rf4 23. Rfe1 h5 {Black's play looks loosening but
+at least he has a plan to improve his position. By going so
+consistently for exchanges, White may have robbed himself of
+any serious activity.} 24. Qc2 Qf7 25. h3 Bd4 26. Bxd4 {Black
+faces an important choice. Kramnik of course spent some time
+considering 26...cxd4, but could not find enough in its favour
+at the board. His actual choice allows White to play a
+liquidating combination. } Rxd4 27. Nf5 Qxf5 28. Qxf5 Rxf5
+29. Rxe8+ Kf7 30. Rb8 Rdxd5 {Here the immediate ...Rd2
+deserves attention. } 31. Rxa7+ Ke6 32. Re8+ Kf6 {The dust has
+cleared, with an apparently level position. Leko now produces
+the sort of move which might produce further clarification,
+but which might simply create weaknesses. In fact, it turns
+out to be the latter. White should play 33 Rh7! Kramnik now
+devotes renewed energy to probing White's position. } 33. g4
+hxg4 34. hxg4 Rd1+ 35. Kf2 Re5 36. Rh8 Rd2+ 37. Kg3 Ree2
+{Given the looming mating net, White forces an exchange of
+rooks.} 38. Rf8+ Kg6 39. Rg8+ Kf6 40. Rf8+ Ke6 41. Re8+ Kd5
+42. Rxe2 Rxe2 43. Rg7 Re5 {Another example of trying to reach
+the end of a story too soon. Everyone 'knew' that White was
+completely lost in this position. But Garry Kasparov,
+commenting on www.playchess.com, declared to some general
+surprise, "Wait a minute. After 44.Rb7, White has chances to
+draw." According to chessbase.com, "In spite of harsh
+contradiction by the heavily armed spectators (equipped with
+Fritz, Junior and even the 16-processor Hydra) Kasparov stuck
+to his analysis, which Leko went on to play, almost move by
+move. GM Jon Levitt called it 'a magical draw'."} 44. Rb7 c4
+45. Rxb6 Re2 46. f4 {!! The key move in Kasparov's analysis,
+and a defensive move of genius.} Re3+ 47. Kf2 gxf4 48. Rb8 Rb3
+49. b6 {It seems that 49 g5 Ke5 50 b6 Rxb2+ 51 Kf3 holds the
+draw} Ke4 {Kramnik's major alternative was 49...Rxb2+. All
+night the computers whirred and the kibitzers muttered... One
+chessgames.com kibitzer amongst many, Honza Cervenka gave
+49...Rxb2+ as a win for Black after 50 Kf3 c3 e.g. 51 Rc8 (51
+g5 fails to the neat trick 51...Rxb6! 52 Rxb6 c2) 51...Kd4 52
+g5 (52 Rc6 d5 53 g5 c2 54 g6 Rxb6 55 Rxc2 Rxg6 56 Kxf4 Rf6+ 57
+Kg5 Rf1) 52...Rxb6 53 g6 Rb7 54 Kxf4 d5 55 Kg5 Kd3 56 Kf6
+d4. ChessBase gave instead 51 b7, marking it "winning for
+Black" but analysing 51...Kd4 52.Rd8 Rxb7 53.Rxd6+ Kc5 54.Rd1
+Rf7 55.g5 Kc4 56.g6 Rf8 57.g7 Rg8 58.Rd7 c2 59.Rc7+ Kd3
+60.Rd7+ Kc3 61.Rc7+ Kd2 62.Rd7+ Kc1 63.Kxf4=} 50. Re8+
+{Dionyseus queries this move, giving instead 50 g5 Rxb2+ 51
+Ke1 c3 (simply "-+" ChessBase) and analysing 52 g6 Rb1+ 53 Kf2
+c2 54 Rc8 Rb2 55 Ke1 Rxb6 56 g7 Rb1+ 57 Kf2 Rb2 58 Kf1 c1=Q+
+59 Rxc1 Rb8 60 Kf2 Rg8 61 Re1+ Kf5 62 Rd1 Rxg7 63 Rxd6 with a
+draw.} Kd3 {It's likely that this move lost the last chance of
+holding the win. 50...Kd4! avoids the defensive plan chosen by
+Leko during the game, and now neither 51 g5 Rxb2+ 52 Kf3 Rxb6
+nor 51.Rb8 Rxb2+ 52.Kf3 c3 53.b7 c2 54.Rc8 Rb3 save White. The
+best defence 51 Re2 can now be met with 51...f3!, which is
+possible with the black king on d4 instead of d3. Now on 52
+Rd2+ (also losing are 52 Re1 [ChessBase] and 52 Re6 [acirce] )
+52...Ke4 White loses after both 53 Rc2 d5 54 Kg3 Rxb6 55 g5
+d4–+ and 53 Rxd6 Rxb2+ 54 Kg3 f2 55 Kg2 c3 56 Rc6 c2 57 b7
+Kd3-+. 'acirce' gave a long analysis of the position but the
+conclusion remains the same: Black has a win with the accurate
+50...Kd4!} 51. Re2 d5 52. Kf3 d4 53. g5 c3 54. bxc3 dxc3
+55. Rg2 Rb2 56. b7 Rxb7 57. Kxf4 Rb2 58. Rg1 c2 59. Rc1 Rb1
+60. Rxc2 Kxc2 61. g6 Kd3 62. Kf5 Rb5+ 63. Kf6 Rb6+ 64. Kf7
+Rxg6 65. Kxg6 {Draw agreed. The players finally agree that
+there is little left to play for in this position.} 1/2-1/2

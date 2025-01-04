@@ -1,0 +1,16 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana (Sochi) RUS"]
+[Date "2021.07.15"]
+[EventDate "2021.07.12"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Susanto Megaranto"]
+[ECO "C55"]
+[WhiteElo "2806"]
+[BlackElo "2550"]
+[PlyCount "30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. c3 d6 6. Nbd2 g6 7. Nf1 Bg7 8.
+Ng3 Qe7 9. O-O O-O 10. h3 Na5 11. Bb5 a6 12. Ba4 b5 13. Bc2 c5 14. d4 cxd4
+15. cxd4 Bd7 1-0

@@ -1,0 +1,16 @@
+[Event "NTG Grand Prix Group A"]
+[Site "Baerum NOR"]
+[Date "2001.01.27"]
+[EventDate "2001.01.27"]
+[Round "1"]
+[Result "1-0"]
+[White "Roger Moen"]
+[Black "Magnus Carlsen"]
+[ECO "E00"]
+[WhiteElo "1541"]
+[BlackElo "1716"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Bg2
+Qa5+ 7. Bd2 Qb6 8. Bc3 Bb4 9. e3 Bxc3+ 10. bxc3 O-O 11. O-O
+Qb2 12. Nb3 Na5 13. Nxa5 Qxa1 14. Qb3 1-0

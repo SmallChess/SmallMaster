@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1857.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Denis Julien"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O h6 6.c3 d6 7.Qb3
+Qe7 8.d4 c6 9.Bd2 Nd7 10.Rae1 Nb6 11.Bd3 Bg4 12.a4 Bxf3
+13.Rxf3 Nd7 14.Qxb7 Rb8 15. Qxc6 Rxb2 16.e5 Rxd2 17.Qc8+ Qd8
+18.exd6+ Be5 19.Rxe5+ Nxe5 20.Bb5+ 1-0

@@ -1,0 +1,22 @@
+[Event "nTCEC - Stage 3 - Season 2"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.10.23"]
+[EventDate "2013.10.19"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Rybka (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nc3
+Bxc3+ 7. bxc3 Qe7 8. Qd5 f6 9. exf6 Nxf6 10. Qd3 d6 11. g3 O-O
+12. Bg2 Bg4 13. Rb1 Na5 14. O-O Rae8 15. Rfe1 b6 16. Nd4 Qf7
+17. Bg5 Nxc4 18. Bxf6 gxf6 19. a4 Kh8 20. e4 Bd7 21. Nb5 Be6
+22. Qd1 Na5 23. Nd4 Bd7 24. f4 Nb7 25. Bf3 Rd8 26. Bh5 Qc4
+27. Nb5 a6 28. Be2 Qxe4 29. Bf1 Qf5 30. Nd4 Qg6 31. Bxa6 Nc5
+32. Bb5 Qf7 33. Ra1 d5 34. f5 Rfe8 35. Rxe8+ Rxe8 36. Bxd7
+Qxd7 37. a5 bxa5 38. Rxa5 Ne4 39. Ne6 c6 40. Qd4 Qf7 41. Qa7
+Qg8 42. Qc7 Rc8 43. Qf4 Qf7 44. Kg2 Qh5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Simul, 18b"]
+[Site "Bournemouth ENG"]
+[Date "1908.02.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "George M Frean"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Bournemouth Graphic, 1908.04.02, p.279"]
+[PlyCount "51"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3 fxg3 6.O-O gxh2+
+7.Kh1 d5 8. Bxd5 Bf6 9.d4 Nc6 10.Nc3 Be6 11.Bf4 a6 12.Qd2 Qd7
+13.Rad1 Bg4 14.e5 Be7 15.Be4 Bb4 16.d5 Bxc3 17.Qxc3 Bxf3+
+18.Qxf3 Nd8 19.e6 fxe6 20.dxe6 Qe7 21. Bxb7 Nf6 22.Bc6+ Kf8
+23.Bxa8 Nxe6 24.Bd5 Kf7 25.Rde1 Re8 26.Rxe6 1-0

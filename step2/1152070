@@ -1,0 +1,17 @@
+[Event "Frankfurt"]
+[Site "Frankfurt am Main GER"]
+[Date "1887.07.21"]
+[EventDate "1887.07.18"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Johannes Zukertort"]
+[Black "Curt von Bardeleben"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6
+7.Qd4 Qe7 8.f3 c5 9.Qe3 O-O 10.Bc4 Bxc3+ 11.bxc3 Re8 12.Ba3
+Nxe4 13.fxe4 Qxe4 14.Bxf7+ Kxf7 15.O-O+ Kg8 16.Qxe4 Rxe4
+17.Bxc5 1/2-1/2

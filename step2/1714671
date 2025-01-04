@@ -1,0 +1,20 @@
+[Event "Simul, 65b"]
+[Site "New York, NY USA"]
+[Date "1915.02.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Raul Capablanca"]
+[Black "Max Wolfson"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Nc3 Nf6 5.Bd3 Bb4 6.Qe2 d6 7.f4 Qe7
+8.Nf3 c5 9.d5 Bxc3+ 10.bxc3 Na6 11.e5 Nd7 12.dxe6 Qxe6 13.f5
+Qe7 14.e6 fxe6 15.fxe6 Nf6 16.Ng5 O-O-O 17.Nf7 Bxg2 18.Rg1 Bf3
+19.Qxf3 Qxe6+ 20.Kd1 Qxf7 21.Qa8+ Nb8 22.Bf5+ Nfd7 23.Be4 Ne5
+24.Bd5 Qd7 25.a4 Nec6 26.a5 Nxa5 27.Rxa5 bxa5 28.Bf4 Rde8
+29.Kc1 Re7 30.Kb2 Rhe8 31.Bg3 Re2+ 32.Ka3 R8e3 33.Rc1 Rd3
+34.Be1 Rde3 35.Rb1 Ra2+! 36.Kxa2 Qa4+ 0-1

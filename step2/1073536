@@ -1,0 +1,17 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "Tatarski"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e5 2.f4 exf4 3.Nc3 g5 4.d4 d6 5.Bc4 h5 6.h4 Nc6 7.Nd5 Na5
+8.Be2 c6 9.Nc3 d5 10.exd5 cxd5 11.Nf3 g4 12.Ne5 Bh6 13.O-O g3
+14.Bb5+ Kf8 15.Bxf4 Bg4 16.Bg5 f6 17.Qd3 Nc4 18.Bxf6 Nxf6
+19.Qg6 1-0

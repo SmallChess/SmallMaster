@@ -1,0 +1,19 @@
+[Event "Warsaw clock simul"]
+[Site "Warsaw"]
+[Date "1966.02.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "Andrzej Adamski"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Nc3 Nc6 5.Be3 Qa5 6.d5 Ne5 7.Nd2
+d6 8.Be2 Nh6 9.h3 f5 10.f4 Nd7 11.e5 dxe5 12.Nc4 Qd8 13.fxe5
+O-O 14.Qd2 f4 15.Bxf4 Nf5 16.O-O Nd4 17.a4 Nb6 18.Nxb6 Qxb6
+19.Bc4 Qxb2 20.d6+ e6 21.Bh6 Qxc2 22.Qxc2 Nxc2 23.Bxg7 Rxf1+
+24.Rxf1 Ne3 25.Bh6 Nxf1 26.Kxf1 a6 27.a5 Bd7 28.Ne4 Kf7
+29.Ng5+ 1-0

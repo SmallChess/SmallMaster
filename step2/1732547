@@ -1,0 +1,23 @@
+[Event "nTCEC - Superfinal - Season"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.05.03"]
+[EventDate "?"]
+[Round "28.1"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Houdini (Computer)"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4
+7. Nbd2 Na5 8. Be2 Bd7 9. Rb1 Nh6 10. Nf1 Nf5 11. Bf4 Be7
+12. Ne3 Nb3 13. Nxf5 exf5 14. Nd2 Ba4 15. Nxb3 Bxb3 16. Qd2 h6
+17. Be3 O-O 18. O-O Rac8 19. Kh1 Qg6 20. g3 Ba4 21. f4 Rfd8
+22. Bf3 Qh7 23. Qe2 Rc6 24. Rg1 Ra6 25. Rg2 g6 26. h3 Ra5
+27. g4 Bd7 28. Qf2 Rb5 29. Bd1 Rb6 30. Bc2 Kh8 31. a4 h5
+32. gxf5 Bxf5 33. Bxf5 gxf5 34. Qf3 Bh4 35. Bf2 Be7 36. a5 Rb5
+37. Ra1 b6 38. axb6 a5 39. b7 h4 40. Qe2 Rb6 41. Rxa5 Rxb7
+42. Qd1 Rg8 43. Rxg8+ Kxg8 44. Ra8+ Bf8 45. Qg1+ Qg6 46. Bxh4
+Qxg1+ 1-0

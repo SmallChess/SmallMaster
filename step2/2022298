@@ -1,0 +1,27 @@
+[Event "Exhibition odds game"]
+[Site "Havana CUB"]
+[Date "1941.03.21"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Rafael Blanco Estera"]
+[Black "Jose Raul Capablanca"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "'Capablanca', E.Winter, 1989, p.304"]
+[PlyCount "116"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.d4 Nf6 2.e3 d6 3.Bd3 e5 4.dxe5 dxe5 5.Nc3 Bb4 6.Bd2 O-O
+7.Nf3 Nc6 8.O-O Bg4 9.h3 Bh5 10.g4 Nxg4 11.hxg4 Bxg4 12.Be4
+Bxc3 13.Bxc3 Qxd1 14.Raxd1 Bxf3 15.Bxf3 Rxf3 16.Rd7 Rf7
+17.Rfd1 Re8 18.Kg2 a6 19.a4 a5 20.f3 Kf8 21. Kg3 b6 22.b3 Rxd7
+23.Rxd7 Re7 24.Rd1 Kf7 25.Be1 Ke6 26.c3 Rd7 27.Rc1 Ne7 28.Kf2
+c6 29.b4 Ra7 30.Ra1 Nf5 31.Ke2 Nd6 32.e4 Nc4 33.Bf2 Ra8 34.Rb1
+b5 35.axb5 cxb5 36.bxa5 Rxa5 37.Kd3 Kf6 38.Bc5 h6 39.Rh1 Ra2
+40.Be3 Rg2 41. Bc1 Rf2 42.Rh3 Kf7 43.f4 Rf1 44.Be3 Nxe3
+45.Kxe3 exf4+ 46.Ke2 Rc1 47.Kd2 Rg1 48.Rh5 g5 49.Rxh6 f3 50.e5
+g4 51.Rf6+ Ke7 52.Ke3 Re1+ 53.Kf2 Rxe5 54. Rf4 Re2+ 55.Kf1 Rg2
+56.Rf5 Ke6 57.Rxb5 Kf6 58.c4 Rc2 0-1

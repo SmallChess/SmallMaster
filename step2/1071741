@@ -1,0 +1,17 @@
+[Event "non-FIDE Munich Olympiad"]
+[Site "Munich GER"]
+[Date "1936.09.01"]
+[EventDate "?"]
+[Round "21"]
+[Result "0-1"]
+[White "Eero Einar Book"]
+[Black "Paul Keres"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Qe2+ Be6
+7.Ngf3 a6 8.Bxc6+ bxc6 9.O-O Nf6 10.Ng5 Qc8 11.Re1 cxd4
+12.Ndf3 Bb4 13.Bd2 Bxd2 14.Qxd2 c5 15.b4 O-O 16.bxc5 Bd7
+17.Nxd4 Qxc5 18.Rab1 Rfe8 19.Rxe8+ Rxe8 20.Qb4 Qxb4 0-1

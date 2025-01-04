@@ -1,0 +1,22 @@
+[Event "ICC Simul"]
+[Site "Internet Chess Club"]
+[Date "2008.08.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Magnus Carlsen"]
+[Black "Hans-Joachim Hofstetter"]
+[ECO "C82"]
+[WhiteElo "2775"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Nxf2 12.Rxf2 f6
+13.exf6 Bxf2+ 14.Kxf2 Qxf6 15.Nf1 Ne5 16.Be3 Rae8 17.Bd4 Bg4
+18.N1d2 Qg5 19.Bxe5 Qxe5 20.Kg1 Qe3+ 21.Kh1 Qf2 22.Bd3 Re3
+23.Qf1 Rexf3 24.Nxf3 Rxf3 25.Be2 Qxf1+ 26.Rxf1 Rxf1+ 27.Bxf1
+c5 28.Kg1 Kf7 29.Kf2 Kf6 30.Ke3 Bc8 31.a3 Ke5 32.g3 d4+
+33.cxd4+ cxd4+ 34.Kd2 Kd5 35.Bd3 g6 36.b4 Bh3 37.Ke1 Bf5
+38.Be2 Ke4 39.Kd2 h5 40.Bd1 d3 41.Bb3 Kf3 42.Bd5+ Be4 43.Be6
+Kg2 44.Bc8 Kxh2 45.Bxa6 Kxg3 0-1

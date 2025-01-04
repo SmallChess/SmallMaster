@@ -1,0 +1,23 @@
+[Event "Simul, 10b"]
+[Site "Kansas City, MO USA"]
+[Date "1915.03.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "E H Owens"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 Nf6 5.e5 d5 6.exf6 dxc4
+7.Qxd8+ Kxd8 8.Bg5 Ke8 9.Nxc3 Rg8 10.O-O-O Bd6 11.Nf3 gxf6
+12.Bxf6 Rxg2 13.Rhe1+ Be6 14.Nh4 Rxf2 15.Ne4 Rxh2 16.Nf5 Bf4+
+17.Kb1 Nc6 18.Nc5 Rd2 19.Ng7+ Kf8 20.Ngxe6+ fxe6 21.Rxd2 Bxd2
+22.Rf1 Kg8 23.Nxe6 Re8 24.Nxc7 Re1+ 25.Rxe1 Bxe1 26.Nb5 a6
+27.Nd6 b5 28.a4 Bg3 29.axb5 Bxd6 30.bxc6 Kf7 31.Bh4 Ke6 32.Bd8
+h5 33.Kc2 Be5 34.b3 cxb3+ 35.Kxb3 Kd6 36.c7 Kd7 37.Kc4 Bxc7
+38.Bh4 Ke6 39.Kc5 Ba5 40.Kd4 Kf5 41.Ke3 Kg4 42.Be7 Bb6+ 43.Ke2
+h4 44.Kf1 h3 45.Bb4 Kf3 46.Bd6 Bf2 47.Bh2 Bg3 48.Bg1 a5 49.Bf2
+h2 50.Bg1 hxg1=Q+ 0-1

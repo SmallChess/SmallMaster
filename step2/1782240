@@ -1,0 +1,28 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1886.??.??"]
+[EventDate "1886.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "George Henry Mackenzie"]
+[Black "Johannes Zukertort"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "157"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Bb4 5.O-O O-O 6.d3 Nd4
+7.Nxd4 exd4 8.e5 dxc3 9.exf6 Qxf6 10.bxc3 Bxc3 11.Rb1 c6
+12.Bc4 d5 13.Bb3 Re8 14. Be3 Qh4 15.Bd2 Be5 16.g3 Qh3 17.c3
+Bg4 18.f3 Bf5 19.Be1 Re6 20.Rb2 Rae8 21.Rg2 Bc7 22.Bc2 h5
+23.Bd2 Bb6+ 24.Kh1 Qxg2+ 25.Kxg2 Re2+ 26. Kh1 Bh3 27.d4 Bxf1
+28.Bd3 Bg2+ 29.Kg1 Bxf3 30.Bxe2 Rxe2 31.Qc1 Rg2+ 32.Kf1 Rxh2
+33.Be1 Bc7 34.Qa3 Rh1+ 35.Kf2 Be4 36.Ke2 Rh2+ 37.Kf1 Bd3+
+38.Kg1 Re2 39.Bf2 a5 40.Qb3 b5 41.Qd1 Bc4 42.a3 Bd6 43.Qc1 f6
+44.Kg2 Bd3 45.Qd1 Be4+ 46.Kf1 Bf3 47.Qc1 Ra2 48.Be1 Rxa3
+49.Qe3 Be4 50.Qe2 g6 51.g4 Ra1 52.Qf2 Kf7 53.gxh5 g5 54.h6 f5
+55.Qe3 Ra2 56.h7 Rh2 57. Qxg5 Bd3+ 58.Kg1 Rxh7 59.Qd8 Rg7+
+60.Kf2 Be7 61.Qc7 Bc4 62.Kf3 Rg6 63.Qxa5 Re6 64.Bg3 c5 65.dxc5
+Bxc5 66.Qc7+ Be7 67.Be5 Bd3 68.Kf4 Kg6 69.Qb8 Bg5+ 70.Kg3 Kh5
+71.Qh8+ Rh6 72.Qe8+ Rg6 73.Kf3 Be4+ 74.Kf2 f4 75.Bd4 f3 76.Ke1
+Kg4 77.Qd7+ Kg3 78.Bf2+ Kg2 79.Qg4+ 1-0

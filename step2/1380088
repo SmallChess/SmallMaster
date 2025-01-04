@@ -1,0 +1,17 @@
+[Event "Simul, 26b"]
+[Site "Manchester ENG"]
+[Date "1901.10.03"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "NN"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Bd3 Qd8 6.Nf3 Bg4
+7.O-O Bxf3 8.Qxf3 Qxd4 9.Nb5 Qd7 10.Rd1 e6 11.Bg6 Qxd1+
+12.Qxd1 cxb5 13.Bxf7+ Ke7 14.Bxg8 Rxg8 15.Bg5+ Ke8 16.Qd8+ Kf7
+17.Qc7+ 1-0

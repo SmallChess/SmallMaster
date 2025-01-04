@@ -1,0 +1,19 @@
+[Event "Simul, 30b"]
+[Site "Berlin GER"]
+[Date "1912.11.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Max Victor Behnisch"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 c6 4.dxc6 Nxc6 5.Nc3 e5 6.d3 Bc5 7.Be3
+Nd4 8.Nf3 Ng4 9.Bxd4 exd4 10.Ne4 Bb4+ 11.Nfd2 O-O 12.Be2 Ne3
+13.fxe3 dxe3 14.O-O exd2 15.Nxd2 Qd4+ 16.Kh1 Qxb2 17.Ne4 Qd4
+18.Rb1 a5 19.Rf4 f5 20.Qb3 Be6 21.Ng5 Qxf4 22.Nxe6 Qe5 23.Nxf8
+Qxe2 24.Nd7 Be1 25.c5+ Kh8 26.h3 Qf1+ 27.Kh2 f4 28.Rxe1 Qxe1
+29.d4 Qg3+ 30.Qxg3 fxg3+ 31.Kxg3 Rd8 0-1

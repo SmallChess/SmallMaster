@@ -1,0 +1,25 @@
+[Event "Clock simul, 3b"]
+[Site "Havana CUB"]
+[Date "1913.09.08"]
+[EventDate "1913.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Rafael Blanco Estera"]
+[Black "Jose Raul Capablanca"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nd7 5. d4 exd3 6. Bxd3
+Nxe5 7. fxe5 Be6 8. Nc3 Bb4 9. Bd2 Qh4+ 10. g3 Qd4 11. Qe2 Bg4
+12. Qe4 Qxe4+ 13. Bxe4 c6 14. h3 Be6 15. a3 Ba5 16. O-O-O
+O-O-O 17. g4 Ne7 18. Rde1 Rd7 19. Rhf1 g6 20. b4 Bc7 21. Bd3
+h5 22. Ne4 hxg4 23. hxg4 Rd5 24. Bc3 Rh4 25. Ng5 Rxg4 26. Nxf7
+Nf5 27. Nh8 Rd8 28. Rh1 Nh4 29. Rxh4 Rxh4 30. Nxg6 Rg4
+31. Ne7+ Kd7 32. Nf5 Rf8 33. Nd4 Bb6 34. Nxe6 Kxe6 35. Bf1 Rh4
+36. Kb2 Rff4 37. Bd3 Bf2 38. Re2 b5 39. Kb3 Bd4 40. Bxd4 Rxd4
+41. Rf2 Kxe5 42. Rf7 a5 43. bxa5 Ra4 44. Ra7 Rh3 45. Kb2 Kd4
+46. Rd7+ Kc5 47. Ra7 Re3 48. Ra8 Rg3 49. Ra7 Rf4 50. Ra8 Re3
+51. Rb8 Rg4 52. Rb7 Re1 53. Rb8 Rgg1 54. Rc8 Rb1+ 55. Kc3 Rg4
+56. Bf5 Ra4 0-1

@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Zutphen NED"]
+[Date "1921.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mozes Elzas"]
+[Black "Max Euwe"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. d5 Ne7 8. Re1 Nc5 9. Nxe5 bxa4 10. Qf3 f6 11. Qh5+ g6
+12. Nxg6 d6 13. Nxe7+ Kd7 14. Qf5+ Ke8 15. Nc6+ Qe7 16. Qh5+
+Kd7 1-0

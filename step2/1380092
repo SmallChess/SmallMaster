@@ -1,0 +1,18 @@
+[Event "Simul, 27b"]
+[Site "Glasgow SCO"]
+[Date "1899.01.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "William Tait"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.d4 exd4 3.Nf3 c5 4.Bc4 b5 5.Bd5 Nc6 6.c3 Nf6 7.cxd4
+Nxd5 8.exd5 Nxd4 9.Nxd4 cxd4 10.Qxd4 Qe7+ 11.Kd1 Qb4 12.Re1+
+Kd8 13.Bg5+ Kc7 14.Bf4+ Kb7 15.Qe3 f6 16.Nc3 a6 17.Qd2 Bd6
+18.Bxd6 Qxd6 19.Ne4 Qb6 20.Rc1 f5 21.Nc5+ Ka7 22.Re7 Qd6
+23.Nxd7 Bxd7 24.Rc6 1-0

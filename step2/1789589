@@ -1,0 +1,20 @@
+[Event "Clock simul, 10b"]
+[Site "Stockholm SWE"]
+[Date "1930.04.28"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Gosta Stoltz"]
+[ECO "E23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4
+7. Bd2 Nxc5 8. Qc2 f5 9. a3 Bxc3 10. Bxc3 O-O 11. b4 Ne4
+12. Bb2 b6 13. e3 Bb7 14. Be2 Rc8 15. O-O Qe7 16. Rfd1 d6
+17. Rac1 Rc7 18. Qb3 h6 19. Nd4 Nxd4 20. Bxd4 Kh7 21. f3 Ng5
+22. Bb2 e5 23. a4 Rf6 24. Kf1 Rg6 25. Qc2 e4 26. f4 Nf3
+27. Bxf3 exf3 28. g3 d5 29. Be5 Rxc4 30. Qxf5 Qxb4 31. Rxc4
+Qxc4+ 32. Qd3 Qxd3+ 0-1

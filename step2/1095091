@@ -1,0 +1,23 @@
+[Event "Dimock theme"]
+[Site "New York"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bruno Forsberg"]
+[Black "Frank James Marshall"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.Ng5 Ne5 6.Qxd4 Nxc4
+7.Qxc4 d5 8.exd5 Qxd5 9.Qe2+ Be6 10.O-O O-O-O 11.Nc3 Qf5
+12.Nxe6 Qxe6 13.Qxe6+ fxe6 14.Bg5 Bb4 15.Bxf6 gxf6 16.Ne4 f5
+17.Ng5 Rd2 18.a3 Bd6 19.Rac1 Re8 20.Nf3 Re2 21.Rfe1 Bf4
+22.Rxe2 Bxc1 23.c3 e5 24.g3 e4 25.Nd4 Re5 26.Kf1 c5 27.Nb5 a6
+28.Rc2 Bh6 29.Nd6+ Kc7 30.Nf7 Re6 31.Nxh6 Rxh6 32.h4 Rd6
+33.Ke2 Rd3 34.c4 Rb3 35.Rd2 Kc6 36.Kd1 b5 37.cxb5+ axb5 38.Kc2
+c4 39.Rd8 Rf3 40.Rd2 h5 41.Kc1 Kc5 42.Kc2 b4 43.axb4+ Kxb4
+44.Re2 Rd3 45.Rd2 Rxd2+ 46.Kxd2 Kb3 47.Kc1 e3 48.fxe3 c3
+49.bxc3 Kxc3 50.e4 fxe4 51.Kd1 Kd3 52.Ke1 e3 53.g4 hxg4 0-1

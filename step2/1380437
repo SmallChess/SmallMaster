@@ -1,0 +1,18 @@
+[Event "Simul, 42b"]
+[Site "Detroit, MI USA"]
+[Date "1924.04.22"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "George Samuel Barnes"]
+[Black "Emanuel Lasker"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.c4 Bg7 5.Nc3 O-O 6.e4 d6 7.Bd3
+Nbd7 8.O-O Ne5 9.Nxe5 dxe5 10.Be3 b6 11.h3 Nh5 12.Qf3 Bd7
+13.g4 Nf6 14.Qg3 Ne8 15.f4 exf4 16.Bxf4 Nf6 17.e5 Ne8 18.Rae1
+Rc8 19.Qh4 e6 20.Bg5 f6 21.exf6 Bxf6 22.Ne4 Bxg5 23.Rxf8+ Kxf8
+24.Nxg5 Nf6 25.dxe6 1-0

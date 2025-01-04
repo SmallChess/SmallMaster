@@ -1,0 +1,22 @@
+[Event "Odds match"]
+[Site "London ENG"]
+[Date "1865.12.??"]
+[EventDate "1865.12.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Cecil Valentine De Vere"]
+[Black "Wilhelm Steinitz"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nc6 4. d5 Ne5 5. f4 Nxd3+ 6. Qxd3 g6
+7. Be3 Bg7 8. Bd4 Nf6 9. Nc3 O-O 10. Bxf6 Bxf6 11. e5 Bg7
+12. Nge2 d6 13. e6 c6 14. O-O cxd5 15. Nxd5 Bxb2 16. Rab1 Bg7
+17. Ng3 Bxd5 18. Qxd5 Qc7 19. c4 Rac8 20. Rbc1 Qc5+ 21. Kh1
+Qxd5 22. cxd5 Rxc1 23. Rxc1 Rxf4 24. Rc8+ Bf8 25. h3 Rd4
+26. Ra8 Rxd5 27. Rxa7 Re5 28. Ra6 Rxe6 29. Rxb6 Re1+ 30. Kh2
+Bg7 31. Rb3 Be5 32. h4 Ra1 33. a3 d5 34. Kh3 h6 0-1

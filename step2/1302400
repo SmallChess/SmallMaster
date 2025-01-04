@@ -1,0 +1,16 @@
+[Event "Paris Arthur Andersen sim 30'"]
+[Site "Paris FRA"]
+[Date "1999.03.14"]
+[EventDate "1999.03.14"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "NN"]
+[ECO "A35"]
+[WhiteElo "2751"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 b6 5. Bg2 Bb7 6. O-O e6
+7. e4 d6 8. d4 cxd4 9. Nxd4 Ne5 10. f4 Ned7 11. Re1 h6 12. e5
+Bxg2 13. exf6 Bb7 14. Rxe6+ fxe6 15. Qh5+ g6 16. Qxg6# 1-0

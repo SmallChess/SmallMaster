@@ -1,0 +1,19 @@
+[Event "Peer Gynt Open"]
+[Site "Gausdal NOR"]
+[Date "2000.08.01"]
+[EventDate "2000.07.31"]
+[Round "2"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Jonathan Carlstedt"]
+[ECO "C40"]
+[WhiteElo "904"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. e4 e5 2. Nf3 Bd6 3. Nc3 Nf6 4. Bc4 O-O 5. O-O b6 6. d4 Bb4
+7. dxe5 Ne8 8. Bg5 Be7 9. Bxe7 Qxe7 10. Qd2 Ba6 11. Bxa6 Nxa6
+12. Rad1 Rd8 13. Nd5 Qe6 14. Qf4 f6 15. Qh4 Rb8 16. exf6 Nxf6
+17. Ng5 Qe8 18. Nxf6+ Rxf6 19. Qxh7+ Kf8 20. Qh8+ Ke7
+21. Qxg7+ Rf7 22. Nxf7 Qxf7 23. Rxd7+ Kxd7 24. Qxf7+ Kc8
+25. e5 Kb7 26. Qd5+ Kc8 27. e6 c6 28. Qd7# 1-0

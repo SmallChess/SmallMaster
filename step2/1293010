@@ -1,0 +1,19 @@
+[Event "Clock simul, 10b"]
+[Site "London ENG / New York USA"]
+[Date "1984.07.01"]
+[EventDate "1984.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Cathy Forbes"]
+[ECO "E16"]
+[WhiteElo "2710"]
+[BlackElo "1890"]
+[PlyCount "58"]
+
+1.c4 e6 2.Nf3 b6 3.g3 Bb7 4.Bg2 Nf6 5.d4 Bb4+ 6.Bd2 Bxd2+
+7.Qxd2 O-O 8.Nc3 d5 9.cxd5 Nxd5 10.O-O Nd7 11.Rac1 Rc8 12.Rfd1
+N7f6 13.Nxd5 Bxd5 14.b4 Qe7 15.Ne5 c5 16.dxc5 bxc5 17.b5 Bxg2
+18.Kxg2 Qb7+ 19.Nc6 Nd5 20.Rxc5 Ne7 21. Qd6 Nxc6 22.bxc6 Qb4
+23.c7 Qe4+ 24.Kg1 Qxe2 25.Rcc1 h5 26.Qxf8+ Rxf8 27. Rd8 Qxa2
+28.Rxf8+ Kxf8 29.c8=Q+ Ke7 1-0

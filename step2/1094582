@@ -1,0 +1,16 @@
+[Event "Sylvan Beach"]
+[Site "Sylvan Beach, NY USA"]
+[Date "1904.08.18"]
+[EventDate "1904.08.16"]
+[Round "5"]
+[Result "0-1"]
+[White "Kenneth Samuel Howard"]
+[Black "Frank James Marshall"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e3 d5 2.c4 e6 3.Nf3 c5 4.b3 d4 5.Bb2 Nc6 6.d3 e5 7.Na3 f5
+8.Qc2 Nf6 9.Rd1 e4 10.Ng1 a6 11.Ne2 Nb4 12.Qb1 Nxd3+ 13.Rxd3
+exd3 14.Qxd3 Ne4 15.exd4 cxd4 0-1

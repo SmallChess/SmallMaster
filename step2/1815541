@@ -1,0 +1,17 @@
+[Event "Simul, 105b"]
+[Site "Press Club, Washington, D.C. USA"]
+[Date "1916.03.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "David Rives"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 c2 5. Qxc2 Nf6 6. Nc3
+Bb4 7. Nge2 Nc6 8. O-O d6 9. Nd5 Bc5 10. Bg5 h6 11. Bxf6 gxf6
+12. Nef4 Nd4 13. Qd3 Rg8 14. b4 c6 15. Ne3 Bb6 16. Rad1 Qc7
+17. a4 d5 18. Nfxd5 Nf3+ 19. Kh1 Qxh2# 0-1

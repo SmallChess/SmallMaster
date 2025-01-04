@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Keres"]
+[Black "Toldsepp"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 e5 2.f4 exf4 3.Nc3 Bb4 4.Nd5 Qh4+ 5.Ke2 Bd6 6.Nf3 Qg4
+7.d4 Ne7 8.Nc3 b6 9.Kf2 Ng6 10.Be2 Be7 11.g3 fxg3 12.hxg3 Bb7
+13.Ng5 1-0

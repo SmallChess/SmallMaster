@@ -1,0 +1,24 @@
+[Event "nTCEC - Stage 3 - Season 2"]
+[Site "http://www.tcec-chess.net"]
+[Date "2013.10.22"]
+[EventDate "2013.10.19"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "HIARCS (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "A89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 d6 2. Nf3 g6 3. c4 f5 4. Nc3 Nf6 5. g3 Bg7 6. Bg2 O-O
+7. O-O Nc6 8. d5 Na5 9. Qd3 c5 10. Bd2 Rb8 11. Rab1 Bd7 12. b3
+a6 13. a4 b6 14. h3 Qc8 15. Qc2 Nb7 16. Ng5 Nd8 17. Rfc1 Nf7
+18. Nxf7 Rxf7 19. Bf4 Nh5 20. Bg5 Bd4 21. Qd3 f4 22. g4 Bxg4
+23. hxg4 Qxg4 24. Ne4 Ng3 25. Bf3 Qh3 26. Bg2 Qg4 27. Bf3 Qf5
+28. Bh6 Qh3 29. Ng5 Qxh6 30. Nxf7 Qh4 31. e3 fxe3 32. Nh6+
+Qxh6 33. fxg3 Qh3 34. Qe2 Rf8 35. Bg2 Qxg3 36. Rf1 Rf6
+37. Rxf6 exf6 38. Kf1 Qe5 39. Rc1 f5 40. Qf3 e2+ 41. Ke1 Be3
+42. Rc2 Bg5 43. Qh3 Bf4 44. Rxe2 Bg3+ 45. Kd1 Qa1+ 46. Kc2 Be5
+47. Qf3 Kg7 48. Rd2 Bf6 49. Rd3 Bg5 50. Qf1 Qa2+ 51. Kd1
+1/2-1/2

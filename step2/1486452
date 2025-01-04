@@ -1,0 +1,20 @@
+[Event "Arthur Andersen sim"]
+[Site "France"]
+[Date "2000.??.??"]
+[EventDate "2000.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "B27"]
+[WhiteElo "2755"]
+[BlackElo "2637"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Nf6 6. Nc3 Nc6
+7. Be3 O-O 8. Be2 d6 9. O-O Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6
+12. f3 a5 13. Rac1 a4 14. Rfd1 Nd7 15. Be3 Nc5 16. Nd5 Bxd5
+17. cxd5 b6 18. Bb5 Qc7 19. Rc2 Qa7 20. Bc6 Rab8 21. Rb1 Rfc8
+22. b4 Nb7 23. a3 Nd8 24. Rbc1 Qa6 25. b5 Qa7 26. Rc4 Nb7
+27. Bxb7 Rxc4 28. Rxc4 Qxb7 29. Qc2 Kf8 30. Rxa4 Rc8 31. Rc4
+Rxc4 32. Qxc4 Bf6 33. Qc6 Qb8 34. Qxb6 1-0

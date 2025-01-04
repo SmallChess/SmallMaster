@@ -1,0 +1,19 @@
+[Event "Odds game"]
+[Site "Manchester ENG"]
+[Date "1874.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "James Fish"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1874.03.14, p.253"]
+[PlyCount "32"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 Ne7 7. c3 O-O 8. g3
+fxg3 9. Bxg5 gxh2+ 10. Kh1 hxg5 11. Nxg5 Nf5 12. Rxf5 d5 13. Qh5 Bxf5 14. exf5
+Qxg5 15. Qxg5 dxc4 16. f6 1-0

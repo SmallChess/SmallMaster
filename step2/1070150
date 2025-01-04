@@ -1,0 +1,22 @@
+[Event "Hamburg sim-32 (25)"]
+[Site "Hamburg FRG"]
+[Date "1985.06.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Turbostar (Computer)"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Bc5 4.Ngf3 Ne7 5.c3 O-O 6.d4 Bb6 7.e5 c5
+8.Nb3 c4 9.Nbd2 f6 10.b3 cxb3 11.exf6 Rxf6 12.Nxb3 Qc7 13.Qc2
+Nbc6 14.Bd3 h6 15.Qe2 Bd7 16.O-O Rc8 17.Bd2 Rff8 18.Rac1 Nf5
+19.Rfe1 Qd6 20.g3 Qa3 21.Bf4 Nd6 22.Ne5 Nxe5 23.Bxe5 Nc4
+24.Bf4 Rf6 25.Rb1 Qa4 26.Nd2 Na3 27.Rb3 Rf7 28.Qh5 Nc4 29.Qg6
+Rxf4 30.Qh7+ Kf8 31.Bxc4 Qxa2 32.Rd1 dxc4 33.Rxb6 axb6 34.gxf4
+Re8 35.Nf1 Qb2 36.Ng3 Qxc3 37.Nh5 Ke7 38.Qxg7+ Kd8 39.Nf6 Re7
+40.Qf8+ Be8 41.d5 Qc2 42.Ra1 Qg6+ 43.Kh1 exd5 44.Ra8+ Kc7
+45.Qxe7+ 1-0

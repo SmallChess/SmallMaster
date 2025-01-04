@@ -1,0 +1,27 @@
+[Event "Odds game"]
+[Site "New Orleans, LA USA"]
+[Date "1863.??.??"]
+[EventDate "1863.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Morphy"]
+[Black "Charles Maurian"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1863.05.23, p.579"]
+[PlyCount "106"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. f4 e6 2. Nf3 g6 3. e3 Bg7 4. Be2 Nh6 5. O-O f5 6. d3 O-O
+7. h3 b6 8. Kh2 Bb7 9. Rg1 c5 10. Qe1 Na6 11. c3 Qc7 12. g4
+Nf7 13. gxf5 exf5 14. Bd2 Rae8 15. h4 Re6 16. Qf2 Rfe8 17. Rg2
+Bh6 18. Re1 Rxe3 19. Bxe3 Rxe3 20. Ng5 Bxg5 21. hxg5 Qc6
+22. Rgg1 Qe6 23. Bd1 Rxe1 24. Rxe1 Qd6 25. Bb3 Nc7 26. Re3 Ne6
+27. Kg1 Qxf4 28. Qxf4 Nxf4 29. Re8+ Kg7 30. Re7 Nh3+ 31. Kh2
+Nhxg5 32. Rxd7 Bc6 33. Rxa7 f4 34. Bxf7 Nxf7 35. Ra6 Bb5
+36. Rxb6 Bxd3 37. a4 Kh6 38. a5 Ne5 39. Re6 Nf3+ 40. Kg2 Ng5
+41. Re5 f3+ 42. Kg3 Ba6 43. b4 Bb7 44. Re7 Bd5 45. bxc5 Nh3
+46. Re1 f2 47. Rc1 Bc4 48. Kg2 Nf4+ 49. Kg3 f1=Q 50. Rxf1 Bxf1
+51. Kxf4 g5+ 52. Kf3 Kh5 53. c6 Ba6 0-1

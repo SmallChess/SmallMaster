@@ -1,0 +1,17 @@
+[Event "Karlsbad"]
+[Site "Cuernavaca MEX"]
+[Date "1933.05.01"]
+[EventDate "Simultaneous"]
+[Round "?"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Isaac Friedmann"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 c6 7.Rc1
+dxc4 8.Bxc4 b5 9.Bd3 Bb7 10.a4 b4 11.Bxf6 Nxf6 12.Ne4 Nd7
+13.O-O f5 14.Ng3 h5 15.Qb3 Rh6 16.Bxf5 exf5 17.Nxf5 Rg6
+18.Qg8+ Bf8 19.N3h4 Rf6 20.Nxg7+ Ke7 21.Nhf5+ Rxf5 22.Qe6# 1-0

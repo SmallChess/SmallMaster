@@ -1,0 +1,24 @@
+[Event "Simul"]
+[Site "Philadelphia"]
+[Date "1887.??.??"]
+[EventDate "?"]
+[Round "-"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "John Welsh Young"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Qe2 Bg4 6.Qe3 Bd6 7.h3
+Bd7 8.d3 O-O 9.dxe4 Re8 10.e5 Bb4 11.Qf3 Bf5 12.Bd3 Bxd3
+13.cxd3 Nxd5 14.Nge2 Nc6 15.O-O Nd4 16.Qxd5 Nxe2+ 17.Kh2 Nxc3
+18.Qxd8 Raxd8 19.bxc3 Bxc3 20.Rb1 b6 21.Rf3 Rd5 22.Rb3 Bd4
+23.Be3 c5 24.Bxd4 Rxd4 25.Kg1 Red8 26.g3 c4 27.dxc4 Rxc4
+28.Rfd3 Rdc8 29.Rd2 Kf8 30.Kf2 Rc2 31.Ke2 R8c3 32.Rxc3 Rxc3
+33.Rd3 Rc2+ 34.Rd2 Rc3 35.Rd3 Rc2+ 36.Rd2 Rc3 37.Rd3 Rc4
+38.Ke3 a5 39.f5 b5 40.Rd5 Rb4 41.Rd7 Ke8 42.Rb7 a4 43.e6 fxe6
+44.fxe6 Rb2 45.Kd4 Rxa2 46.Rxb5 Ra1 47.Ke5 a3 48.Rb8+ Ke7
+49.Rb7+ Ke8 50.Rb8+ Ke7 51.Rb7+ Kd8 52.e7+ Ke8 53.Ke6 Re1+
+54.Kd6 a2 55.Rb8+ Kf7 56.Rf8+ Kg6 57.Ra8 1/2-1/2

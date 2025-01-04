@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.15"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Jacob Ost-Hansen"]
+[Black "Mikhail Tal"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1.g3 e5 2.c4 Nf6 3.Bg2 c6 4.d4 d6 5.dxe5 dxe5 6.Qxd8+ Kxd8
+7.Nf3 Nbd7 8.Nc3 1/2-1/2

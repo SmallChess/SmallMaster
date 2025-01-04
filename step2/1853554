@@ -1,0 +1,36 @@
+[Event "Heusenstamm Schloss Open"]
+[Site "Heusenstamm GER"]
+[Date "2016.11.27"]
+[EventDate "2016.11.24"]
+[Round "6.4"]
+[Result "0-1"]
+[White "Vincent Keymer"]
+[Black "Vitaly Kunin"]
+[ECO "E15"]
+[WhiteElo "2419"]
+[BlackElo "2590"]
+[PlyCount "218"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c5 6. e4 cxd4
+7. e5 Ng8 8. Bg2 Nc6 9. O-O Nge7 10. b4 Bb7 11. b5 Na5 12. Bb2
+Nf5 13. Nxd4 Bxg2 14. Kxg2 Nxd4 15. Bxd4 Rc8 16. Rc1 Ba3
+17. Rc2 O-O 18. Qf3 Bb4 19. Ne4 Rxc4 20. Rxc4 Nxc4 21. Qb3 Nd2
+22. Qxb4 Nxe4 23. f3 Nc5 24. Bxc5 bxc5 25. Qxc5 Qa5 26. Qc4 d5
+27. exd6 Qd2+ 28. Rf2 Qxd6 29. a4 Qb6 30. Rc2 Qa5 31. h4 h5
+32. Rc3 Rd8 33. Kh3 Rd5 34. Qb3 Kh7 35. Qc2+ g6 36. Re3 Rd2
+37. Qc3 Qd8 38. Qc4 Rd4 39. Qc2 Rd2 40. Qc4 Rd4 41. Qc2 Qd5
+42. Re4 Rd2 43. Qc3 Qa2 44. g4 Rh2+ 45. Kg3 Qf2+ 46. Kf4 hxg4
+47. Ke5 Qg3+ 48. Kf6 Rf2 49. Ke7 Rxf3 50. Qc5 Qxh4+ 51. Ke8
+Qf2 52. Qc7 Rf5 53. Rxg4 Kg7 54. Qc3+ Kg8 55. Rd4 Rd5 56. Rxd5
+exd5 57. Qc7 Qe3+ 58. Qe7 d4 59. a5 Qxe7+ 60. Kxe7 d3 61. b6
+axb6 62. axb6 d2 63. b7 d1=Q 64. b8=Q+ Kh7 65. Kxf7 Qd7+
+66. Kf6 Qf5+ 67. Ke7 g5 68. Qh2+ Kg7 69. Qb2+ Kg6 70. Qb6+ Kh5
+71. Qd4 g4 72. Qh8+ Kg5 73. Qg7+ Kf4 74. Kd6 g3 75. Qd4+ Qe4
+76. Qd2+ Qe3 77. Qb4+ Qe4 78. Qd2+ Kg4 79. Qd1+ Qf3 80. Qc2 g2
+81. Qg6+ Kh3 82. Qh6+ Kg3 83. Qg6+ Kh2 84. Qh6+ Qh3 85. Qd2
+Qg3+ 86. Kd7 Qg4+ 87. Kc7 Qg7+ 88. Kd8 Qf6+ 89. Kd7 Qf7+
+90. Kd8 Qf8+ 91. Kd7 Qf5+ 92. Kd8 Qf6+ 93. Kd7 Qg7+ 94. Kd8
+Qh8+ 95. Kd7 Qh7+ 96. Kd8 Qh4+ 97. Kd7 Qf6 98. Qc2 Qf7+
+99. Kd8 Qd5+ 100. Kc8 Qe6+ 101. Kd8 Qb6+ 102. Kc8 Qa7 103. Qd2
+Qc5+ 104. Kd7 Qb5+ 105. Kd8 Qb8+ 106. Kd7 Qf8 107. Qc2 Qg7+
+108. Kc8 Kh3 109. Qd3+ Kh4 0-1

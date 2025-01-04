@@ -1,0 +1,27 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. e4 { book } d6 { book } 2. d4 { book } Nf6 { book } 3. Nc3
+{ book } g6 { book } 4. f4 { book } Bg7 { book } 5. Nf3 { book
+} O-O { book } 6. Bd3 { book } Na6 { book } 7. O-O { book } c5
+{ book } 8. d5 { book } Rb8 9. Kh1 Nb4 10. Be2 Na6 11. e5 Ne8
+12. Ne4 Nec7 13. c4 b5 14. b3 bxc4 15. bxc4 Bg4 16. Nfg5 Bxe2
+17. Qxe2 f5 18. Nc3 e6 19. Rd1 Qe8 20. Bd2 dxe5 21. d6 e4
+22. dxc7 Nxc7 23. Rac1 Qc6 24. Nh3 Rfd8 25. Be3 Rxd1+ 26. Qxd1
+Na8 27. Rb1 Rxb1 28. Nxb1 Bf6 29. Nd2 Nb6 30. Qb3 Bd4 31. Ng1
+h6 32. h3 Qd7 33. Nf1 Kf7 34. g3 Qa4 35. Qxa4 Nxa4 36. Ne2 Bf6
+37. Kg2 Ke7 38. Nc1 Kd6 39. Nb3 Kc6 40. Bc1 Be7 41. Ne3 Nc3
+42. a3 Na4 43. Nd1 g5 44. fxg5 hxg5 45. Bb2 Nb6 46. Na5+ Kc7
+47. Be5+ Kd7 48. Nb2 Bd8 49. Kf1 Nc8 50. Nb3 Be7 51. Na4 Kc6
+52. Kf2 Nb6 53. Nxb6 axb6 54. a4 Kd7 55. a5 bxa5 56. Nxa5 Bd8
+57. Nb3 Be7 58. Ke2 Kc8 59. Bb2 Kd7 60. Bc1 Bd6 61. Bxg5 1-0

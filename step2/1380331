@@ -1,0 +1,24 @@
+[Event "St Petersburg game"]
+[Site "St. Petersburg RUE"]
+[Date "1897.01.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Chigorin"]
+[Black "Emanuel Lasker"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4
+Bb6 8.a4 exd4 9.cxd4 Bg4 10.Bb5 a6 11.Bxc6+ bxc6 12.a5 Ba7
+13.Be3 Ne7 14.Nc3 O-O 15.Qc2 Bxf3 16.gxf3 f5 17.f4 fxe4
+18.Nxe4 Qd7 19.Ng3 Kh8 20.Rac1 Rab8 21.Rfd1 Rb5 22.Qc3 Nd5
+23.Qd2 c5 24.dxc5 Nxe3 25.Qxe3 Qf7 26.f5 Bxc5 27.Qe6 Bxf2+
+28.Kh1 Bxg3 29.Qxf7 Rxf7 30.hxg3 Rbxf5 31.Rc6 h6 32.Rxa6 Rf1+
+33.Rxf1 Rxf1+ 34.Kg2 Rc1 35.Ra7 Kh7 36.Kf3 Kg6 37.a6 Ra1
+38.Ra8 Ra4 39.a7 Kg5 40.Rg8 Rxa7 41.Rxg7+ Kf6 42.Rh7 Ke5
+43.Rxh6 c5 44.Rh5+ Kd4 45.Rh1 c4 46.g4 d5 47.g5 c3 48.Ke2 Ra2+
+49.Kf3 c2 50.g6 Ra6 51.Ke2 Kc3 52.Rg1 d4 53.g7 d3+ 54.Kf3 d2
+55.g8=Q d1=Q+ 56.Ke4 Qd4+ 57.Kf3 Rf6+ 0-1

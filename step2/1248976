@@ -1,0 +1,17 @@
+[Event "Bermuda"]
+[Site "Bermuda BER"]
+[Date "2002.02.01"]
+[EventDate "2002.02.01"]
+[Round "1"]
+[Result "0-1"]
+[White "Mark Richardson"]
+[Black "Hikaru Nakamura"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "2430"]
+[PlyCount "40"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 g6 6. Be3
+Bg7 7. Bc4 O-O 8. h4 h5 9. Qd2 Ne5 10. Bb3 d6 11. Nf3 Neg4
+12. Bg5 b5 13. Nh2 b4 14. Nd5 Nxh2 15. Rxh2 Nxd5 16. Qxd5 Bxb2
+17. Rd1 Bc3+ 18. Kf1 Qc7 19. Qd3 a5 20. f4 Ba6 0-1

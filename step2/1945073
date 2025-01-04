@@ -1,0 +1,21 @@
+[Event "Steinitz - Blackburne m"]
+[Site "London ENG"]
+[Date "1862.12.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Joseph Henry Blackburne"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Caissa 2016/I"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d5 4. d4 c4 5. Bd2 Nc6 6. Be2 Bb4
+7. O-O Nge7 8. exd5 exd5 9. b3 cxb3 10. axb3 O-O 11. Na2 Bd6
+12. c4 Bg4 13. Bc3 Re8 14. Nc1 Rc8 15. h3 Bh5 16. Nd3 Bb8
+17. g4 Bg6 18. Re1 h5 19. gxh5 Bxh5 20. Nfe5 Bxe2 21. Qxe2
+dxc4 22. bxc4 Nxd4 23. Qh5 g6 24. Qg4 Ndf5 25. h4 Nh6 26. Qg2
+Nef5 27. Nxg6 fxg6 28. Qxg6+ Kf8 29. Rxe8+ Qxe8 30. Qf6+ Qf7
+31. Qg5 Qxc4 32. Rc1 Qe6 33. Kh1 Kf7 34. Be1 Qd5+ {...} 0-1

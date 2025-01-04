@@ -1,0 +1,21 @@
+[Event "New York m"]
+[Site "New York, NY USA"]
+[Date "1859.06.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "James Thompson"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.f4 d5 2.e3 Nf6 3.Nf3 Bg4 4.Be2 c5 5.O-O Nc6 6.b3 e6 7.Bb2
+Be7 8.h3 Bxf3 9.Bxf3 d4 10.Qe1 Qb6 11.Rb1 Nb4 12.Qe2 Rd8 13.a3
+Nbd5 14.Kh1 dxe3 15.dxe3 h5 16.c4 Nc7 17.b4 cxb4 18.axb4 Bxb4
+19.Bd4 Rxd4 20.exd4 a5 21. c5 Qa7 22.Qe5 Ncd5 23.Bxd5 Nxd5
+24.Qxg7 Rf8 25.f5 Qa6 26.Qe5 f6 27.Qg3 Qc6 28.fxe6 Ne7 29.Qb8+
+Qc8 30.Qd6 Qc6 31.Rxb4 axb4 32.Ra1 Nc8 33.Ra8 b3 34.d5 1-0

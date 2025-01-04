@@ -1,0 +1,85 @@
+[Event "Rubinstein Memorial"]
+[Site "Polanica-Zdroj POL"]
+[Date "2000.08.18"]
+[EventDate "2000.08.17"]
+[Round "2"]
+[Result "1-0"]
+[White "Vassily Ivanchuk"]
+[Black "Alexei Dmitriyevich Fedorov"]
+[ECO "B76"]
+[WhiteElo "2719"]
+[BlackElo "2646"]
+[PlyCount "79"]
+
+1. e4 {Rogozenko} c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3
+g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 {This pawn
+sacrifice throughout the century had been considered safe for
+black. Perhaps, this game will force theoreticians to reassess
+this continuation, as not quite sound.} 10. exd5 Nxd5 11. Nxc6
+bxc6 12. Nxd5 cxd5 13. Qxd5 {Rogozenko: 'Ivanchuk played this
+line before only once (although 9.O-O-O is his favourite
+line). Although it was never considered very dangerous for
+Black by the theory, the present game may change the
+evaluation, or at least Black will have to look for better
+ways to prove compensation for the pawn.'} Qc7 14. Qc5 Qb7 {
+The main line. In the game Ivanchuk-Hodgson, 1996 14...Qb8 had
+been played...} (14... Qb8 {Rogozenko:} 15. b3 (15. Qa3)
+15... Bf5 16. Bd3 Rc8 17. Qa5 Rc3 18. Bxf5 Rxe3 19. Be4 Qf4
+20. Bxa8 (20. g3 Qf6 21. Rd8+ Rxd8 22. Qxd8+ Bf8 23. Kb1 Qc3
+24. g4 e6 (24... Re2 $44) 25. h4 h6 26. h5 gxh5 27. gxh5 f5
+28. Bd3 Re1+ 29. Rxe1 Qxe1+ 30. Kb2 Qe5+ 31. Kb1 Qe1+ 32. Kb2
+Qe5+ 33. Kb1 { 1/2-1/2 Rios,M-Cabrera,A/Medellin 2000})
+20... Rxb3+ $2 (20... Rd3+ $1 21. Kb1 Qd4) 21. Rd2 Rb8 22. Bd5
+Bh6 23. Rhd1 Qd4 24. c3 Qd3 25. Bb3 Rd8 26. c4 e5 27. c5 e4
+28. fxe4 {1-0 Ivanchuk,V-Hodgson,J/Amsterdam 1996}) 15. Qa3 $1
+{ Rogozenko: 'Also 15.b3 is not bad, but in that case Black is
+not forced to put the Rook on b8. After 15.Qa3 he has to play
+Rb8, otherwise White will not weaken the position with b3.'}
+Bf5 16. Bd3 {More exact than} (16. Ba6 Qc7 17. Qc5 Qb6 $1
+{what leads to an about equal endgame.}) 16... Rab8
+(16... Rfb8 { Rogozenko} 17. b3 a5 18. Bxf5 gxf5 19. Qc5
+(19. Qa4 $5) 19... a4 20. b4 (20. Qxf5 $2 axb3) 20... a3
+(20... Qxb4 $2 21. Rd8+ $18) 21. Rd3 e6 {and Black has some
+compensation for the pawn, but not clear if enough. 1/2-1/2
+Mellado Trivino,J-Martin Gonzalez,A/Barcelona 2000/ (33)})
+17. b3 Rbc8 {Two rounds r, against Movsesian, Fedorov has
+choosen 17...Rfc8, what looks more active. Rogozenko: 'Taking
+on d3 would help White to double his Rooks quicker. But I
+would think twice before allowing White to take on f5, which
+seriously breaks black pawn structure.'} (17... Rfc8
+{Rogozenko} 18. Bxf5 gxf5 19. Rd3 Qc7 20. c4 a5 21. Rhd1 Ra8
+22. Rd7 Qe5 23. Bd4 Qf4+ 24. Kb1 Bf8 25. Qc1 Qxc1+ 26. Kxc1
+$18 {1-0 Movsesian,S-Fedorov,A/Polanica Zdroj 2000/ (56)})
+(17... Bxd3 { Rogozenko} 18. Rxd3 Rfc8 {with some
+compensation.}) (17... Qc6 {Rogozenko} 18. Bxf5 gxf5 19. Bd4
+Rfc8 20. c4 Qh6+ 21. Kb1 Bxd4 22. Rxd4 e5 23. Rd6 $16 { 1-0
+Dubiel,J-Zaskalski,A/chT-Pol 2000/ (43)}) 18. Bxf5 gxf5
+19. Rd3 {Rogozenko: 'White's strategy becomes clear: he will
+take control over d-file and protect the King by playing
+c4. The Queen on a3 plays an important role in protecting the
+King along the diagonal a1-h8. In fact White has a solid
+position and at the same time obvious possibilities for active
+play.'} Qc6 20. c4 Qf6 21. Rhd1 $3 {This is the main point of
+the Ivanchuk's discovery: black threats along the black
+diagonal are not too dangerous.} Rc6 {Too optimistic. Black
+threatens to win the game by Ra6 - this threat is easy to
+repel. Instead I would suggest 21...Rcd8 - just to change a
+pair of rooks...} (21... Qa1+ 22. Kc2) 22. Bd4 e5 23. Bc3 Ra6
+24. Qb2 Qh6+ 25. Kb1 Qxh2 26. Rd8 {'!' Rogozenko.} Bf6
+27. R8d7 $1 {Rogozenko: 'Everything is equal now, but White
+has a huge advantage. He has a better pawn structure and his
+pieces are much more active. On top on this black King is not
+safer than his white colleague.'} Bg7 28. Qc2 Rg6 29. R1d2
+Qg1+ 30. Kb2 f4 31. Re2 {'!' Rogozenko.} Rg5 32. b4
+{Rogozenko: lack is totally helpless with no active play at
+all, so White just starts pushing his pawns. At one point he
+will just exchange Queens (by activating white Queen) and the
+game will be over.'} a5 $6 {Black play could certainly be
+improved. In order to render longer resistance - 32...Rc8 or
+Qb6 was stronger.} 33. b5 h5 34. Qd1 Qc5 {The endgame does not
+suit black: after} (34... Rxg2 35. Qxg1 Rxg1 36. b6 {black has
+a difficult task - to stop white pawns. Still, it was the best
+what black could do...}) 35. Qd5 Qg1 { Rogozenko: 'Black
+overlooked the next move, but the position is lost anyway.'}
+36. Rxf7 $1 Rxf7 37. Qd8+ Rf8 38. Qxg5 Qf1 39. Rc2 Qxc4
+40. Qxg7+ 1-0

@@ -1,0 +1,29 @@
+[Event "LAT-ch"]
+[Site "Riga URS"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Semenkin"]
+[Black "Mikhail Tal"]
+[ECO "B92"]
+[WhiteElo "16"]
+[BlackElo "?"]
+[PlyCount "166"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Bg5 Nbd7 10.Kh1 Qc7 11.Bf3 b5 12.Ne2 Nb6
+13.Ng3 Rd8 14.Qe2 Be6 15.Nd2 Rac8 16.c3 Na4 17.Rfb1 h6 18.Bxf6
+Bxf6 19.Nh5 Bg5 20.Nf1 Qc4 21.Qc2 Nc5 22.Rd1 b4 23.Nhg3 bxc3
+24.Be2 Qa4 25.Qxc3 Nxe4 26.Qf3 d5 27.Nxe4 dxe4 28.Rxd8+ Rxd8
+29.Qc3 Rc8 30.Qe1 Qc6 31.b3 Qb6 32.Rd1 Rc2 33.Ra1 a5 34.Qd1
+Qc5 35.Ng3 Rd2 36.Qe1 Qb4 37.Nf1 Rd6 38.Qxb4 axb4 39.Bd1 Bd2
+40.Nxd2 Rxd2 41.Kg1 f5 42.Kf1 f4 43.Be2 g5 44.Ke1 Rb2 45.h3
+Kg7 46.Kf1 f3 47.gxf3 Bxh3+ 48.Ke1 exf3 49.Bxf3 Bf5 50.a4 Rxb3
+51.Bd5 Ra3 52.Rc1 Rxa4 53.Rc7+ Kg6 54.Rc6+ Kh5 55.Bf7+ Kg4
+56.Rxh6 Ra7 57.Bh5+ Kf4 58.Rb6 Ra1+ 59.Kd2 Ra2+ 60.Ke1 Rb2
+61.Rf6 Ke4 62.Be2 b3 63.Rb6 Kd4 64.Rb4+ Kd5 65.Rb5+ Kc6
+66.Rxe5 Rc2 67.Bf3+ Kb6 68.Bd5 b2 69.Ba2 Rc1+ 70.Kd2 Rc2+
+71.Ke3 Rc5 72.Re8 Ka5 73.Kd4 Kb4 74.Re3 Bc2 75.Re7 Ra5 76.Rb7+
+Ka3 77.Kc3 Rc5+ 78.Kd4 Kxa2 79.Ra7+ Kb1 80.Kxc5 Kc1 81.Rb7
+b1=Q 82.Rxb1+ Kxb1 83.Kd4 g4 0-1

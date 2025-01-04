@@ -1,0 +1,35 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1925.11.22"]
+[EventDate "1925.11.10"]
+[Round "10"]
+[Result "0-1"]
+[White "Boris Verlinsky"]
+[Black "Emanuel Lasker"]
+[ECO "D18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 {Notes by Bogoljubov} d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4
+5. a4 Bf5 6. e3 Na6 {The idea to get the Knight to b4. A very
+remarkable novelty of Lasker's.} 7. Bxc4 Nb4 8. O-O e6 9. Qe2
+Be7 10. Ne5 O-O 11. e4 Bg6 12. Nxg6 hxg6 13. Be3 Qa5 14. Rfd1
+Rad8 15. f3 c5 16. d5 exd5 17. exd5 {Now White has an isolated
+pawn and his K position is less secure than the opponent's;
+moreover his pieces on the open e-file are placed rather
+awkwardly. It might have been safer for him first to exchange
+two pieces on d5.} a6 18. Qf2 Qc7 19. Rac1 Rfe8 20. g3 Bd6
+21. Bf1 {? Evidently so as to parry the threat ...Bxg3
+followed by ...Rxe3 but this could have been more efficiently
+done by 21 Kg2; moreover it is no proper threat at all. As a
+matter of fact, White could safely play 21 Na2 (so as to get
+rid of the awkward Black Knight) and then ...Bxg3 would be a
+bad blunder on account of 22 hxg3 Rxe3 whereafter 23 d6! would
+make nonsense of Black's entire combination. After the text
+move, though, White's game is hardly tenable.} b6 22. a5
+{Desperation.} b5 23. Bg2 Bf8 24. Bf4 Qxa5 25. d6 Qb6 26. Ne4
+Nxe4 27. fxe4 Bxd6 28. Bxd6 Rxd6 29. Rxd6 Qxd6 30. Qxc5 Qxc5+
+31. Rxc5 Rd8 32. Rc3 Rd1+ 33. Bf1 Re1 34. Rc8+ Kh7 35. Re8 Rb1
+36. Rf8 Rxb2 37. Rxf7 Nc6 38. Rf8 a5 39. h4 a4 40. Bh3 Nd4
+41. Rc8 Ne2+ 0-1

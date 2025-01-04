@@ -1,0 +1,20 @@
+[Event "Simul"]
+[Site "Barcelona ESP"]
+[Date "1935.11.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Raul Capablanca"]
+[Black "Rafael Domenech"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. e5 Nfd7 6. c3 Nc6
+7. Bd3 Qb6 8. O-O cxd4 9. cxd4 f6 10. exf6 Nxf6 11. Nb3 Bd6
+12. Re1 O-O 13. Bg5 Ng4 14. h3 Nxf2 15. Kxf2 e5 16. Kg1 e4
+17. Bxe4 dxe4 18. Rxe4 Bf5 19. Re3 h6 20. Bh4 Nb4 21. Ne1 Rac8
+22. Rc3 Nd5 23. Rxc8 Bxc8 24. Qd3 Nf4 25. Qd2 Bb8 26. Rc1 Qg6
+27. Kh1 Nxh3 28. Rxc8 Rxc8 29. gxh3 Qe4+ 30. Ng2 Rc2 31. Nc5
+Qf3 0-1

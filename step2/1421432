@@ -1,0 +1,18 @@
+[Event "Simul"]
+[Site "NED"]
+[Date "1896.05.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "Arnoldus van Rhijn"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.Nc3 d5 5.Nxd5 Nxd5 6.exd5 Qxd5
+7.d4 Bg4 8.Be2 Nc6 9.Bxf4 Bd6 10.Bxd6 Qxd6 11.c3 O-O-O 12.O-O
+f6 13.Qc2 Ne7 14.Bd3 Nd5 15.Rae1 Rde8 16.Bf5+ Bxf5 17.Qxf5+
+Qd7 18.Rxe8+ Rxe8 19.Qxh7 Ne3 20.Re1 Qg4 21.Re2 Kd8 22.Qh4
+Qxh4 23.Nxh4 Nd5 1/2-1/2

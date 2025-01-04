@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1904.02.09"]
+[EventDate "1904.02.08"]
+[Round "2"]
+[Result "1-0"]
+[White "Frank James Marshall"]
+[Black "Isidor Gunsberg"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 d5 2.c4 g6 3.cxd5 Nf6 4.Qa4+ Nbd7 5.Nc3 Bg7 6.e4 O-O
+7.Nf3 Nb6 8.Qc2 Ne8 9.Bd3 f5 10.e5 Kh8 11.h4 h5 12.Rh3 f4
+13.Bxg6 Bxh3 14.gxh3 Bh6 15.Bxh5 Rg8 16.Qf5 Nxd5 17.Bf7 Rf8
+18.Qh5 Rxf7 19.Qxh6+ 1-0

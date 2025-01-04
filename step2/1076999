@@ -1,0 +1,16 @@
+[Event "London m/7"]
+[Site "London m/7"]
+[Date "1977.??.??"]
+[EventDate "1977.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Compx Chess 46 (Computer)"]
+[Black "Nigel Short"]
+[ECO "C32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1. f4 e5 2. e4 d5 3. exd5 exf4 4. Nf3 Bd6 5. d4 Ne7 6. c4 Ng6
+7. c5 Be7 8. Qb3 Bh4+ 9. Kd1 O-O 10. Qxb7 Bxb7 11. Bc4 Bxd5
+0-1

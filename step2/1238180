@@ -1,0 +1,24 @@
+[Event "Odds match"]
+[Site "London ENG"]
+[Date "1858.08.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "John Owen"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 g6 7.O-O Bd7
+8.a4 a5 9.Na3 c4 10.Bc2 Nh6 11.Nb5 Nf7 12.b3 cxb3 13.Bxb3 Be7
+14.Re1 O-O 15. Bxd5 exd5 16.e6 Be8 17.exf7+ Rxf7 18.Bg5 Bd7
+19.Rb1 Qd8 20.Bxe7 Rxe7 21.Qb3 Bf5 22.Rbc1 Bd3 23.Na3 Be2
+24.c4 Bxf3 25.Rxe7 Qxe7 26.Qxf3 dxc4 27.Qc3 Re8 28.Qxc4+ Kg7
+29.Nc2 Qg5 30.Rd1 Re4 31.Qc3 Qf6 32.Qd2 Qd6 33. g3 h5 34.f3
+Re7 35.Qg5 Ne5 36.Kf2 Nxf3 37.Kxf3 Qc6+ 38.d5 Rf7+ 39.Kg2
+Qxc2+ 40.Rd2 Qe4+ 41.Kh3 Qe1 42.d6 Qf1+ 43.Rg2 Rd7 44.Qe5+ Qf6
+45.Qb2 Rxd6 46.Qxb7+ Kh6 47.Qb5 g5 0-1

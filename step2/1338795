@@ -1,0 +1,16 @@
+[Event "HB Global Chess Challenge"]
+[Site "Minneapolis, MN USA"]
+[Date "2005.05.18"]
+[EventDate "2005.05.18"]
+[Round "1"]
+[Result "1-0"]
+[White "Loek van Wely"]
+[Black "Todd Q Miller"]
+[ECO "A40"]
+[WhiteElo "2687"]
+[BlackElo "2255"]
+[PlyCount "25"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. Nc3 Nd7 5. e4 e5 6. Be2 Nh6
+7. h4 c6 8. h5 Ng4 9. Bg5 Qb6 10. Na4 Qc7 11. d5 Nc5 12. Nxc5
+Qa5+ 13. Nd2 1-0

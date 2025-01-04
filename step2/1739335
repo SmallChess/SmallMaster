@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1897.04.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "Siegfried Reginald Wolf"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Qe2 Bd6 6.d3 O-O 7.dxe4
+Re8 8.Bd2 Nxe4 9.Nxe4 Bf5 10.O-O-O Rxe4 11.Qf3 Ra4 12.Qb3 Bd7
+13.c4 Na6 14.a3 Nc5 15.Qf3 Qf6 16.g4 Re8 17.Nh3 Bxg4 18.Qxg4
+Rxa3 19.Rg1 Rb3 20.Bc3 Rxc3+ 21.bxc3 Qxc3+ 1/2-1/2

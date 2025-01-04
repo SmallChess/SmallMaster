@@ -1,0 +1,16 @@
+[Event "7th American Chess Congress"]
+[Site "St. Louis, MO USA"]
+[Date "1904.10.19"]
+[EventDate "1904.??.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Frank James Marshall"]
+[Black "Max Judd"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Bg4 4.Ne5 Bf5 5.Nc3 f6 6.e4 Be6 7.Qh5+
+g6 8.Nxg6 Bf7 9.Qb5+ c6 10.Qxb7 hxg6 11.Qxa8 Qc7 12.d5 cxd5
+13.Nxd5 Qe5 14.Bxc4 e6 15.Bb5+ Kd8 16.Bf4 Qxe4+ 17.Kf1 1-0

@@ -1,0 +1,30 @@
+[Event "Clock simul, 10b"]
+[Site "Leningrad RUS"]
+[Date "1935.03.24"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Grigory Ionovich Ravinsky"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "159"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2
+Bxd2+ 7. Qxd2 d6 8. O-O Nbd7 9. Nc3 Ne4 10. Nxe4 Bxe4 11. Nh4
+Bxg2 12. Nxg2 O-O 13. e4 Qe7 14. f4 Rad8 15. Rfe1 c5 16. Rad1
+Nb8 17. d5 e5 18. Ne3 Rfe8 19. f5 Nd7 20. Ng4 Rb8 21. a4 a6
+22. Ra1 Rb7 23. Rf1 f6 24. Ne3 Reb8 25. Rfb1 Qd8 26. Qe2 Qe7
+27. Ra3 h6 28. Kg2 Ra7 29. Rba1 Rba8 30. Nd1 Nf8 31. Nc3 Qd7
+32. Qc2 Rb8 33. Rb1 a5 34. Rg1 Nh7 35. h4 Qf7 36. Kh3 Kf8
+37. g4 Ke7 38. Qd1 Rab7 39. Nb5 Rh8 40. Rag3 Qe8 41. Kg2 Kd7
+42. Kf2 Qe7 43. Ke1 Kc8 44. Kd2 Rd7 45. Kc1 Rdd8 46. Kb1 Rdg8
+47. Ka2 Qd8 48. Ka3 Kb7 49. R1g2 Qe7 50. Nc3 Qd7 51. Ne2 g5
+52. fxg6 Rxg6 53. Qf1 Rhg8 54. Qf3 Qg7 55. Qf5 Kc7 56. Nc3 Qf7
+57. Qf3 Qg7 58. Nd1 Qf7 59. Ne3 Qe8 60. Nf5 Qf8 61. Qb3 Rh8
+62. Qb5 Qe8 63. Nxd6 Qxb5 64. Nxb5+ Kd7 65. Nc3 Rhg8 66. Nd1
+h5 67. Ne3 Nf8 68. Rg1 Ke8 69. R3g2 Kf7 70. gxh5 Rxg2 71. Rxg2
+Rxg2 72. Nxg2 Kg7 73. Ne3 Kh6 74. Ng4+ Kxh5 75. Nxf6+ Kxh4
+76. d6 Ne6 77. Nd7 Nd8 78. Nxb6 Kg5 79. Nd7 Nb7 80. Nxe5 {
+Nxd6 81. Kb3 Nxe4 82. Nc6 Kf4 83. Nxa5 Ke3 84. Kc2 } 1-0

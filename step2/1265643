@@ -1,0 +1,22 @@
+[Event "Clock simul, 10b"]
+[Site "Munich GER"]
+[Date "1925.03.14"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Ludwig Schmitt"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Bxc5 7.Qg4
+O-O 8.Bd3 f5 9.Qh3 Nc6 10.Nf3 Qe8 11.g4 Nb4 12.gxf5 Nxd3+
+13.cxd3 Rxf5 14.Ne2 Nf8 15.Nfd4 Rf7 16.Be3 b6 17.O-O-O Ng6
+18.Rhf1 Qa4 19.Nc3 Qe8 20.Qg4 a5 21.Kb1 Qf8 22.Rf3 Nxe5
+23.fxe5 Rxf3 24.Nxf3 Bxe3 25.Rf1 Qf4 26.Qh3 Qh6 27.Qg2 Ba6
+28.Qe2 Rf8 29.Re1 Bc5 30.Kc2 Qf4 31.Rf1 Qe3 32.Nd2 Qxe2
+33.Rxf8+ Kxf8 34.Nxe2 g5 35.Nf3 Be3 36.Kc3 Kf7 37.Nfd4 h5
+38.h3 g4 39.hxg4 hxg4 40.a4 Bf2 41.Nf4 Bc8 42.b3 Bd7 43.Nde2
+Be3 44.Ng2 Bf2 0-1

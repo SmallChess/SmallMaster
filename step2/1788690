@@ -1,0 +1,17 @@
+[Event "Aeroflot Open"]
+[Site "Moscow RUS"]
+[Date "2015.03.27"]
+[EventDate "2015.03.27"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Boris Savchenko"]
+[ECO "D37"]
+[WhiteElo "2756"]
+[BlackElo "2581"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. Qc2 c5 8. Rd1 cxd4 9. Rxd4 Bb4 10. cxd5 Nxd5 11. Bd3 h6
+12. O-O Bxc3 13. bxc3 Nxf4 14. exf4 Qc7 15. Rd1 Nc5 16. Bh7+
+Kh8 17. Ne5 g5 18. Bg6 gxf4 19. Qe2 1-0

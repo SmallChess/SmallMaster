@@ -1,0 +1,45 @@
+[Event "AlphaZero - Stockfish Match"]
+[Site "London ENG"]
+[Date "2018.01.18"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "AlphaZero (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "277"]
+
+1. d4 { book } d5 { book } 2. c4 { book } e6 { book } 3. Nc3 {
+book } Nf6 { book } 4. Nf3 { book } Be7 { book } 5. Bf4 { book
+} O-O { book } 6. e3 { book } c5 { book } 7. dxc5 { book }
+Bxc5 { book } 8. a3 { book } Nc6 { book } 9. Qc2 { book } Qa5
+{ book } 10. O-O-O { book } Be7 { book } 11. h4 a6 12. Kb1 Rd8
+13. g4 dxc4 14. Rxd8+ Bxd8 15. Bxc4 Nxg4 16. Rg1 Nf6 17. Ng5
+g6 18. Bd3 e5 19. h5 exf4 20. Qb3 Qc7 21. hxg6 hxg6 22. Bxg6
+Kf8 23. Bxf7 Bf5+ 24. Ka2 Qb6 25. Qa4 Bc7 26. Be6 Bd3 27. Bb3
+Re8 28. Bc2 Ne5 29. Bb3 fxe3 30. fxe3 Re7 31. Qh4 Ng6 32. Qh1
+Qxe3 33. Nd5 Nxd5 34. Qxd5 Ke8 35. Rd1 Nf4 36. Qxb7 Kf8
+37. Qc8+ Kg7 38. Rh1 Kf6 39. Nf7 Rxf7 40. Bxf7 Ne6 41. Bxe6
+Qxe6+ 42. Qxe6+ Kxe6 43. Rc1 Bf4 44. Rg1 Bc2 45. Rg2 Be4
+46. Rg4 Bd5+ 47. Kb1 Be4+ 48. Ka2 Ke5 49. Kb3 a5 50. Rh4 Bd3
+51. Ka4 Be3 52. Rh5+ Kd4 53. Kxa5 Kc4 54. Rh3 Bg5 55. b3+ Kc3
+56. Ka4 Kd4 57. Rg3 Bf6 58. Rf3 Be7 59. Rf7 Bd6 60. b4 Kc4
+61. Rf6 Bc2+ 62. Ka5 Bc7+ 63. Ka6 Be5 64. Rc6+ Kb3 65. b5 Bb1
+66. Re6 Bd4 67. Rd6 Bc5 68. Rc6 Bd4 69. Rd6 Bc5 70. Rd5 Be3
+71. Rh5 Bf2 72. Rh3+ Ka4 73. Rf3 Bc5 74. b6 Ba2 75. Rf4+ Kxa3
+76. b7 Bd6 77. Rd4 Bc7 78. Kb5 Bb1 79. Kc5 Kb2 80. Kc4 Ba2+
+81. Kb5 Bb1 82. Rb4+ Ka2 83. Kc5 Bb8 84. Rh4 Bc2 85. Rh8 Bg3
+86. Re8 Kb2 87. Kd4 Bc7 88. b8=Q+ Bxb8 89. Rxb8+ Bb3 90. Kd3
+Ka2 91. Kc3 Bd1 92. Ra8+ Kb1 93. Rb8+ Ka2 94. Rb2+ Ka1 95. Rf2
+Ba4 96. Rf6 Bb5 97. Re6 Bd7 98. Re5 Kb1 99. Re1+ Ka2 100. Re2+
+Ka1 101. Re5 Kb1 102. Re4 Bh3 103. Re1+ Ka2 104. Re5 Bg4
+105. Re4 Bd7 106. Re7 Bh3 107. Re2+ Ka1 108. Re5 Kb1 109. Re4
+Bd7 110. Re5 Bh3 111. Re4 Bd7 112. Re7 Bh3 113. Re8 Bg4
+114. Re7 Bh3 115. Re8 Bg4 116. Rb8+ Ka2 117. Rb6 Bf3 118. Rd6
+Kb1 119. Rd4 Bh5 120. Rf4 Bg6 121. Rg4 Bf5 122. Rg2 Ka1
+123. Rh2 Be4 124. Rf2 Bb1 125. Kb3 Bh7 126. Kc3 Bb1 127. Rh2
+Be4 128. Rd2 Bg6 129. Rd7 Be4 130. Kb3 Bg6 131. Re7 Bf5
+132. Re2 Bb1 133. Rd2 Be4 134. Rd7 Bg6 135. Re7 Bf5 136. Re3
+Bb1 137. Re2 Bf5 138. Re5 Bd3 139. Re1+ 1/2-1/2

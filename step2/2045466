@@ -1,0 +1,23 @@
+[Event "Blindfold odds m"]
+[Site "Vienna AUH"]
+[Date "1882.05.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Philipp Meitner"]
+[Black "Wilhelm Steinitz"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1882.05.06, p.608"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nf6 4. a3 d5 5. exd5 exd5 6. d4 c4
+7. g3 Be7 8. Bg2 O-O 9. O-O Be6 10. Re1 Nc6 11. h3 Qb6 12. Ne2
+Ne4 13. c3 Na5 14. Nd2 Nxd2 15. Bxd2 Nb3 16. Ra2 Rfe8 17. Nc1
+Na5 18. Qc2 g6 19. g4 Bd6 20. Ra1 Bc7 21. Ne2 Nb3 22. Rad1
+Nxd2 23. Qxd2 Qd6 24. Ng3 b5 25. Re2 a5 26. Rde1 Reb8 27. Qg5
+Qf4 28. Qe7 Bd6 29. Rxe6 Bxe7 30. Rxe7 Rd8 31. R7e5 b4
+32. R1e3 bxc3 33. bxc3 Rab8 34. Bxd5 Rb2 35. Bf3 Ra2 36. Rxa5
+Rb8 37. Rae5 Rb1+ 38. Kg2 Raa1 39. R5e4 {Black announced mate
+in 4} 0-1

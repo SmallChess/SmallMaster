@@ -1,0 +1,18 @@
+[Event "Simul, 26b"]
+[Site "Prague AUH"]
+[Date "1908.05.24"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Ernst Krob"]
+[ECO "C58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3
+e4 8.Qe2 Nxc4 9.dxc4 Bc5 10.Nc3 O-O 11.Nd2 Bg4 12.Qf1 e3
+13.fxe3 Bxe3 14.Nf3 Bc5 15.Bf4 Re8+ 16.Kd2 Nh5 17.Na4 Nxf4
+18.Nxc5 Re2+ 19.Kc1 Qe7 20.b4 Qf6 21.Rb1 Qc3 22.Rb2 Bxf3
+23.gxf3 Rae8 24.Ne4 R8xe4 25.fxe4 Nd3+ 0-1

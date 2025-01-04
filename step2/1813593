@@ -1,0 +1,20 @@
+[Event "Simul, 20b"]
+[Site "Mercantile Library, Philadelphia, PA USA"]
+[Date "1907.11.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Isaac Ash"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. c4 Nf6 5. d4 exd3 6. Bxd3 Bc5
+7. Qe2+ Qe7 8. Qxe7+ Bxe7 9. Nf3 Bc5 10. Nc3 O-O 11. h3 Re8+
+12. Kd1 Bd7 13. Ne5 Bd4 14. Re1 Nh5 15. Nf3 Rxe1+ 16. Kxe1 Bc5
+17. Ne4 Be7 18. Bd2 Na6 19. Ne5 Bf5 20. Kf2 Bxe4 21. Bxe4 Nc5
+22. Bc2 Rd8 23. Re1 Bh4+ 24. Ke2 Bxe1 25. Kxe1 Re8 26. Kf2 f6
+27. Nf3 Ne4+ 28. Bxe4 Rxe4 29. g3 Rxc4 30. Bc3 Rc5 {.../42}
+0-1

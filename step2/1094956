@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Montreal CAN"]
+[Date "1914.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Elliot"]
+[Black "Frank James Marshall"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.a3 Nc6 5.e3 Bc5 6.b4 Nxb4 7.axb4
+Bxb4+ 8.Bd2 dxe3 9.fxe3 Qh4+ 10.g3 Qe4 11.Qf3 Qxe5 12.Ra2
+Bxd2+ 13.Nxd2 Ne7 14.Ne2 Bd7 15.Bg2 O-O 16.O-O Bc6 17.Qf4 Qh5
+18.Bxc6 Nxc6 19.Qf3 Qe5 20.Qf4 Qh5 1/2-1/2

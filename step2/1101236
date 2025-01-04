@@ -1,0 +1,18 @@
+[Event "Reshevsky - Najdorf"]
+[Site "Buenos Aires ARG"]
+[Date "1953.06.??"]
+[EventDate "1953.??.??"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Miguel Najdorf"]
+[Black "Samuel Reshevsky"]
+[ECO "D29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2
+b5 8.Bb3 Bb7 9.a4 Nbd7 10.axb5 axb5 11.Rxa8 Qxa8 12.Nc3 b4
+13.Nb5 Qb8 14.e4 cxd4 15.Rd1 d3 16.Qxd3 Bxe4 17.Qe2 Bxf3
+18.gxf3 Be7 19.Nd4 Qb6 20.Ba4 O-O 21.Nxe6 fxe6 22.Bxd7 Nxd7
+23.Rxd7 Qc6 24.Qd1 Bc5 25.Rd3 e5 1/2-1/2

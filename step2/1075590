@@ -1,0 +1,17 @@
+[Event "Blindfold simul, 5b"]
+[Site "New Orleans, LA USA"]
+[Date "1858.03.17"]
+[EventDate "1858.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "NN"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. O-O d5
+7. Bxd5 c6 8. Bxf7+ Kxf7 9. Qxf3 Nf6 10. c3 Bh6 11. Bxf4 Bxf4
+12. Qxf4 h5 13. e5 Be6 14. Nd2 Nbd7 15. Ne4 Qe7 16. exf6 Nxf6
+17. Nxf6 Kf8 18. Nd5+ Qf7 19. Qd6+ 1-0

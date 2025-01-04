@@ -1,0 +1,26 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1859.03.31"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "August Ehrmann"]
+[Black "Paul Morphy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2.d4 e6 3.Bd3 c5 4.dxc5 Qa5+ 5.c3 Qxc5 6.Ne2 Nc6 7.Be3 Qh5
+8.f4 Nf6 9. Ng3 Qh4 10.Qe2 Ng4 11.Bf2 Nxf2 12.Qxf2 Bd6 13.e5
+Bc7 14.Ne4 Qe7 15.Nbd2 O-O 16.Qg3 d5 17.Ng5 h6 18.Ngf3 Qf7
+19.O-O Bd7 20.Nh4 Ne7 21.Bc2 Nf5 22.Nxf5 exf5 23.Rae1 b5
+24.Kh1 Bb6 25.Qd3 a6 26.Bb3 Be6 27.Nf3 Rfb8 28. Nh4 Bd8 29.Nf3
+Bb6 30.Bc2 g6 31.Re2 d4 32.b3 dxc3 33.Nh4 b4 34.g4 Rd8 35.Qg3
+Kh7 36.gxf5 gxf5 37.Qh3 Rf8 38.Rg2 Rad8 39.Nf3 Rg8 40.Ng5+
+Rxg5 41.fxg5 Qf8 42.gxh6 Rd2 43.Rxd2 cxd2 44.Qg2 Qxh6 45.Qb7+
+Qg7 46.Qxg7+ Kxg7 47.Kg2 Bd4 48.Rd1 Bd5+ 49.Kh3 Be3 50.Bxf5
+Bf3 51.Bg4 Bxd1 52.Bxd1 Bf4 53.e6 Kf6 54.Bg4 d1=Q 55.Bxd1 Kxe6
+56.Kg2 Ke5 1/2-1/2

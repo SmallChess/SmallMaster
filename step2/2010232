@@ -1,0 +1,21 @@
+[Event "Simul, 25b"]
+[Site "Amsterdam NED"]
+[Date "1920.01.31"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Justus Meyer"]
+[Black "Emanuel Lasker"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "De Telegraaf, 03 Feb 1920"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. h3 Nf6
+7. Bg5 h6 8. Bh4 g5 9. Bg3 g4 10. hxg4 Bxg4 11. Qd3 Nh5
+12. Bh4 Qd7 13. Nbd2 Rg8 14. Kh1 Bh3 15. Ne1 Rxg2 16. Bxf7+
+Qxf7 17. Qxh3 Nf4 18. Qb3 Qg6 19. Qxb7 Kd7 20. Qb3 Rg8
+21. Ndf3 Rg7 22. Bg3 Rxg3 23. fxg3 Qxg3 24. Nh2 d3 25. Nhf3
+Ne5 26. Qb5+ Ke7 27. Qa5 Qh3+ 28. Nh2 Qxf1+ 29. Nxf1 Rg1+
+30. Kh2 Ng4# 0-1

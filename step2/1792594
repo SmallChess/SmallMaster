@@ -1,0 +1,18 @@
+[Event "Simul, 12b"]
+[Site "New York, NY USA"]
+[Date "1894.02.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "R F Bradford / John C Tatum"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Nh6 7.d4 d6
+8.Nd3 f3 9.gxf3 gxf3 10.Qxf3 Bg4 11.Qf4 Nc6 12.Be3 Qe7 13.Nc3
+O-O-O 14.Nd5 Qd7 15.c3 Bg7 16.Bb5 Kb8 17.N3b4 Nxb4 18.Bxd7
+Nd3+ 19.Kd2 Nxf4 20.Bxg4 Nxd5 21.Bxh5 Nxe3 22.Kxe3 Nf5+
+23.exf5 Rxh5 24.Ke4 Rdh8 25.Rag1 Bf6 0-1

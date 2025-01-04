@@ -1,0 +1,25 @@
+[Event "Season 7 - Superfinal"]
+[Site "TCEC"]
+[Date "2014.12.18"]
+[EventDate "2014.12.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "Komodo (Computer)"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3
+Be7 8.Qd2 b6 9.Be2 O-O 10.O-O Bb7 11.Rad1 Rc8 12.a3 a6 13.Qe1
+Qc7 14.Bd3 f5 15.exf6 Bxf6 16.f5 cxd4 17.fxe6 dxc3 18.exd7
+Qxd7 19.bxc3 Rce8 20.Qf2 Bxc3 21.Bxb6 Ne5 22.Nxe5 Bxe5 23.Qh4
+g6 24.Qb4 Rxf1+ 25.Rxf1 Qe7 26.Qxe7 Rxe7 27.a4 Kg7 28.h3 Bc3
+29.a5 Re1 30.g4 Rxf1+ 31.Kxf1 Kf6 32.h4 d4 33.Kf2 h5 34.gxh5
+gxh5 35.Be2 Kg6 36.Bd8 Bd2 37.Bd3+ Kf7 38.Ke2 Bc3 39.Kd1 Bc8
+40.Kc1 Be1 41.Be2 Kg6 42.Kb2 Bc3+ 43.Kb3 Be6+ 44.Ka3 Bc8
+45.Bd3+ Kf7 46.Bc4+ Kg6 47. Kb3 Kf5 48.Be2 Bb7 49.Bc7 Be1
+50.Kc4 Bxh4 51.Bxh5 Be4 52.Kxd4 Bxc2 53.Be2 Ke6 54.Bxa6 Kd7
+55.Bf4 Ba4 56.Kc5 Bf2+ 57.Kb4 Bc6 58.Be2 Be1+ 59.Kc5 Bxa5
+60.Bg4+ Ke7 61.Kxc6 1/2-1/2
